@@ -28,8 +28,6 @@ FONTES = [
     {"nome": "GameSpot", "url": "https://www.gamespot.com/feeds/news/"},
 ]
 
-]
-
 MAX_POR_FONTE = 5   # Quantas notícias pegar de cada fonte
 noticias = []
 
