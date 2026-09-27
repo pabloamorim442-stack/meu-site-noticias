@@ -11,40 +11,72 @@
     background: #0f0f17;
     color: #e8e8e8;
     padding: 20px;
-    max-width: 900px;
+    max-width: 1000px;
     margin: 0 auto;
   }
   header {
     text-align: center;
-    padding: 30px 0;
+    padding: 30px 0 20px;
     border-bottom: 2px solid #2a2a3a;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
   }
   h1 { font-size: 2rem; margin-bottom: 8px; }
-  .status {
-    color: #7cf;
-    font-size: 0.9rem;
+  .status { color: #7cf; font-size: 0.9rem; }
+
+  .controles {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+  }
+  input, select {
+    background: #1a1a25;
+    border: 1px solid #2a2a3a;
+    color: #e8e8e8;
+    padding: 12px 15px;
+    border-radius: 8px;
+    font-size: 0.95rem;
+    font-family: inherit;
+  }
+  input { flex: 1; min-width: 200px; }
+  input:focus, select:focus { outline: none; border-color: #7cf; }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 15px;
   }
   .card {
     background: #1a1a25;
     border-radius: 10px;
-    padding: 20px;
-    margin-bottom: 15px;
+    overflow: hidden;
     border-left: 4px solid #7cf;
-    transition: transform 0.2s;
+    transition: transform 0.2s, box-shadow 0.2s;
+    display: flex;
+    flex-direction: column;
   }
-  .card:hover { transform: translateX(5px); }
+  .card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(120, 200, 255, 0.1);
+  }
+  .card img {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+  }
+  .card-body { padding: 15px; flex: 1; display: flex; flex-direction: column; }
   .fonte {
     display: inline-block;
     background: #2a2a3a;
     color: #7cf;
     padding: 3px 10px;
     border-radius: 20px;
-    font-size: 0.75rem;
+    font-size: 0.7rem;
     margin-bottom: 10px;
+    align-self: flex-start;
   }
   .card h2 {
-    font-size: 1.15rem;
+    font-size: 1.05rem;
     margin-bottom: 10px;
     line-height: 1.4;
   }
@@ -52,18 +84,18 @@
   .card h2 a:hover { color: #7cf; }
   .card p {
     color: #a0a0b0;
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     line-height: 1.5;
-    margin-bottom: 10px;
+    margin-bottom: 12px;
+    flex: 1;
   }
-  .data {
-    font-size: 0.8rem;
-    color: #666;
-  }
-  .loading, .erro {
+  .data { font-size: 0.75rem; color: #666; }
+
+  .loading, .erro, .vazio {
     text-align: center;
-    padding: 40px;
+    padding: 60px 20px;
     color: #888;
+    grid-column: 1 / -1;
   }
 </style>
 </head>
@@ -73,38 +105,94 @@
     <p class="status" id="status">Carregando notícias...</p>
   </header>
 
-  <main id="conteudo">
+  <div class="controles">
+    <input type="text" id="busca" placeholder="🔍 Buscar notícias...">
+    <select id="filtro-fonte">
+      <option value="">Todas as fontes</option>
+    </select>
+  </div>
+
+  <main class="grid" id="conteudo">
     <div class="loading">⏳ Buscando notícias...</div>
   </main>
 
 <script>
-  // Adiciona um parâmetro de tempo pra sempre pegar versão nova (não cachear)
+  let todasNoticias = [];
+
   fetch('data/noticias.json?v=' + Date.now())
     .then(r => r.json())
     .then(dados => {
       document.getElementById('status').textContent =
         `✅ Atualizado em ${dados.atualizado_em} • ${dados.total} notícias`;
 
-      const main = document.getElementById('conteudo');
-      main.innerHTML = '';
+      todasNoticias = dados.noticias;
 
-      dados.noticias.forEach(n => {
-        const card = document.createElement('article');
-        card.className = 'card';
-        card.innerHTML = `
-          <span class="fonte">${n.fonte}</span>
-          <h2><a href="${n.link}" target="_blank" rel="noopener">${n.titulo}</a></h2>
-          <p>${n.resumo.replace(/<[^>]+>/g, '')}...</p>
-          <div class="data">📅 ${n.data}</div>
-        `;
-        main.appendChild(card);
+      // Preenche o dropdown de fontes
+      const fontes = [...new Set(todasNoticias.map(n => n.fonte))].sort();
+      const select = document.getElementById('filtro-fonte');
+      fontes.forEach(f => {
+        const opt = document.createElement('option');
+        opt.value = f;
+        opt.textContent = f;
+        select.appendChild(opt);
       });
+
+      renderizar(todasNoticias);
     })
     .catch(err => {
       document.getElementById('conteudo').innerHTML =
         '<div class="erro">❌ Ainda não há notícias. O robô vai rodar em breve!</div>';
       console.error(err);
     });
+
+  function renderizar(lista) {
+    const main = document.getElementById('conteudo');
+    main.innerHTML = '';
+
+    if (lista.length === 0) {
+      main.innerHTML = '<div class="vazio">🔍 Nenhuma notícia encontrada.</div>';
+      return;
+    }
+
+    lista.forEach(n => {
+      const card = document.createElement('article');
+      card.className = 'card';
+
+      const imgHtml = n.imagem
+        ? `<img src="${n.imagem}" alt="" onerror="this.style.display='none'">`
+        : '';
+
+      card.innerHTML = `
+        ${imgHtml}
+        <div class="card-body">
+          <span class="fonte">${n.fonte}</span>
+          <h2><a href="${n.link}" target="_blank" rel="noopener">${n.titulo}</a></h2>
+          <p>${n.resumo.replace(/<[^>]+>/g, '').slice(0, 200)}...</p>
+          <div class="data">📅 ${n.data || 'sem data'}</div>
+        </div>
+      `;
+      main.appendChild(card);
+    });
+  }
+
+  // Busca + filtro em tempo real
+  function filtrar() {
+    const termo = document.getElementById('busca').value.toLowerCase();
+    const fonte = document.getElementById('filtro-fonte').value;
+
+    const resultado = todasNoticias.filter(n => {
+      const bateBusca = !termo ||
+        n.titulo.toLowerCase().includes(termo) ||
+        n.resumo.toLowerCase().includes(termo);
+      const bateFonte = !fonte || n.fonte === fonte;
+      return bateBusca && bateFonte;
+    });
+
+    renderizar(resultado);
+  }
+
+  document.getElementById('busca').addEventListener('input', filtrar);
+  document.getElementById('filtro-fonte').addEventListener('change', filtrar);
 </script>
 </body>
 </html>
