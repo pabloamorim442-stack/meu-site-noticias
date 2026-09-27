@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>📰 Notícias de Games - Atualizado Automaticamente</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: system-ui, -apple-system, sans-serif;
+    background: #0f0f17;
+    color: #e8e8e8;
+    padding: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  header {
+    text-align: center;
+    padding: 30px 0;
+    border-bottom: 2px solid #2a2a3a;
+    margin-bottom: 30px;
+  }
+  h1 { font-size: 2rem; margin-bottom: 8px; }
+  .status {
+    color: #7cf;
+    font-size: 0.9rem;
+  }
+  .card {
+    background: #1a1a25;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-left: 4px solid #7cf;
+    transition: transform 0.2s;
+  }
+  .card:hover { transform: translateX(5px); }
+  .fonte {
+    display: inline-block;
+    background: #2a2a3a;
+    color: #7cf;
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    margin-bottom: 10px;
+  }
+  .card h2 {
+    font-size: 1.15rem;
+    margin-bottom: 10px;
+    line-height: 1.4;
+  }
+  .card h2 a { color: #fff; text-decoration: none; }
+  .card h2 a:hover { color: #7cf; }
+  .card p {
+    color: #a0a0b0;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  .data {
+    font-size: 0.8rem;
+    color: #666;
+  }
+  .loading, .erro {
+    text-align: center;
+    padding: 40px;
+    color: #888;
+  }
+</style>
+</head>
+<body>
+  <header>
+    <h1>📰 Notícias de Games</h1>
+    <p class="status" id="status">Carregando notícias...</p>
+  </header>
+
+  <main id="conteudo">
+    <div class="loading">⏳ Buscando notícias...</div>
+  </main>
+
+<script>
+  // Adiciona um parâmetro de tempo pra sempre pegar versão nova (não cachear)
+  fetch('data/noticias.json?v=' + Date.now())
+    .then(r => r.json())
+    .then(dados => {
+      document.getElementById('status').textContent =
+        `✅ Atualizado em ${dados.atualizado_em} • ${dados.total} notícias`;
+
+      const main = document.getElementById('conteudo');
+      main.innerHTML = '';
+
+      dados.noticias.forEach(n => {
+        const card = document.createElement('article');
+        card.className = 'card';
+        card.innerHTML = `
+          <span class="fonte">${n.fonte}</span>
+          <h2><a href="${n.link}" target="_blank" rel="noopener">${n.titulo}</a></h2>
+          <p>${n.resumo.replace(/<[^>]+>/g, '')}...</p>
+          <div class="data">📅 ${n.data}</div>
+        `;
+        main.appendChild(card);
+      });
+    })
+    .catch(err => {
+      document.getElementById('conteudo').innerHTML =
+        '<div class="erro">❌ Ainda não há notícias. O robô vai rodar em breve!</div>';
+      console.error(err);
+    });
+</script>
+</body>
+</html>
