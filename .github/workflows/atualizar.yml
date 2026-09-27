@@ -2,22 +2,21 @@ name: 🤖 Atualizar Notícias
 
 on:
   schedule:
-    # Roda a cada 6 horas (formato: minuto hora dia mês dia-semana)
-    - cron: '0 */6 * * *'
-  workflow_dispatch:  # Permite rodar manualmente clicando num botão
+    - cron: '0 */6 * * *'   # A cada 6 horas
+  workflow_dispatch:         # Permite rodar manualmente
 
 jobs:
   atualizar:
-    runs-on: ubuntu-24.04  # <-- Fixado para evitar surpresas na migração
+    runs-on: ubuntu-24.04
     permissions:
       contents: write
 
     steps:
       - name: 📥 Baixar o repositório
-        uses: actions/checkout@v5  # <-- Atualizado para Node.js 24
+        uses: actions/checkout@v5
 
       - name: 🐍 Instalar Python
-        uses: actions/setup-python@v6  # <-- Atualizado para Node.js 24
+        uses: actions/setup-python@v6
         with:
           python-version: '3.11'
 
