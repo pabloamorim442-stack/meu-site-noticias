@@ -1,0 +1,146 @@
+{
+  "atualizado_em": "27/09/2026 às 12:51",
+  "total": 20,
+  "noticias": [
+    {
+      "titulo": "New Transaction Refunded Webhook Notifies When a Purchase Is Cancelled",
+      "link": "https://devforum.roblox.com/t/new-transaction-refunded-webhook-notifies-when-a-purchase-is-cancelled/4890339",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>The new Transaction Refunded webhook is now available in Open Cloud. When a Robux purchase in your game is refunded or charged back, you get an event so you can revoke the benefit you granted.</p>\n<p>Turn it on in Creator Hub unde",
+      "fonte": "Roblox - Anúncios",
+      "data": "Wed, 23 Sep 2026 22:45:04 +0000"
+    },
+    {
+      "titulo": "[Studio Beta] Quad Support for EditableMesh APIs",
+      "link": "https://devforum.roblox.com/t/studio-beta-quad-support-for-editablemesh-apis/4890142",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>EditableMesh now supports the creation of quad (four-sided) faces . This makes it easier and more efficient for creators to unlock quad-based mesh workflows without needing to represent every quad as two triangles.</p>\n<p>In Studi",
+      "fonte": "Roblox - Anúncios",
+      "data": "Wed, 23 Sep 2026 20:45:04 +0000"
+    },
+    {
+      "titulo": "Introducing New Texture Generation Tools, Segment Any Mesh, and Image Previews",
+      "link": "https://devforum.roblox.com/t/introducing-new-texture-generation-tools-segment-any-mesh-and-image-previews/4890084",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>This past week, we launched three new 3D/4D generation features in Studio: higher-quality texture generation with more creator control, mesh segmentation for imported models, and image previews for generated meshes and procedural ",
+      "fonte": "Roblox - Anúncios",
+      "data": "Wed, 23 Sep 2026 20:13:58 +0000"
+    },
+    {
+      "titulo": "Release Notes for 738",
+      "link": "https://devforum.roblox.com/t/release-notes-for-738/4861725",
+      "resumo": "<p>Hi folks, here are the <a href=\"https://create.roblox.com/docs/en-us/updates/2026-09-07\">release notes for 738</a>.</p>\n<p>I was looking for fun facts about today’s date to share, but the most interesting thing I could find is that it’s Adam Sandler’s 60th birthday, so… happy birthday, Adam Sandl",
+      "fonte": "Roblox - Atualizações",
+      "data": "Wed, 09 Sep 2026 20:57:29 +0000"
+    },
+    {
+      "titulo": "Team Fortress 2 Update Released",
+      "link": "https://store.steampowered.com/news/275469/",
+      "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Updated the Beachcomber's Brim to add a second style that was originally missed<br",
+      "fonte": "Steam News",
+      "data": "Wed, 08 Jul 2026 16:13:00 -0700"
+    },
+    {
+      "titulo": "Release Notes for 740",
+      "link": "https://devforum.roblox.com/t/release-notes-for-740/4888724",
+      "resumo": "<p>Howdy! I hope you all are having a great day. Here are the release notes:</p>\n<ul>\n<li>Version 740: <a href=\"https://create.roblox.com/docs/release-notes/release-notes-740\">Introduced in version 740</a></li>\n<li>Weekly update: <a href=\"https://create.roblox.com/docs/updates/2026-09-21\">Week of Se",
+      "fonte": "Roblox - Atualizações",
+      "data": "Tue, 22 Sep 2026 23:41:30 +0000"
+    },
+    {
+      "titulo": "Players Can Now Find In-Game Items Outside Your Game",
+      "link": "https://devforum.roblox.com/t/players-can-now-find-in-game-items-outside-your-game/4888425",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Your full catalog of passes and developer products can now appear outside your game. This gives players more places to find and buy your items.</p>\n<p>To qualify, list items in Creator Hub &gt; Monetization &gt; Shop and implement",
+      "fonte": "Roblox - Anúncios",
+      "data": "Tue, 22 Sep 2026 20:10:10 +0000"
+    },
+    {
+      "titulo": "Team Fortress 2 Update Released",
+      "link": "https://store.steampowered.com/news/276074/",
+      "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Fixed missing sound for Taunt: Circuit Breaker<br /><li>Renamed \"Northern Nights\" ",
+      "fonte": "Steam News",
+      "data": "Tue, 14 Jul 2026 13:25:00 -0700"
+    },
+    {
+      "titulo": "Release Notes for 736",
+      "link": "https://devforum.roblox.com/t/release-notes-for-736/4833635",
+      "resumo": "<p>Hey everyone, release notes are available for 736.</p>\n<aside class=\"onebox allowlistedgeneric\">\n  <header class=\"source\">\n      <img class=\"site-icon\" height=\"48\" src=\"https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/f/4/4/7/f447460fd40fb32dafe6f12a177e1dbb041a48",
+      "fonte": "Roblox - Atualizações",
+      "data": "Thu, 27 Aug 2026 18:16:30 +0000"
+    },
+    {
+      "titulo": "Release Notes for 739",
+      "link": "https://devforum.roblox.com/t/release-notes-for-739/4876745",
+      "resumo": "<p>Hi Creators!</p>\n<p>Today marks the day that Steve Jobs quit <img alt=\":red_apple:\" class=\"emoji\" height=\"20\" src=\"https://doy2mn9upadnk.cloudfront.net/images/emoji/twitter/red_apple.png?v=14\" title=\":red_apple:\" width=\"20\" /> in 1985 and rejoined in 1997. In related news, we also have something ",
+      "fonte": "Roblox - Atualizações",
+      "data": "Thu, 17 Sep 2026 00:53:21 +0000"
+    },
+    {
+      "titulo": "Team Fortress 2 Update Released",
+      "link": "https://store.steampowered.com/news/276347/",
+      "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Updated Taxi Cabbed war paint<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\">",
+      "fonte": "Steam News",
+      "data": "Thu, 16 Jul 2026 13:22:00 -0700"
+    },
+    {
+      "titulo": "Release Notes for 737",
+      "link": "https://devforum.roblox.com/t/release-notes-for-737/4848058",
+      "resumo": "<p>Hi all, release notes for Studio 737 are published. <img alt=\":collision:\" class=\"emoji\" height=\"20\" src=\"https://doy2mn9upadnk.cloudfront.net/images/emoji/twitter/collision.png?v=14\" title=\":collision:\" width=\"20\" /></p>\n<aside class=\"onebox allowlistedgeneric\">\n  <header class=\"source\">\n      <",
+      "fonte": "Roblox - Atualizações",
+      "data": "Thu, 03 Sep 2026 15:55:18 +0000"
+    },
+    {
+      "titulo": "O verão em que Steven Spielberg e George Lucas forçaram os EUA a mudar completamente seu sistema de classificação etária",
+      "link": "https://br.ign.com/cinema-tv/156436/o-verao-em-que-steven-spielberg-e-george-lucas-forcaram-os-eua-a-mudar-completamente-seu-sistema-de",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/blob_y7bs.640.png\" vspace=\"5\" width=\"120\" />\nIndiana Jones e o Templo da Perdição, Poltergeist e Gremlins chegaram naquele verão. Graças a eles, quase perdemos o Deadpool & Wolverine",
+      "fonte": "IGN Brasil",
+      "data": "Sun, 27 Sep 2026 12:03:31 +0000"
+    },
+    {
+      "titulo": "Dragon Ball Z: Estes são os 16 vilões mais fortes do ranking",
+      "link": "https://br.ign.com/dragon-ball/156435/dragon-ball-z-estes-sao-os-16-viloes-mais-fortes-do-ranking",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/dragonballz-vegeta-6365775_fn7j.640.png\" vspace=\"5\" width=\"120\" />\nCriamos nosso próprio ranking dos vilões mais poderosos de Dragon Ball Z e estamos curiosos para saber se vocês concordam conosco",
+      "fonte": "IGN Brasil",
+      "data": "Sun, 27 Sep 2026 11:03:32 +0000"
+    },
+    {
+      "titulo": "Solo Leveling acaba de abrir uma porta que parecia impossível: esta é a nova personagem que expande a história de Sung Jinwoo",
+      "link": "https://br.ign.com/solo-leveling/156434/solo-leveling-acaba-de-abrir-uma-porta-que-parecia-impossivel-esta-e-a-nova-personagem-que-expande-a",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/blob_3nwj.640.png\" vspace=\"5\" width=\"120\" />\nDiana López se junta ao elenco de Solo Leveling: Arise como uma caçadora com uma história de fundo significativa",
+      "fonte": "IGN Brasil",
+      "data": "Sun, 27 Sep 2026 10:03:32 +0000"
+    },
+    {
+      "titulo": "“Uma verdadeira vergonha do início ao fim”: último filme de Zack Snyde é massacrado pela crítica",
+      "link": "https://br.ign.com/zack-snyder/156405/uma-verdadeira-vergonha-do-inicio-ao-fim-ultimo-filme-de-zack-snyde-e-massacrado-pela-critica",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/blob_nm38.640.png\" vspace=\"5\" width=\"120\" />\nRecebido com uma ovação nos festivais antes de ser alvo de uma verdadeira caça às bruxas pela imprensa internacional",
+      "fonte": "IGN Brasil",
+      "data": "Sun, 27 Sep 2026 09:03:32 +0000"
+    },
+    {
+      "titulo": "Além de ser o primeiro filme japonês gravado em IMAX, Godzilla Minus Zero tem feito inédito em 72 anos da franquia nos cinemas",
+      "link": "https://br.ign.com/godzilla-minus-zero/156382/alem-de-ser-o-primeiro-filme-japones-gravado-em-imax-godzilla-minus-zero-tem-feito-inedito-em-72-ano",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/g1_69xq.640.jpg\" vspace=\"5\" width=\"120\" />Filme foi classificado como \"R\" nos EUA\n<p>Pela primeira vez em 72 anos de história do Godzilla, um novo filme do lagarto radioativo adquiriu uma classificação indicativa",
+      "fonte": "IGN Brasil",
+      "data": "Sat, 26 Sep 2026 19:03:32 +0000"
+    },
+    {
+      "titulo": "Now Available on Steam - Angels Fall First, 10% off!",
+      "link": "https://store.steampowered.com/news/275791/",
+      "resumo": "<a href=\"http://store.steampowered.com/app/367270/\">Angels Fall First</a> is Now Available on Steam and is 10% off!*<br /><br />From commanding the battle standing on the bridge of your flagship all the way down to tactical infantry firefights - AFF brings together all the combat you ever loved in a",
+      "fonte": "Steam News",
+      "data": "Sat, 11 Jul 2026 14:59:51 -0700"
+    },
+    {
+      "titulo": "Weekly Recap: September 21 - 25, 2026",
+      "link": "https://devforum.roblox.com/t/weekly-recap-september-21-25-2026/4894110",
+      "resumo": "<blockquote>\n<h3>Key Takeaways</h3>\n<p>Players can now discover and buy a game’s passes and developer products outside the experience, while the Transaction Refunded webhook lets creators act on refunds and chargebacks. Studio added quad support for <code>EditableMesh</code>, Acoustic Simulation mov",
+      "fonte": "Roblox - Anúncios",
+      "data": "Fri, 25 Sep 2026 21:56:10 +0000"
+    },
+    {
+      "titulo": "Team Fortress 2 Update Released",
+      "link": "https://store.steampowered.com/news/275718/",
+      "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Updated the Beachcomber's Brim to fix an incorrect material<br /><li>Updated Taunt",
+      "fonte": "Steam News",
+      "data": "Fri, 10 Jul 2026 12:00:00 -0700"
+    }
+  ]
+}
