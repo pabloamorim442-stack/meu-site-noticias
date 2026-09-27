@@ -8,16 +8,16 @@ on:
 
 jobs:
   atualizar:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04  # <-- Fixado para evitar surpresas na migração
     permissions:
       contents: write
 
     steps:
       - name: 📥 Baixar o repositório
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5  # <-- Atualizado para Node.js 24
 
       - name: 🐍 Instalar Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6  # <-- Atualizado para Node.js 24
         with:
           python-version: '3.11'
 
