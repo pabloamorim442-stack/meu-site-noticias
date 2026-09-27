@@ -15,6 +15,19 @@ FONTES = [
     # Notícias gerais de games
     {"nome": "IGN Brasil", "url": "https://br.ign.com/feed.xml"},
     {"nome": "Steam News", "url": "https://store.steampowered.com/feeds/news.xml"},
+    FONTES = [
+    {"nome": "Roblox - Anúncios", "url": "https://devforum.roblox.com/c/updates/announcements/36.rss"},
+    {"nome": "Roblox - Atualizações", "url": "https://devforum.roblox.com/c/updates/release-notes/62.rss"},
+    {"nome": "IGN Brasil", "url": "https://br.ign.com/feed.xml"},
+    {"nome": "Steam News", "url": "https://store.steampowered.com/feeds/news.xml"},
+    # ADICIONE NOVOS ABAIXO:
+    {"nome": "Minecraft", "url": "https://www.minecraft.net/en-us/feeds/community-content/rss"},
+    {"nome": "PlayStation Blog", "url": "https://blog.playstation.com/feed/"},
+    {"nome": "Xbox Wire", "url": "https://news.xbox.com/en-us/feed/"},
+    {"nome": "Nintendo Life", "url": "https://www.nintendolife.com/feeds/news"},
+    {"nome": "GameSpot", "url": "https://www.gamespot.com/feeds/news/"},
+]
+
 ]
 
 MAX_POR_FONTE = 5   # Quantas notícias pegar de cada fonte
