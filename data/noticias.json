@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/09/2026 às 18:06",
+  "atualizado_em": "28/09/2026 às 00:08",
   "total": 80,
   "noticias": [
     {
@@ -7,6 +7,7 @@
       "link": "https://devforum.roblox.com/t/release-notes-for-732/4763851",
       "resumo": "<p>Hi all,<br />\nPleased to announce that 732 has landed. Enjoy!</p>\n<aside class=\"onebox allowlistedgeneric\">\n  <header class=\"source\">\n      <img class=\"site-icon\" height=\"48\" src=\"https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/1/1/0/6/110698a3ce54a71cc14aa009655",
       "fonte": "Roblox - Atualizações",
+      "categoria": "Roblox",
       "data": "Wed, 29 Jul 2026 18:44:52 +0000",
       "imagem": ""
     },
@@ -15,6 +16,7 @@
       "link": "https://devforum.roblox.com/t/new-transaction-refunded-webhook-notifies-when-a-purchase-is-cancelled/4890339",
       "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>The new Transaction Refunded webhook is now available in Open Cloud. When a Robux purchase in your game is refunded or charged back, you get an event so you can revoke the benefit you granted.</p>\n<p>Turn it on in Creator Hub unde",
       "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
       "data": "Wed, 23 Sep 2026 22:45:04 +0000",
       "imagem": ""
     },
@@ -23,6 +25,7 @@
       "link": "https://devforum.roblox.com/t/studio-beta-quad-support-for-editablemesh-apis/4890142",
       "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>EditableMesh now supports the creation of quad (four-sided) faces . This makes it easier and more efficient for creators to unlock quad-based mesh workflows without needing to represent every quad as two triangles.</p>\n<p>In Studi",
       "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
       "data": "Wed, 23 Sep 2026 20:45:04 +0000",
       "imagem": ""
     },
@@ -31,6 +34,7 @@
       "link": "https://devforum.roblox.com/t/introducing-new-texture-generation-tools-segment-any-mesh-and-image-previews/4890084",
       "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>This past week, we launched three new 3D/4D generation features in Studio: higher-quality texture generation with more creator control, mesh segmentation for imported models, and image previews for generated meshes and procedural ",
       "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
       "data": "Wed, 23 Sep 2026 20:13:58 +0000",
       "imagem": ""
     },
@@ -39,6 +43,7 @@
       "link": "https://store.steampowered.com/news/265516/",
       "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Fixed client crash related to material proxies<br /><li>Fixed Scout.NegativeVocali",
       "fonte": "Steam News",
+      "categoria": "Steam",
       "data": "Wed, 11 Mar 2026 12:32:00 -0700",
       "imagem": ""
     },
@@ -47,6 +52,7 @@
       "link": "https://devforum.roblox.com/t/release-notes-for-738/4861725",
       "resumo": "<p>Hi folks, here are the <a href=\"https://create.roblox.com/docs/en-us/updates/2026-09-07\">release notes for 738</a>.</p>\n<p>I was looking for fun facts about today’s date to share, but the most interesting thing I could find is that it’s Adam Sandler’s 60th birthday, so… happy birthday, Adam Sandl",
       "fonte": "Roblox - Atualizações",
+      "categoria": "Roblox",
       "data": "Wed, 09 Sep 2026 20:57:29 +0000",
       "imagem": ""
     },
@@ -55,6 +61,7 @@
       "link": "https://store.steampowered.com/news/275469/",
       "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Updated the Beachcomber's Brim to add a second style that was originally missed<br",
       "fonte": "Steam News",
+      "categoria": "Steam",
       "data": "Wed, 08 Jul 2026 16:13:00 -0700",
       "imagem": ""
     },
@@ -63,6 +70,7 @@
       "link": "https://store.steampowered.com/news/270398/",
       "resumo": "An update has been released for Left 4 Dead:<br /><br />- Fixed several exploits that could be used to crash servers or remote players.",
       "fonte": "Steam News",
+      "categoria": "Steam",
       "data": "Wed, 06 May 2026 11:02:00 -0700",
       "imagem": ""
     },
@@ -71,6 +79,7 @@
       "link": "https://devforum.roblox.com/t/release-notes-for-740/4888724",
       "resumo": "<p>Howdy! I hope you all are having a great day. Here are the release notes:</p>\n<ul>\n<li>Version 740: <a href=\"https://create.roblox.com/docs/release-notes/release-notes-740\">Introduced in version 740</a></li>\n<li>Weekly update: <a href=\"https://create.roblox.com/docs/updates/2026-09-21\">Week of Se",
       "fonte": "Roblox - Atualizações",
+      "categoria": "Roblox",
       "data": "Tue, 22 Sep 2026 23:41:30 +0000",
       "imagem": ""
     },
@@ -79,6 +88,7 @@
       "link": "https://devforum.roblox.com/t/players-can-now-find-in-game-items-outside-your-game/4888425",
       "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Your full catalog of passes and developer products can now appear outside your game. This gives players more places to find and buy your items.</p>\n<p>To qualify, list items in Creator Hub &gt; Monetization &gt; Shop and implement",
       "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
       "data": "Tue, 22 Sep 2026 20:10:10 +0000",
       "imagem": ""
     },
@@ -87,6 +97,7 @@
       "link": "https://blog.playstation.com/2026/09/22/fading-echo-makes-a-splash-on-playstation-5-today/",
       "resumo": "Hi PlayStation players! This is Sylvain from Emeteria, a New Tales studio, the team behind Fading Echo, and we’re excited to share that our fast-paced elemental action-adventure RPG is launching today on PlayStation 5. In Fading Echo, you play as One, a young Legend fighting to save Corel, a fractur",
       "fonte": "PlayStation Blog",
+      "categoria": "PlayStation",
       "data": "Tue, 22 Sep 2026 15:00:40 +0000",
       "imagem": "https://blog.playstation.com/uploads/2028/09/e4ee8e7a20eb13337894c50299946fcd9b5309a8.mp4"
     },
@@ -95,6 +106,7 @@
       "link": "https://blog.playstation.com/2026/09/21/20260922-lisa/",
       "resumo": "Last year, we teamed up with Lisa for the first time on our global PS5 campaign. Today, we’re taking our collaboration a step further with an all-new DualSense wireless controller – Lisa Limited Edition designed&#160;with Lisa herself. Lisa’s journey has taken her from her roots in Thailand to Korea",
       "fonte": "PlayStation Blog",
+      "categoria": "PlayStation",
       "data": "Tue, 22 Sep 2026 01:03:04 +0000",
       "imagem": ""
     },
@@ -103,6 +115,7 @@
       "link": "https://store.steampowered.com/news/276074/",
       "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Fixed missing sound for Taunt: Circuit Breaker<br /><li>Renamed \"Northern Nights\" ",
       "fonte": "Steam News",
+      "categoria": "Steam",
       "data": "Tue, 14 Jul 2026 13:25:00 -0700",
       "imagem": ""
     },
@@ -111,6 +124,7 @@
       "link": "https://devforum.roblox.com/t/release-notes-for-734/4805175",
       "resumo": "<p>Hi all, <a href=\"https://create.roblox.com/docs/release-notes/release-notes-734\">release notes for 734</a> is here! Have a great rest of your week.</p>\n            <p><small>36 posts - 25 participants</small></p>\n            <p><a href=\"https://devforum.roblox.com/t/release-notes-for-734/4805175\"",
       "fonte": "Roblox - Atualizações",
+      "categoria": "Roblox",
       "data": "Tue, 11 Aug 2026 22:07:34 +0000",
       "imagem": ""
     },
@@ -119,6 +133,7 @@
       "link": "https://store.steampowered.com/news/274747/",
       "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><br /><br /><b>Summer 2026!</b><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Featuring 6 new community maps: Dryfield, Cam",
       "fonte": "Steam News",
+      "categoria": "Steam",
       "data": "Tue, 07 Jul 2026 10:18:00 -0700",
       "imagem": ""
     },
@@ -127,6 +142,7 @@
       "link": "https://devforum.roblox.com/t/release-notes-for-736/4833635",
       "resumo": "<p>Hey everyone, release notes are available for 736.</p>\n<aside class=\"onebox allowlistedgeneric\">\n  <header class=\"source\">\n      <img class=\"site-icon\" height=\"48\" src=\"https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/f/4/4/7/f447460fd40fb32dafe6f12a177e1dbb041a48",
       "fonte": "Roblox - Atualizações",
+      "categoria": "Roblox",
       "data": "Thu, 27 Aug 2026 18:16:30 +0000",
       "imagem": ""
     },
@@ -135,6 +151,7 @@
       "link": "https://www.gamespot.com/articles/the-best-news-for-saw-genesis-is-we-have-to-wait-longer-to-play-it/",
       "resumo": "<p class=\"wp-block-paragraph\">Saw: Genesis was set to be the next asymmetrical multiplayer horror game to debut, but its 2026 early-access launch has been pushed to 2027, developer Bloober Team announced. </p>\n\n\n\n<p class=\"wp-block-paragraph\">The horror-focused studio said it needs more time to get ",
       "fonte": "GameSpot",
+      "categoria": "Geral",
       "data": "Thu, 24 Sep 2026 23:43:43 +0000",
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/09/ss_8b5d22f46341214530ecdd8786e76203043dfbd3.1920x1080.webp?w=300"
     },
@@ -143,6 +160,7 @@
       "link": "https://www.gamespot.com/articles/in-saraab-beyond-the-veil-your-inner-demons-are-coming-for-you-this-november/",
       "resumo": "<p class=\"wp-block-paragraph\">Anyone looking for a&nbsp;creepy adventure to play in November&nbsp;will want to check out Saraab: Beyond the Veil. Solo developer&nbsp;Lubna Ahmed has announced a November 3 release date for the game on PC via <a href=\"https://store.steampowered.com/app/4134310/Saraab_",
       "fonte": "GameSpot",
+      "categoria": "Geral",
       "data": "Thu, 24 Sep 2026 22:00:00 +0000",
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/09/Saraab.jpg?w=300"
     },
@@ -151,6 +169,7 @@
       "link": "https://news.xbox.com/en-us/2026/09/24/xbox-insiders-can-join-the-chicken-invaders-collection-preview-today/",
       "resumo": "<p>Starting today, XBOX Insiders can join the Chicken Invaders Collection preview from InterAction studios on XBOX consoles and Windows PC. Chicken Invaders puts you on the front line against invading intergalactic chickens bent on revenge against humanity. For the first time since the series debute",
       "fonte": "Xbox Wire",
+      "categoria": "Xbox",
       "data": "Thu, 24 Sep 2026 18:00:00 +0000",
       "imagem": ""
     },
@@ -159,6 +178,7 @@
       "link": "https://news.xbox.com/en-us/2026/09/24/free-play-days-09-24-2026/",
       "resumo": "<p>Tactics, ties, treason, and tees: Dive into it all with Free Play Days! The Escapists 2 and Young Suns are available this weekend for XBOX Game Pass Ultimate, Premium and Essential members to play from Thursday, September 24 until Sunday, September 27. Young Suns will be available on console and ",
       "fonte": "Xbox Wire",
+      "categoria": "Xbox",
       "data": "Thu, 24 Sep 2026 15:00:00 +0000",
       "imagem": ""
     },
@@ -167,6 +187,7 @@
       "link": "https://blog.playstation.com/2026/09/24/luma-island-is-coming-to-ps5/",
       "resumo": "We’re Feel Free Games, the team behind Luma Island, and we’re very excited to share that Luma Island is coming to PlayStation 5! Luma Island launched on PC in November 2024, and since then more than 800,000 players have joined us on the island. Now we’re getting ready to welcome PlayStation players ",
       "fonte": "PlayStation Blog",
+      "categoria": "PlayStation",
       "data": "Thu, 24 Sep 2026 13:00:40 +0000",
       "imagem": ""
     },
@@ -175,6 +196,7 @@
       "link": "https://devforum.roblox.com/t/release-notes-for-735/4821778",
       "resumo": "<p>Howdy! Here are the release notes for 735: <a class=\"inline-onebox\" href=\"https://create.roblox.com/docs/release-notes/release-notes-735\">Release notes for 735 | Documentation - Roblox Creator Hub</a></p>\n<p>Heads up that in the next week or so, the release notes page is getting an update which s",
       "fonte": "Roblox - Atualizações",
+      "categoria": "Roblox",
       "data": "Thu, 20 Aug 2026 16:32:04 +0000",
       "imagem": ""
     },
@@ -183,6 +205,7 @@
       "link": "https://devforum.roblox.com/t/collision-geometry-workflow-improvements-tunable-precision-and-better-visualizations/4878198",
       "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>New Tunable collision geometry and improved visualizer tools let you tune performance vs. precision per mesh and inspect collision geometries easily.</p>\n<p>In Studio, set CollisionFidelity to Tunable in Properties, or open Visual",
       "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
       "data": "Thu, 17 Sep 2026 20:20:31 +0000",
       "imagem": ""
     },
@@ -191,6 +214,7 @@
       "link": "https://devforum.roblox.com/t/early-access-player-support/4878091",
       "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Player Support is now in early access available for players who are age-checked 13+, letting players report issues from inside your game and giving you one portal to review and respond.</p>\n<p>Sign up <a href=\"https://survey.roblo",
       "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
       "data": "Thu, 17 Sep 2026 19:36:47 +0000",
       "imagem": ""
     },
@@ -199,6 +223,7 @@
       "link": "https://devforum.roblox.com/t/release-notes-for-739/4876745",
       "resumo": "<p>Hi Creators!</p>\n<p>Today marks the day that Steve Jobs quit <img alt=\":red_apple:\" class=\"emoji\" height=\"20\" src=\"https://doy2mn9upadnk.cloudfront.net/images/emoji/twitter/red_apple.png?v=14\" title=\":red_apple:\" width=\"20\" /> in 1985 and rejoined in 1997. In related news, we also have something ",
       "fonte": "Roblox - Atualizações",
+      "categoria": "Roblox",
       "data": "Thu, 17 Sep 2026 00:53:21 +0000",
       "imagem": ""
     },
@@ -207,6 +232,7 @@
       "link": "https://store.steampowered.com/news/276347/",
       "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Updated Taxi Cabbed war paint<ul style=\"padding-bottom: 0px; margin-bottom: 0px;\">",
       "fonte": "Steam News",
+      "categoria": "Steam",
       "data": "Thu, 16 Jul 2026 13:22:00 -0700",
       "imagem": ""
     },
@@ -215,6 +241,7 @@
       "link": "https://devforum.roblox.com/t/release-notes-for-733/4779079",
       "resumo": "<p>Hi friends, I’m here with the <a href=\"https://create.roblox.com/docs/release-notes/release-notes-733\">release notes for 733</a>.</p>\n<p>Hope you’ve all been having a great summer so far! It’s been hot and sunny in California but I’m already looking forward to fall/winter so I can start wearing s",
       "fonte": "Roblox - Atualizações",
+      "categoria": "Roblox",
       "data": "Thu, 06 Aug 2026 17:48:47 +0000",
       "imagem": ""
     },
@@ -223,14 +250,43 @@
       "link": "https://devforum.roblox.com/t/release-notes-for-737/4848058",
       "resumo": "<p>Hi all, release notes for Studio 737 are published. <img alt=\":collision:\" class=\"emoji\" height=\"20\" src=\"https://doy2mn9upadnk.cloudfront.net/images/emoji/twitter/collision.png?v=14\" title=\":collision:\" width=\"20\" /></p>\n<aside class=\"onebox allowlistedgeneric\">\n  <header class=\"source\">\n      <",
       "fonte": "Roblox - Atualizações",
+      "categoria": "Roblox",
       "data": "Thu, 03 Sep 2026 15:55:18 +0000",
       "imagem": ""
+    },
+    {
+      "titulo": "Amazon abre pré-venda exclusiva de Final Fantasy Resonance em mídia física",
+      "link": "https://br.ign.com/descontos/156442/amazon-abre-pre-venda-exclusiva-de-final-fantasy-resonance-em-midia-fisica",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/photo/default/final-fantasy-resonance-gameplay-blogroll-2-1786488647777_b1eh.640.jpg\" vspace=\"5\" width=\"120\" />\nNovo RPG da Square Enix chega em outubro para PS5, Nintendo Switch e Switch 2",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Sun, 27 Sep 2026 19:17:12 +0000",
+      "imagem": "https://sm.ign.com/ign_br/photo/default/final-fantasy-resonance-gameplay-blogroll-2-1786488647777_b1eh.jpg"
+    },
+    {
+      "titulo": "Loja oficial de Lorcana TCG deixa kits de booster até 26% mais baratos na Amazon",
+      "link": "https://br.ign.com/descontos/156440/loja-oficial-de-lorcana-tcg-deixa-kits-de-booster-ate-26-mais-baratos-na-amazon",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/photo/default/disney-lorcana-deal-amazon-ign-new-1771255992672_6g5u.640.jpg\" vspace=\"5\" width=\"120\" />Ravensburger reúne boosters de Shimmering Skies, Azurite Sea e Reign of Jafar com desconto na loja oficial da Amazon. Cartas de E",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Sun, 27 Sep 2026 19:12:34 +0000",
+      "imagem": "https://sm.ign.com/ign_br/photo/default/disney-lorcana-deal-amazon-ign-new-1771255992672_6g5u.jpg"
+    },
+    {
+      "titulo": "Só hoje: headset gamer sem fio Corsair Void Elite ganha megadesconto com cupom no Mercado Livre",
+      "link": "https://br.ign.com/descontos/156441/so-hoje-headset-gamer-sem-fio-corsair-void-elite-ganha-megadesconto-com-cupom-no-mercado-livre",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/corsair_nf9c.640.jpg\" vspace=\"5\" width=\"120\" />\nHeadset gamer wireless traz drivers de 50 mm e bateria de até 16 horas",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Sun, 27 Sep 2026 18:49:36 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/corsair_nf9c.jpg"
     },
     {
       "titulo": "Naoko Takeuchi, criadora de Sailor Moon, sobre A Odisseia: \"Homens mais velhos e bonitos são a especialidade de Nolan\"",
       "link": "https://br.ign.com/untitled-christopher-nolan-matt-damon-project/156355/naoko-takeuchi-criadora-de-sailor-moon-sobre-a-odisseia-homens-mais-velhos-e-bonitos-sao-a-especiali",
       "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/sm_su56.640.jpg\" vspace=\"5\" width=\"120\" />Autora de Sailor Moon dá veredito sobre o épico de Christopher Nolan e fala sobre relação com filmes do diretor\n<p>Naoko Takeuchi teve uma resposta bem franca sobre <a hr",
       "fonte": "IGN Brasil",
+      "categoria": "Geral",
       "data": "Sun, 27 Sep 2026 17:03:33 +0000",
       "imagem": "https://sm.ign.com/ign_br/screenshot/default/sm_su56.jpg"
     },
@@ -239,6 +295,7 @@
       "link": "https://br.ign.com/descontos/156439/pokemon-tcg-celebracao-30-anos-loja-oficial-libera-pre-venda-da-colecao-no-mercado-livre",
       "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/ign-9_p9an.640.jpg\" vspace=\"5\" width=\"120\" />Blisters e box com fichário estreiam em pré-venda no Mercado Livre, direto da loja oficial de Pokémon. Confira os itens da coleção e garanta o seu agora!\nColeção 30 an",
       "fonte": "IGN Brasil",
+      "categoria": "Geral",
       "data": "Sun, 27 Sep 2026 16:58:03 +0000",
       "imagem": "https://sm.ign.com/ign_br/screenshot/default/ign-9_p9an.jpg"
     },
@@ -247,6 +304,7 @@
       "link": "https://br.ign.com/lanterns/156315/lanternas-poderia-hal-jordan-ainda-estar-vivo",
       "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/feature/l/lanterns-c/lanterns-could-hal-jordan-still-be-alive_4mcp.640.jpg\" vspace=\"5\" width=\"120\" />É, Júnior, você só vai pegar o Anel por cima do meu cadáver\n<p>Quando <a href=\"https://br.ign.com/lanterns\" target=\"_blank\">Lanter",
       "fonte": "IGN Brasil",
+      "categoria": "Geral",
       "data": "Sun, 27 Sep 2026 15:03:32 +0000",
       "imagem": "https://sm.ign.com/ign_br/feature/l/lanterns-c/lanterns-could-hal-jordan-still-be-alive_4mcp.jpg"
     },
@@ -255,6 +313,7 @@
       "link": "https://www.nintendolife.com/features/opinion-i-played-mario-kart-tour-every-day-for-seven-years-and-what-am-i-left-with",
       "resumo": "<p><strong>Chequered flag.</strong></p><p>On 24th September 2019, Nintendo launched <a href=\"https://www.nintendolife.com/games/mobile/mario_kart_tour\">Mario Kart Tour</a> for mobile devices. This was Mario’s second outing in mobile gaming, following 2016’s <a href=\"https://www.nintendolife.com/game",
       "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
       "data": "Sun, 27 Sep 2026 15:00:00 GMT",
       "imagem": "https://images.nintendolife.com/8f61343e9569b/large.jpg"
     },
@@ -263,6 +322,7 @@
       "link": "https://br.ign.com/dungeon-geek-21/156433/mystery-dinner-tem-um-assassino-a-mesa-dos-jogos-de-salao-ao-teatro-imersivo-quando-um-jantar-tambem",
       "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/blob_j8av.640.jpg\" vspace=\"5\" width=\"120\" />Para participar, você não precisa necessariamente ser ator, nem conhecer RPG, nem saber o que significa LARP\n<p>Dos jogos de salão aos murder mystery parties, passando ",
       "fonte": "IGN Brasil",
+      "categoria": "Geral",
       "data": "Sun, 27 Sep 2026 14:03:32 +0000",
       "imagem": "https://sm.ign.com/ign_br/screenshot/default/blob_j8av.jpg"
     },
@@ -271,6 +331,7 @@
       "link": "https://br.ign.com/ps5/156437/os-jogadores-nao-sao-donos-dos-seus-jogos-de-ps5-apenas-os-alugam-e-isso-que-a-sony-afirma-em-tribun",
       "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/playstation-5_tc3h.640.png\" vspace=\"5\" width=\"120\" />\nAo clicar em \"Comprar\" na PlayStation Store, o que você está realmente comprando?",
       "fonte": "IGN Brasil",
+      "categoria": "Geral",
       "data": "Sun, 27 Sep 2026 13:03:31 +0000",
       "imagem": "https://sm.ign.com/ign_br/screenshot/default/playstation-5_tc3h.png"
     },
@@ -279,6 +340,7 @@
       "link": "https://br.ign.com/cinema-tv/156436/o-verao-em-que-steven-spielberg-e-george-lucas-forcaram-os-eua-a-mudar-completamente-seu-sistema-de",
       "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/blob_y7bs.640.png\" vspace=\"5\" width=\"120\" />\nIndiana Jones e o Templo da Perdição, Poltergeist e Gremlins chegaram naquele verão. Graças a eles, quase perdemos o Deadpool & Wolverine",
       "fonte": "IGN Brasil",
+      "categoria": "Geral",
       "data": "Sun, 27 Sep 2026 12:03:31 +0000",
       "imagem": "https://sm.ign.com/ign_br/screenshot/default/blob_y7bs.png"
     },
@@ -287,6 +349,7 @@
       "link": "https://www.nintendolife.com/reviews/voidjoy-ga-10-elite-extender-for-switch-pro-controller-the-pros-dont-outweigh-the-mod-cons",
       "resumo": "<p><strong>Voidco.</strong></p><p>With the price of consoles, controllers, games, groceries — <em>everything</em> — shooting up over the last few years, you're likely keen to save pennies where you can. It's one thing to push the boat out for a new Switch 2, but add-ons and accessories can stretch b",
       "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
       "data": "Sun, 27 Sep 2026 12:00:00 GMT",
       "imagem": "https://images.nintendolife.com/ce693779a5ae0/large.jpg"
     },
@@ -295,30 +358,16 @@
       "link": "https://br.ign.com/dragon-ball/156435/dragon-ball-z-estes-sao-os-16-viloes-mais-fortes-do-ranking",
       "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/dragonballz-vegeta-6365775_fn7j.640.png\" vspace=\"5\" width=\"120\" />\nCriamos nosso próprio ranking dos vilões mais poderosos de Dragon Ball Z e estamos curiosos para saber se vocês concordam conosco",
       "fonte": "IGN Brasil",
+      "categoria": "Geral",
       "data": "Sun, 27 Sep 2026 11:03:32 +0000",
       "imagem": "https://sm.ign.com/ign_br/screenshot/default/dragonballz-vegeta-6365775_fn7j.png"
-    },
-    {
-      "titulo": "Solo Leveling acaba de abrir uma porta que parecia impossível: esta é a nova personagem que expande a história de Sung Jinwoo",
-      "link": "https://br.ign.com/solo-leveling/156434/solo-leveling-acaba-de-abrir-uma-porta-que-parecia-impossivel-esta-e-a-nova-personagem-que-expande-a",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/blob_3nwj.640.png\" vspace=\"5\" width=\"120\" />\nDiana López se junta ao elenco de Solo Leveling: Arise como uma caçadora com uma história de fundo significativa",
-      "fonte": "IGN Brasil",
-      "data": "Sun, 27 Sep 2026 10:03:32 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/blob_3nwj.png"
-    },
-    {
-      "titulo": "“Uma verdadeira vergonha do início ao fim”: último filme de Zack Snyde é massacrado pela crítica",
-      "link": "https://br.ign.com/zack-snyder/156405/uma-verdadeira-vergonha-do-inicio-ao-fim-ultimo-filme-de-zack-snyde-e-massacrado-pela-critica",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/blob_nm38.640.png\" vspace=\"5\" width=\"120\" />\nRecebido com uma ovação nos festivais antes de ser alvo de uma verdadeira caça às bruxas pela imprensa internacional",
-      "fonte": "IGN Brasil",
-      "data": "Sun, 27 Sep 2026 09:03:32 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/blob_nm38.png"
     },
     {
       "titulo": "Feature: Box Art Brawl - Duel: Dragon Quest II (NES)",
       "link": "https://www.nintendolife.com/features/box-art-brawl-duel-dragon-quest-ii-nes",
       "resumo": "<p><strong>The quest continues.</strong></p><p>Strap in, because it's time for another edition of <a href=\"https://www.nintendolife.com/tags/box-art-brawl\">Box Art Brawl</a>!</p><p><a href=\"https://www.nintendolife.com/features/box-art-brawl-duel-cubivore-survival-of-the-fittest\">Last time</a>, we p",
       "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
       "data": "Sun, 27 Sep 2026 09:00:00 GMT",
       "imagem": "https://images.nintendolife.com/0869c30e2ca36/large.jpg"
     },
@@ -327,6 +376,7 @@
       "link": "https://www.nintendolife.com/news/2026/09/poll-so-how-many-hours-have-you-spent-in-fire-emblem-fortunes-weave",
       "resumo": "<p><strong>Only a handful of players have shared their completion times.</strong></p><p>RPGs often require players to invest a lot of their time, and the Switch 2 exclusive <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/fire-emblem-fortunes-weave\">Fire Emblem: Fortune's Weave</a> is n",
       "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
       "data": "Sun, 27 Sep 2026 03:00:00 GMT",
       "imagem": "https://images.nintendolife.com/b02bfe571ffe1/large.jpg"
     },
@@ -335,6 +385,7 @@
       "link": "https://www.nintendolife.com/news/2026/09/icymi-heres-a-look-at-the-rayman-legends-retold-launch-edition",
       "resumo": "<p><strong>Just don't expect a proper game card.</strong></p><p></p><p>Rayman is back this December in <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/rayman-legends-retold\">Rayman Legends Retold</a>, and in case you missed it, the launch edition includes some extra goodies.</p><p>Read",
       "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
       "data": "Sun, 27 Sep 2026 01:00:00 GMT",
       "imagem": "https://images.nintendolife.com/64eff25466aec/large.jpg"
     },
@@ -343,22 +394,16 @@
       "link": "https://www.nintendolife.com/news/2026/09/surprise-minecraft-is-getting-its-first-new-dimension-in-over-14-years",
       "resumo": "<p><strong>Introducing The Sift!</strong></p><p>The <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/minecraft\">Minecraft</a> Live - September 2026 show just wrapped, and it's been revealed the \"first new dimension in over 14 years\" is joining the Overworld, the Nether, and the End as t",
       "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
       "data": "Sat, 26 Sep 2026 23:00:00 GMT",
       "imagem": "https://images.nintendolife.com/8ffebddaebcb9/large.jpg"
-    },
-    {
-      "titulo": "Além de ser o primeiro filme japonês gravado em IMAX, Godzilla Minus Zero tem feito inédito em 72 anos da franquia nos cinemas",
-      "link": "https://br.ign.com/godzilla-minus-zero/156382/alem-de-ser-o-primeiro-filme-japones-gravado-em-imax-godzilla-minus-zero-tem-feito-inedito-em-72-ano",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/g1_69xq.640.jpg\" vspace=\"5\" width=\"120\" />Filme foi classificado como \"R\" nos EUA\n<p>Pela primeira vez em 72 anos de história do Godzilla, um novo filme do lagarto radioativo adquiriu uma classificação indicativa",
-      "fonte": "IGN Brasil",
-      "data": "Sat, 26 Sep 2026 19:03:32 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/g1_69xq.jpg"
     },
     {
       "titulo": "Minecraft Dungeons II’s New Dimension Coming to Minecraft Java & Bedrock Edition",
       "link": "https://news.xbox.com/en-us/2026/09/26/minecraft-new-dimension-sift-dungeons-2/",
       "resumo": "<p>We’ve visited the Overworld, the Nether, and the End. Now, prepare yourself for a journey to the Sift. First announced at Gamescom and showcased in more detail at Minecraft LIVE today, The Sift is the first new dimension in Minecraft in over 14 years, and players will be able to visit it in just ",
       "fonte": "Xbox Wire",
+      "categoria": "Xbox",
       "data": "Sat, 26 Sep 2026 18:00:00 +0000",
       "imagem": ""
     },
@@ -367,6 +412,7 @@
       "link": "https://news.xbox.com/en-us/2026/09/26/minecraft-dungeons-ii-the-sift-new-mechanics-better-exploration-and-more-official-xbox-podcast/",
       "resumo": "<p>On this episode of the Official XBOX Podcast, we&#8217;re joining the excitement and sitting down with the team behind Minecraft Dungeons II. We&#8217;re finding out what&#8217;s new, what&#8217;s different, and what we can expect when we first step foot into Minecraft&#8217;s newest dimension, t",
       "fonte": "Xbox Wire",
+      "categoria": "Xbox",
       "data": "Sat, 26 Sep 2026 18:00:00 +0000",
       "imagem": ""
     },
@@ -375,6 +421,7 @@
       "link": "https://www.gamespot.com/articles/minecraft-is-getting-its-first-new-dimension-in-over-15-years/",
       "resumo": "<p class=\"wp-block-paragraph\">Announced today during <a href=\"https://www.gamespot.com/games/minecraft/\">Minecraft</a> Live, Mojang is adding the first new dimension to the blocky sandbox game in more than a decade and a half.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The Sift is an ethereal-looking four",
       "fonte": "GameSpot",
+      "categoria": "Geral",
       "data": "Sat, 26 Sep 2026 18:00:00 +0000",
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/09/MINECRAFT-DUNGEONS-II-_-Official-Gameplay-Trailer-0-14-screenshot-1.jpg?w=300"
     },
@@ -383,6 +430,7 @@
       "link": "https://news.xbox.com/en-us/2026/09/26/minecraft-live-fall-2026-recap/",
       "resumo": "<p>The post <a href=\"https://news.xbox.com/en-us/2026/09/26/minecraft-live-fall-2026-recap/\">Minecraft LIVE Fall 2026 Recap</a> appeared first on <a href=\"https://news.xbox.com/en-us\">XBOX Wire</a>.</p>",
       "fonte": "Xbox Wire",
+      "categoria": "Xbox",
       "data": "Sat, 26 Sep 2026 17:45:00 +0000",
       "imagem": ""
     },
@@ -391,6 +439,7 @@
       "link": "https://www.gamespot.com/articles/the-next-minecraft-update-adds-ice-caves-a-new-mob-and-more/",
       "resumo": "<p class=\"wp-block-paragraph\">Minecraft's next game drop will add a new underground environment to the sandbox game, along with a new hostile mob, and items that bring frosty mechanics to exploration and combat.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Announced during Minecraft Live on September 26, th",
       "fonte": "GameSpot",
+      "categoria": "Geral",
       "data": "Sat, 26 Sep 2026 17:30:00 +0000",
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/09/MCV_Frozen_Zombie_1920x1080.png?w=300"
     },
@@ -399,6 +448,7 @@
       "link": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-2-a-sophomore-slump",
       "resumo": "<p><strong>Cavern club.</strong></p><p>We are one week closer to the 5th November launch of <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend_of_zelda_ocarina_of_time\">Ocarina of Time</a> on Switch 2, so that means it's time for my <em>second</em> replay catch-up.</p><p>For those ",
       "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
       "data": "Sat, 26 Sep 2026 17:00:00 GMT",
       "imagem": "https://images.nintendolife.com/a8410a5467625/large.jpg"
     },
@@ -407,6 +457,7 @@
       "link": "https://www.nintendolife.com/features/interview-were-not-making-a-party-game-now-its-more-of-an-evening-thing-ghost-town-is-moving-on-from-overcooked",
       "resumo": "<p><strong>\"I absolutely love Luigi's Mansion!\".</strong></p><p>We've all experienced a game-induced argument over the years, and for most of us here at Nintendo Life Towers, Ghost Town Games is to thank.</p><p>This is the developer that brought us <a href=\"https://www.nintendolife.com/games/switch-",
       "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
       "data": "Sat, 26 Sep 2026 14:00:00 GMT",
       "imagem": "https://images.nintendolife.com/5aa975fd27eeb/large.jpg"
     },
@@ -415,6 +466,7 @@
       "link": "https://www.nintendolife.com/features/anniversary-castlevania-changed-the-shape-of-gaming-40-years-ago",
       "resumo": "<p><strong>What is a man?!</strong></p><p>Gaming franchises really don't get much more iconic than <strong>Castlevania</strong>.</p><p>First launched as <a href=\"https://www.nintendolife.com/games/nes/castlevania\">Akumajō Dracula</a> for the humble NES on <strong>26th September 1986</strong>, the se",
       "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
       "data": "Sat, 26 Sep 2026 11:00:00 GMT",
       "imagem": "https://images.nintendolife.com/002eace4d8253/large.jpg"
     },
@@ -423,6 +475,7 @@
       "link": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-26th-september",
       "resumo": "<p><strong>Hyrule beckons.</strong></p><p>Well folks, you made it through another week – well done! It's felt like a bit of a heavy one, with some world leaders shouting at each other, others hosting absurdly lavish dinner parties, and lots more discourse around AI, as always.</p><p>Good job we've g",
       "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
       "data": "Sat, 26 Sep 2026 09:00:00 GMT",
       "imagem": "https://images.nintendolife.com/3a0ae37bda6e8/large.jpg"
     },
@@ -431,6 +484,7 @@
       "link": "https://store.steampowered.com/news/275791/",
       "resumo": "<a href=\"http://store.steampowered.com/app/367270/\">Angels Fall First</a> is Now Available on Steam and is 10% off!*<br /><br />From commanding the battle standing on the bridge of your flagship all the way down to tactical infantry firefights - AFF brings together all the combat you ever loved in a",
       "fonte": "Steam News",
+      "categoria": "Steam",
       "data": "Sat, 11 Jul 2026 14:59:51 -0700",
       "imagem": ""
     },
@@ -439,6 +493,7 @@
       "link": "https://store.steampowered.com/news/271749/",
       "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Fixed crash related to wearables leaking when weapons are dropped (community fix f",
       "fonte": "Steam News",
+      "categoria": "Steam",
       "data": "Mon, 25 May 2026 09:09:00 -0700",
       "imagem": ""
     },
@@ -447,6 +502,7 @@
       "link": "https://blog.playstation.com/2026/09/21/lisa-x-playstation-arrives-this-october-first-look-at-the-dualsense-wireless-controller-lisa-limited-edition-and-all-new-merchandise/",
       "resumo": "Last year, we teamed up with Lisa for the first time on our global PS5 campaign. Today, we’re taking our collaboration a step further with an all-new DualSense wireless controller – Lisa Limited Edition and a new merchandise collection designed with Lisa herself. Lisa’s journey has taken her from he",
       "fonte": "PlayStation Blog",
+      "categoria": "PlayStation",
       "data": "Mon, 21 Sep 2026 12:00:58 +0000",
       "imagem": ""
     },
@@ -455,6 +511,7 @@
       "link": "https://blog.playstation.com/2026/09/21/silent-hill-townfall-9-ways-first-person-changes-the-iconic-horror-formula/",
       "resumo": "The Silent Hill franchise has evolved with its most recent entries, expanding into settings that go beyond the eponymous foggy American town. In Silent Hill: Townfall, it also taps into a new way to terrify players, shifting from a traditionally third-person perspective to first-person. The series h",
       "fonte": "PlayStation Blog",
+      "categoria": "PlayStation",
       "data": "Mon, 21 Sep 2026 07:00:18 +0000",
       "imagem": "https://blog.playstation.com/uploads/2026/09/3bba29e29f072e51269d08071e5468b43b50f1b9.mp4"
     },
@@ -463,6 +520,7 @@
       "link": "https://www.gamespot.com/articles/microsoft-ceo-attempts-to-kill-remaining-xbox-goodwill/",
       "resumo": "<p class=\"wp-block-paragraph\">After Xbox <a href=\"https://www.gamespot.com/articles/xbox-after-the-layoffs-studios-left-and-what-theyre-making/\">laid off 1,600 employees</a> over the summer, Microsoft's gaming division followed up <a href=\"https://www.gamespot.com/articles/all-the-major-xbox-changes",
       "fonte": "GameSpot",
+      "categoria": "Geral",
       "data": "Fri, 25 Sep 2026 23:06:32 +0000",
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/09/Xbox-1.png?w=300"
     },
@@ -471,6 +529,7 @@
       "link": "https://devforum.roblox.com/t/weekly-recap-september-21-25-2026/4894110",
       "resumo": "<blockquote>\n<h3>Key Takeaways</h3>\n<p>Players can now discover and buy a game’s passes and developer products outside the experience, while the Transaction Refunded webhook lets creators act on refunds and chargebacks. Studio added quad support for <code>EditableMesh</code>, Acoustic Simulation mov",
       "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
       "data": "Fri, 25 Sep 2026 21:56:10 +0000",
       "imagem": ""
     },
@@ -479,6 +538,7 @@
       "link": "https://www.gamespot.com/articles/this-diablo-4-trick-lets-you-become-stronger-than-ever-but-it-might-not-be-intended/",
       "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/games/diablo-iv/\">Diablo 4</a> players are decking themselves out in full sets of Mythic Unique gear as part of Season 15, resulting in characters that are more powerful than ever before. Whether that was Blizzard's goal, or this is sim",
       "fonte": "GameSpot",
+      "categoria": "Geral",
       "data": "Fri, 25 Sep 2026 19:30:52 +0000",
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/09/Diablo-4-S15-Full-Mythics-Trick.jpg?w=300"
     },
@@ -487,6 +547,7 @@
       "link": "https://news.xbox.com/en-us/2026/09/25/five-ways-to-build-a-better-used-car-business/",
       "resumo": "<p>Buying a cheap car is easy. Figuring out whether it is actually a good deal takes a little more work. In Used Cars Simulator, every vehicle can be an opportunity &#8211; or a collection of dents, missing parts, and unexpected expenses waiting to eat into your profit. Growing your business means l",
       "fonte": "Xbox Wire",
+      "categoria": "Xbox",
       "data": "Fri, 25 Sep 2026 18:00:00 +0000",
       "imagem": ""
     },
@@ -495,6 +556,7 @@
       "link": "https://blog.playstation.com/2026/09/25/official-playstation-podcast-episode-548-september-selects/",
       "resumo": "Email us at PSPodcast@sony.com! Subscribe via Apple Podcasts, Spotify, or download here Hey, everybody! We’re back this week to talk through September&#8217;s big releases and other recent titles we’re still playing. Stuff We Talked About The Cast Thanks to Dormilón for our rad theme song and show m",
       "fonte": "PlayStation Blog",
+      "categoria": "PlayStation",
       "data": "Fri, 25 Sep 2026 17:20:35 +0000",
       "imagem": "https://traffic.libsyn.com/playstation/Episode_548.mp3"
     },
@@ -503,6 +565,7 @@
       "link": "https://www.gamespot.com/articles/yes-beyond-good-evil-2-is-somehow-still-in-development/",
       "resumo": "<p class=\"wp-block-paragraph\">No news is good news, they say. They also say that some news, however little, is good news, too, and girl, do we have <em>some</em> news: Ubisoft's struggling action-adventure game <a href=\"https://www.gamespot.com/games/beyond-good-and-evil-2/\">Beyond Good &amp; Evil 2",
       "fonte": "GameSpot",
+      "categoria": "Geral",
       "data": "Fri, 25 Sep 2026 17:13:13 +0000",
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/09/bge-image.jpg?w=300"
     },
@@ -511,6 +574,7 @@
       "link": "https://www.gamespot.com/articles/switch-pirate-ignored-nintendos-lawsuit-now-he-owes-4-5-million/",
       "resumo": "<p class=\"wp-block-paragraph\">After <a href=\"https://www.gamespot.com/articles/nintendo-is-suing-a-reddit-moderator-for-4-5-million/1100-6535259/\">suing a former Reddit moderator in October 2025 for pirating Switch games</a>, a Washington court has ordered the individual in question to pay Nintendo ",
       "fonte": "GameSpot",
+      "categoria": "Geral",
       "data": "Fri, 25 Sep 2026 16:08:07 +0000",
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/09/ITYSL-Pirate.jpg?w=300"
     },
@@ -519,6 +583,7 @@
       "link": "https://blog.playstation.com/2026/09/25/share-of-the-week-marvels-wolverine/",
       "resumo": "Last week, we asked you to share ferocious moments from Marvel’s Wolverine using #PSshare #PSBlog for a chance to be featured. Here are this week’s highlights: adambomb2mk shares Wolverine’s claws illuminated in the shadows NickVPgamer shares a hairy and shirtless Wolverine crisg_art shares Wolverin",
       "fonte": "PlayStation Blog",
+      "categoria": "PlayStation",
       "data": "Fri, 25 Sep 2026 16:00:47 +0000",
       "imagem": ""
     },
@@ -527,6 +592,7 @@
       "link": "https://news.xbox.com/en-us/2026/09/25/gears-of-war-e-day-liquid-death/",
       "resumo": "<p>Gears of War: E-Day launches with a collab that puts a Legendary pose in your hands. We&#8217;re teaming up with Liquid Death from September 25 through November 30, bringing an in-game reward, a limited-edition merch drop, and a new way to gear up for Emergence Day. Unlock Chainsaw Flex Pick up L",
       "fonte": "Xbox Wire",
+      "categoria": "Xbox",
       "data": "Fri, 25 Sep 2026 16:00:00 +0000",
       "imagem": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/ChainsawFlex-Resize_1x1-GIF.mp4"
     },
@@ -535,6 +601,7 @@
       "link": "https://www.gamespot.com/articles/castlevania-turns-40-and-konami-may-have-just-teased-a-3d-collection/",
       "resumo": "<p class=\"wp-block-paragraph\">Castlevania celebrated its 40th anniversary this week--an impressive milestone in video games and a terrifying pair of numbers for anyone who was born in 1987. Konami marked the occasion with a new video paying tribute to the original whip-slinging hero of the 1986 Fami",
       "fonte": "GameSpot",
+      "categoria": "Geral",
       "data": "Fri, 25 Sep 2026 15:00:37 +0000",
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/09/Castlevania-Birthday_8067a2.jpg?w=300"
     },
@@ -543,6 +610,7 @@
       "link": "https://news.xbox.com/en-us/2026/09/25/delta-force-second-anniversary-interview/",
       "resumo": "<p>Has It Really Been Two Years? An anniversary is a great checkpoint for a live game. It is a reason to celebrate, and a chance to look at how far the game has moved from the version first placed in players&#8217; hands. Delta Force began on PC, expanded to mobile a few months later, and [&#8230;]<",
       "fonte": "Xbox Wire",
+      "categoria": "Xbox",
       "data": "Fri, 25 Sep 2026 15:00:00 +0000",
       "imagem": ""
     },
@@ -551,6 +619,7 @@
       "link": "https://news.xbox.com/en-us/2026/09/25/ace-combat-8-wings-of-theve-high-flying-drama-xbox/",
       "resumo": "<p>Few game franchises capture the fantasy of becoming an ace pilot quite like Ace Combat – with accessible arcade-like controls, beautiful looking fighter jets, and cinematic storytelling, it has long been a recipe for a good time for over 30 years. Ace Combat 8: Wings of Theve returns us to that w",
       "fonte": "Xbox Wire",
+      "categoria": "Xbox",
       "data": "Fri, 25 Sep 2026 14:30:00 +0000",
       "imagem": ""
     },
@@ -559,6 +628,7 @@
       "link": "https://blog.playstation.com/2026/09/25/how-ace-combat-8-wings-of-theve-uses-first-person-to-tell-a-more-personal-story/",
       "resumo": "The world of Strangereal, setting of the Ace Combat games, has developed a deep and storied history over the course of the series. But with Ace Combat 8: Wings of Theve, developer Project Aces has changed its approach to storytelling to create a more intimate and emotional tale than it has in the pa",
       "fonte": "PlayStation Blog",
+      "categoria": "PlayStation",
       "data": "Fri, 25 Sep 2026 14:00:34 +0000",
       "imagem": "https://blog.playstation.com/uploads/2028/09/2621ae7e8264ff8c4748204c7b89a5fa18a0971f.mp4"
     },
@@ -567,6 +637,7 @@
       "link": "https://news.xbox.com/en-us/2026/09/25/next-week-on-xbox-new-games-for-september-28-to-october-2/",
       "resumo": "<p>Welcome to Next Week on XBOX! In this weekly feature we cover all the games coming soon to XBOX Series X&#124;S, XBOX One, XBOX on PC, and Game Pass! Get more details on these upcoming games below and click their profiles for further info (release dates subject to change). Let’s jump in! Minecraf",
       "fonte": "Xbox Wire",
+      "categoria": "Xbox",
       "data": "Fri, 25 Sep 2026 14:00:00 +0000",
       "imagem": ""
     },
@@ -575,6 +646,7 @@
       "link": "https://www.gamespot.com/articles/gears-of-war-e-day-preload-times-install-size-and-global-launch-dates/",
       "resumo": "<p class=\"wp-block-paragraph\">Several years have passed since the last new Gears of War game was released, but at long last, that drought is almost over. <a href=\"https://www.gamespot.com/games/gears-of-war-e-day/\">Gears of War: E-Day</a> will be one of the early highlights of October, and if you're",
       "fonte": "GameSpot",
+      "categoria": "Geral",
       "data": "Fri, 25 Sep 2026 11:45:22 +0000",
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/09/Gears-E-Day_49b4cc.jpg?w=300"
     },
@@ -583,6 +655,7 @@
       "link": "https://devforum.roblox.com/t/release-notes-for-731/4754888",
       "resumo": "<p>Hey everyone, it took some doing, but 731 is out the door. You can check out the release notes here.</p>\n<aside class=\"onebox allowlistedgeneric\">\n  <header class=\"source\">\n      <img class=\"site-icon\" height=\"48\" src=\"https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original",
       "fonte": "Roblox - Atualizações",
+      "categoria": "Roblox",
       "data": "Fri, 24 Jul 2026 18:24:56 +0000",
       "imagem": ""
     },
@@ -591,6 +664,7 @@
       "link": "https://store.steampowered.com/news/271650/",
       "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Fixed crash related to KeyValues<br /><li>Fixed Mk.II Botkiller eyes not glowing i",
       "fonte": "Steam News",
+      "categoria": "Steam",
       "data": "Fri, 22 May 2026 15:29:00 -0700",
       "imagem": ""
     },
@@ -599,6 +673,7 @@
       "link": "https://devforum.roblox.com/t/weekly-recap-september-14%E2%80%9320-2026/4880336",
       "resumo": "<blockquote>\n<h3>Key Takeaways</h3>\n<p>Player Support entered early access, while Studio gained new collision-geometry controls. The Creator Roadmap added 72 RDC items, and YouTube videos will leave game detail pages September 30 in favor of direct Creator Hub uploads.</p>\n<p>Check the full recap!</",
       "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
       "data": "Fri, 18 Sep 2026 22:07:07 +0000",
       "imagem": ""
     },
@@ -607,6 +682,7 @@
       "link": "https://devforum.roblox.com/t/creator-roadmap-2026-fall-update/4880208",
       "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>We’ve added 72 new items to the Creator Roadmap from RDC. They span Studio workflows, engine and rendering, avatars, discovery, monetization, safety, and Creator Hub analytics.</p>\n<p>Find them all on the <a href=\"https://create.r",
       "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
       "data": "Fri, 18 Sep 2026 20:50:49 +0000",
       "imagem": ""
     },
@@ -615,6 +691,7 @@
       "link": "https://devforum.roblox.com/t/youtube-videos-will-be-removed-from-game-detail-pages/4879633",
       "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Starting September 30, 2026, YouTube videos will be removed from game details pages. You can upload a gameplay video directly in Creator Hub for free to keep your game’s video featured.</p>\n<p>Upload through Creator Hub &gt; Confi",
       "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
       "data": "Fri, 18 Sep 2026 16:00:06 +0000",
       "imagem": ""
     },
@@ -623,6 +700,7 @@
       "link": "https://blog.playstation.com/2026/09/18/share-of-the-week-seasons/",
       "resumo": "Last week, we asked you to celebrate the seasons using #PSshare #PSBlog. Here are this week’s highlights: FlamingHobo666 shares a golden bird flying across a spring field in Ghost of Yōtei gh_holy_mash shares fallen autumn leaves in Onimusha: Way of the Sword raphxander_ shares the castle covered in",
       "fonte": "PlayStation Blog",
+      "categoria": "PlayStation",
       "data": "Fri, 18 Sep 2026 15:59:55 +0000",
       "imagem": ""
     },
@@ -631,6 +709,7 @@
       "link": "https://blog.playstation.com/2026/09/18/control-resonant-how-remedy-is-going-bigger-and-weirder-with-its-paranatural-horror-sequel-on-september-24/",
       "resumo": "Control was just the beginning. The paranatural realm established in Remedy Entertainment’s sci-fi action adventure thriller gets a full sequel in Control Resonant on PlayStation 5, which leaves the confines of the mysterious Oldest House and ventures into a world of terrifying entities, mind-bendin",
       "fonte": "PlayStation Blog",
+      "categoria": "PlayStation",
       "data": "Fri, 18 Sep 2026 13:00:08 +0000",
       "imagem": "https://blog.playstation.com/uploads/2028/09/45646d7cb562b3c32144b9fb05b8f9ffe0395c89.mp4"
     },
@@ -639,6 +718,7 @@
       "link": "https://store.steampowered.com/news/275718/",
       "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Updated the Beachcomber's Brim to fix an incorrect material<br /><li>Updated Taunt",
       "fonte": "Steam News",
+      "categoria": "Steam",
       "data": "Fri, 10 Jul 2026 12:00:00 -0700",
       "imagem": ""
     }
