@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/09/2026 às 06:08",
+  "atualizado_em": "29/09/2026 às 12:08",
   "total": 80,
   "noticias": [
     {
@@ -73,6 +73,33 @@
       "categoria": "Steam",
       "data": "Wed, 06 May 2026 11:02:00 -0700",
       "imagem": ""
+    },
+    {
+      "titulo": "Zelda 40th Anniversary Concert Tickets Go Live Tomorrow, 30th September (Europe)",
+      "link": "https://www.nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-go-live-tomorrow-30th-september-europe",
+      "resumo": "<p><strong>Additional dates teased.</strong></p><p>After being revealed earlier this month, Nintendo has finally shared that tickets for the European leg of the Zelda 40th Anniversary concert will go live tomorrow (<strong>30th September</strong>).</p><p>Ticket sales will begin at <strong>12pm BST /",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Tue, 29 Sep 2026 11:50:00 GMT",
+      "imagem": "https://images.nintendolife.com/6ad2c3ba7ec28/large.jpg"
+    },
+    {
+      "titulo": "Naughty Dog Is Working On Two New The Last Of Us Projects",
+      "link": "https://www.gamespot.com/articles/naughty-dog-is-working-on-two-new-the-last-of-us-projects/",
+      "resumo": "<p class=\"wp-block-paragraph\">Naughty Dog studio head Neil Druckmann has dropped some tantalizing news for fans of <a href=\"https://www.gamespot.com/games/the-last-of-us/\">The Last of Us</a>, confirming the studio is currently working on not one, but two new The Last of Us projects. Druckmann also g",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Tue, 29 Sep 2026 08:05:44 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/09/3649875-eunpbyrwaamcy4m.jpg?w=300"
+    },
+    {
+      "titulo": "Round Up: The First Reviews For The Witcher 3 Remastered Are In",
+      "link": "https://www.nintendolife.com/news/2026/09/round-up-the-first-reviews-for-the-witcher-3-remastered-are-in",
+      "resumo": "<p><strong>Here's what the critics had to say.</strong></p><p>Geralt returns this week in <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/witcher_iii_wild_hunt_-_remastered\">The Witcher 3: Wild Hunt Remastered</a>, and if you are an existing owner of this title on the Switch, you can g",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Tue, 29 Sep 2026 06:35:00 GMT",
+      "imagem": "https://images.nintendolife.com/eac6d8b131c29/large.jpg"
     },
     {
       "titulo": "Tales Of Eternia Is Getting A Proper Physical Release On Switch",
@@ -525,15 +552,6 @@
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-28-at-9.32.59-AM.png?w=300"
     },
     {
-      "titulo": "Minecraft Dungeons 2 Deliberately Moves Closer To Vanilla Minecraft",
-      "link": "https://www.gamespot.com/articles/minecraft-dungeons-2-deliberately-moves-closer-to-vanilla-minecraft/",
-      "resumo": "<p class=\"wp-block-paragraph\">Minecraft Dungeons 2 is taking a different approach to its relationship with vanilla Minecraft than its predecessor did. According to the game's developers, the sequel deliberately moves closer to the mechanics and feel of the original sandbox game, in part because the ",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Mon, 28 Sep 2026 14:00:00 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/09/dungeons-2-vanilla.jpg?w=300"
-    },
-    {
       "titulo": "Suri: The Seventh Note launches Oct 30 on PS5",
       "link": "https://blog.playstation.com/2026/09/28/suri-the-seventh-note-launches-oct-30-on-ps5/",
       "resumo": "After four years of development, we’re ecstatic to reveal that our debut game, Suri: The Seventh Note will finally be available from October 30, 2026 on PS5. Every environment, character, and animation has been meticulously illustrated to create a distinctive visual identity. The island itself draws",
@@ -559,24 +577,6 @@
       "categoria": "PlayStation",
       "data": "Mon, 28 Sep 2026 12:00:14 +0000",
       "imagem": "https://blog.playstation.com/uploads/2026/09/254eb34604b011e523c806c3e4b59fc8bc82ba3e.mp4"
-    },
-    {
-      "titulo": "Video: The Witcher 3 Remastered Side-By-Side Comparison, Switch Vs. Switch 2",
-      "link": "https://www.nintendolife.com/news/2026/09/video-the-witcher-3-remastered-side-by-side-comparison-switch-vs-switch-2",
-      "resumo": "<p><strong>Ciriously.</strong></p><p>Somehow, <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/witcher_iii_wild_hunt_-_remastered\">The Witcher III: Wild Hunt</a> returned. CD Projekt Red surprised us all earlier this summer with the announcement that it was bringing the beloved RPG to S",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Mon, 28 Sep 2026 10:30:00 GMT",
-      "imagem": "https://images.nintendolife.com/ec0239b60a0b9/large.jpg"
-    },
-    {
-      "titulo": "UK Charts: Fire Emblem: Fortune's Weave Drops To Number 8 As FC 27 Tops The Podium",
-      "link": "https://www.nintendolife.com/news/2026/09/uk-charts-fire-emblem-fortunes-weave-drops-to-number-8-as-fc-27-tops-the-podium",
-      "resumo": "<p><strong>Fooseball? You playin' the fooseball?!</strong></p><p>The latest UK charts data is in, and with the release of <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/ea-sports-fc-27\">EA Sports FC 27</a> on 25th September, it's no surprise to find the football sim makes its debut at",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Mon, 28 Sep 2026 09:00:00 GMT",
-      "imagem": "https://images.nintendolife.com/8424f587c09dd/large.jpg"
     },
     {
       "titulo": "Team Fortress 2 Update Released",
