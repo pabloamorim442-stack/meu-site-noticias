@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/10/2026 às 18:08",
+  "atualizado_em": "03/10/2026 às 00:08",
   "total": 80,
   "noticias": [
     {
@@ -90,15 +90,6 @@
       "fonte": "Steam News",
       "categoria": "Steam",
       "data": "Wed, 08 Jul 2026 16:13:00 -0700",
-      "imagem": ""
-    },
-    {
-      "titulo": "Left 4 Dead - Update",
-      "link": "https://store.steampowered.com/news/270398/",
-      "resumo": "An update has been released for Left 4 Dead:<br /><br />- Fixed several exploits that could be used to crash servers or remote players.",
-      "fonte": "Steam News",
-      "categoria": "Steam",
-      "data": "Wed, 06 May 2026 11:02:00 -0700",
       "imagem": ""
     },
     {
@@ -255,6 +246,15 @@
       "imagem": "https://images.nintendolife.com/7d27aceda35f0/large.jpg"
     },
     {
+      "titulo": "The Xbox Cloud Gaming Controller Is Not Dead, Apparently",
+      "link": "https://www.gamespot.com/articles/the-xbox-cloud-gaming-controller-is-dead-apparently/",
+      "resumo": "<p class=\"wp-block-paragraph\">Microsoft agreed to several big changes to appease regulators in its effort to get the blockbuster $75.4 billion deal to buy Activision Blizzard approved, including tweaks to its cloud-gaming projects. Now, more than a year later, we're still learning more about this, i",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Thu, 01 Oct 2026 16:25:57 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Xboxcloudgaming-Large.jpeg?w=300"
+    },
+    {
       "titulo": "IKEA and XBOX YXSTABY Collection: How the Collaboration Came Together | Official XBOX Podcast",
       "link": "https://news.xbox.com/en-us/2026/10/01/ikea-and-xbox-yxstaby-collection-how-the-collaboration-came-together-official-xbox-podcast/",
       "resumo": "<p>In this episode of the Official XBOX Podcast, we&#8217;re bringing a bit more style and design to our lives, as we&#8217;re sitting down with the teams behind the collaboration between XBOX and IKEA. We&#8217;re checking out some of our favorite pieces of the collection including chairs, stools, ",
@@ -381,15 +381,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Weekly Recap: September 14–20, 2026",
-      "link": "https://devforum.roblox.com/t/weekly-recap-september-14%E2%80%9320-2026/4880336",
-      "resumo": "<blockquote>\n<h3>Key Takeaways</h3>\n<p>Player Support entered early access, while Studio gained new collision-geometry controls. The Creator Roadmap added 72 RDC items, and YouTube videos will leave game detail pages September 30 in favor of direct Creator Hub uploads.</p>\n<p>Check the full recap!</",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Fri, 18 Sep 2026 22:07:07 +0000",
-      "imagem": ""
-    },
-    {
       "titulo": "Team Fortress 2 Update Released",
       "link": "https://store.steampowered.com/news/275718/",
       "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Updated the Beachcomber's Brim to fix an incorrect material<br /><li>Updated Taunt",
@@ -397,6 +388,60 @@
       "categoria": "Steam",
       "data": "Fri, 10 Jul 2026 12:00:00 -0700",
       "imagem": ""
+    },
+    {
+      "titulo": "End Of Abyss Patch Fixes Most Of My Complaints Just One Day After Launch",
+      "link": "https://www.gamespot.com/articles/end-of-abyss-patch-fixes-most-of-my-complaints-just-one-day-after-launch/",
+      "resumo": "<p class=\"wp-block-paragraph\">I spent a few days playing Section 9 Interactive's creepy metroidvania and writing my <a href=\"https://www.gamespot.com/reviews/end-of-abyss-review/\"><strong>End of Abyss review</strong></a>, and ultimately concluded it was a fun but inconsistent experience hindered by ",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Fri, 02 Oct 2026 23:26:26 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/end-of-abyss-sgf-demo-screenshot-2-1920x1080-723902e259f1.jpg?w=300"
+    },
+    {
+      "titulo": "Novas imagens de GTA 6 destacam o relacionamento de Lucia e Jason",
+      "link": "https://br.ign.com/grand-theft-auto-vi/156604/novas-imagens-de-gta-6-destacam-o-relacionamento-de-lucia-e-jason",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/b/brand-new-/brand-new-gta-6-screenshots-focus-on-lucia-and-jasons-relati_ghgr.640.jpg\" vspace=\"5\" width=\"120\" />\nAdoro ver isso",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 02 Oct 2026 22:43:05 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/b/brand-new-/brand-new-gta-6-screenshots-focus-on-lucia-and-jasons-relati_ghgr.jpg"
+    },
+    {
+      "titulo": "Weekly Recap: September 28–October 2, 2026",
+      "link": "https://devforum.roblox.com/t/weekly-recap-september-28%E2%80%93october-2-2026/4910267",
+      "resumo": "<blockquote>\n<h3>Key Takeaways</h3>\n<p>This week, Roblox introduced Early Harm Detection for experiments, expanded camera-based Frustum Streaming, and announced upcoming API rate-limit changes. Ads Manager expanded its Earnings objective and reporting, while Roblox launched <span class=\"mention\">@Ro",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Fri, 02 Oct 2026 22:02:44 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "iPhone 16e despenca de preço na Amazon com cupom de R$ 200 OFF",
+      "link": "https://br.ign.com/descontos/156603/iphone-16e-despenca-de-preco-na-amazon-com-cupom-de-r-200-off",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/iphone-16e-thumbnail_qq8v.640.jpg\" vspace=\"5\" width=\"120\" />\nModelo na cor branca e 128 GB de armazenamento cai para pouco mais de R$ 3 mil",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 02 Oct 2026 20:37:41 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/iphone-16e-thumbnail_qq8v.jpg"
+    },
+    {
+      "titulo": "GTA 6 Screenshot Suggests It Won’t Be Shy About Movie References",
+      "link": "https://www.gamespot.com/articles/gta-6-screenshot-suggests-it-wont-be-shy-about-movie-references/",
+      "resumo": "<p class=\"wp-block-paragraph\">A new screenshot from <a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">Grand Theft Auto 6</a> has arrived, and fans immediately noticed that it appears to be referencing the iconic opening scene from Quentin Tarant",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Fri, 02 Oct 2026 19:41:02 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Jason_and_Lucia_13.jpg?w=300"
+    },
+    {
+      "titulo": "VisionQuest, Amor Doce Amor, Grey's Anatomy e mais: todas as estreias do Disney+ em outubro de 2026",
+      "link": "https://br.ign.com/cinema-tv/156602/visionquest-amor-doce-amor-greys-anatomy-e-mais-todas-as-estreias-do-disney-em-outubro-de-2026",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/v1_hun2.640.jpg\" vspace=\"5\" width=\"120\" />Confira a lista completa de produções que chegam ao Disney+ no mês de outubro de 2026\n<p>O serviço de streaming <a href=\"https://br.ign.com/disney-plus\">Disney+</a> revel",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 02 Oct 2026 18:32:07 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/v1_hun2.jpg"
     },
     {
       "titulo": "Official PlayStation Podcast Episode 549: Friendly Ghosts",
@@ -534,6 +579,15 @@
       "imagem": "https://images.nintendolife.com/3182a0ac54d88/large.jpg"
     },
     {
+      "titulo": "Team Fortress 2 Update Released",
+      "link": "https://store.steampowered.com/news/285419/",
+      "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Adding missing zi_ strings<br /><li>Fixed some missing VO lines for the Taunt: One",
+      "fonte": "Steam News",
+      "categoria": "Steam",
+      "data": "Fri, 02 Oct 2026 15:20:00 -0700",
+      "imagem": ""
+    },
+    {
       "titulo": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #3 - I Hate This Place",
       "link": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-3-i-hate-this-place",
       "resumo": "<p><strong>Into the belly of the beast.</strong></p><p>The <a href=\"https://www.nintendolife.com/tags/countdown\">countdown</a> continues! My weekly adventures through <a href=\"https://www.nintendolife.com/games/n64/legend_of_zelda_ocarina_of_time\">Ocarina of Time</a>'s dungeons have brought me to th",
@@ -606,33 +660,6 @@
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Streamer-Ban.jpg?w=300"
     },
     {
-      "titulo": "Disney Responds To Rumor That It Could Buy Fortnite Studio Epic Games",
-      "link": "https://www.gamespot.com/articles/disney-responds-to-rumor-that-it-could-buy-fortnite-studio-epic-games/",
-      "resumo": "<p class=\"wp-block-paragraph\">One juicy gaming rumor that continues to swirl is that The Walt Disney Company could buy Epic Games and Fortnite. It remains to be seen if such a deal may materialize, and now a top boss at the House of Mouse has directly responded.</p>\n\n\n\n<p class=\"wp-block-paragraph\">",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Fri, 02 Oct 2026 13:08:05 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Disney-Large.jpeg?w=300"
-    },
-    {
-      "titulo": "Mother Mary, Hora de Aventura: Missões Secundárias e mais: todas as estreias da HBO Max em outubro de 2026",
-      "link": "https://br.ign.com/cinema-tv/156587/mother-mary-hora-de-aventura-missoes-secundarias-e-mais-todas-as-estreias-da-hbo-max-em-outubro-de-2",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/1_uez8.640.jpg\" vspace=\"5\" width=\"120\" />Confira a lista completa das obras que chegam à plataforma de streaming\n<p>O serviço de streaming <a href=\"https://br.ign.com/hbo-max\">HBO Max</a> revelou quais títulos ch",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 02 Oct 2026 13:00:34 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/1_uez8.jpg"
-    },
-    {
-      "titulo": "Nova classificação etária de GTA 6 confirma que o jogo terá cenas de sexo",
-      "link": "https://br.ign.com/grand-theft-auto-vi/156588/nova-classificacao-etaria-de-gta-6-confirma-que-o-jogo-tera-cenas-de-sexo",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/n/new-gta-6-/new-gta-6-age-rating-confirms-game-will-feature-sex-scenes_sk77.640.jpg\" vspace=\"5\" width=\"120\" />\nIsso é diferente de GTA 5?",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 02 Oct 2026 13:00:12 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/n/new-gta-6-/new-gta-6-age-rating-confirms-game-will-feature-sex-scenes_sk77.jpg"
-    },
-    {
       "titulo": "Ghost of Yōtei Complete Edition – Erika Ishii interview",
       "link": "https://blog.playstation.com/2026/10/02/ghost-of-yotei-complete-edition-erika-ishii-interview/",
       "resumo": "Atsu&#8217;s hunt is not over. A year after the original game launched, PS5 players can dive into the Ghost of Yōtei Complete Edition. Available now on PS5, this brings together the story campaign, the Ghost of Yōtei Legends multiplayer mode, and two new major additions: the roguelike mode Most Want",
@@ -640,33 +667,6 @@
       "categoria": "PlayStation",
       "data": "Fri, 02 Oct 2026 13:00:05 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "The Street Fighter Movie’s Most Obscure Easter Egg Is For True Fighting Game Nerds",
-      "link": "https://www.gamespot.com/articles/the-street-fighter-movie-most-obscure-easter-egg-is-for-true-fighting-game-nerds/",
-      "resumo": "<p class=\"wp-block-paragraph\">Ahead of its release later this month, marketing for the <a href=\"https://www.gamespot.com/gallery/street-fighter-movie-release-date-cast-and-everything-we-know-so-far/2900-6770/\" rel=\"noreferrer noopener\" target=\"_blank\">Street Fighter movie</a> has focused on deep ref",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Fri, 02 Oct 2026 12:45:47 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/street-Fighter-37.jpg?w=300"
-    },
-    {
-      "titulo": "Activision Could Be Giving Halo Something It Hasn’t Had In Years: A Clean Slate",
-      "link": "https://www.gamespot.com/articles/activision-could-be-giving-halo-something-it-hasnt-had-in-years-a-clean-slate/",
-      "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/articles/activisions-halo-game-everything-we-know-so-far/\" rel=\"noreferrer noopener\" target=\"_blank\">Halo has a new home at Activision</a> following <a href=\"https://www.gamespot.com/articles/all-the-major-xbox-changes-microsoft-announc",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Fri, 02 Oct 2026 12:26:54 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/09/Halo-CE.jpg?w=300"
-    },
-    {
-      "titulo": "Relatos sobre atrasos nas filmagens de Vingadores: Guerras Secretas geram preocupação de que final da saga do multiverso da Marvel possa ser adiado",
-      "link": "https://br.ign.com/avengers-secret-wars/156586/relatos-sobre-atrasos-nas-filmagens-de-vingadores-guerras-secretas-geram-preocupacao-de-que-final-da",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/a/avengers-s/avengers-secret-wars-filming-delay-reports-spark-concern-tha_2rdf.640.jpg\" vspace=\"5\" width=\"120\" />\nO filme ser adiado para 2028 provavelmente afetaria o lançamento dos três projetos subsequentes da Marvel",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 02 Oct 2026 12:12:53 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/a/avengers-s/avengers-secret-wars-filming-delay-reports-spark-concern-tha_2rdf.jpg"
     },
     {
       "titulo": "\"Our Resources Are Limited\" - Sonic Boss Would Rather Focus On New Games Over Remasters Or Remakes",
