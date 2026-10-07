@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/10/2026 às 18:06",
+  "atualizado_em": "07/10/2026 às 00:08",
   "total": 80,
   "noticias": [
     {
@@ -19,6 +19,15 @@
       "categoria": "Roblox",
       "data": "Wed, 30 Sep 2026 21:28:39 +0000",
       "imagem": ""
+    },
+    {
+      "titulo": "PlayStation Plus Free Games For October 2026 Are Live Now",
+      "link": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-october-2026/",
+      "resumo": "<p class=\"wp-block-paragraph\">PlayStation has released this month's batch of free games for PlayStation Plus subscribers. All PS Plus members can claim a trio of freebies as of October 6--<strong>F1 25</strong>, <strong>Hunt: Showdown 1896</strong>, and <strong>Earth Defense Force: World Brothers 2<",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Wed, 30 Sep 2026 10:46:01 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/original/1179/11799911/4574311-image(7)large.jpeg?w=300"
     },
     {
       "titulo": "Release Notes for 732",
@@ -45,15 +54,6 @@
       "fonte": "Roblox - Anúncios",
       "categoria": "Roblox",
       "data": "Wed, 23 Sep 2026 20:45:04 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Introducing New Texture Generation Tools, Segment Any Mesh, and Image Previews",
-      "link": "https://devforum.roblox.com/t/introducing-new-texture-generation-tools-segment-any-mesh-and-image-previews/4890084",
-      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>This past week, we launched three new 3D/4D generation features in Studio: higher-quality texture generation with more creator control, mesh segmentation for imported models, and image previews for generated meshes and procedural ",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Wed, 23 Sep 2026 20:13:58 +0000",
       "imagem": ""
     },
     {
@@ -93,15 +93,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Players Can Now Find In-Game Items Outside Your Game",
-      "link": "https://devforum.roblox.com/t/players-can-now-find-in-game-items-outside-your-game/4888425",
-      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Your full catalog of passes and developer products can now appear outside your game. This gives players more places to find and buy your items.</p>\n<p>To qualify, list items in Creator Hub &gt; Monetization &gt; Shop and implement",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Tue, 22 Sep 2026 20:10:10 +0000",
-      "imagem": ""
-    },
-    {
       "titulo": "Team Fortress 2 Update Released",
       "link": "https://store.steampowered.com/news/276074/",
       "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Fixed missing sound for Taunt: Circuit Breaker<br /><li>Renamed \"Northern Nights\" ",
@@ -126,6 +117,78 @@
       "fonte": "Steam News",
       "categoria": "Steam",
       "data": "Tue, 07 Jul 2026 10:18:00 -0700",
+      "imagem": ""
+    },
+    {
+      "titulo": "Collision Summaries API: Detailed Collision Data From The Engine",
+      "link": "https://devforum.roblox.com/t/collision-summaries-api-detailed-collision-data-from-the-engine/4918568",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<ul>\n<li>We’ve introduced <code>BasePart:BindToCollisionSummaries</code> to give you precise physics collision data, including contact points, normals, and relative velocities.</li>\n<li>In Studio, call <code>BindToCollisionSummaries<",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Tue, 06 Oct 2026 21:50:55 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Santa Catarina receberá primeira edição do Pichau Arena 2026 com três dias de programação",
+      "link": "https://br.ign.com/games/156680/santa-catarina-recebera-primeira-edicao-do-pichau-arena-2026-com-tres-dias-de-programacao",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/2_hh6x.640.jpg\" vspace=\"5\" width=\"120\" />Megaevento acontece entre 10 e 12 de outubro em Joinville\n<p>Entre os dias 10 e 12 de outubro, Santa Catarina se tornará o epicentro do ecossistema gamer e geek no Brasil.",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 06 Oct 2026 21:04:26 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/2_hh6x.jpg"
+    },
+    {
+      "titulo": "CEO do Xbox, Asha Sharma revela mais detalhes sobre “família de dispositivos” do Projeto Helix",
+      "link": "https://br.ign.com/xbox/156679/ceo-do-xbox-asha-sharma-revela-mais-detalhes-sobre-familia-de-dispositivos-do-projeto-helix",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/x/xbox-ceo-a/xbox-ceo-asha-sharma-shares-more-details-on-project-helix-fa_2uae.640.jpg\" vspace=\"5\" width=\"120\" />\n“Não existe um único dispositivo que sirva para todos”",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 06 Oct 2026 20:35:46 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/x/xbox-ceo-a/xbox-ceo-asha-sharma-shares-more-details-on-project-helix-fa_2uae.jpg"
+    },
+    {
+      "titulo": "Fãs de GTA 6 acreditam que Jason pode ser o primeiro protagonista neurodivergente da franquia",
+      "link": "https://br.ign.com/grand-theft-auto-vi/156678/fas-de-gta-6-acreditam-que-jason-pode-ser-o-primeiro-protagonista-neurodivergente-da-franquia",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/g/gta-6-fans/gta-6-fans-theorize-jason-may-be-the-franchises-first-neurod_vanq.640.jpg\" vspace=\"5\" width=\"120\" />\"A cabeça dele funciona de um jeito diferente da das outras pessoas\"\n<p>Fãs de <a href=\"https://br.ign.com/grand-",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 06 Oct 2026 20:21:10 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/g/gta-6-fans/gta-6-fans-theorize-jason-may-be-the-franchises-first-neurod_vanq.jpg"
+    },
+    {
+      "titulo": "A Scary-Looking New Conjuring Game Just Got Announced, And It’s Out Next Week On Netflix",
+      "link": "https://www.gamespot.com/articles/a-scary-looking-new-conjuring-game-just-got-announced-and-its-out-next-week-on-netflix/",
+      "resumo": "<p class=\"wp-block-paragraph\">Out of nowhere, Netflix and Until Dawn developer Supermassive Games announced a new The Conjuring game, and it's out next week.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The Conjuring: Unspoken releases on October 13 through Netflix, so you don't need any dedicated hardware ",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Tue, 06 Oct 2026 19:26:05 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/conjuring-Large.jpeg?w=300"
+    },
+    {
+      "titulo": "Xbox Was At An “All Time Low,” But Is Now Growing Again CEO Says Without Providing Any Real Evidence",
+      "link": "https://www.gamespot.com/articles/xbox-was-at-an-all-time-low-but-is-now-growing-again-after-huge-cuts-ceo-says/",
+      "resumo": "<p class=\"wp-block-paragraph\">During a town hall meeting today, Xbox CEO Asha Sharma spoke to staff to help reassure them following mass layoffs and studio closures related to the \"reset\" of the business.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><a href=\"https://www.windowscentral.com/gaming/xbox/xbox-c",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Tue, 06 Oct 2026 19:03:50 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Xboxreset.png?w=300"
+    },
+    {
+      "titulo": "GTA 6 não será \"muito específico sobre nenhuma pessoa, evento ou movimento em particular”, afirma Rockstar",
+      "link": "https://br.ign.com/grand-theft-auto-vi/156668/gta-6-nao-sera-muito-especifico-sobre-nenhuma-pessoa-evento-ou-movimento-em-particular-afirma-rockst",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/g/gta-6-wont/gta-6-wont-be-too-specific-about-any-particular-person-event_hb2m.640.jpg\" vspace=\"5\" width=\"120\" />\n“Além disso, temos tantas maneiras de contar essas histórias sem ser pelos personagens”",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 06 Oct 2026 18:39:51 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/g/gta-6-wont/gta-6-wont-be-too-specific-about-any-particular-person-event_hb2m.jpg"
+    },
+    {
+      "titulo": "[Beta] if local Statements and Expressions",
+      "link": "https://devforum.roblox.com/t/beta-if-local-statements-and-expressions/4918297",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p><code>if local</code> and <code>if const</code> are new Luau language syntax that let you declare a variable directly inside an <code>if</code> or <code>elseif</code> condition.<br />\nAvailable now via the Beta Features tab in Rob",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Tue, 06 Oct 2026 18:26:01 +0000",
       "imagem": ""
     },
     {
@@ -156,6 +219,15 @@
       "imagem": "https://sm.ign.com/ign_br/screenshot/default/1_krvk.jpg"
     },
     {
+      "titulo": "inZOI Gameplay Screenshots (Early Access)",
+      "link": "https://br.ign.com/inzoi/156663/inzoi-gameplay-screenshots-early-access",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/i/inzoi-game/inzoi-gameplay-screenshots-early-access_fkbb.640.jpg\" vspace=\"5\" width=\"120\" />",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 06 Oct 2026 17:18:08 +0000",
+      "imagem": "https://sm.ign.com/ign_br/gallery/i/inzoi-game/inzoi-gameplay-screenshots-early-access_fkbb.jpg"
+    },
+    {
       "titulo": "Sony AI NPCs Patent Illustrations",
       "link": "https://br.ign.com/playstation-6/156662/sony-ai-npcs-patent-illustrations",
       "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/s/sony-ai-np/sony-ai-npcs-patent-illustrations_wxg4.640.jpg\" vspace=\"5\" width=\"120\" />",
@@ -174,15 +246,6 @@
       "imagem": "https://sm.ign.com/ign_br/news/s/sony-paten/sony-patent-would-let-an-ai-model-train-npcs-based-on-your-p_9ygn.jpg"
     },
     {
-      "titulo": "inZOI Gameplay Screenshots (Early Access)",
-      "link": "https://br.ign.com/inzoi/156663/inzoi-gameplay-screenshots-early-access",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/i/inzoi-game/inzoi-gameplay-screenshots-early-access_fkbb.640.jpg\" vspace=\"5\" width=\"120\" />",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 06 Oct 2026 17:18:08 +0000",
-      "imagem": "https://sm.ign.com/ign_br/gallery/i/inzoi-game/inzoi-gameplay-screenshots-early-access_fkbb.jpg"
-    },
-    {
       "titulo": "Michael Bay está em negociações para dirigir próximo filme da série Transformers, e Steven Spielberg retorna como produtor criativo principal",
       "link": "https://br.ign.com/transformers-theater/156664/michael-bay-esta-em-negociacoes-para-dirigir-proximo-filme-da-serie-transformers-e-steven-spielberg",
       "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/m/michael-ba/michael-bay-in-talks-to-direct-next-transformers-film-steven_7tva.640.jpg\" vspace=\"5\" width=\"120\" />\nPode ser um retorno épico",
@@ -190,42 +253,6 @@
       "categoria": "Geral",
       "data": "Tue, 06 Oct 2026 17:15:33 +0000",
       "imagem": "https://sm.ign.com/ign_br/news/m/michael-ba/michael-bay-in-talks-to-direct-next-transformers-film-steven_7tva.jpg"
-    },
-    {
-      "titulo": "PS5 Slim 825 GB fica mais barato em oferta relâmpago do Mercado Livre",
-      "link": "https://br.ign.com/descontos/156660/ps5-slim-825-gb-fica-mais-barato-em-oferta-relampago-do-mercado-livre",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/ps5-slim_k36j.640.png\" vspace=\"5\" width=\"120\" />\nModelo com 825 GB de armazenamento chega a um dos menores preços recentes na promoção do Mercado Livre!",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 06 Oct 2026 16:59:16 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/ps5-slim_k36j.png"
-    },
-    {
-      "titulo": "Marvel's Wolverine Review Screenshots",
-      "link": "https://br.ign.com/marvel-wolverine/156659/marvels-wolverine-review-screenshots",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/m/marvels-wo/marvels-wolverine-review-screenshots_1w7w.640.jpg\" vspace=\"5\" width=\"120\" />",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 06 Oct 2026 16:51:58 +0000",
-      "imagem": "https://sm.ign.com/ign_br/gallery/m/marvels-wo/marvels-wolverine-review-screenshots_1w7w.jpg"
-    },
-    {
-      "titulo": "\"Se não pode possuir, o que você está comprando?”: ex-chefe da PlayStation questiona decisão da Sony de acabar com a mídia física",
-      "link": "https://br.ign.com/playstation-5-2/156658/se-nao-pode-possuir-o-que-voce-esta-comprando-ex-chefe-da-playstation-questiona-decisao-da-sony-de-a",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/i/if-you-can/if-you-cant-own-it-what-are-you-buying-former-playstation-bo_fpgf.640.jpg\" vspace=\"5\" width=\"120\" />\n“Se você não pode vender algo, isso significa que não é dono de nada”",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 06 Oct 2026 16:51:58 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/i/if-you-can/if-you-cant-own-it-what-are-you-buying-former-playstation-bo_fpgf.jpg"
-    },
-    {
-      "titulo": "Controle 8BitDo Ultimate 2 WUCHANG: Fallen Feathers despenca de preço para membros Prime",
-      "link": "https://br.ign.com/descontos/156657/controle-8bitdo-ultimate-2-wuchang-fallen-feathers-despenca-de-preco-para-membros-prime",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_t5mt.640.jpg\" vspace=\"5\" width=\"120\" />\nEdição especial inspirada em WUCHANG aposta em vermelho intenso, detalhes dourados e iluminação RGB ao redor dos",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 06 Oct 2026 16:19:22 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_t5mt.jpg"
     },
     {
       "titulo": "STAR WARS: Galactic Racer — Crashing with Consequence in Runs-Based Racing",
@@ -345,24 +372,6 @@
       "imagem": "https://images.nintendolife.com/164879e88ba46/large.jpg"
     },
     {
-      "titulo": "Sega Announces $7,000 Sonic The Hedgehog Pottery, And I Can’t Stop Watching How It’s Made",
-      "link": "https://www.gamespot.com/articles/sega-announces-7000-sonic-the-hedgehog-pottery-and-i-cant-stop-watching-how-its-made/",
-      "resumo": "<p class=\"wp-block-paragraph\">Time flies by fast, especially if you're Sega's blue mascot, as 2026 marks the 35th anniversary of <a href=\"https://www.gamespot.com/games/sonic-the-hedgehog/\">Sonic the Hedgehog</a>. While Sega has various plans to commemorate the milestone, one of the most elegant is ",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Tue, 06 Oct 2026 13:24:32 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Sonic-Forever-Blue-6.jpg?w=300"
-    },
-    {
-      "titulo": "Steam Frame Gets VR Right Where So Many Others Went Wrong",
-      "link": "https://www.gamespot.com/articles/steam-frame-gets-vr-right-where-so-many-others-went-wrong/",
-      "resumo": "<p class=\"wp-block-paragraph\">The virtual reality market has grown over the years, and depending on your budget, there's <em>probably </em>a VR headset out there for you. But can your VR gaming budget stretch to over $1,000 for the entry-level <a href=\"https://www.gamespot.com/articles/steam-frame-r",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Tue, 06 Oct 2026 13:18:01 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Steam-Frame-Kurt.jpg?w=300"
-    },
-    {
       "titulo": "Preview: Nintendo Switch Sports Resort Is More Of The Same, But Better",
       "link": "https://www.nintendolife.com/previews/nintendo-switch-sports-resort-is-more-of-the-same-but-better",
       "resumo": "<p><strong>Wuhu Island: Be there or be (Spocco) Square.</strong></p><p>Back what seems like a lifetime ago, I got a chance to have a pop at <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/nintendo-switch-sports-resort\">Nintendo Switch Sports Resort</a> at gamescom <em></em> '26. No, I ",
@@ -370,15 +379,6 @@
       "categoria": "Nintendo",
       "data": "Tue, 06 Oct 2026 13:00:00 GMT",
       "imagem": "https://images.nintendolife.com/df1a92cd10d51/large.jpg"
-    },
-    {
-      "titulo": "Star Wars: Galactic Racer Is Free To Play Now, If You Know Where To Look",
-      "link": "https://www.gamespot.com/articles/star-wars-galactic-racer-is-free-to-play-now-if-you-know-where-to-look/",
-      "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/games/star-wars-galactic-racer/\">Star Wars: Galactic Racer</a> is finally out, and so far, it might just be one of the best Star Wars games ever made. The new racing game has an attractive MSRP of $60, but if you're looking to grab it f",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Tue, 06 Oct 2026 09:30:00 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/09/fanatical-star-wars-galactic-racer-pre-order-deal.jpg?w=300"
     },
     {
       "titulo": "Monster Hunter Rise Surpasses 20 Million Sales Worldwide",
