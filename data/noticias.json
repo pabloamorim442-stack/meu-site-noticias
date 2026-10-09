@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/10/2026 às 18:07",
+  "atualizado_em": "09/10/2026 às 00:09",
   "total": 80,
   "noticias": [
     {
@@ -18,33 +18,6 @@
       "fonte": "Roblox - Anúncios",
       "categoria": "Roblox",
       "data": "Wed, 30 Sep 2026 21:28:39 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Release Notes for 732",
-      "link": "https://devforum.roblox.com/t/release-notes-for-732/4763851",
-      "resumo": "<p>Hi all,<br />\nPleased to announce that 732 has landed. Enjoy!</p>\n<aside class=\"onebox allowlistedgeneric\">\n  <header class=\"source\">\n      <img class=\"site-icon\" height=\"48\" src=\"https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/1/1/0/6/110698a3ce54a71cc14aa009655",
-      "fonte": "Roblox - Atualizações",
-      "categoria": "Roblox",
-      "data": "Wed, 29 Jul 2026 18:44:52 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "New Transaction Refunded Webhook Notifies When a Purchase Is Cancelled",
-      "link": "https://devforum.roblox.com/t/new-transaction-refunded-webhook-notifies-when-a-purchase-is-cancelled/4890339",
-      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>The new Transaction Refunded webhook is now available in Open Cloud. When a Robux purchase in your game is refunded or charged back, you get an event so you can revoke the benefit you granted.</p>\n<p>Turn it on in Creator Hub unde",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Wed, 23 Sep 2026 22:45:04 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "[Studio Beta] Quad Support for EditableMesh APIs",
-      "link": "https://devforum.roblox.com/t/studio-beta-quad-support-for-editablemesh-apis/4890142",
-      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>EditableMesh now supports the creation of quad (four-sided) faces . This makes it easier and more efficient for creators to unlock quad-based mesh workflows without needing to represent every quad as two triangles.</p>\n<p>In Studi",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Wed, 23 Sep 2026 20:45:04 +0000",
       "imagem": ""
     },
     {
@@ -210,15 +183,6 @@
       "imagem": ""
     },
     {
-      "titulo": "I Hope This Teddy Bear Can Protect Me From Evil In This Week’s Epic Games Store Freebie",
-      "link": "https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419/",
-      "resumo": "<p class=\"wp-block-paragraph\">The Epic Games Store continues to give away a free game each week, and this week's offering is another nice find at a price that can't be beat. Every Thursday at 8 AM PT / 11 AM ET, Epic offers at least one free PC game (and sometimes even as many as two or three). All ",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Thu, 18 Jun 2026 15:01:00 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/06/Out-of-SIght.jpg?w=300"
-    },
-    {
       "titulo": "Release Notes for 739",
       "link": "https://devforum.roblox.com/t/release-notes-for-739/4876745",
       "resumo": "<p>Hi Creators!</p>\n<p>Today marks the day that Steve Jobs quit <img alt=\":red_apple:\" class=\"emoji\" height=\"20\" src=\"https://doy2mn9upadnk.cloudfront.net/images/emoji/twitter/red_apple.png?v=14\" title=\":red_apple:\" width=\"20\" /> in 1985 and rejoined in 1997. In related news, we also have something ",
@@ -235,6 +199,78 @@
       "categoria": "Steam",
       "data": "Thu, 16 Jul 2026 13:22:00 -0700",
       "imagem": ""
+    },
+    {
+      "titulo": "Automatic Translation for Text-to-Speech",
+      "link": "https://devforum.roblox.com/t/automatic-translation-for-text-to-speech/4922029",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Automatic translation is now available for the text-to-speech API (11 languages supported). Players hear generated speech in their language across supported games.</p>\n<p>The AutoLocalize property of your AudioTextToSpeech instanc",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Thu, 08 Oct 2026 20:42:17 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "[Studio Beta] Introducing State Machines and Luau Expressions for Animation Graphs",
+      "link": "https://devforum.roblox.com/t/studio-beta-introducing-state-machines-and-luau-expressions-for-animation-graphs/4921939",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h1>Key Takeaways</h1>\n<p>State Machine and Expression nodes are now in beta in the Animation Graph Editor. You can set up state transitions and parameter math in an animation graph instead of writing them in a Luau script.</p>\n<p>In Studio, go to File &gt",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Thu, 08 Oct 2026 19:37:40 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Ben Affleck Has Some Strong Opinions About Fortnite Skins And How Hard The Game Is For Him",
+      "link": "https://www.gamespot.com/articles/ben-affleck-has-some-strong-opinions-about-fortnite-skins-and-how-hard-the-game-is-for-him/",
+      "resumo": "<p class=\"wp-block-paragraph\">Have you ever wondered what two-time Oscar-winner Ben Affleck thinks about Fortnite skins, and the game generally? You can now rest easy, as the man himself has weighed in with some strong takes.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Appearing on the <a href=\"https://www",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Thu, 08 Oct 2026 19:36:37 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/affleck.png?w=300"
+    },
+    {
+      "titulo": "Release Notes for 742",
+      "link": "https://devforum.roblox.com/t/release-notes-for-742/4921935",
+      "resumo": "<p>Hyello, here are the <a href=\"https://create.roblox.com/docs/release-notes/release-notes-742\">release notes for 742</a>.</p>\n<p>I’ve recently been all over these candied pretzel snacks - something about the salty sweet crunchy combo is dominating my snacking habits lately. Anyone have any similar",
+      "fonte": "Roblox - Atualizações",
+      "categoria": "Roblox",
+      "data": "Thu, 08 Oct 2026 19:34:33 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Ubisoft Shutting Down Rainbow Six Mobile After Less Than A Year",
+      "link": "https://www.gamespot.com/articles/ubisoft-shutting-down-rainbow-six-mobile-after-less-than-a-year/",
+      "resumo": "<p class=\"wp-block-paragraph\">Ubisoft has announced that Rainbow Six Mobile is shutting down, and it didn't have a very long life. The game soft-launched in 2023, but properly rolled out for everyone back in February 2026. It will shut down on January 16, 2027, so it will have been online for less t",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Thu, 08 Oct 2026 19:11:11 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/SixMobile.png?w=300"
+    },
+    {
+      "titulo": "Cyberpunk 2077 Is Getting A Movie Adaptation At Call Of Duty Film Studio, Transformers Producer On Board",
+      "link": "https://www.gamespot.com/articles/cyberpunk-2077-is-getting-a-movie-adaptation-at-call-of-duty-film-studio-transformers-producer-on-board/",
+      "resumo": "<p class=\"wp-block-paragraph\">Movie studio Paramount has announced that it's making a Cyberpunk 2077 movie, becoming just the latest upcoming game adaptation. The studio is also behind the <a href=\"https://www.gamespot.com/articles/call-of-duty-movie-release-date-trailer-story-cast-director-writer/1",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Thu, 08 Oct 2026 18:33:08 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/CP2077.jpg?w=300"
+    },
+    {
+      "titulo": "Create IP-Based Avatar Items With Marketplace Licenses",
+      "link": "https://devforum.roblox.com/t/create-ip-based-avatar-items-with-marketplace-licenses/4921794",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>You can now apply for licenses to create and sell IP-based avatar items. Each IP owner will decide whether they will add this license option to the catalog. Licensed avatar items will display a badge. Licensed badges are coming so",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Thu, 08 Oct 2026 18:21:24 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Este thriller de seis episódios, no estilo Stephen King, promete ser o próximo sucesso da Netflix",
+      "link": "https://br.ign.com/netflix/156707/este-thriller-de-seis-episodios-no-estilo-stephen-king-promete-ser-o-proximo-sucesso-da-netflix",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/blob_rk13.640.png\" vspace=\"5\" width=\"120\" />\n“A visão ousada e ambiciosa do Jesse traz emoção em doses generosas, com o coração de um drama familiar\"",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Thu, 08 Oct 2026 18:00:37 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/blob_rk13.png"
     },
     {
       "titulo": "Clair Obscur: Expedition 33 Comes To Astral Ascent In New Crossover Update",
@@ -435,24 +471,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Xbox’s XP Is A Fancy New Name, But We’re Failing To See What’s Really Different Here",
-      "link": "https://www.gamespot.com/articles/xboxs-xp-is-a-fancy-new-name-but-were-failing-to-see-whats-really-different-here/",
-      "resumo": "<p class=\"wp-block-paragraph\">Xbox CEO Asha Sharma continues to reshape the gaming brand, this time with <a href=\"https://www.gamespot.com/articles/xbox-is-going-bigger-on-movies-tv-and-more-with-new-xp-division/\">the new XP division</a>. The clever moniker works for Xbox pictures, products, places,",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Thu, 08 Oct 2026 14:41:37 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Xbox-XP.jpg?w=300"
-    },
-    {
-      "titulo": "GTA 6 Reveals 6 Radio Stations, Plus Podcasts You Can Listen To On Foot",
-      "link": "https://www.gamespot.com/articles/gta-6-reveals-6-radio-stations-plus-podcasts-you-can-listen-to-on-foot/",
-      "resumo": "<p class=\"wp-block-paragraph\">Nothing enhances a crime spree better than a few needle-drop tracks, and in <a href=\"https://www.gamespot.com/games/grand-theft-auto-vi/\">Grand Theft Auto 6</a>, you'll have plenty of music stations to listen to while touring Leonida. Developer Rockstar Games has reveal",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Thu, 08 Oct 2026 14:38:32 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/GTA-6-Radio-stations.jpg?w=300"
-    },
-    {
       "titulo": "Japanese Charts: Xenoblade Chronicles 2 Scrapes Into The Top 10 With 5,000+ Sales",
       "link": "https://www.nintendolife.com/news/2026/10/japanese-charts-xenoblade-chronicles-2-scrapes-into-the-top-10-with-5000plus-sales",
       "resumo": "<p><strong>While Ace Combat 8 takes the crown.</strong></p><p>Famitsu has provided the latest look at Japan's boxed charts, and there are a few new faces once again this week.</p><p>For Nintendo fans, the highlight is <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/xenoblade-chronicles",
@@ -469,15 +487,6 @@
       "categoria": "Xbox",
       "data": "Thu, 08 Oct 2026 14:11:00 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "Xbox anuncia nova divisão XP Entertainment para produzir filmes, programas de TV e muito mais",
-      "link": "https://br.ign.com/a-minecraft-movie/156714/xbox-anuncia-nova-divisao-xp-entertainment-para-produzir-filmes-programas-de-tv-e-muito-mais",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/x/xbox-annou/xbox-announces-new-xp-entertainment-division-to-make-movies_gebv.640.png\" vspace=\"5\" width=\"120\" />\nSegunda tomada e... ação!",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Thu, 08 Oct 2026 13:45:41 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/x/xbox-annou/xbox-announces-new-xp-entertainment-division-to-make-movies_gebv.png"
     },
     {
       "titulo": "Nintendo Switch Sports Resort Looks Like A Game Night Delight In New Overview Trailer",
@@ -648,15 +657,6 @@
       "fonte": "PlayStation Blog",
       "categoria": "PlayStation",
       "data": "Mon, 05 Oct 2026 14:00:16 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Weekly Recap: September 21 - 25, 2026",
-      "link": "https://devforum.roblox.com/t/weekly-recap-september-21-25-2026/4894110",
-      "resumo": "<blockquote>\n<h3>Key Takeaways</h3>\n<p>Players can now discover and buy a game’s passes and developer products outside the experience, while the Transaction Refunded webhook lets creators act on refunds and chargebacks. Studio added quad support for <code>EditableMesh</code>, Acoustic Simulation mov",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Fri, 25 Sep 2026 21:56:10 +0000",
       "imagem": ""
     },
     {
