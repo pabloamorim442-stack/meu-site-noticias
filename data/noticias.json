@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "09/10/2026 às 18:07",
+  "atualizado_em": "10/10/2026 às 00:09",
   "total": 80,
   "noticias": [
     {
@@ -9,15 +9,6 @@
       "fonte": "Roblox - Atualizações",
       "categoria": "Roblox",
       "data": "Wed, 30 Sep 2026 21:50:53 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "[API Update] API Rate Limit Tuning",
-      "link": "https://devforum.roblox.com/t/api-update-api-rate-limit-tuning/4906160",
-      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>We’re lowering cookie and unauthenticated IP rate limits for six web API services after October 19. The new limits sit above observed peak usage, and Open Cloud limits don’t change.</p>\n<p>Find the affected endpoints in the tables",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Wed, 30 Sep 2026 21:28:39 +0000",
       "imagem": ""
     },
     {
@@ -63,15 +54,6 @@
       "fonte": "Xbox Wire",
       "categoria": "Xbox",
       "data": "Wed, 07 Oct 2026 15:00:00 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Frustum Streaming: Stream What Your Players See",
-      "link": "https://devforum.roblox.com/t/frustum-streaming-stream-what-your-players-see/4904553",
-      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Frustum Streaming is now available for camera based instance streaming. This lets you stream distant objects your players are actually looking at, like scoped targets or the road ahead in a racing game.</p>\n<p>Enable it with the F",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Tue, 29 Sep 2026 23:20:59 +0000",
       "imagem": ""
     },
     {
@@ -192,15 +174,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Ben Affleck Has Some Strong Opinions About Fortnite Skins And How Hard The Game Is For Him",
-      "link": "https://www.gamespot.com/articles/ben-affleck-has-some-strong-opinions-about-fortnite-skins-and-how-hard-the-game-is-for-him/",
-      "resumo": "<p class=\"wp-block-paragraph\">Have you ever wondered what two-time Oscar-winner Ben Affleck thinks about Fortnite skins, and the game generally? You can now rest easy, as the man himself has weighed in with some strong takes.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Appearing on the <a href=\"https://www",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Thu, 08 Oct 2026 19:36:37 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/affleck.png?w=300"
-    },
-    {
       "titulo": "Release Notes for 742",
       "link": "https://devforum.roblox.com/t/release-notes-for-742/4921935",
       "resumo": "<p>Hyello, here are the <a href=\"https://create.roblox.com/docs/release-notes/release-notes-742\">release notes for 742</a>.</p>\n<p>I’ve recently been all over these candied pretzel snacks - something about the salty sweet crunchy combo is dominating my snacking habits lately. Anyone have any similar",
@@ -208,15 +181,6 @@
       "categoria": "Roblox",
       "data": "Thu, 08 Oct 2026 19:34:33 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "Ubisoft Shutting Down Rainbow Six Mobile After Less Than A Year",
-      "link": "https://www.gamespot.com/articles/ubisoft-shutting-down-rainbow-six-mobile-after-less-than-a-year/",
-      "resumo": "<p class=\"wp-block-paragraph\">Ubisoft has announced that Rainbow Six Mobile is shutting down, and it didn't have a very long life. The game soft-launched in 2023, but properly rolled out for everyone back in February 2026. It will shut down on January 16, 2027, so it will have been online for less t",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Thu, 08 Oct 2026 19:11:11 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/SixMobile.png?w=300"
     },
     {
       "titulo": "Create IP-Based Avatar Items With Marketplace Licenses",
@@ -381,6 +345,123 @@
       "imagem": ""
     },
     {
+      "titulo": "Let’s All Be Happy This AAA Minesweeper Game Isn’t Real",
+      "link": "https://www.gamespot.com/articles/lets-all-be-happy-this-aaa-minesweeper-game-isnt-real/",
+      "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/games/minesweeper/\">Minesweeper</a> has been around for decades and it's probably overdue for some modern flourishes. Now there's a Triple-A Minesweeper parody that offers a hilarious look at what a Minesweeper update might look like.</",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Fri, 09 Oct 2026 23:23:44 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Minesweeper-AAA-parody.jpg?w=300"
+    },
+    {
+      "titulo": "Weekly Recap: October 5 - October 9, 2026",
+      "link": "https://devforum.roblox.com/t/weekly-recap-october-5-october-9-2026/4924062",
+      "resumo": "<h1><a class=\"anchor\" href=\"https://devforum.roblox.com#p-14927227-weekly-recap-october-5-october-9-2026-1\" name=\"p-14927227-weekly-recap-october-5-october-9-2026-1\"></a>Weekly Recap: October 5 - October 9, 2026</h1>\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>This week, State Machines and Luau Expressio",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Fri, 09 Oct 2026 22:02:12 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "SLIM debug tints in Studio and Roblox Player",
+      "link": "https://devforum.roblox.com/t/slim-debug-tints-in-studio-and-roblox-player/4924019",
+      "resumo": "<blockquote>\n<h2>Key Takeaways</h2>\n<p>SLIM now has debug tints that color your models by streaming state (streamed in vs. out), level of detail, and transcoder status, so you can see SLIM working and confirm your content is being optimized before you publish!</p>\n<p>In Roblox Player, enable the deb",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Fri, 09 Oct 2026 21:39:16 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "O maior lançamento da Netflix da semana é o thriller psicológico de Ben Affleck que vai agitar o top 10",
+      "link": "https://br.ign.com/netflix/156758/o-maior-lancamento-da-netflix-da-semana-e-o-thriller-psicologico-de-ben-affleck-que-vai-agitar-o-top",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/529083493_b4dc.640.png\" vspace=\"5\" width=\"120\" />\nBen Affleck e a Netflix estão unindo forças novamente. O thriller psicológico “Animals”, com um elenco de peso, estreia na plataforma. Tudo indica que será mais u",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 09 Oct 2026 19:55:20 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/529083493_b4dc.png"
+    },
+    {
+      "titulo": "Ben Affleck diz que discute com crianças em Fortnite e que seu novo filme se inspirou nas skins do jogo",
+      "link": "https://br.ign.com/animals/156756/ben-affleck-diz-que-discute-com-criancas-em-fortnite-e-que-seu-novo-filme-se-inspirou-nas-skins-do-j",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/b/ben-afflec/ben-affleck-says-he-gets-into-arguments-with-kids-in-fortnit_xqwh.640.jpg\" vspace=\"5\" width=\"120\" />\"‘Vai se foder! Eu não sou um fracasso! Sou um homem adulto!”\n<p>Ben Affleck revelou que joga jogos de tiro como ",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 09 Oct 2026 19:51:57 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/b/ben-afflec/ben-affleck-says-he-gets-into-arguments-with-kids-in-fortnit_xqwh.jpg"
+    },
+    {
+      "titulo": "Charlie Cox fala sobre o retorno de Os Defensores: “Era preciso haver algum tipo de conclusão”",
+      "link": "https://br.ign.com/demolidor-renascido/156755/charlie-cox-fala-sobre-o-retorno-de-os-defensores-era-preciso-haver-algum-tipo-de-conclusao",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/c/charlie-co/charlie-cox-on-the-return-of-the-defenders-there-needed-to-b_yqc4.640.jpg\" vspace=\"5\" width=\"120\" />Além disso, diz o ator, “vamos dar início à campanha ‘Salve o Demolidor’”!\n<p>Charlie Cox compareceu à New York C",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 09 Oct 2026 19:49:18 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/c/charlie-co/charlie-cox-on-the-return-of-the-defenders-there-needed-to-b_yqc4.jpg"
+    },
+    {
+      "titulo": "Showrunner de VisionQuest não precisou se preocupar muito com o panorama geral do MCU",
+      "link": "https://br.ign.com/vision-quest/156754/showrunner-de-visionquest-nao-precisou-se-preocupar-muito-com-o-panorama-geral-do-mcu",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/v/visionques/visionquest-showrunner-terry-matalas-didnt-have-to-worry-too_8was.640.png\" vspace=\"5\" width=\"120\" />Houve bastante liberdade para explorar o que aconteceu com o Visão depois que o Visão Branco voou para longe no f",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 09 Oct 2026 19:38:43 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/v/visionques/visionquest-showrunner-terry-matalas-didnt-have-to-worry-too_8was.png"
+    },
+    {
+      "titulo": "Lançamento de Call of Duty: Modern Warfare 4 traz acesso antecipado à DMZ",
+      "link": "https://br.ign.com/call-of-duty-modern-warfare-4/156750/lancamento-de-call-of-duty-modern-warfare-4-traz-acesso-antecipado-a-dmz",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/c/call-of-du/call-of-duty-modern-warfare-4-launch-rollout-adds-dmz-early_s5dp.640.jpg\" vspace=\"5\" width=\"120\" />Prepare-se\n<p>Call of Duty: Modern Warfare 4 adicionou o modo DMZ à sua lista de experiências de acesso antecipado",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 09 Oct 2026 19:36:12 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/c/call-of-du/call-of-duty-modern-warfare-4-launch-rollout-adds-dmz-early_s5dp.jpg"
+    },
+    {
+      "titulo": "The Witcher 3: Wild Hunt Remastered ganha atualização com opções para ativar ou desativar efeito de florescência nos consoles e mudanças mais significativas na iluminação",
+      "link": "https://br.ign.com/the-witcher-3-wild-hunt-1/156748/the-witcher-3-wild-hunt-remastered-ganha-atualizacao-com-opcoes-para-ativar-ou-desativar-efeito-de-f",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/t/the-witche/the-witcher-3-wild-hunt-remastered-patch-adds-bloom-toggles_dug2.640.jpg\" vspace=\"5\" width=\"120\" />Agora sim\n<p>The Witcher 3: Wild Hunt – Remastered acaba de receber uma atualização significativa para ajustar a a",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 09 Oct 2026 19:31:35 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/t/the-witche/the-witcher-3-wild-hunt-remastered-patch-adds-bloom-toggles_dug2.jpg"
+    },
+    {
+      "titulo": "GTA 6 no Switch 2? “Isso é assunto para a Take-Two e a Rockstar”, afirma a Nintendo",
+      "link": "https://br.ign.com/grand-theft-auto-vi/156753/gta-6-no-switch-2-isso-e-assunto-para-a-take-two-e-a-rockstar-afirma-a-nintendo",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/g/gta-6-on-s/gta-6-on-switch-2-thats-a-conversation-for-take-two-and-rock_rf9e.640.jpg\" vspace=\"5\" width=\"120\" />Será que vem, ou não vem?\n<p>O presidente da Nintendo of America, Devon Pritchard, falou recentemente sobre os pl",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 09 Oct 2026 19:25:50 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/g/gta-6-on-s/gta-6-on-switch-2-thats-a-conversation-for-take-two-and-rock_rf9e.jpg"
+    },
+    {
+      "titulo": "Call Of Duty: MW4 Early Access Also Includes DMZ, Here’s How To Get In",
+      "link": "https://www.gamespot.com/articles/call-of-duty-mw4-early-access-also-includes-dmz-heres-how-to-get-in/",
+      "resumo": "<p class=\"wp-block-paragraph\">Call of Duty: Modern Warfare 4's campaign is playable a week early for people who preorder, and now we know the DMZ mode will be as well.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Activision has <a href=\"https://www.callofduty.com/blog/2026/10/call-of-duty-modern-warfare-4-d",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Fri, 09 Oct 2026 19:17:24 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/DMZ.png?w=300"
+    },
+    {
+      "titulo": "Gears Of War: E-Day–How’s It Selling? Let’s Unpack Things",
+      "link": "https://www.gamespot.com/articles/gears-of-war-e-day-hows-it-selling-lets-unpack-things/",
+      "resumo": "<p class=\"wp-block-paragraph\">Microsoft's latest console exclusive, <a href=\"https://www.gamespot.com/reviews/gears-of-war-e-days-campaign-is-buried-in-the-past/\">Gears of War: E-Day</a>, launched this week, and now we've gotten the first glimpse at how the game is performing commercially. Multiple ",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Fri, 09 Oct 2026 18:41:40 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/marcus.png?w=300"
+    },
+    {
+      "titulo": "“Caso deixássemos as coisas como estavam, a propriedade intelectual provavelmente morreria em 10 anos”: produtor de Street Fighter 6 revela como ajudou a salvar a icônica franquia de jogos de luta da Capcom da “extinção”",
+      "link": "https://br.ign.com/street-fighter-6/156742/caso-deixassemos-as-coisas-como-estavam-a-propriedade-intelectual-provavelmente-morreria-em-10-anos",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/s/street-fig/street-fighter-6-producer-reveals-how-he-helped-save-capcoms_6uy3.640.jpg\" vspace=\"5\" width=\"120\" />\n“Embora as pessoas digam que Street Fighter tem grande reconhecimento de marca, não devemos ser excessivamente c",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 09 Oct 2026 18:03:29 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/s/street-fig/street-fighter-6-producer-reveals-how-he-helped-save-capcoms_6uy3.jpg"
+    },
+    {
       "titulo": "“Todo jogo é um processo contínuo de tentativa e erro”: Resident Evil: Requiem foi originalmente planejado como um jogo online, afirma produtor",
       "link": "https://br.ign.com/resident-evil-requiem/156738/todo-jogo-e-um-processo-continuo-de-tentativa-e-erro-resident-evil-requiem-foi-originalmente-planeja",
       "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/r/resident-e/resident-evil-requiem-was-originally-planned-as-an-online-ga_bcbb.640.jpg\" vspace=\"5\" width=\"120\" />\nKawata explicou também por que a Capcom decidiu esperar antes de revelar a participação de Leon no jogo",
@@ -401,7 +482,7 @@
     {
       "titulo": "DMZ — 5 Features to Get Excited for in Call of Duty: Modern Warfare 4’s New Mode",
       "link": "https://news.xbox.com/en-us/2026/10/09/dmz-5-features-get-excited-for-mw4/",
-      "resumo": "<p>Call of Duty’s upcoming DMZ mode sounds like it’s shaping up to be something special. Set on the new Haijin map and inspired by the events and locations from Modern Warfare 4’s Campaign, this open-world combat environment will challenge you to loot, complete objectives, fight both enemies and riv",
+      "resumo": "<p>Call of Duty’s upcoming DMZ mode sounds like it’s shaping up to be something special. Set on the new Hajin map and inspired by the events and locations from Modern Warfare 4’s Campaign, this open-world combat environment will challenge you to loot, complete objectives, fight both enemies and riva",
       "fonte": "Xbox Wire",
       "categoria": "Xbox",
       "data": "Fri, 09 Oct 2026 17:00:00 +0000",
@@ -435,13 +516,13 @@
       "imagem": "https://images.nintendolife.com/3e0f97b86ff43/large.jpg"
     },
     {
-      "titulo": "Mixtape é eleito GOTY no Australian Game Developer Awards de 2026",
-      "link": "https://br.ign.com/mixtape/156740/mixtape-e-eleito-goty-no-australian-game-developer-awards-de-2026",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/m/mixtape-wi/mixtape-wins-game-of-the-year-at-the-2026-australian-game-de_e325.640.jpg\" vspace=\"5\" width=\"120\" />\n“Mixtape foi o resultado do trabalho de uma equipe incrivelmente talentosa”",
+      "titulo": "Call of Duty: Modern Warfare 4 - Official DMZ Early Access Gameplay Trailer",
+      "link": "https://br.ign.com/call-of-duty-modern-warfare-4/156751/call-of-duty-modern-warfare-4-official-dmz-early-access-gameplay-trailer",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/video/c/call-of-du/call-of-duty-modern-warfare-4-official-dmz-early-access-game_ve19.640.jpg\" vspace=\"5\" width=\"120\" />Don&#x27;t miss this early access gameplay trailer for Call of Duty Modern Warfare 4&#x27;s DMZ Mode. Drop in, g",
       "fonte": "IGN Brasil",
       "categoria": "Geral",
-      "data": "Fri, 09 Oct 2026 16:00:33 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/m/mixtape-wi/mixtape-wins-game-of-the-year-at-the-2026-australian-game-de_e325.jpg"
+      "data": "Fri, 09 Oct 2026 16:10:44 +0000",
+      "imagem": "https://sm.ign.com/ign_br/video/c/call-of-du/call-of-duty-modern-warfare-4-official-dmz-early-access-game_ve19.jpg"
     },
     {
       "titulo": "Share of the Week: Marvel’s Wolverine – Allies & Villains",
@@ -462,15 +543,6 @@
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Ryu-Old_594d64.jpg?w=300"
     },
     {
-      "titulo": "10.10 Mercado Livre: Moto G06 128 GB custa menos de R$ 700 na loja oficial da Motorola",
-      "link": "https://br.ign.com/descontos/156747/1010-mercado-livre-moto-g06-128-gb-custa-menos-de-r-700-na-loja-oficial-da-motorola",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/motorola_cyr1.640.jpg\" vspace=\"5\" width=\"120\" />\nModelo da Motorola conta com câmera de 50 MP, bateria de 5.200 mAh e até 12 GB de RAM com o recurso RAM Boost",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 09 Oct 2026 15:31:15 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/motorola_cyr1.jpg"
-    },
-    {
       "titulo": "'It Takes Two' Hops Onto Switch 2 Next Week, Marrying Visual Upgrades & Cross-Play",
       "link": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play",
       "resumo": "<p><strong>Cross-platform counselling.</strong></p><p>After being <a href=\"https://www.nintendolife.com/news/2026/08/rumour-hazelights-award-winning-co-op-game-might-be-coming-to-switch-2\">rumoured</a> earlier this year, Hazelight has <a href=\"https://www.ea.com/games/it-takes-two/it-takes-two/news/",
@@ -489,15 +561,6 @@
       "imagem": "https://images.nintendolife.com/7fdf3b5ce7e57/large.jpg"
     },
     {
-      "titulo": "Sonic X Shadow Generations, DOOM e mais: Amazon divulga atualizações de conteúdo do Luna para outubro de 2026",
-      "link": "https://br.ign.com/sonic-x-shadow-generations/156727/sonic-x-shadow-generations-doom-e-mais-amazon-divulga-atualizacoes-de-conteudo-do-luna-para-outubro",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/photo/default/blob_8395.640.jpg\" vspace=\"5\" width=\"120\" />\nOs novos títulos se juntam a uma seleção rotativa, atualizada ao longo do mês",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 09 Oct 2026 15:03:37 +0000",
-      "imagem": "https://sm.ign.com/ign_br/photo/default/blob_8395.jpg"
-    },
-    {
       "titulo": "Is GTA 6 Coming To Switch 2? Ask Rockstar, Nintendo Says",
       "link": "https://www.gamespot.com/articles/is-gta-6-coming-to-switch-2-ask-rockstar-nintendo-says/",
       "resumo": "<p class=\"wp-block-paragraph\">Rockstar's <a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">GTA 6</a> is the biggest game of 2026 and possibly ever, but it's not coming to Switch 2 ... or is it? Nintendo of America's new president, Devon Pritchar",
@@ -514,15 +577,6 @@
       "categoria": "Nintendo",
       "data": "Fri, 09 Oct 2026 15:00:00 GMT",
       "imagem": "https://images.nintendolife.com/2c7e9ab62322b/large.jpg"
-    },
-    {
-      "titulo": "Samsung Smart TV Crystal 50\" UHD 2027 fica mais barata na Mega Oferta Prime",
-      "link": "https://br.ign.com/descontos/156746/samsung-smart-tv-crystal-50-uhd-2027-fica-mais-barata-na-mega-oferta-prime",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/crystal-uhd-2027_3ygd.640.jpg\" vspace=\"5\" width=\"120\" />\nModelo de 50 polegadas tem resolução 4K, recursos de inteligência artificial com Vision AI Companion, Modo Estádio e acesso ao Xbox Cloud Gaming",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 09 Oct 2026 14:50:58 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/crystal-uhd-2027_3ygd.jpg"
     },
     {
       "titulo": "Is The BioShock Movie Ever Going To Happen? Director Weighs In",
@@ -561,15 +615,6 @@
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Screenshot-2026-10-09-at-8.56.45-AM.png?w=300"
     },
     {
-      "titulo": "Primeiro documentário brasileiro sobre autor de O Senhor dos Anéis estreia em cinemas selecionados",
-      "link": "https://br.ign.com/o-senhor-dos-aneis/156737/primeiro-documentario-brasileiro-sobre-autor-de-o-senhor-dos-aneis-estreia-em-cinemas-selecionados",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/1_5mss.640.jpg\" vspace=\"5\" width=\"120\" />Em Busca de Tolkien: Uma Odisseia Criativa estreia na próxima terça-feira (13)\n<p>O documentário “Em Busca de Tolkien: Uma Odisseia Criativa” chega ao circuito comercial n",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 09 Oct 2026 12:34:36 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/1_5mss.jpg"
-    },
-    {
       "titulo": "Dave The Diver's Final DLC Is The Perfect Crossover",
       "link": "https://www.nintendolife.com/news/2026/10/dave-the-divers-final-dlc-is-the-perfect-crossover",
       "resumo": "<p><strong>Submerging next year.</strong></p><p>After years of content updates and DLC expansions, Mintrocket has announced that the final wave of DLC for <a href=\"https://www.nintendolife.com/games/switch-eshop/dave_the_diver\">Dave the Diver</a> will launch in '<strong>Early 2027</strong>', and it'",
@@ -577,33 +622,6 @@
       "categoria": "Nintendo",
       "data": "Fri, 09 Oct 2026 12:30:00 GMT",
       "imagem": "https://images.nintendolife.com/85dbb627f8831/large.jpg"
-    },
-    {
-      "titulo": "\"Como já estou na faixa etária mais avançada, fico simplesmente cheio de medo e apreensão\": criador de NieR, Yoko Taro afirma que se aposentaria do desenvolvimento de videogames, mas medo da demência o mantém trabalhando",
-      "link": "https://br.ign.com/nier-reincarnation/156736/como-ja-estou-na-faixa-etaria-mais-avancada-fico-simplesmente-cheio-de-medo-e-apreensao-criador-de-n",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/n/nier-creat/nier-creator-yoko-taro-says-he-would-retire-from-making-vide_gkqy.640.jpg\" vspace=\"5\" width=\"120\" />\nÉ claro que Taro é conhecido por fazer declarações excêntricas e, às vezes, impassíveis por trás de sua oniprese",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 09 Oct 2026 12:24:47 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/n/nier-creat/nier-creator-yoko-taro-says-he-would-retire-from-making-vide_gkqy.jpg"
-    },
-    {
-      "titulo": "Daredevil: Born Again Season 3 Set Photos",
-      "link": "https://br.ign.com/demolidor-renascido/156735/daredevil-born-again-season-3-set-photos",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/d/daredevil-/daredevil-born-again-season-3-set-photos_zprh.640.jpg\" vspace=\"5\" width=\"120\" />",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 09 Oct 2026 12:12:37 +0000",
-      "imagem": "https://sm.ign.com/ign_br/gallery/d/daredevil-/daredevil-born-again-season-3-set-photos_zprh.jpg"
-    },
-    {
-      "titulo": "Após Clair Obscur: Expedition 33, Charlie Cox revela estar em novo jogo ainda não anunciado da Sega",
-      "link": "https://br.ign.com/clair-obscur-expedition-33/156734/apos-clair-obscur-expedition-33-charlie-cox-revela-estar-em-novo-jogo-ainda-nao-anunciado-da-sega",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/d/daredevil-/daredevil-star-charlie-cox-confirms-hes-in-an-unannounced-se_62b3.640.jpg\" vspace=\"5\" width=\"120\" />\"É difícil. É um trabalho totalmente diferente\"\n<p>Charlie Cox, estrela de <a href=\"https://br.ign.com/demolidor-",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 09 Oct 2026 12:12:37 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/d/daredevil-/daredevil-star-charlie-cox-confirms-hes-in-an-unannounced-se_62b3.jpg"
     },
     {
       "titulo": "Charlie Cox Recorded 40 Hours Of Dialogue For A Sega Game He Can’t Name Yet",
@@ -624,15 +642,6 @@
       "imagem": "https://images.nintendolife.com/5f43628b8927e/large.jpg"
     },
     {
-      "titulo": "Paramount está produzindo filme live-action de Cyberpunk 2077",
-      "link": "https://br.ign.com/cyberpunk-2077-1/156733/paramount-esta-produzindo-filme-live-action-de-cyberpunk-2077",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/a/a-live-act/a-live-action-cyberpunk-2077-movie-is-in-the-works-at-paramo_c26g.640.jpg\" vspace=\"5\" width=\"120\" />\nMichał Nowakowski expressou seu entusiasmo com a futura adaptação cinematográfica do jogo",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 09 Oct 2026 11:33:18 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/a/a-live-act/a-live-action-cyberpunk-2077-movie-is-in-the-works-at-paramo_c26g.jpg"
-    },
-    {
       "titulo": "Final Fantasy VII Revelation Cast Get Emotional In Last Recording Sessions",
       "link": "https://www.nintendolife.com/news/2026/10/final-fantasy-vii-revelation-cast-get-emotional-in-last-recording-sessions",
       "resumo": "<p><strong>End of an era.</strong></p><p>When <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/final-fantasy-vii-revelation\">Final Fantasy VII Revelation</a> launches on <strong>8th April 2027</strong>, it will mark the conclusion of Square Enix's ambitious remake project that was first",
@@ -640,15 +649,6 @@
       "categoria": "Nintendo",
       "data": "Fri, 09 Oct 2026 11:00:00 GMT",
       "imagem": "https://images.nintendolife.com/1a58556ae0104/large.jpg"
-    },
-    {
-      "titulo": "Ghost Of Tsushima Anime Taps Star Wars: Visions Talent For Its 2028 Release",
-      "link": "https://www.gamespot.com/articles/ghost-of-tsushima-anime-taps-star-wars-visions-talent-for-its-2028-release/",
-      "resumo": "<p class=\"wp-block-paragraph\">The upcoming anime adaptation of Sony's Ghost of Tsushima just took another big step forward, with Crunchyroll revealing more details on the cast and crew attached to the project, as well as a 2028 release window. </p>\n\n\n\n<p class=\"wp-block-paragraph\">While details are ",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Fri, 09 Oct 2026 10:52:17 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/SW-Visions.jpg?w=300"
     },
     {
       "titulo": "Wake Up, Samurai! Cyberpunk 2077 Is Getting A Live-Action Movie",
