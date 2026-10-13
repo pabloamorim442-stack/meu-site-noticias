@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "12/10/2026 às 18:07",
+  "atualizado_em": "13/10/2026 às 00:11",
   "total": 80,
   "noticias": [
     {
@@ -36,15 +36,6 @@
       "fonte": "PlayStation Blog",
       "categoria": "PlayStation",
       "data": "Wed, 07 Oct 2026 17:00:48 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Coming to XBOX Game Pass: Battlefield 6, Valor Mortis, Forever Ago, and More",
-      "link": "https://news.xbox.com/en-us/2026/10/07/xbox-game-pass-october-2026-wave-1/",
-      "resumo": "<p>Welcome back friends! Hope you’ve been having fun digging in with Bravo Squad for Gears of War: E-Day or clearing the dungeons in Minecraft Dungeons II. When you’re ready for your next game, we’ve got more coming at you including some you might remember from our XBOX Games Showcase this past summ",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Wed, 07 Oct 2026 16:00:00 +0000",
       "imagem": ""
     },
     {
@@ -318,12 +309,30 @@
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/MDD-8007_UYTGHGFVG_1920x1080_04.jpg?w=300"
     },
     {
-      "titulo": "Team Fortress 2 Update Released",
-      "link": "https://store.steampowered.com/news/271749/",
-      "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Fixed crash related to wearables leaking when weapons are dropped (community fix f",
-      "fonte": "Steam News",
-      "categoria": "Steam",
-      "data": "Mon, 25 May 2026 09:09:00 -0700",
+      "titulo": "Haunted Chocolatier Is Still Missing, But This Freaky Tea Party Sim Could Scratch Your Itch",
+      "link": "https://www.gamespot.com/articles/haunted-chocolatier-is-still-missing-but-this-freaky-tea-party-sim-could-scratch-your-itch/",
+      "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/games/concernedapes-haunted-chocolatier/\">Haunted Chocolatier</a> looks like it could be the perfect, candy-bar blend of sweet and creepy once it launches--but developer ConcernedApe <a href=\"https://www.gamespot.com/articles/haunted-ch",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Mon, 12 Oct 2026 19:15:00 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/ss_1d8fec4162c28b1a56b4396ca515eff2a084a932.1920x1080.jpg?w=300"
+    },
+    {
+      "titulo": "Tim Burton Horror Lives In Weird Steam Adventure That Reminds Me Of The Creepiest 2010s Games",
+      "link": "https://www.gamespot.com/articles/tim-burton-horror-lives-in-weird-steam-adventure-that-reminds-me-of-the-creepiest-2010s-games/",
+      "resumo": "<p class=\"wp-block-paragraph\">My 2012 belonged to Slender Man. I was easily terrified by creepy, early 2010s computer games like Slender: The Eight Pages, but I couldn't resist their special blend of unicorn blood and twee. Recently, I've been missing the pink bittersweetness of the Tim Burton-style",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Mon, 12 Oct 2026 19:15:00 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/ss_7e81727ac477d552bc8bcd3e252cf761efe56139.1920x1080.jpg?w=300"
+    },
+    {
+      "titulo": "Get the Shattered Relay Weapon Blueprint in Call of Duty: Mobile as a Call of Duty: Modern Warfare 4 Pre-order Bonus",
+      "link": "https://news.xbox.com/en-us/2026/10/12/get-the-shattered-relay-weapon-blueprint-in-call-of-duty-mobile-as-a-call-of-duty-modern-warfare-4-pre-order-bonus/",
+      "resumo": "<p>The post <a href=\"https://news.xbox.com/en-us/2026/10/12/get-the-shattered-relay-weapon-blueprint-in-call-of-duty-mobile-as-a-call-of-duty-modern-warfare-4-pre-order-bonus/\">Get the Shattered Relay Weapon Blueprint in Call of Duty: Mobile as a Call of Duty: Modern Warfare 4 Pre-order Bonus</a> ap",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Mon, 12 Oct 2026 18:17:50 +0000",
       "imagem": ""
     },
     {
@@ -507,6 +516,15 @@
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Squadron-42.jpg?w=300"
     },
     {
+      "titulo": "Team Fortress 2 Update Released",
+      "link": "https://store.steampowered.com/news/285796/",
+      "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Added 'No Grenades' style for the General's Greatcoat<br /><li>Fixed regression in",
+      "fonte": "Steam News",
+      "categoria": "Steam",
+      "data": "Mon, 12 Oct 2026 11:34:00 -0700",
+      "imagem": ""
+    },
+    {
       "titulo": "Haunted Chocolatier Is For “The People In Stardew Valley That Go Into The Mines”",
       "link": "https://www.gamespot.com/articles/haunted-chocolatier-is-for-the-people-in-stardew-valley-that-go-into-the-mines/",
       "resumo": "<p class=\"wp-block-paragraph\">Haunted Chocolatier, the second game from Stardew Valley creator, Eric Barone, has been in development for more than five years, having been announced in October 2021. While there's no official word on the <a href=\"https://www.gamespot.com/articles/haunted-chocolatier-r",
@@ -624,15 +642,6 @@
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/DMZ.png?w=300"
     },
     {
-      "titulo": "Gears Of War: E-Day–How’s It Selling? Let’s Unpack Things",
-      "link": "https://www.gamespot.com/articles/gears-of-war-e-day-hows-it-selling-lets-unpack-things/",
-      "resumo": "<p class=\"wp-block-paragraph\">Microsoft's latest console exclusive, <a href=\"https://www.gamespot.com/reviews/gears-of-war-e-days-campaign-is-buried-in-the-past/\">Gears of War: E-Day</a>, launched this week, and now we've gotten the first glimpse at how the game is performing commercially. Multiple ",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Fri, 09 Oct 2026 18:41:40 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/marcus.png?w=300"
-    },
-    {
       "titulo": "DMZ — 5 Features to Get Excited for in Call of Duty: Modern Warfare 4’s New Mode",
       "link": "https://news.xbox.com/en-us/2026/10/09/dmz-5-features-get-excited-for-mw4/",
       "resumo": "<p>Call of Duty’s upcoming DMZ mode sounds like it’s shaping up to be something special. Set on the new Hajin map and inspired by the events and locations from Modern Warfare 4’s Campaign, this open-world combat environment will challenge you to loot, complete objectives, fight both enemies and riva",
@@ -649,15 +658,6 @@
       "categoria": "PlayStation",
       "data": "Fri, 09 Oct 2026 16:32:01 +0000",
       "imagem": "https://traffic.libsyn.com/playstation/Episode_550.mp3"
-    },
-    {
-      "titulo": "Battlefield 6 Is Adding Something Fans Have Wanted Since Day 1",
-      "link": "https://www.gamespot.com/articles/battlefield-6-is-adding-something-fans-have-wanted-since-day-1/",
-      "resumo": "<p class=\"wp-block-paragraph\">EA and Battlefield Studios have unveiled more details on <a href=\"https://www.gamespot.com/reviews/battlefield-6-review-good-company/1900-6418420/\">Battlefield 6</a>'s upcoming Season 5, and it includes a new feature that fans have wanted since day one: a proper server ",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Fri, 09 Oct 2026 16:21:38 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/battlefieldbvegas.png?w=300"
     },
     {
       "titulo": "Share of the Week: Marvel’s Wolverine – Allies & Villains",
