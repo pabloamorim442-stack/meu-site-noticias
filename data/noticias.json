@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "16/10/2026 às 18:17",
+  "atualizado_em": "17/10/2026 às 00:14",
   "total": 80,
   "noticias": [
     {
@@ -120,15 +120,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Team Fortress 2 Update Released",
-      "link": "https://store.steampowered.com/news/274747/",
-      "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><br /><br /><b>Summer 2026!</b><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Featuring 6 new community maps: Dryfield, Cam",
-      "fonte": "Steam News",
-      "categoria": "Steam",
-      "data": "Tue, 07 Jul 2026 10:18:00 -0700",
-      "imagem": ""
-    },
-    {
       "titulo": "Release Notes for 736",
       "link": "https://devforum.roblox.com/t/release-notes-for-736/4833635",
       "resumo": "<p>Hey everyone, release notes are available for 736.</p>\n<aside class=\"onebox allowlistedgeneric\">\n  <header class=\"source\">\n      <img class=\"site-icon\" height=\"48\" src=\"https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/f/4/4/7/f447460fd40fb32dafe6f12a177e1dbb041a48",
@@ -165,15 +156,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Activision confirma que uma nova subfranquia de Call of Duty está em desenvolvimento, gerando intensa especulação entre os fãs",
-      "link": "https://br.ign.com/call-of-duty-modern-warfare-4/156862/activision-confirma-que-uma-nova-subfranquia-de-call-of-duty-esta-em-desenvolvimento-gerando-intensa",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/a/activision/activision-confirms-brand-new-call-of-duty-subfranchise-is-i_a95p.640.jpg\" vspace=\"5\" width=\"120\" />\nHora de algo diferente",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Thu, 15 Oct 2026 23:56:05 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/a/activision/activision-confirms-brand-new-call-of-duty-subfranchise-is-i_a95p.jpg"
-    },
-    {
       "titulo": "[Studio Beta] Package Overrides and Usability Improvements",
       "link": "https://devforum.roblox.com/t/studio-beta-package-overrides-and-usability-improvements/4936628",
       "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h2>Key Takeaways</h2>\n<p>Package Overrides lets you edit a package in your place, while continuing to receive updates. Studio tracks each change as an override and reapplies it whenever the source package is updated.</p>\n<p>In Studio, go to File &gt; Beta",
@@ -190,24 +172,6 @@
       "categoria": "Roblox",
       "data": "Thu, 15 Oct 2026 21:41:52 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "Série que acabou de estrear na HBO Max tem 8 episódios, é perfeita para o Halloween, do criador de uma das melhores séries do ano passado",
-      "link": "https://br.ign.com/crystal-lake/156867/serie-que-acabou-de-estrear-na-hbo-max-tem-8-episodios-e-perfeita-para-o-halloween-do-criador-de-uma",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/529596741_zzgh.640.png\" vspace=\"5\" width=\"120\" />\nA HBO Max tem uma surpresa de Halloween para os fãs de terror. “Crystal Lake”, estrelado por Linda Cardellini, estreia na plataforma. Trata-se de uma prequela da ",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Thu, 15 Oct 2026 21:14:41 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/529596741_zzgh.png"
-    },
-    {
-      "titulo": "Em duas semanas, uma das trilogias de fantasia mais épicas da história, com arrecadação de US$ 2,9 bilhões, chegará ao Prime Video",
-      "link": "https://br.ign.com/o-senhor-dos-aneis/156865/em-duas-semanas-uma-das-trilogias-de-fantasia-mais-epicas-da-historia-com-arrecadacao-de-us-29-bilho",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/529671290_d5s5.640.png\" vspace=\"5\" width=\"120\" />\nApós um intervalo de vários meses, o Prime Video traz mais uma vez a aclamada trilogia de fantasia para sua plataforma.",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Thu, 15 Oct 2026 21:11:11 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/529671290_d5s5.png"
     },
     {
       "titulo": "Fix Published Avatar Items and Organize Your Creations in Creator Dashboard",
@@ -291,15 +255,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Automatic Translation for Text-to-Speech",
-      "link": "https://devforum.roblox.com/t/automatic-translation-for-text-to-speech/4922029",
-      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Automatic translation is now available for the text-to-speech API (11 languages supported). Players hear generated speech in their language across supported games.</p>\n<p>The AutoLocalize property of your AudioTextToSpeech instanc",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Thu, 08 Oct 2026 20:42:17 +0000",
-      "imagem": ""
-    },
-    {
       "titulo": "Release Notes for 742",
       "link": "https://devforum.roblox.com/t/release-notes-for-742/4921935",
       "resumo": "<p>Hyello, here are the <a href=\"https://create.roblox.com/docs/release-notes/release-notes-742\">release notes for 742</a>.</p>\n<p>I’ve recently been all over these candied pretzel snacks - something about the salty sweet crunchy combo is dominating my snacking habits lately. Anyone have any similar",
@@ -372,6 +327,150 @@
       "imagem": ""
     },
     {
+      "titulo": "Weekly Recap: October 12 - 18, 2026",
+      "link": "https://devforum.roblox.com/t/weekly-recap-october-12-18-2026/4938638",
+      "resumo": "<blockquote>\n<h3>Key Takeaways</h3>\n<p>This week Roblox introduced a simpler publishing flow with early tester access, in-experience makeup creation, and tools for fixing and organizing published avatar items. Studio creators can also try Package Overrides and Quality mode for texture generation, wh",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Fri, 16 Oct 2026 22:02:21 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Este RPG de sobrevivência foi lançado ontem e, segundo o Metacritic, é um dos melhores jogos de todos os tempos",
+      "link": "https://br.ign.com/enshrouded/156891/este-rpg-de-sobrevivencia-foi-lancado-ontem-e-segundo-o-metacritic-e-um-dos-melhores-jogos-de-todos",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/enshrouded-6444951_tu1b.640.jpg\" vspace=\"5\" width=\"120\" />\nEste sucesso do gênero de sobrevivência, vindo da Alemanha, passou três anos em Acesso Antecipado. Agora, a versão 1.0 já está disponível e está recebend",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 16 Oct 2026 21:45:44 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/enshrouded-6444951_tu1b.jpg"
+    },
+    {
+      "titulo": "Filme live-action de Cyberpunk 2077 não seguirá os passos do jogo, confirma a CD Projekt",
+      "link": "https://br.ign.com/cyberpunk-2077-1/156889/filme-live-action-de-cyberpunk-2077-nao-seguira-os-passos-do-jogo-confirma-a-cd-projekt",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/t/the-live-a/the-live-action-cyberpunk-2077-movie-wont-retrace-the-games_ep2y.640.jpg\" vspace=\"5\" width=\"120\" />O filme de Cyberpunk está sendo produzido em parceria com a Paramount, agora sob a bandeira da Skydance após a rec",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 16 Oct 2026 21:37:28 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/t/the-live-a/the-live-action-cyberpunk-2077-movie-wont-retrace-the-games_ep2y.jpg"
+    },
+    {
+      "titulo": "CD Projekt começou oficialmente a trabalhar no Projeto Hadar, mas ele ainda não está em pré-produção",
+      "link": "https://br.ign.com/codename-hadar/156888/cd-projekt-comecou-oficialmente-a-trabalhar-no-projeto-hadar-mas-ele-ainda-nao-esta-em-pre-producao",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/c/cd-projekt/cd-projekt-has-officially-begun-work-on-project-hadar-but-it_fhd6.640.jpg\" vspace=\"5\" width=\"120\" />Ta-da!\n<p>A CD Projekt Red, desenvolvedora polonesa mais conhecida por suas incríveis séries de RPG, como The Wit",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 16 Oct 2026 21:32:00 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/c/cd-projekt/cd-projekt-has-officially-begun-work-on-project-hadar-but-it_fhd6.jpg"
+    },
+    {
+      "titulo": "Mais de 30 novas imagens de GTA 6 do trailer de lançamento",
+      "link": "https://br.ign.com/grand-theft-auto-vi/156886/mais-de-30-novas-imagens-de-gta-6-do-trailer-de-lancamento",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/o/over-30-ne/over-30-new-gta-6-screenshots-from-the-launch-trailer_fm2f.640.jpg\" vspace=\"5\" width=\"120\" />Está quase lá\n<p>Reunimos mais de 30 capturas de tela do trailer de lançamento de GTA 6, mostrando em detalhes o mundo a",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 16 Oct 2026 21:18:11 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/o/over-30-ne/over-30-new-gta-6-screenshots-from-the-launch-trailer_fm2f.jpg"
+    },
+    {
+      "titulo": "GTA 6 Launch Trailer Screenshots",
+      "link": "https://br.ign.com/grand-theft-auto-vi/156887/gta-6-launch-trailer-screenshots",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/g/gta-6-laun/gta-6-launch-trailer-screenshots_y9d5.640.jpg\" vspace=\"5\" width=\"120\" />",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 16 Oct 2026 21:18:11 +0000",
+      "imagem": "https://sm.ign.com/ign_br/gallery/g/gta-6-laun/gta-6-launch-trailer-screenshots_y9d5.jpg"
+    },
+    {
+      "titulo": "Um dos jogos de maior sucesso de 2025 finalmente poderá ser jogado nos consoles ainda este mês",
+      "link": "https://br.ign.com/peak/156885/um-dos-jogos-de-maior-sucesso-de-2025-finalmente-podera-ser-jogado-nos-consoles-ainda-este-mes",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/blob_8cgc.640.jpg\" vspace=\"5\" width=\"120\" />\nPrepare-se para escalada",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 16 Oct 2026 21:02:42 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/blob_8cgc.jpg"
+    },
+    {
+      "titulo": "33 novos detalhes do trailer de lançamento de GTA 6",
+      "link": "https://br.ign.com/grand-theft-auto-vi/156883/33-novos-detalhes-do-trailer-de-lancamento-de-gta-6",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/feature/3/33-new-det/33-new-details-from-the-gta-6-launch-trailer_we45.640.jpg\" vspace=\"5\" width=\"120\" />Você percebeu a referência ao GTA 1?\n<p>Mais uma prévia de GTA 6 chegou até nós, o que significa que é hora de fazer uma análi",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 16 Oct 2026 20:50:37 +0000",
+      "imagem": "https://sm.ign.com/ign_br/feature/3/33-new-det/33-new-details-from-the-gta-6-launch-trailer_we45.jpg"
+    },
+    {
+      "titulo": "Street Fighter: como nasceu Blanka, o brasileiro mais famoso dos games - IGN Pop",
+      "link": "https://br.ign.com/street-fighter-2026/156876/street-fighter-como-nasceu-blanka-o-brasileiro-mais-famoso-dos-games-ign-pop",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/thumb-ign-id-pop-blanka_eue4.640.jpg\" vspace=\"5\" width=\"120\" />Por que o Blanka é verde?⚡Conheça a história do brasileiro mais famoso de Street Fighter, que conquistou os fliperamas com seus choques do trovão, ap",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 16 Oct 2026 20:42:32 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/thumb-ign-id-pop-blanka_eue4.jpg"
+    },
+    {
+      "titulo": "All The Records GTA 6 Will Break, We Think",
+      "link": "https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/",
+      "resumo": "<p class=\"wp-block-paragraph\">After years of development and perhaps more hype than for any game, <a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">GTA 6</a> is set for release on November 19 for PS5 and Xbox Series X|S. Predicting that it will ",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Fri, 16 Oct 2026 20:27:22 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/DreQuan_Priest_01.jpg?w=300"
+    },
+    {
+      "titulo": "Oferta: Star Wars Zero Company para PS5 está saindo por menos de R$ 240 na Amazon",
+      "link": "https://br.ign.com/descontos/156882/oferta-star-wars-zero-company-para-ps5-esta-saindo-por-menos-de-r-240-na-amazon",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/s/star-wars-/star-wars-zero-company-was-originally-pitched-as-a-titanfall_5e1z.640.jpg\" vspace=\"5\" width=\"120\" />\nEstratégia em turnos da EA e da Respawn foi criada por veteranos de XCOM e se passa no fim das Guerras Clônicas",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 16 Oct 2026 20:26:20 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/s/star-wars-/star-wars-zero-company-was-originally-pitched-as-a-titanfall_5e1z.jpg"
+    },
+    {
+      "titulo": "Upgrade de tela: como escolher o monitor gamer Alienware ideal para o seu setup",
+      "link": "https://br.ign.com/descontos/156881/upgrade-de-tela-como-escolher-o-monitor-gamer-alienware-ideal-para-o-seu-setup",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_j5ac.640.jpg\" vspace=\"5\" width=\"120\" />\nTaxa de atualização, tempo de resposta e sincronização: entenda o que importa na hora de renovar o display e ext",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 16 Oct 2026 19:23:51 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_j5ac.jpg"
+    },
+    {
+      "titulo": "[Beta] Introducing Quality Mode for Texture Generation",
+      "link": "https://devforum.roblox.com/t/beta-introducing-quality-mode-for-texture-generation/4938282",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>The new Quality mode beta  for Texture Generations now lets you generate 4K PBR textures with color, roughness, and metalness maps providing a more accurate representation of materials.</p>\n<p>In Studio, use <strong>Model &gt; Tex",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Fri, 16 Oct 2026 19:00:44 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "You Can Play WoW: Forever For Free Next Week (But There’s A Catch)",
+      "link": "https://www.gamespot.com/articles/you-can-play-wow-forever-for-free-next-week-but-theres-a-catch/",
+      "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/articles/wow-forever-is-more-than-classic-its-wow-2/\">World of Warcraft: Forever's</a> beta will be free for a limited time next week, giving players who want to check out the new version of Blizzard's old-school MMORPG but don't want t",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Fri, 16 Oct 2026 18:45:44 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Play-For-Free-Stress-Test.jpg?w=300"
+    },
+    {
+      "titulo": "This Espresso Machine Can Run Doom",
+      "link": "https://www.gamespot.com/articles/this-espresso-machine-can-run-doom/",
+      "resumo": "<p class=\"wp-block-paragraph\">Before caffeinating yourself in the morning, the <a href=\"https://fellowproducts.com/products/espresso-series-1?srsltid=AU7gw4UyVnnrH2WeX_xvlz9YuwopqxMRxPSC6mc8AdVTWf8KyaonnMbL\">Fellow Espresso Series 1 machine</a> can actually run 1993's Doom on its small, circular scr",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Fri, 16 Oct 2026 18:28:36 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/05/Doom.jpg?w=300"
+    },
+    {
+      "titulo": "Shrek 2 Remaster Leaks, Looks Amazing And I Need It Now",
+      "link": "https://www.gamespot.com/articles/shrek-2-remaster-leaks-looks-amazing-and-i-need-it-now/",
+      "resumo": "<p class=\"wp-block-paragraph\">A remaster of 2004's Shrek 2: The Game is on the way, according to an Xbox.com listing that seems to have been published too soon.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The page for the unannounced game--which has since been removed--says the remaster will feature better",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Fri, 16 Oct 2026 18:21:13 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/shrek2.jpg?w=300"
+    },
+    {
       "titulo": "WoW: Forever Just Changed The Math On What Race To Play In A Big Way",
       "link": "https://www.gamespot.com/articles/wow-forever-just-changed-the-math-on-what-race-to-play-in-a-big-way/",
       "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/articles/wow-forever-is-more-than-classic-its-wow-2/\">World of Warcraft: Forever's</a> beta is set to end in just a few days on October 21, but that hasn't stopped Blizzard from making some major changes to the game's various racial abi",
@@ -379,24 +478,6 @@
       "categoria": "Geral",
       "data": "Fri, 16 Oct 2026 18:01:39 +0000",
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Racial-Ability-Changes.jpg?w=300"
-    },
-    {
-      "titulo": "Final Fantasy 7 Revelation expande o que já vimos anteriormente na série para criar conclusão épica | Preview",
-      "link": "https://br.ign.com/final-fantasy-vii-revelation/156879/final-fantasy-7-revelation-expande-o-que-ja-vimos-anteriormente-na-serie-para-criar-conclusao-epica",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/blob_tpzy.640.png\" vspace=\"5\" width=\"120\" />\nNovidades do combate colaboram para uma ótima experiência",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 16 Oct 2026 17:31:35 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/blob_tpzy.png"
-    },
-    {
-      "titulo": "Fone Bluetooth Anker P30i atinge menor preço do ano na Amazon",
-      "link": "https://br.ign.com/descontos/156877/fone-bluetooth-anker-p30i-atinge-menor-preco-do-ano-na-amazon",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_kugm.640.jpg\" vspace=\"5\" width=\"120\" />\nCancelamento de ruído de até 42 dB, bateria de 45 horas e graves reforçados em um fone Bluetooth compacto",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 16 Oct 2026 17:30:34 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_kugm.jpg"
     },
     {
       "titulo": "Modern Warfare 4: Campaign Early Access Now Live",
@@ -480,15 +561,6 @@
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/mw4campaign-Large.jpeg?w=300"
     },
     {
-      "titulo": "Menor preço do ano! Bundle de Death Stranding 1 e 2 fica mais barato para membros Prime",
-      "link": "https://br.ign.com/descontos/156875/menor-preco-do-ano-bundle-de-death-stranding-1-e-2-fica-mais-barato-para-membros-prime",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_u1u2.640.jpg\" vspace=\"5\" width=\"120\" />\nExplore a jornada de Sam Bridges nos dois jogos da franquia e aproveite o desconto para economizar muito na cole",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 16 Oct 2026 15:12:34 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_u1u2.jpg"
-    },
-    {
       "titulo": "The Blood Of Dawnwalker’s Next Update Will Let You Erase Your Mistakes And Pet The Dog",
       "link": "https://www.gamespot.com/articles/the-blood-of-dawnwalkers-next-update-will-let-you-erase-your-mistakes-and-pet-the-dog/",
       "resumo": "<p class=\"wp-block-paragraph\">The Blood of Dawnwalker is already one of the best role-playing games of the year, but developer Rebel Wolves is preparing a big update that should make it even better. Like all good things in life, it starts with getting to pet a dog. </p>\n\n\n\n<p class=\"wp-block-paragra",
@@ -516,24 +588,6 @@
       "imagem": ""
     },
     {
-      "titulo": "The Batman - Parte 2 traz o diretor Steven Soderbergh para finalizar o filme no lugar de Matt Reeves; Reeves responde com um novo comunicado",
-      "link": "https://br.ign.com/the-batman-2/156870/the-batman-parte-2-traz-o-diretor-steven-soderbergh-para-finalizar-o-filme-no-lugar-de-matt-reeves-r",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/t/the-batman/the-batman-part-2-brings-in-director-steven-soderbergh-to-fi_4wue.640.jpg\" vspace=\"5\" width=\"120\" />\nDupla dinâmica",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 16 Oct 2026 14:08:23 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/t/the-batman/the-batman-part-2-brings-in-director-steven-soderbergh-to-fi_4wue.jpg"
-    },
-    {
-      "titulo": "O remake de The Legend of Zelda me arrancou lágrimas que eu não esperava | Preview",
-      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/156840/o-remake-de-the-legend-of-zelda-me-arrancou-lagrimas-que-eu-nao-esperava-preview",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/photo/default/the-legend-of-zelda-ocarina-of-time-preorders-uk-17889520936_rhaz.640.jpg\" vspace=\"5\" width=\"120\" />Game chega em 5 de novembro exclusivamente para o Nintendo Switch 2\n<p>É um conhecimento universal de que <a href=\"ht",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 16 Oct 2026 14:00:35 +0000",
-      "imagem": "https://sm.ign.com/ign_br/photo/default/the-legend-of-zelda-ocarina-of-time-preorders-uk-17889520936_rhaz.jpg"
-    },
-    {
       "titulo": "Next Week on XBOX: New Games for October 19 to 23",
       "link": "https://news.xbox.com/en-us/2026/10/16/next-week-on-xbox-new-games-for-october-19-to-23/",
       "resumo": "<p>Welcome to Next Week on XBOX! In this weekly feature we cover all the games coming soon to XBOX Series X&#124;S, XBOX One, XBOX on PC, and Game Pass! Get more details on these upcoming games below and click their profiles for further info (release dates subject to change). Let’s jump in! Call of ",
@@ -543,58 +597,13 @@
       "imagem": ""
     },
     {
-      "titulo": "The Legend of Zelda: Ocarina of Time Preview Screenshots",
-      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/156869/the-legend-of-zelda-ocarina-of-time-preview-screenshots",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/t/the-legend/the-legend-of-zelda-ocarina-of-time-preview-screenshots_nxj3.640.jpg\" vspace=\"5\" width=\"120\" />",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 16 Oct 2026 13:56:29 +0000",
-      "imagem": "https://sm.ign.com/ign_br/gallery/t/the-legend/the-legend-of-zelda-ocarina-of-time-preview-screenshots_nxj3.jpg"
-    },
-    {
-      "titulo": "Aqui está nossa primeira visão de Dark Link no remake de The Legend of Zelda: Ocarina of Time",
-      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/156868/aqui-esta-nossa-primeira-visao-de-dark-link-no-remake-de-the-legend-of-zelda-ocarina-of-time",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/h/heres-our-/heres-our-first-look-at-dark-link-in-the-legend-of-zelda-oca_7wqq.640.jpg\" vspace=\"5\" width=\"120\" />\nDuelo entre iguais",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 16 Oct 2026 13:56:29 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/h/heres-our-/heres-our-first-look-at-dark-link-in-the-legend-of-zelda-oca_7wqq.jpg"
-    },
-    {
-      "titulo": "This Anime Stalker Russian Roulette Game Is Afraid AI Copycats Will Steal Its Ideas",
-      "link": "https://www.gamespot.com/articles/this-anime-stalker-russian-roulette-game-is-afraid-ai-copycats-will-steal-its-ideas/",
-      "resumo": "<p class=\"wp-block-paragraph\">Developers have dealt with copycat games for many years, but generative AI has made it easier than ever to whip up a clone, and that problem has grown in recent years. The developer behind <a href=\"https://www.gamespot.com/games/drunken-goddess-reflux/\">Drunken Goddess ",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Fri, 16 Oct 2026 13:52:33 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Drunken-Goddess-Reflux.jpg?w=300"
-    },
-    {
-      "titulo": "Big Walk Won’t Come To Xbox Until Microsoft Is No Longer A BDS Boycott Target",
-      "link": "https://www.gamespot.com/articles/big-walk-wont-come-to-xbox-until-microsoft-is-no-longer-a-bds-boycott-target/",
-      "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/games/big-walk/\">Big Walk</a> has been a critical hit since it launched a few months ago on PC and PS5, but one major platform where you won't find it is Xbox Series X|S. That's no accident: Developer House House said its decision not t",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Fri, 16 Oct 2026 13:32:33 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/08/Big-Walk_7e119a.jpg?w=300"
-    },
-    {
-      "titulo": "Killing PS5 Discs Just Makes Sense, Even If It Angers People, Former PlayStation Exec Says",
-      "link": "https://www.gamespot.com/articles/killing-ps5-discs-just-makes-sense-even-if-it-angers-people-former-playstation-exec-says/",
-      "resumo": "<p class=\"wp-block-paragraph\">Ken Kutaragi, the former PlayStation executive known colloquially as the \"Father of PlayStation,\" has reacted to the ongoing debate and discussion about physical games in the wake of Sony's announcement that it will end support for PS5 game discs in 2028.</p>\n\n\n\n<p clas",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Fri, 16 Oct 2026 13:30:39 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/discs-Large.jpeg?w=300"
-    },
-    {
-      "titulo": "GTA 6 Is Taking Over Miami Amid Pushback From Officials: “We’re Depicting Miami Like A Murder Capital”",
-      "link": "https://www.gamespot.com/articles/gta-6-is-taking-over-miami-amid-pushback-from-officials-were-depicting-miami-like-a-murder-capital/",
-      "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/articles/gta-6-is-taking-over-miami-one-airlifted-letter-at-a-time/\">GTA 6's takeover of real-life Miami</a> is continuing, and in a big way, ahead of the open-world crime game's release in November. For anyone unaware, GTA 6 takes plac",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Fri, 16 Oct 2026 13:01:12 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Vice-City-2_14050e.jpg?w=300"
+      "titulo": "Team Fortress 2 Update Released",
+      "link": "https://store.steampowered.com/news/286827/",
+      "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Fixed some maps not tracking play time correctly<br /><li>Fixed alpha channel for ",
+      "fonte": "Steam News",
+      "categoria": "Steam",
+      "data": "Fri, 16 Oct 2026 12:38:00 -0700",
+      "imagem": ""
     },
     {
       "titulo": "'Peak', The Beloved Indie Climber, Scales October's Stacked Switch 2 Release Schedule",
@@ -684,15 +693,6 @@
       "fonte": "Roblox - Anúncios",
       "categoria": "Roblox",
       "data": "Fri, 09 Oct 2026 22:02:12 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "SLIM debug tints in Studio and Roblox Player",
-      "link": "https://devforum.roblox.com/t/slim-debug-tints-in-studio-and-roblox-player/4924019",
-      "resumo": "<blockquote>\n<h2>Key Takeaways</h2>\n<p>SLIM now has debug tints that color your models by streaming state (streamed in vs. out), level of detail, and transcoder status, so you can see SLIM working and confirm your content is being optimized before you publish!</p>\n<p>In Roblox Player, enable the deb",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Fri, 09 Oct 2026 21:39:16 +0000",
       "imagem": ""
     },
     {
