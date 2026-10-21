@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "21/10/2026 às 12:22",
+  "atualizado_em": "21/10/2026 às 18:20",
   "total": 80,
   "noticias": [
     {
@@ -12,13 +12,274 @@
       "imagem": ""
     },
     {
-      "titulo": "PS5’s Biggest Physical Games Look Very Different From Its Biggest Digital Hits",
-      "link": "https://www.gamespot.com/articles/ps5s-biggest-physical-games-look-very-different-from-its-biggest-digital-hits/",
-      "resumo": "<p class=\"wp-block-paragraph\">The furore over <a href=\"https://www.gamespot.com/articles/sony-defends-going-digital-but-says-it-understands-players-love-of-physical-ps5-games/\">Sony's decision</a> to <a href=\"https://www.gamespot.com/articles/playstations-disc-based-game-sales-have-dropped-dramatica",
+      "titulo": "Cloud Playtime Now Available to Test with XBOX Insiders",
+      "link": "https://news.xbox.com/en-us/2026/10/21/cloud-playtime-now-available-to-test-with-xbox-insiders/",
+      "resumo": "<p>Starting today, XBOX Insiders* can try a new way to stream games by purchasing cloud playtime without a Game Pass subscription. This preview gives XBOX Insiders who do not have an active Game Pass subscription an early look at the new option before it rolls out more broadly in November. During th",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Wed, 21 Oct 2026 18:00:03 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "EA cancela novo Mass Effect e fecha BioWare, estúdio lendário responsável por Dragon Age e diversas outras franquias de RPG",
+      "link": "https://br.ign.com/mass-effect-next-chapter/156981/ea-cancela-novo-mass-effect-e-fecha-bioware-estudio-lendario-responsavel-por-dragon-age-e-diversas-o",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/b/bioware-sh/bioware-shutting-down-next-mass-effect-canceled_dn9x.640.jpg\" vspace=\"5\" width=\"120\" />\nDemissões em massa na EA atingem 400 funcionários",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 17:56:47 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/b/bioware-sh/bioware-shutting-down-next-mass-effect-canceled_dn9x.jpg"
+    },
+    {
+      "titulo": "Another Day, Another Pokemon Card Heist Worth Nearly $1 Million",
+      "link": "https://www.gamespot.com/articles/another-day-another-pokemon-card-heist-worth-nearly-1-million/",
+      "resumo": "<p class=\"wp-block-paragraph\">I guess someone's gotta collect 'em all, and it appears that thieves are doing just that, as yet another high-stakes burglary in Southern California has resulted in just about $1 million worth of Pokemon cards being stolen from a FedEx truck.</p>\n\n\n\n<p class=\"wp-block-p",
       "fonte": "GameSpot",
       "categoria": "Geral",
-      "data": "Wed, 21 Oct 2026 12:00:22 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4661443-re-requiem.jpg?w=300"
+      "data": "Wed, 21 Oct 2026 17:50:47 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/teamrocket-image.jpg?w=300"
+    },
+    {
+      "titulo": "Nvidia Just Tackled One Of PC Gaming’s Biggest Headaches: Shader Compilation",
+      "link": "https://www.gamespot.com/articles/nvidia-latest-driver-update-targets-one-of-pc-gaming-biggest-headaches/",
+      "resumo": "<p class=\"wp-block-paragraph\">One of the most annoying things about PC games is how long they can take to start, thanks to the traditional shader compilation a game goes through after installation or after getting new drivers. The silver bullet to this might be Microsoft's Advanced Shader Delivery, ",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 17:44:12 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Long-wait.jpg?w=300"
+    },
+    {
+      "titulo": "WoW: Forever Is Continuing A Long-Running Questing Tradition",
+      "link": "https://www.gamespot.com/articles/wow-forever-is-continuing-a-long-running-questing-tradition/",
+      "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/games/world-of-warcraft/\">World of Warcraft: Forever</a> will see players battling to become an ogre arena champion once more, this time in the new Riverglades zone.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Forever's launch is just a few we",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 17:26:51 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/WoWForeverRivergladesBloodmastersArena.jpg?w=300"
+    },
+    {
+      "titulo": "EA Shuts Down Dragon Age, Mass Effect Studio BioWare",
+      "link": "https://www.gamespot.com/articles/ea-shuts-down-dragon-age-mass-effect-studio-bioware/",
+      "resumo": "<p class=\"wp-block-paragraph\">Publisher Electronic Arts is planning to shut down legendary RPG studio BioWare, laying off about 50 employees at the studio alongside 350 more elsewhere.</p>\n\n\n\n<p class=\"wp-block-paragraph\">In <a href=\"https://www.bloomberg.com/news/articles/2026-10-21/electronic-arts",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 17:12:53 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/mass-effect-image.jpg?w=300"
+    },
+    {
+      "titulo": "Important TextChatService Updates: How to Test and What’s Next",
+      "link": "https://devforum.roblox.com/t/important-textchatservice-updates-how-to-test-and-what%E2%80%99s-next/4948433",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>We’re making chat functionality more native to reduce custom work for each game and enable consistent access to chat features and safety tools for every player. Start testing now and highlight any gaps we can address before the re",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Wed, 21 Oct 2026 17:05:49 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Once Human’s Isles of Abyss expansion launches on PS5 tomorrow",
+      "link": "https://blog.playstation.com/2026/10/21/once-humans-isles-of-abyss-expansion-launches-on-ps5-tomorrow/",
+      "resumo": "Hey everyone, we have huge news to share with you today. Once Human’s largest free expansion yet, Isles of Abyss, is officially launching tomorrow, October 22 （October 21)  on PlayStation 5. We’ve taken the strange worlds survival you know and love, and plunged it into uncharted waters. Starting tom",
+      "fonte": "PlayStation Blog",
+      "categoria": "PlayStation",
+      "data": "Wed, 21 Oct 2026 17:00:37 +0000",
+      "imagem": "https://blog.playstation.com/uploads/2048/10/1ba8852a77f1c2456c78dd4c1913c614c55d2c43.mp4"
+    },
+    {
+      "titulo": "Thirty Years of Lara Croft",
+      "link": "https://news.xbox.com/en-us/2026/10/21/thirty-years-of-lara-croft/",
+      "resumo": "<p>Few people are better positioned to reflect on three decades of Lara Croft than Meagan Marie. A longtime member of the Tomb Raider team at Crystal Dynamics, author of 20 Years of Tomb Raider, and a fan who has cosplayed the character more than a dozen times, she has spent her career at the inters",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Wed, 21 Oct 2026 17:00:00 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Lindo e em oferta! Controle PowerA Advantage para Nintendo Switch 2 chega ao menor preço do ano",
+      "link": "https://br.ign.com/descontos/156980/lindo-e-em-oferta-controle-powera-advantage-para-nintendo-switch-2-chega-ao-menor-preco-do-ano",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/switch-2_8ng3.640.jpg\" vspace=\"5\" width=\"120\" />\nCom iluminação RGB personalizável, analógicos com efeito Hall, botões mapeáveis e botão C para acessar o GameChat, o controle com fio da PowerA combina visual dife",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 16:53:11 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/switch-2_8ng3.jpg"
+    },
+    {
+      "titulo": "GTA 6 Will Feature Lots Of Small Details Like Red Dead’s Dynamic Horse Testicle Physics",
+      "link": "https://www.gamespot.com/articles/gta-6-will-feature-lots-of-small-details-like-red-deads-dynamic-horse-testicle-physics/",
+      "resumo": "<p class=\"wp-block-paragraph\">New details about Rockstar's <a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">GTA 6</a> continue to come to light ahead of the highly anticipated crime game's release in November. Reporter Jason Schreier <a href=\"h",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 16:16:36 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/GTA_79af2d.jpg?w=300"
+    },
+    {
+      "titulo": "GTA 6 Might Give America A Very Expensive Sick Day",
+      "link": "https://www.gamespot.com/articles/gta-6-might-give-america-a-very-expensive-sick-day/",
+      "resumo": "<p class=\"wp-block-paragraph\">Everyone wants to play Rockstar Games' upcoming heist-'em-up <a href=\"https://www.gamespot.com/games/grand-theft-auto-vi/\">Grand Theft Auto 6</a>--so much so that some 1.5 million Americans are projected to call in sick to work on November 19 to play the game, which an ",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 16:02:00 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/gta6-image.jpg?w=300"
+    },
+    {
+      "titulo": "PlayStation Indies: 9 must-play horror games for the spooky season",
+      "link": "https://blog.playstation.com/2026/10/21/playstation-indies-9-must-play-horror-games-for-the-spooky-season/",
+      "resumo": "There is joy in being a little scared. From pleasantly spooky atmospheres to frights that make your fingers fidget on the controller. Our team has played many horror-themed indie games, from cozy to creepy, and we’re excited to share some of our favorites to keep players frightened and having fun th",
+      "fonte": "PlayStation Blog",
+      "categoria": "PlayStation",
+      "data": "Wed, 21 Oct 2026 16:00:31 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Diablo Is Getting A New Board Game, And You Can Play It Solo",
+      "link": "https://www.gamespot.com/articles/diablo-is-getting-a-new-board-game-and-you-can-play-it-solo/",
+      "resumo": "<p class=\"wp-block-paragraph\">The world of Diablo will expand over the next couple of years with a <a href=\"https://www.gamespot.com/articles/diablo-5-is-coming-in-2029-will-actually-star-diablo/\" rel=\"noreferrer noopener\" target=\"_blank\">new video game</a> and a <a href=\"https://www.gamespot.com/ar",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 16:00:00 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Dibalo-Unbound-Main.jpg?w=300"
+    },
+    {
+      "titulo": "Nintendo Switch Sports Resort Has Been Updated To Ver. 1.1.0, Here Are The Full Patch Notes",
+      "link": "https://www.nintendolife.com/news/2026/10/nintendo-switch-sports-resort-has-been-updated-to-ver-1-1-0-here-are-the-full-patch-notes",
+      "resumo": "<p><strong>You and Mii.</strong></p><p><a href=\"https://www.nintendolife.com/games/nintendo-switch-2/nintendo-switch-sports-resort\">Nintendo Switch Sports Resort</a> releases tomorrow (22nd October), and Nintendo is making sure that launch day goes smoothly by releasing its very first update.</p><p>",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Wed, 21 Oct 2026 15:45:00 GMT",
+      "imagem": "https://images.nintendolife.com/e9d128dd00b16/large.jpg"
+    },
+    {
+      "titulo": "Apenas a memória RAM e o armazenamento do PlayStation 6 podem custar US$ 680, segundo vazamento",
+      "link": "https://br.ign.com/playstation-5-2/156977/apenas-a-memoria-ram-e-o-armazenamento-do-playstation-6-podem-custar-us-680-segundo-vazamento",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/p/playstatio/playstation-6-ram-and-storage-alone-may-cost-680-according-t_rjw9.640.jpg\" vspace=\"5\" width=\"120\" />\nNão tem como o PS6 custar menos de US$ 1.000",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 15:39:00 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/p/playstatio/playstation-6-ram-and-storage-alone-may-cost-680-according-t_rjw9.jpg"
+    },
+    {
+      "titulo": "Oferta do dia: tablet HUAWEI de 11 polegadas e 128 GB por menos de R$ 900",
+      "link": "https://br.ign.com/descontos/156976/oferta-do-dia-tablet-huawei-de-11-polegadas-e-128-gb-por-menos-de-r-900",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/tablet-huawei_prcy.640.jpg\" vspace=\"5\" width=\"120\" />\nMatePad SE 11 traz construção em metal e bateria de 7.700 mAh",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 15:36:12 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/tablet-huawei_prcy.jpg"
+    },
+    {
+      "titulo": "\"Não existe uma única pessoa que tenha tudo isso na cabeça\": desenvolvedores de GTA 6 tiveram liberdade para adicionar recursos interessantes, assim como os testículos de cavalo em RDR2",
+      "link": "https://br.ign.com/grand-theft-auto-vi/156975/nao-existe-uma-unica-pessoa-que-tenha-tudo-isso-na-cabeca-desenvolvedores-de-gta-6-tiveram-liberdade",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/t/theres-no-/theres-no-one-person-that-has-this-whole-thing-in-their-head_r8u8.640.jpg\" vspace=\"5\" width=\"120\" />\nUma estrada muito, muito longa",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 15:28:15 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/t/theres-no-/theres-no-one-person-that-has-this-whole-thing-in-their-head_r8u8.jpg"
+    },
+    {
+      "titulo": "Novas rodadas de demissões do Xbox estão planejadas para o final de 2026 e começo de 2027, segundo reportagem",
+      "link": "https://br.ign.com/xbox/156974/novas-rodadas-de-demissoes-do-xbox-estao-planejadas-para-o-final-de-2026-e-comeco-de-2027-segundo-re",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/1-1_nmfg.640.jpg\" vspace=\"5\" width=\"120\" />Três levas de demissões podem ocorrer em outubro e novembro de 2026 e janeiro de 2027\n<p>O ano de 2026 está acabando, mas o momento turbulento do Xbox continua. Após <a ",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 15:08:55 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/1-1_nmfg.jpg"
+    },
+    {
+      "titulo": "Usuários do Steam imploram por um filtro que exclua conteúdos gerados por IA, já que o Steam Next Fest está repleto de material de baixa qualidade",
+      "link": "https://br.ign.com/steam-machine/156973/usuarios-do-steam-imploram-por-um-filtro-que-exclua-conteudos-gerados-por-ia-ja-que-o-steam-next-fes",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/s/steam-fans/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest_eh1z.640.jpg\" vspace=\"5\" width=\"120\" />\nFeche as comportas",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 15:03:59 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/s/steam-fans/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest_eh1z.jpg"
+    },
+    {
+      "titulo": "Review: JSAUX 6-In-1 Gaming Dock For Switch 2 - Attractive Enough, But No Replacement For The Real Deal",
+      "link": "https://www.nintendolife.com/reviews/jsaux-6-in-1-gaming-dock-for-switch-2-attractive-enough-but-no-replacement-for-the-real-deal",
+      "resumo": "<p><strong>Wibble-wobble.</strong></p><p>At a glance, JSAUX’s 6-in-1 Dock for the Switch 2 is a compelling piece of kit.</p><p>In addition to docking your console for TV mode, it also contains four slots to charge Joy-Con, along with space to charge your Pro Controller. With a foldable design, it ma",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Wed, 21 Oct 2026 15:00:00 GMT",
+      "imagem": "https://images.nintendolife.com/5e3be3cca5552/large.jpg"
+    },
+    {
+      "titulo": "Monitor LG UltraWide 29” tem 35% OFF em oferta relâmpago no Mercado Livre",
+      "link": "https://br.ign.com/descontos/156972/monitor-lg-ultrawide-29-tem-35-off-em-oferta-relampago-no-mercado-livre",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_a6cy.640.jpg\" vspace=\"5\" width=\"120\" />\nTela IPS de 29 polegadas, formato 21:9, HDR10 e 100 Hz para trabalhar e jogar com mais espaço!",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 14:52:08 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_a6cy.jpg"
+    },
+    {
+      "titulo": "Everything New In Cyberpunk 2077 Update 2.5",
+      "link": "https://www.gamespot.com/articles/everything-new-in-cyberpunk-2077-update-2-5/",
+      "resumo": "<p class=\"wp-block-paragraph\">A new season of Cyberpunk: Edgerunners is now on Netflix, and to celebrate, <a href=\"https://www.gamespot.com/articles/cyberpunk-2077-is-celebrating-edgerunners-season-2-with-a-surprise-update/\">Cyberpunk 2077 is getting an update</a>.  Developer CD Projekt Red announce",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 14:50:42 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Cyberpunk-Johnny.jpg?w=300"
+    },
+    {
+      "titulo": "The 10 Best Survival Horror Games",
+      "link": "https://br.ign.com/resident-evil-2-2/156971/the-10-best-survival-horror-games",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/t/the-10-bes/the-10-best-survival-horror-games_8xp3.640.jpg\" vspace=\"5\" width=\"120\" />",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 14:48:17 +0000",
+      "imagem": "https://sm.ign.com/ign_br/gallery/t/the-10-bes/the-10-best-survival-horror-games_8xp3.jpg"
+    },
+    {
+      "titulo": "Hellraiser: Revival Review Screens",
+      "link": "https://br.ign.com/clive-barkers-hellraiser-revival/156970/hellraiser-revival-review-screens",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/h/hellraiser/hellraiser-revival-review-screens_ay7g.640.jpg\" vspace=\"5\" width=\"120\" />",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 14:48:17 +0000",
+      "imagem": "https://sm.ign.com/ign_br/gallery/h/hellraiser/hellraiser-revival-review-screens_ay7g.jpg"
+    },
+    {
+      "titulo": "A Permanent Pokémon Store Is Finally Coming To London",
+      "link": "https://www.nintendolife.com/news/2026/10/a-permanent-pokemon-store-is-finally-coming-to-london",
+      "resumo": "<p><strong>The first of \"several\" outside Asia.</strong></p><p>After years of us leaving the pop-up shop at the European International Championships and wondering, \"why isn't this a permanent thing?\", it seems our wishes have finally been answered.</p><p>The Pokémon Company has today announced that ",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Wed, 21 Oct 2026 14:15:00 GMT",
+      "imagem": "https://images.nintendolife.com/efcf73162fc93/large.jpg"
+    },
+    {
+      "titulo": "Stranger Than Heaven hands-on report: brutal combat and the glitz of show business intermix",
+      "link": "https://blog.playstation.com/2026/10/21/stranger-than-heaven-hands-on-report-brutal-combat-and-the-glitz-of-show-business-intermix/",
+      "resumo": "Fists clashing, bones crunching—it’s combat at its most visceral. On the flip side, there is the glitz and glamour of show business, where you handle everything from song composition to live stage productions. Stranger Than Heaven, an all-new title from RGG Studio, the team behind the Like a Dragon ",
+      "fonte": "PlayStation Blog",
+      "categoria": "PlayStation",
+      "data": "Wed, 21 Oct 2026 14:01:18 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Halo 3 Looks Like It Could Come To Browsers Via Xbox Labs",
+      "link": "https://www.gamespot.com/articles/halo-3-looks-like-it-could-come-to-browsers-via-xbox-labs/",
+      "resumo": "<p class=\"wp-block-paragraph\">We just got our strongest hint at what Xbox Labs might be \"cooking up\" for players, thanks to Xbox chief technology officer Scott Van Vliet. The executive posted a video <a href=\"https://x.com/scottvanvliet/status/2112671760131010982\">on X</a> that ends with Halo 3 boot",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 13:56:38 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/original/1713/17133350/4042104-halo-3.jpg?w=300"
+    },
+    {
+      "titulo": "New PS5 Update Is Out Now, And Sony May Be Tightening Security Before GTA 6",
+      "link": "https://www.gamespot.com/articles/new-ps5-update-is-out-now-and-sony-may-be-tightening-security-before-gta-6/",
+      "resumo": "<p class=\"wp-block-paragraph\">Another day, another PS5 update, as Sony tweaks its system with another minor upgrade. It looks like business as usual for PS5 Update Version:&nbsp;26.07-14.20.00, with Sony focusing on overall usage and message readability, but there are murmurs that the patch could al",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 13:46:30 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4686929-ps5-pro.jpg?w=300"
+    },
+    {
+      "titulo": "Strange Scaffold's Super Slick Revenge Shooter Is Out Now On Switch 2",
+      "link": "https://www.nintendolife.com/news/2026/10/strange-scaffolds-super-slick-revenge-shooter-is-out-now-on-switch-2",
+      "resumo": "<p><strong>Beast your eyes.</strong></p><p>Strange Scaffold — the developer behind <a href=\"https://www.nintendolife.com/games/switch-eshop/teenage_mutant_ninja_turtles_tactical_takedown\">Teenage Mutant Ninja Turtles: Tactical Takedown</a>, <a href=\"https://www.pushsquare.com/games/ps5/el_paso_elsew",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Wed, 21 Oct 2026 12:45:00 GMT",
+      "imagem": "https://images.nintendolife.com/285693e670017/large.jpg"
     },
     {
       "titulo": "PlayStation Store’s Planet of the Deals promotion is live now",
@@ -84,39 +345,12 @@
       "imagem": "https://images.nintendolife.com/817a121549b3e/large.jpg"
     },
     {
-      "titulo": "Cyberpunk 2077: Edgerunners 2 Free Update (2.5) Arrives This Week",
-      "link": "https://www.nintendolife.com/news/2026/10/cyberpunk-2077-edgerunners-2-free-update-2-5-arrives-this-week",
-      "resumo": "<p><strong>Details have reportedly leaked ahead of schedule.</strong></p><p></p><p>Following the recent release of <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/witcher-iii-wild-hunt-remastered\">The Witcher 3 Remastered</a>, CD Projekt Red has now announced a new free update is on th",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Wed, 21 Oct 2026 00:45:00 GMT",
-      "imagem": "https://images.nintendolife.com/525c4366c6437/large.jpg"
-    },
-    {
       "titulo": "[Studio Beta] Upgraded UIShadow Capabilities",
       "link": "https://devforum.roblox.com/t/studio-beta-upgraded-uishadow-capabilities/4934553",
       "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>UIShadow now supports text shadows, knockout shadows, inset shadows, and gradient fills. Use these to add depth and polish in your UI without complex workarounds.</p>\n<p>Enable in Studio through File &gt; Beta Features &gt; Upgrad",
       "fonte": "Roblox - Anúncios",
       "categoria": "Roblox",
       "data": "Wed, 14 Oct 2026 21:35:59 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "PlayStation Plus Game Catalog for October: Mafia: The Old Country, Horizon Forbidden West, Mycopunk and more",
-      "link": "https://blog.playstation.com/2026/10/14/playstation-plus-game-catalog-for-october-mafia-the-old-country-horizon-forbidden-west-mycopunk-and-more/",
-      "resumo": "This month, descend into the criminal underworld of early 20th-century Sicily in Mafia: The Old Country, brave a deadly frontier filled with awe-inspiring machines in Horizon Forbidden West, or take on hordes of fungal enemies with an outrageous arsenal of futuristic weaponry in the fast-paced co-op",
-      "fonte": "PlayStation Blog",
-      "categoria": "PlayStation",
-      "data": "Wed, 14 Oct 2026 15:30:18 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Gran Turismo 7’s Spec IV (Part 1) launches today and a first look at DualSense wireless controller – Gran Turismo Limited Edition",
-      "link": "https://blog.playstation.com/2026/10/14/gran-turismo-7s-spec-iv-part-1-launches-today-and-a-first-look-at-dualsense-wireless-controller-gran-turismo-limited-edition/",
-      "resumo": "Hey everyone, we&#8217;re excited to share news on Gran Turismo with you today. For starters, we have full details on today&#8217;s Part 1 of the Gran Turismo 7 Spec IV update. Plus, we celebrate 30 years of Gran Turismo with the first look at the Gran Turismo Limited Edition DualSense wireless cont",
-      "fonte": "PlayStation Blog",
-      "categoria": "PlayStation",
-      "data": "Wed, 14 Oct 2026 13:00:48 +0000",
       "imagem": ""
     },
     {
@@ -147,105 +381,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Surprise! Aspyr Is Remastering A Shrek Game",
-      "link": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game",
-      "resumo": "<p><strong>Update: Shrek 2 Remastered officially announced.</strong></p><p><strong>:</strong></p><p>Aspyr Media, the team behind the recent <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/lord_of_the_rings_war_in_the_north_-_legacy_edition\">Lord of the Rings</a> and <a href=\"https://ww",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Tue, 20 Oct 2026 23:30:00 GMT",
-      "imagem": "https://images.nintendolife.com/2d6833e57c2e3/large.jpg"
-    },
-    {
-      "titulo": "“Estrategista de negócios” do Xbox afirma que a indústria de videogames está “fingindo não usar IA” e exclui conta no Twitter após enxurrada de respostas",
-      "link": "https://br.ign.com/xbox-series-s-1/156963/estrategista-de-negocios-do-xbox-afirma-que-a-industria-de-videogames-esta-fingindo-nao-usar-ia-e-ex",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/x/xbox-busin/xbox-business-strategist-claims-video-game-industry-is-prete_nkpz.640.jpg\" vspace=\"5\" width=\"120\" />Fingir que está fingindo\n<p>Um funcionário da Xbox viralizou esta semana ao recorrer às redes sociais para revela",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 20 Oct 2026 21:29:11 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/x/xbox-busin/xbox-business-strategist-claims-video-game-industry-is-prete_nkpz.jpg"
-    },
-    {
-      "titulo": "“Se os sucessos são inesperados, os conjuntos de dados não vão levar você até lá”: executivos da Take-Two Interactive e da Sony afirmam que a IA não pode substituir a criatividade humana",
-      "link": "https://br.ign.com/grand-theft-auto-v/156962/se-os-sucessos-sao-inesperados-os-conjuntos-de-dados-nao-vao-levar-voce-ate-la-executivos-da-take-tw",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/i/if-hits-ar/if-hits-are-unexpected-datasets-arent-gonna-get-you-there-ta_9cdq.640.jpg\" vspace=\"5\" width=\"120\" />\nStrauss Zelnick e Hiroki Totoki também não acreditam que a IA vá desaparecer",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 20 Oct 2026 21:24:54 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/i/if-hits-ar/if-hits-are-unexpected-datasets-arent-gonna-get-you-there-ta_9cdq.jpg"
-    },
-    {
-      "titulo": "Produtor de Cyberpunk Mercenários 2 explica por que o final desta temporada é tão diferente do que os fãs esperavam",
-      "link": "https://br.ign.com/cyberpunk-edgerunners-2/156961/produtor-de-cyberpunk-mercenarios-2-explica-por-que-o-final-desta-temporada-e-tao-diferente-do-que-o",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/c/cyberpunk-/cyberpunk-edgerunners-2-producer-explains-why-this-seasons-e_jzus.640.jpg\" vspace=\"5\" width=\"120\" />“Está tentando, sei lá, nos mostrar como é a vida de verdade”\n<p>Conversamos com Bartosz Sztybor, showrunner, rot",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 20 Oct 2026 21:21:02 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/c/cyberpunk-/cyberpunk-edgerunners-2-producer-explains-why-this-seasons-e_jzus.jpg"
-    },
-    {
-      "titulo": "Próximo console do Xbox pode custar até US$ 1.800; há rumores de que um novo portátil será lançado no ano que vem, antes do Helix",
-      "link": "https://br.ign.com/xbox-next-generation/156960/proximo-console-do-xbox-pode-custar-ate-us-1800-ha-rumores-de-que-um-novo-portatil-sera-lancado-no-a",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/x/xboxs-next/xboxs-next-console-may-reportedly-cost-as-much-as-1800-new-h_6tur.640.jpg\" vspace=\"5\" width=\"120\" />É uma estratégia ousada\n<p>Um novo relatório afirma que a Xbox espera que seu console de próxima geração custe at",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 20 Oct 2026 21:08:57 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/x/xboxs-next/xboxs-next-console-may-reportedly-cost-as-much-as-1800-new-h_6tur.jpg"
-    },
-    {
-      "titulo": "Xbox Game Pass passará por uma “grande reformulação”, segundo relatos, e contará com opções “à la carte”",
-      "link": "https://br.ign.com/xbox-game-pass-1/156958/xbox-game-pass-passara-por-uma-grande-reformulacao-segundo-relatos-e-contara-com-opcoes-a-la-carte",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/x/xbox-game-/xbox-game-pass-reportedly-getting-major-overhaul-will-featur_gpsf.640.jpg\" vspace=\"5\" width=\"120\" />\nTer opções é bom!",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 20 Oct 2026 21:06:20 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/x/xbox-game-/xbox-game-pass-reportedly-getting-major-overhaul-will-featur_gpsf.jpg"
-    },
-    {
-      "titulo": "Atualização 1.1 de The Blood of Dawnwalker adiciona a possibilidade de acariciar animais em diferentes direções, além de mais de 1.100 outras melhorias e correções",
-      "link": "https://br.ign.com/the-blood-of-dawnwalker/156957/atualizacao-11-de-the-blood-of-dawnwalker-adiciona-a-possibilidade-de-acariciar-animais-em-diferente",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/t/the-blood-/the-blood-of-dawnwalker-update-11-adds-directional-animal-pe_tfgy.640.jpg\" vspace=\"5\" width=\"120\" />\nSituação de alto risco",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 20 Oct 2026 20:54:53 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/t/the-blood-/the-blood-of-dawnwalker-update-11-adds-directional-animal-pe_tfgy.jpg"
-    },
-    {
-      "titulo": "Supostas imagens vazadas mostram jogo cancelado de Assassin's Creed ambientado na China da Dinastia Qin",
-      "link": "https://br.ign.com/assassins-creed-codename-jade/156955/supostas-imagens-vazadas-mostram-jogo-cancelado-de-assassins-creed-ambientado-na-china-da-dinastia-q",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/a/apparent-l/apparent-leaked-footage-shows-canceled-assassins-creed-game_rmck.640.jpg\" vspace=\"5\" width=\"120\" />\nDestinado ao infortúnio",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 20 Oct 2026 20:45:35 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/a/apparent-l/apparent-leaked-footage-shows-canceled-assassins-creed-game_rmck.jpg"
-    },
-    {
-      "titulo": "Nvidia GeForce RTX 5080 – Photos",
-      "link": "https://br.ign.com/nvidia-rtx-5080/156945/nvidia-geforce-rtx-5080-photos",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/n/nvidia-gef/nvidia-geforce-rtx-5080-photos_puzp.640.jpg\" vspace=\"5\" width=\"120\" />",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 20 Oct 2026 20:35:29 +0000",
-      "imagem": "https://sm.ign.com/ign_br/gallery/n/nvidia-gef/nvidia-geforce-rtx-5080-photos_puzp.jpg"
-    },
-    {
-      "titulo": "Atualização do Nvidia App permitirá que agentes de IA ajustem sua placa de vídeo, mas alguns usuários alertam para desativar o recurso",
-      "link": "https://br.ign.com/nvidia-rtx-5080/156944/atualizacao-do-nvidia-app-permitira-que-agentes-de-ia-ajustem-sua-placa-de-video-mas-alguns-usuarios",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/n/nvidia-app/nvidia-app-update-will-let-ai-agents-tune-your-graphics-card_7c4b.640.jpg\" vspace=\"5\" width=\"120\" />\nAgente não tão secreto",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 20 Oct 2026 20:35:29 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/n/nvidia-app/nvidia-app-update-will-let-ai-agents-tune-your-graphics-card_7c4b.jpg"
-    },
-    {
-      "titulo": "Ghost of Yōtei Complete Edition Screenshots",
-      "link": "https://br.ign.com/ghost-of-yotei-complete-edition/156948/ghost-of-yotei-complete-edition-screenshots",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/g/ghost-of-y/ghost-of-yotei-complete-edition-screenshots_tpfu.640.jpg\" vspace=\"5\" width=\"120\" />",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 20 Oct 2026 20:27:10 +0000",
-      "imagem": "https://sm.ign.com/ign_br/gallery/g/ghost-of-y/ghost-of-yotei-complete-edition-screenshots_tpfu.jpg"
-    },
-    {
       "titulo": "Think You’ve Beaten Fountains? Prove it in the Gauntlet",
       "link": "https://news.xbox.com/en-us/2026/10/20/think-youve-beaten-fountains/",
       "resumo": "<p>So, what exactly is the Gauntlet Mode? Think of it as the ultimate proving ground for warriors who crave a real challenge. Originally designed on PC to accommodate the most demanding souls-like connoisseurs, it’s now arriving on XBOX just after the console version’s premiere. It&#8217;s your turn",
@@ -253,15 +388,6 @@
       "categoria": "Xbox",
       "data": "Tue, 20 Oct 2026 20:00:00 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "Next-Gen Xbox Could Be $1,800 And Launch In 2028 – Report",
-      "link": "https://www.gamespot.com/articles/next-gen-xbox-could-be-1800-and-launch-in-2028-report/",
-      "resumo": "<p class=\"wp-block-paragraph\">A new report sheds more details on Microsoft's plans for new Xbox hardware, including a new handheld device and console, and one of the biggest takeaways is the alleged price. </p>\n\n\n\n<p class=\"wp-block-paragraph\"><a href=\"https://fortune.com/2026/10/20/the-non-gamer-ce",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Tue, 20 Oct 2026 19:29:33 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Xboxreset-2.png?w=300"
     },
     {
       "titulo": "Grounded 2: 100 Reasons to Run in the Rot and Ruin Update",
@@ -280,33 +406,6 @@
       "categoria": "Xbox",
       "data": "Tue, 20 Oct 2026 18:21:52 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "Round Up: The Reviews Are In For Nintendo Switch Sports Resort",
-      "link": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-are-in-for-nintendo-switch-sports-resort",
-      "resumo": "<p><strong>Resort it out.</strong></p><p><a href=\"https://www.nintendolife.com/games/nintendo-switch-2/nintendo-switch-sports-resort\">Nintendo Switch Sports Resort</a> takes us back to Wuhu Island on Thursday, but as is customary, reviews have gone live prior to launch, and the critical reaction see",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Tue, 20 Oct 2026 18:00:00 GMT",
-      "imagem": "https://images.nintendolife.com/669c4e87514ba/large.jpg"
-    },
-    {
-      "titulo": "Here Are The Mechanics and Dozens Of New Cards From Magic: The Gathering’s Star Trek Set",
-      "link": "https://www.gamespot.com/articles/here-are-the-mechanics-and-dozens-of-new-cards-from-magic-the-gatherings-star-trek-set/",
-      "resumo": "<p class=\"wp-block-paragraph\">After a year that featured alternate realities, ninja turtles, superheroes, and hobbits, the final Magic: The Gathering expansion of 2026 is going where no Universes Beyond set has gone before, as Star Trek is scheduled to launch in November. </p>\n\n\n\n<p class=\"wp-block-",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Tue, 20 Oct 2026 18:00:00 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/cover.jpg?w=300"
-    },
-    {
-      "titulo": "Xbox Series X|S Is Getting A Surprise Graphics Boost From AMD",
-      "link": "https://www.gamespot.com/articles/xbox-series-xs-is-getting-a-surprise-graphics-boost-from-amd/",
-      "resumo": "<p class=\"wp-block-paragraph\">Sony isn't the only company introducing new upscaling technology to its flagship PlayStation 5, as Microsoft and AMD have announced that FSR 4.1 is coming to more devices--including Xbox Series X|S consoles--in the future. </p>\n\n\n\n<p class=\"wp-block-paragraph\">Similar t",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Tue, 20 Oct 2026 17:51:08 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Xbox-Series-X.jpg?w=300"
     },
     {
       "titulo": "ID@XBOX x IGN Showcase Recap: All the News and Announcements",
@@ -336,15 +435,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Impressions: Call Of Duty: Modern Warfare 4 DMZ - CoD's Extraction Shooter Mode Hits The Target",
-      "link": "https://www.nintendolife.com/previews/impressions-call-of-duty-modern-warfare-4-dmz-cods-extraction-shooter-mode-hits-the-target",
-      "resumo": "<p><strong>3vPvPvE.</strong></p><p></p><p>The tension at the heart of modern Call of Duty between the on-rails rollercoaster of the campaign versus the sandbox design that's evolved over the last two decades of open-world gaming has resulted in three modes getting equal billing in <a href=\"https://w",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Tue, 20 Oct 2026 17:00:00 GMT",
-      "imagem": "https://images.nintendolife.com/60716b1a39541/large.jpg"
-    },
-    {
       "titulo": "Call of Duty: Modern Warfare 4 – How to Get Started as an Operator in DMZ",
       "link": "https://news.xbox.com/en-us/2026/10/20/call-of-duty-modern-warfare-4-how-to-get-started-operator-dmz/",
       "resumo": "<p>Plan Your Next Visit to Hajin Check out the interactive Hajin DMZ Tac Map on Call of Duty Blog Call of Duty: Modern Warfare 4’s new DMZ mode is here! Following the release of Campaign Early Access last week, Modern Warfare 4’s new action extraction mode is arriving early ahead of its global launc",
@@ -354,33 +444,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Sony Boss: “Creativity Is For Humans, Not AI”",
-      "link": "https://www.gamespot.com/articles/playstation-boss-creativity-is-for-humans-not-ai/",
-      "resumo": "<p class=\"wp-block-paragraph\">Take-Two boss Strauss Zelnick and Sony Group President and CEO, Hiroki Totoki, commented on the future of gaming today at the Paley International Summit. Naturally, the topic of AI came up, and Totoki believes AI technologies will not replace humans in game development,",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Tue, 20 Oct 2026 16:40:48 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/playstation-Large.jpeg?w=300"
-    },
-    {
-      "titulo": "10 Years After The Switch 1 Reveal, I Still Haven’t Played A Game At A Rooftop Party",
-      "link": "https://www.gamespot.com/articles/10-years-after-the-switch-1-reveal-i-still-havent-played-a-game-at-a-rooftop-party/",
-      "resumo": "<p class=\"wp-block-paragraph\">It's now been a full decade since Nintendo announced the first Switch, which is almost hard to believe, given how fresh that reveal trailer still feels in our heads. Heaps of hype and a <a href=\"https://www.gamespot.com/articles/why-nintendo-isnt-talking-about-nx-yet-ac",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Tue, 20 Oct 2026 16:35:14 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Nintendo-Switch-Reveal-Trailer-0-2-37.jpeg?w=300"
-    },
-    {
-      "titulo": "Xbox Game Pass’s Newest Wave Is Headlined By A Huge Final Fantasy Adventure",
-      "link": "https://www.gamespot.com/articles/xbox-game-pass-newest-wave-is-headlined-by-a-huge-final-fantasy-adventure/",
-      "resumo": "<p class=\"wp-block-paragraph\">Right on schedule, the second wave of games coming to Xbox Game Pass has been revealed. After the first batch, which included Gears of War: E-Day, Battlefield 6, and more, the rest of the month will add games like <a href=\"https://www.gamespot.com/games/final-fantasy-vi",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Tue, 20 Oct 2026 16:12:33 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/FF7-Remake-Intergrade.jpg?w=300"
-    },
-    {
       "titulo": "Coming to XBOX Game Pass: Final Fantasy VII Remake Intergrade, The Séance of Blake Manor, and More",
       "link": "https://news.xbox.com/en-us/2026/10/20/xbox-game-pass-october-2026-wave-2/",
       "resumo": "<p>Ghosts to question and a planet to save. Sounds like a perfectly reasonable few weeks to me! We have another batch of games coming soon to Game Pass, so clear a little room in that “Play Next List” and let’s get to it! Coming Soon Sandustry(Game Preview) (PC) &#8211; October 21Now with Game Pass ",
@@ -388,24 +451,6 @@
       "categoria": "Xbox",
       "data": "Tue, 20 Oct 2026 16:00:00 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "Here’s An Exclusive Look At How Cyberpunk: Edgerunners’ Cast Will Look In The Hit Trading Card Game",
-      "link": "https://www.gamespot.com/articles/heres-an-exclusive-look-at-how-cyberpunk-edgerunners-cast-will-look-in-the-hit-trading-card-game/",
-      "resumo": "<p class=\"wp-block-paragraph\">Earlier this year, a new trading card game based on the hit Cyberpunk franchise hit Kickstarter and became the <a href=\"https://updates.kickstarter.com/cyberpunk-tcg-becomes-the-most-funded-game-in-crowdfunding-history/\">highest-funded game in Kickstarter's entire histo",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Tue, 20 Oct 2026 16:00:00 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Your-New-Life-Awaits-Set-2-Key-Art-rezied.jpg?w=300"
-    },
-    {
-      "titulo": "Netflix’s Push Into Gaming Continues To Fall Short",
-      "link": "https://www.gamespot.com/articles/netflixs-push-into-gaming-continues-to-fall-short/",
-      "resumo": "<p class=\"wp-block-paragraph\">Netflix has undertaken efforts over the years to increase its footprint in the world of video games, but it's been a bumpy road, and new data suggests that the company is falling short of its targets.</p>\n\n\n\n<p class=\"wp-block-paragraph\">According to a Netflix memo seen",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Tue, 20 Oct 2026 15:25:48 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/conjuringnetflix.png?w=300"
     },
     {
       "titulo": "How Final Fantasy Resonance uses Visions to change how we see the series",
@@ -432,15 +477,6 @@
       "fonte": "Roblox - Anúncios",
       "categoria": "Roblox",
       "data": "Tue, 13 Oct 2026 16:30:07 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Helldivers 2: Scope of Authority Premium Warbond launches Oct 20",
-      "link": "https://blog.playstation.com/2026/10/13/helldivers-2-scope-of-authority-premium-warbond-launches-oct-20/",
-      "resumo": "Picture this: A chilly autumn breeze ripples through the forest as a battalion of Automatons amble towards an outpost. They move together like cogs in a larger wheel, chanting in their electric tongues as they march, when a peal of thunder breaks their mechanical trance. But it’s not thunder. It’s y",
-      "fonte": "PlayStation Blog",
-      "categoria": "PlayStation",
-      "data": "Tue, 13 Oct 2026 13:00:36 +0000",
       "imagem": ""
     },
     {
@@ -579,30 +615,12 @@
       "imagem": ""
     },
     {
-      "titulo": "The Call of Duty Endowment (C.O.D.E.) Presents the Forged in Valor Series, A Look into the Making of the Valor Pack",
-      "link": "https://news.xbox.com/en-us/2026/10/19/the-call-of-duty-endowment-c-o-d-e-presents-the-forged-in-valor-series-a-look-into-the-making-of-the-valor-pack/",
-      "resumo": "<p>The post <a href=\"https://news.xbox.com/en-us/2026/10/19/the-call-of-duty-endowment-c-o-d-e-presents-the-forged-in-valor-series-a-look-into-the-making-of-the-valor-pack/\">The Call of Duty Endowment (C.O.D.E.) Presents the Forged in Valor Series, A Look into the Making of the Valor Pack</a> appear",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Mon, 19 Oct 2026 22:23:07 +0000",
-      "imagem": ""
-    },
-    {
       "titulo": "Homepage Recommendation Eligibility Now Requires a Custom Thumbnail",
       "link": "https://devforum.roblox.com/t/homepage-recommendation-eligibility-now-requires-a-custom-thumbnail/4945086",
       "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Upload at least one custom thumbnail that accurately represents your game so it has the best chance of being discovered.</p>\n<p>Games with only a default thumbnail are not eligible for homepage recommendations.</p>\n</blockquote>\n<",
       "fonte": "Roblox - Anúncios",
       "categoria": "Roblox",
       "data": "Mon, 19 Oct 2026 21:26:06 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Ready for Launch: All Modern Warfare 4 Operators, Weapons, Equipment, and Multiplayer Create-a-Class Features",
-      "link": "https://news.xbox.com/en-us/2026/10/19/ready-for-launch-all-modern-warfare-4-operators-weapons-equipment-and-multiplayer-create-a-class-features/",
-      "resumo": "<p>The post <a href=\"https://news.xbox.com/en-us/2026/10/19/ready-for-launch-all-modern-warfare-4-operators-weapons-equipment-and-multiplayer-create-a-class-features/\">Ready for Launch: All Modern Warfare 4 Operators, Weapons, Equipment, and Multiplayer Create-a-Class Features</a> appeared first on ",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Mon, 19 Oct 2026 18:00:00 +0000",
       "imagem": ""
     },
     {
@@ -622,15 +640,6 @@
       "categoria": "PlayStation",
       "data": "Mon, 19 Oct 2026 12:05:05 +0000",
       "imagem": "https://blog.playstation.com/uploads/2026/10/40fd987db17d5e3845df9d5913fb9f5d826aa74a.mp4"
-    },
-    {
-      "titulo": "A Simpler Path to Publish, Plus Invite Early Testers",
-      "link": "https://devforum.roblox.com/t/a-simpler-path-to-publish-plus-invite-early-testers/4930524",
-      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h2>Key Takeaways</h2>\n<p>We’re making publishing simpler. Answer one question, instead of the full questionnaire, to reach users 16 years and older. We’re also rolling out early tester access, so you can invite up to 10 friends to preview your game before",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Mon, 12 Oct 2026 18:00:06 +0000",
-      "imagem": ""
     },
     {
       "titulo": "Team Fortress 2 Update Released",
@@ -667,15 +676,6 @@
       "categoria": "Roblox",
       "data": "Fri, 16 Oct 2026 19:00:44 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "Watch Out GTA 6, A Shrek 2 Remaster Was Just Announced",
-      "link": "https://www.gamespot.com/articles/shrek-2-remaster-leaks-looks-amazing-and-i-need-it-now/",
-      "resumo": "<p class=\"wp-block-paragraph\">A remaster of 2004's Shrek 2: The Game is on the way, according to an Xbox.com listing that was published too soon. Following the leak, Aspyr officially announced the Shrek 2 remaster, and it's releasing on November 10. That's just 9 days before GTA 6, so this November ",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Fri, 16 Oct 2026 18:21:13 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/shrek2.jpg?w=300"
     },
     {
       "titulo": "Official PlayStation Podcast Episode 551: Quadruple Duty",
