@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "22/10/2026 às 06:23",
+  "atualizado_em": "22/10/2026 às 12:23",
   "total": 80,
   "noticias": [
     {
@@ -291,24 +291,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Feature: After 15 Years Of Coming \"Directly To You\", Here Are The Best Nintendo Direct Moments Ever",
-      "link": "https://www.nintendolife.com/features/after-15-years-of-coming-directly-to-you-here-are-the-best-nintendo-direct-moments-ever",
-      "resumo": "<p><strong>Direct message.</strong></p><p>That’s right, the humble news delivery machine that is the Nintendo Direct celebrates its 15th birthday on 21st October and to celebrate, we’re chronicling the 15 top moments from their illustrious history.</p><p>To do so, yours truly has scrubbed through do",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Wed, 21 Oct 2026 12:00:00 GMT",
-      "imagem": "https://images.nintendolife.com/90ff55a89096a/large.jpg"
-    },
-    {
-      "titulo": "Award-Winning Indie Horror 'Mouthwashing' Finally Arrives On Switch This Month",
-      "link": "https://www.nintendolife.com/news/2026/10/award-winning-indie-horror-mouthwashing-finally-arrives-on-switch-this-month",
-      "resumo": "<p><strong>Eye spy.</strong></p><p>Creepy space horror <a href=\"https://www.nintendolife.com/games/switch-eshop/mouthwashing\">Mouthwashing</a> became something of an indie sensation when it launched back in 2024. After racking up over 500,000 Steam sales, publisher Critical Reflex announced that a S",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Wed, 21 Oct 2026 11:15:00 GMT",
-      "imagem": "https://images.nintendolife.com/ba8fe30037d4f/large.jpg"
-    },
-    {
       "titulo": "[Studio Beta] Upgraded UIShadow Capabilities",
       "link": "https://devforum.roblox.com/t/studio-beta-upgraded-uishadow-capabilities/4934553",
       "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>UIShadow now supports text shadows, knockout shadows, inset shadows, and gradient fills. Use these to add depth and polish in your UI without complex workarounds.</p>\n<p>Enable in Studio through File &gt; Beta Features &gt; Upgrad",
@@ -408,15 +390,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Coming to XBOX Game Pass: Final Fantasy VII Remake Intergrade, The Séance of Blake Manor, and More",
-      "link": "https://news.xbox.com/en-us/2026/10/20/xbox-game-pass-october-2026-wave-2/",
-      "resumo": "<p>Ghosts to question and a planet to save. Sounds like a perfectly reasonable few weeks to me! We have another batch of games coming soon to Game Pass, so clear a little room in that “Play Next List” and let’s get to it! Coming Soon Sandustry(Game Preview) (PC) &#8211; October 21Now with Game Pass ",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Tue, 20 Oct 2026 16:00:00 +0000",
-      "imagem": ""
-    },
-    {
       "titulo": "How Final Fantasy Resonance uses Visions to change how we see the series",
       "link": "https://blog.playstation.com/2026/10/20/how-final-fantasy-resonance-uses-visions-to-change-how-we-see-the-series/",
       "resumo": "With its cinematic HD-2D visuals and flashy combat, Final Fantasy Resonance was already piquing the interest of turn-based RPG fans, but its powerful and fun Visions mechanic has really captured the imagination. I went hands-on with the final game to take a deep dive into what Visions are, how they ",
@@ -451,6 +424,42 @@
       "categoria": "Roblox",
       "data": "Thu, 27 Aug 2026 18:16:30 +0000",
       "imagem": ""
+    },
+    {
+      "titulo": "Tomb Raider: Legacy of Atlantis – the evolution of Lara Croft’s design",
+      "link": "https://blog.playstation.com/2026/10/22/tomb-raider-legacy-of-atlantis-the-evolution-of-lara-crofts-design/",
+      "resumo": "When Lara Croft first leapt onto screens in 1996, she was a few hundred polygons and a fistful of pixels. Thirty years later, Tomb Raider: Legacy of Atlantis reimagines that same adventurer with technology the original team could only dream of. Through it all, one goal held steady: she had to look l",
+      "fonte": "PlayStation Blog",
+      "categoria": "PlayStation",
+      "data": "Thu, 22 Oct 2026 11:59:38 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Pokémon Apps Are Coming Back Online After Extended Cybersecurity Outage",
+      "link": "https://www.nintendolife.com/news/2026/10/pokemon-apps-are-coming-back-online-after-extended-cybersecurity-outage",
+      "resumo": "<p><strong>Sleep, HOME and Champions all went down yesterday.</strong></p><p>You may have read yesterday about the cybersecurity alert that hit sites and apps around the world after two vulnerabilities were found in the popular programming language, PHP. The Pokémon Company were one of the many team",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Thu, 22 Oct 2026 10:45:00 GMT",
+      "imagem": "https://images.nintendolife.com/0080562a5553b/large.jpg"
+    },
+    {
+      "titulo": "From the Anime to the Game — Free Update Brings Edgerunners 2 Content and More to Cyberpunk 2077!",
+      "link": "https://news.xbox.com/en-us/2026/10/22/cyberpunk-2077-edgerunners-2-update/",
+      "resumo": "<p>“Cyberpunk: Edgerunners 2” premiered on Netflix on October 20, bringing a whole new cast of characters to Night City for a dark, gritty ride. And now we’re bringing a little piece of that story into Cyberpunk 2077, too! The free Edgerunners 2 Update is here, with content inspired by the anime, ne",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Thu, 22 Oct 2026 10:00:00 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "EA Outlines Future Development Plans As It Prepares To Cut Around 400 Jobs",
+      "link": "https://www.nintendolife.com/news/2026/10/ea-outlines-future-development-plans-as-it-prepares-to-cut-around-400-jobs",
+      "resumo": "<p><strong>Sports games remain top priority, unsurprisingly.</strong></p><p>Alongside the news Electronic Arts is <a href=\"https://www.nintendolife.com/news/2026/10/ea-shuts-down-legendary-rpg-developer-bioware\">shutting down BioWare</a> and reports about it axing around 400 jobs across the entire c",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Thu, 22 Oct 2026 06:30:00 GMT",
+      "imagem": "https://images.nintendolife.com/58aa8fc3966d8/large.jpg"
     },
     {
       "titulo": "Minecraft x Dragon Ball Z - 1.1 Legends Update Adds More Characters, New Story Mode Fights & Custom Tournament",
@@ -567,15 +576,6 @@
       "fonte": "Roblox - Atualizações",
       "categoria": "Roblox",
       "data": "Thu, 15 Oct 2026 16:51:59 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "(For Southeast Asia) Gran Turismo 7’s Spec IV (Part 1) launches today and a first look at DualSense wireless controller – Gran Turismo Limited Edition",
-      "link": "https://blog.playstation.com/2026/10/14/20261015-gt7/",
-      "resumo": "Hey everyone, we&#8217;re excited to share news on Gran Turismo with you today. For starters, we have full details on today&#8217;s Part 1 of the Gran Turismo 7 Spec IV update. Plus, we celebrate 30 years of Gran Turismo with the first look at the Gran Turismo Limited Edition DualSense wireless cont",
-      "fonte": "PlayStation Blog",
-      "categoria": "PlayStation",
-      "data": "Thu, 15 Oct 2026 02:06:55 +0000",
       "imagem": ""
     },
     {
