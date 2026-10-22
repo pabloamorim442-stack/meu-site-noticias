@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "21/10/2026 às 18:20",
+  "atualizado_em": "22/10/2026 às 00:16",
   "total": 80,
   "noticias": [
     {
@@ -10,6 +10,123 @@
       "categoria": "Roblox",
       "data": "Wed, 30 Sep 2026 21:50:53 +0000",
       "imagem": ""
+    },
+    {
+      "titulo": "Red Bull Ladeira Abaixo 2026 aterrissa na Avenida Pompeia em 15 de novembro",
+      "link": "https://br.ign.com/games/156991/red-bull-ladeira-abaixo-2026-aterrissa-na-avenida-pompeia-em-15-de-novembro",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/blob_jbcu.640.jpg\" vspace=\"5\" width=\"120\" />\nNa competição, 39 equipes descem a Avenida Pompeia, em São Paulo, com carrinhos sem motor inspirados na cultura geek.",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 22:17:28 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/blob_jbcu.jpg"
+    },
+    {
+      "titulo": "Fãs de GTA 6 acreditam que Rockstar Games está gravando um trailer live-action elaborado e caro em Miami",
+      "link": "https://br.ign.com/grand-theft-auto-vi/156988/fas-de-gta-6-acreditam-que-rockstar-games-esta-gravando-um-trailer-live-action-elaborado-e-caro-em-m",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/g/gta-6-fans/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and_4wns.640.png\" vspace=\"5\" width=\"120\" />Vroom vroom!\n<p>Fãs mais atentos da Rockstar notaram equipes de filmagem registrando comboios de carros chamativo",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 20:44:28 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/g/gta-6-fans/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and_4wns.png"
+    },
+    {
+      "titulo": "Sony lança nova atualização de firmware para PS5 enquanto a corrida pelo desbloqueio ganha força antes do lançamento do GTA 6",
+      "link": "https://br.ign.com/grand-theft-auto-vi/156986/sony-lanca-nova-atualizacao-de-firmware-para-ps5-enquanto-a-corrida-pelo-desbloqueio-ganha-forca-ant",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/s/sony-issue/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats_jh28.640.jpg\" vspace=\"5\" width=\"120\" />Procurados\n<p>A Sony lançou uma nova atualização de firmware para o PlayStation 5 em meio aos esforços contínuos d",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 20:41:48 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/s/sony-issue/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats_jh28.jpg"
+    },
+    {
+      "titulo": "Every Planet and Location in Star Wars Battlefront 2's Multiplayer",
+      "link": "https://br.ign.com/gallery/156984/every-planet-and-location-in-star-wars-battlefront-2s-multiplayer",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/e/every-plan/every-planet-and-location-in-star-wars-battlefront-2s-multip_1e3b.640.jpg\" vspace=\"5\" width=\"120\" />",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 20:33:29 +0000",
+      "imagem": "https://sm.ign.com/ign_br/gallery/e/every-plan/every-planet-and-location-in-star-wars-battlefront-2s-multip_1e3b.jpg"
+    },
+    {
+      "titulo": "EA confirma que DICE e Respawn estão colaborando em um novo projeto em meio a rumores sobre Star Wars: Battlefront 3",
+      "link": "https://br.ign.com/star-wars-battlefront/156983/ea-confirma-que-dice-e-respawn-estao-colaborando-em-um-novo-projeto-em-meio-a-rumores-sobre-star-war",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/e/ea-confirm/ea-confirms-dice-and-respawn-are-collaborating-on-a-new-proj_2zh1.640.jpg\" vspace=\"5\" width=\"120\" />Uma perturbação na Forç\n<p>A EA confirmou que a DICE e a Respawn estão trabalhando juntas em um novo projeto, ali",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 20:33:29 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/e/ea-confirm/ea-confirms-dice-and-respawn-are-collaborating-on-a-new-proj_2zh1.jpg"
+    },
+    {
+      "titulo": "\"Isso é uma facada no meu coração\": a internet reage ao cancelamento de Mass Effect 5 e ao fim da BioWare",
+      "link": "https://br.ign.com/mass-effect/156985/isso-e-uma-facada-no-meu-coracao-a-internet-reage-ao-cancelamento-de-mass-effect-5-e-ao-fim-da-biowa",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/t/the-intern/the-internet-reacts-to-the-cancellation-of-mass-effect-5-and_cvhp.640.jpg\" vspace=\"5\" width=\"120\" />\n“Não deixem que o legado de Mass Effect e Dragon Age morra com esses últimos suspiros sangrentos\"",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 20:30:57 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/t/the-intern/the-internet-reacts-to-the-cancellation-of-mass-effect-5-and_cvhp.jpg"
+    },
+    {
+      "titulo": "Fã da LEGO compra Millennium Falcon no Facebook e descobre que faltam 2.000 peças; LEGO admite um raro erro de fábrica e as envia para ele",
+      "link": "https://br.ign.com/lego/156989/fa-da-lego-compra-millennium-falcon-no-facebook-e-descobre-que-faltam-2000-pecas-lego-admite-um-raro",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/lego-millennium-falke-bild-sfulaxer66-auf-reddit-6405219_cbmm.640.jpg\" vspace=\"5\" width=\"120\" />\nAparentemente, um funcionário da LEGO teve que recolher as peças manualmente",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 20:25:11 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/lego-millennium-falke-bild-sfulaxer66-auf-reddit-6405219_cbmm.jpg"
+    },
+    {
+      "titulo": "Star Wars Battlefront 3 Reportedly In Development By EA’s Top Shooter Studios",
+      "link": "https://www.gamespot.com/articles/star-wars-battlefront-3-reportedly-in-development-by-eas-top-shooter-studios/",
+      "resumo": "<p class=\"wp-block-paragraph\">Included in the shocking news of <a href=\"https://www.gamespot.com/articles/ea-kills-bioware-cancels-new-mass-effect-pauses-new-sims-game-and-all-the-other-big-ea-news-that-just-happened/\">EA's restructuring</a>, which includes layoffs and the <a href=\"https://www.games",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 19:16:31 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/STAR_WARS_BATTLEFRONT_2-screenshot-5-16x9-1.jpg?w=300"
+    },
+    {
+      "titulo": "Xbox Cloud Gaming Hourly Prices Revealed For Non-Game Pass Members",
+      "link": "https://www.gamespot.com/articles/xbox-cloud-gaming-hourly-prices-revealed-for-non-game-pass-members/",
+      "resumo": "<p class=\"wp-block-paragraph\">Microsoft has <a href=\"https://news.xbox.com/en-us/2026/10/21/cloud-playtime-now-available-to-test-with-xbox-insiders/\">revealed</a> how much it will charge people for using the Xbox Cloud Gaming service without a Game Pass membership. Right now, this is available only ",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 19:10:33 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Xboxreset-5.png?w=300"
+    },
+    {
+      "titulo": "Grotesco e sombrio, Cara-de-Barro é o pesadelo de terror corporal que a DC precisava",
+      "link": "https://br.ign.com/clayface/156967/grotesco-e-sombrio-cara-de-barro-e-o-pesadelo-de-terror-corporal-que-a-dc-precisava",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/blob_r9yp.640.jpg\" vspace=\"5\" width=\"120\" />\nNovo filme da DC chega em 22 de outubro e mostra que o estúdio deve apostar em mais histórias de terror",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 19:00:34 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/blob_r9yp.jpg"
+    },
+    {
+      "titulo": "EA Cancels New Mass Effect, Pauses New Sims Game, And All The Other  Big EA News That Just Happened",
+      "link": "https://www.gamespot.com/articles/ea-kills-bioware-cancels-new-mass-effect-pauses-new-sims-game-and-all-the-other-big-ea-news-that-just-happened/",
+      "resumo": "<p class=\"wp-block-paragraph\">When EA was acquired by Saudi Arabia's Public Investment Fund, <a href=\"https://www.gamespot.com/articles/ea-has-officially-been-sold-and-what-comes-next-could-be-painful/\">many expected major changes</a> at the gaming company, including layoffs and game cancellations, ",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 18:20:23 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/masseffect-Large.jpeg?w=300"
+    },
+    {
+      "titulo": "Mais de 500 páginas de Bleach por R$ 45: volume 2 da edição Remix está em oferta na Amazon",
+      "link": "https://br.ign.com/descontos/156982/mais-de-500-paginas-de-bleach-por-r-45-volume-2-da-edicao-remix-esta-em-oferta-na-amazon",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/1200-800-1_9qmr.640.png\" vspace=\"5\" width=\"120\" />\nRepublicação da Panini reúne a história de Tite Kubo em 26 volumes",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 18:16:42 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/1200-800-1_9qmr.png"
+    },
+    {
+      "titulo": "Rayman Legends Retold’s New Baguette Costumes Are A Tip Of The Beret To Expedition 33",
+      "link": "https://www.gamespot.com/articles/rayman-legends-retold-new-baguette-costumes-are-a-tip-of-the-beret-to-expedition-33/",
+      "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/games/rayman-legends-retold/\">Rayman Legends Retold</a> is almost here, and as you'd expect from this remake, it's a pretty noticeable graphical glow-up of Rayman Legends <em>and</em> it includes a very French outfit for you to dress th",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Wed, 21 Oct 2026 18:02:00 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Baguette-1.jpg?w=300"
     },
     {
       "titulo": "Cloud Playtime Now Available to Test with XBOX Insiders",
@@ -93,15 +210,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Lindo e em oferta! Controle PowerA Advantage para Nintendo Switch 2 chega ao menor preço do ano",
-      "link": "https://br.ign.com/descontos/156980/lindo-e-em-oferta-controle-powera-advantage-para-nintendo-switch-2-chega-ao-menor-preco-do-ano",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/switch-2_8ng3.640.jpg\" vspace=\"5\" width=\"120\" />\nCom iluminação RGB personalizável, analógicos com efeito Hall, botões mapeáveis e botão C para acessar o GameChat, o controle com fio da PowerA combina visual dife",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Wed, 21 Oct 2026 16:53:11 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/switch-2_8ng3.jpg"
-    },
-    {
       "titulo": "GTA 6 Will Feature Lots Of Small Details Like Red Dead’s Dynamic Horse Testicle Physics",
       "link": "https://www.gamespot.com/articles/gta-6-will-feature-lots-of-small-details-like-red-deads-dynamic-horse-testicle-physics/",
       "resumo": "<p class=\"wp-block-paragraph\">New details about Rockstar's <a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">GTA 6</a> continue to come to light ahead of the highly anticipated crime game's release in November. Reporter Jason Schreier <a href=\"h",
@@ -129,15 +237,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Diablo Is Getting A New Board Game, And You Can Play It Solo",
-      "link": "https://www.gamespot.com/articles/diablo-is-getting-a-new-board-game-and-you-can-play-it-solo/",
-      "resumo": "<p class=\"wp-block-paragraph\">The world of Diablo will expand over the next couple of years with a <a href=\"https://www.gamespot.com/articles/diablo-5-is-coming-in-2029-will-actually-star-diablo/\" rel=\"noreferrer noopener\" target=\"_blank\">new video game</a> and a <a href=\"https://www.gamespot.com/ar",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Wed, 21 Oct 2026 16:00:00 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Dibalo-Unbound-Main.jpg?w=300"
-    },
-    {
       "titulo": "Nintendo Switch Sports Resort Has Been Updated To Ver. 1.1.0, Here Are The Full Patch Notes",
       "link": "https://www.nintendolife.com/news/2026/10/nintendo-switch-sports-resort-has-been-updated-to-ver-1-1-0-here-are-the-full-patch-notes",
       "resumo": "<p><strong>You and Mii.</strong></p><p><a href=\"https://www.nintendolife.com/games/nintendo-switch-2/nintendo-switch-sports-resort\">Nintendo Switch Sports Resort</a> releases tomorrow (22nd October), and Nintendo is making sure that launch day goes smoothly by releasing its very first update.</p><p>",
@@ -147,51 +246,6 @@
       "imagem": "https://images.nintendolife.com/e9d128dd00b16/large.jpg"
     },
     {
-      "titulo": "Apenas a memória RAM e o armazenamento do PlayStation 6 podem custar US$ 680, segundo vazamento",
-      "link": "https://br.ign.com/playstation-5-2/156977/apenas-a-memoria-ram-e-o-armazenamento-do-playstation-6-podem-custar-us-680-segundo-vazamento",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/p/playstatio/playstation-6-ram-and-storage-alone-may-cost-680-according-t_rjw9.640.jpg\" vspace=\"5\" width=\"120\" />\nNão tem como o PS6 custar menos de US$ 1.000",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Wed, 21 Oct 2026 15:39:00 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/p/playstatio/playstation-6-ram-and-storage-alone-may-cost-680-according-t_rjw9.jpg"
-    },
-    {
-      "titulo": "Oferta do dia: tablet HUAWEI de 11 polegadas e 128 GB por menos de R$ 900",
-      "link": "https://br.ign.com/descontos/156976/oferta-do-dia-tablet-huawei-de-11-polegadas-e-128-gb-por-menos-de-r-900",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/tablet-huawei_prcy.640.jpg\" vspace=\"5\" width=\"120\" />\nMatePad SE 11 traz construção em metal e bateria de 7.700 mAh",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Wed, 21 Oct 2026 15:36:12 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/tablet-huawei_prcy.jpg"
-    },
-    {
-      "titulo": "\"Não existe uma única pessoa que tenha tudo isso na cabeça\": desenvolvedores de GTA 6 tiveram liberdade para adicionar recursos interessantes, assim como os testículos de cavalo em RDR2",
-      "link": "https://br.ign.com/grand-theft-auto-vi/156975/nao-existe-uma-unica-pessoa-que-tenha-tudo-isso-na-cabeca-desenvolvedores-de-gta-6-tiveram-liberdade",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/t/theres-no-/theres-no-one-person-that-has-this-whole-thing-in-their-head_r8u8.640.jpg\" vspace=\"5\" width=\"120\" />\nUma estrada muito, muito longa",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Wed, 21 Oct 2026 15:28:15 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/t/theres-no-/theres-no-one-person-that-has-this-whole-thing-in-their-head_r8u8.jpg"
-    },
-    {
-      "titulo": "Novas rodadas de demissões do Xbox estão planejadas para o final de 2026 e começo de 2027, segundo reportagem",
-      "link": "https://br.ign.com/xbox/156974/novas-rodadas-de-demissoes-do-xbox-estao-planejadas-para-o-final-de-2026-e-comeco-de-2027-segundo-re",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/1-1_nmfg.640.jpg\" vspace=\"5\" width=\"120\" />Três levas de demissões podem ocorrer em outubro e novembro de 2026 e janeiro de 2027\n<p>O ano de 2026 está acabando, mas o momento turbulento do Xbox continua. Após <a ",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Wed, 21 Oct 2026 15:08:55 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/1-1_nmfg.jpg"
-    },
-    {
-      "titulo": "Usuários do Steam imploram por um filtro que exclua conteúdos gerados por IA, já que o Steam Next Fest está repleto de material de baixa qualidade",
-      "link": "https://br.ign.com/steam-machine/156973/usuarios-do-steam-imploram-por-um-filtro-que-exclua-conteudos-gerados-por-ia-ja-que-o-steam-next-fes",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/s/steam-fans/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest_eh1z.640.jpg\" vspace=\"5\" width=\"120\" />\nFeche as comportas",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Wed, 21 Oct 2026 15:03:59 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/s/steam-fans/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest_eh1z.jpg"
-    },
-    {
       "titulo": "Review: JSAUX 6-In-1 Gaming Dock For Switch 2 - Attractive Enough, But No Replacement For The Real Deal",
       "link": "https://www.nintendolife.com/reviews/jsaux-6-in-1-gaming-dock-for-switch-2-attractive-enough-but-no-replacement-for-the-real-deal",
       "resumo": "<p><strong>Wibble-wobble.</strong></p><p>At a glance, JSAUX’s 6-in-1 Dock for the Switch 2 is a compelling piece of kit.</p><p>In addition to docking your console for TV mode, it also contains four slots to charge Joy-Con, along with space to charge your Pro Controller. With a foldable design, it ma",
@@ -199,42 +253,6 @@
       "categoria": "Nintendo",
       "data": "Wed, 21 Oct 2026 15:00:00 GMT",
       "imagem": "https://images.nintendolife.com/5e3be3cca5552/large.jpg"
-    },
-    {
-      "titulo": "Monitor LG UltraWide 29” tem 35% OFF em oferta relâmpago no Mercado Livre",
-      "link": "https://br.ign.com/descontos/156972/monitor-lg-ultrawide-29-tem-35-off-em-oferta-relampago-no-mercado-livre",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_a6cy.640.jpg\" vspace=\"5\" width=\"120\" />\nTela IPS de 29 polegadas, formato 21:9, HDR10 e 100 Hz para trabalhar e jogar com mais espaço!",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Wed, 21 Oct 2026 14:52:08 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_a6cy.jpg"
-    },
-    {
-      "titulo": "Everything New In Cyberpunk 2077 Update 2.5",
-      "link": "https://www.gamespot.com/articles/everything-new-in-cyberpunk-2077-update-2-5/",
-      "resumo": "<p class=\"wp-block-paragraph\">A new season of Cyberpunk: Edgerunners is now on Netflix, and to celebrate, <a href=\"https://www.gamespot.com/articles/cyberpunk-2077-is-celebrating-edgerunners-season-2-with-a-surprise-update/\">Cyberpunk 2077 is getting an update</a>.  Developer CD Projekt Red announce",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Wed, 21 Oct 2026 14:50:42 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Cyberpunk-Johnny.jpg?w=300"
-    },
-    {
-      "titulo": "The 10 Best Survival Horror Games",
-      "link": "https://br.ign.com/resident-evil-2-2/156971/the-10-best-survival-horror-games",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/t/the-10-bes/the-10-best-survival-horror-games_8xp3.640.jpg\" vspace=\"5\" width=\"120\" />",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Wed, 21 Oct 2026 14:48:17 +0000",
-      "imagem": "https://sm.ign.com/ign_br/gallery/t/the-10-bes/the-10-best-survival-horror-games_8xp3.jpg"
-    },
-    {
-      "titulo": "Hellraiser: Revival Review Screens",
-      "link": "https://br.ign.com/clive-barkers-hellraiser-revival/156970/hellraiser-revival-review-screens",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/h/hellraiser/hellraiser-revival-review-screens_ay7g.640.jpg\" vspace=\"5\" width=\"120\" />",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Wed, 21 Oct 2026 14:48:17 +0000",
-      "imagem": "https://sm.ign.com/ign_br/gallery/h/hellraiser/hellraiser-revival-review-screens_ay7g.jpg"
     },
     {
       "titulo": "A Permanent Pokémon Store Is Finally Coming To London",
@@ -253,24 +271,6 @@
       "categoria": "PlayStation",
       "data": "Wed, 21 Oct 2026 14:01:18 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "Halo 3 Looks Like It Could Come To Browsers Via Xbox Labs",
-      "link": "https://www.gamespot.com/articles/halo-3-looks-like-it-could-come-to-browsers-via-xbox-labs/",
-      "resumo": "<p class=\"wp-block-paragraph\">We just got our strongest hint at what Xbox Labs might be \"cooking up\" for players, thanks to Xbox chief technology officer Scott Van Vliet. The executive posted a video <a href=\"https://x.com/scottvanvliet/status/2112671760131010982\">on X</a> that ends with Halo 3 boot",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Wed, 21 Oct 2026 13:56:38 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/original/1713/17133350/4042104-halo-3.jpg?w=300"
-    },
-    {
-      "titulo": "New PS5 Update Is Out Now, And Sony May Be Tightening Security Before GTA 6",
-      "link": "https://www.gamespot.com/articles/new-ps5-update-is-out-now-and-sony-may-be-tightening-security-before-gta-6/",
-      "resumo": "<p class=\"wp-block-paragraph\">Another day, another PS5 update, as Sony tweaks its system with another minor upgrade. It looks like business as usual for PS5 Update Version:&nbsp;26.07-14.20.00, with Sony focusing on overall usage and message readability, but there are murmurs that the patch could al",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Wed, 21 Oct 2026 13:46:30 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4686929-ps5-pro.jpg?w=300"
     },
     {
       "titulo": "Strange Scaffold's Super Slick Revenge Shooter Is Out Now On Switch 2",
@@ -480,21 +480,21 @@
       "imagem": ""
     },
     {
-      "titulo": "Release Notes for 734",
-      "link": "https://devforum.roblox.com/t/release-notes-for-734/4805175",
-      "resumo": "<p>Hi all, <a href=\"https://create.roblox.com/docs/release-notes/release-notes-734\">release notes for 734</a> is here! Have a great rest of your week.</p>\n            <p><small>36 posts - 25 participants</small></p>\n            <p><a href=\"https://devforum.roblox.com/t/release-notes-for-734/4805175\"",
-      "fonte": "Roblox - Atualizações",
-      "categoria": "Roblox",
-      "data": "Tue, 11 Aug 2026 22:07:34 +0000",
-      "imagem": ""
-    },
-    {
       "titulo": "Release Notes for 736",
       "link": "https://devforum.roblox.com/t/release-notes-for-736/4833635",
       "resumo": "<p>Hey everyone, release notes are available for 736.</p>\n<aside class=\"onebox allowlistedgeneric\">\n  <header class=\"source\">\n      <img class=\"site-icon\" height=\"48\" src=\"https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/f/4/4/7/f447460fd40fb32dafe6f12a177e1dbb041a48",
       "fonte": "Roblox - Atualizações",
       "categoria": "Roblox",
       "data": "Thu, 27 Aug 2026 18:16:30 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Release Notes for 744",
+      "link": "https://devforum.roblox.com/t/release-notes-for-744/4949081",
+      "resumo": "<p>Hey all, Studio 744 has landed! Here’s the release notes…</p>\n<aside class=\"onebox allowlistedgeneric\">\n  <header class=\"source\">\n      <img class=\"site-icon\" height=\"48\" src=\"https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/7/9/e/4/79e41a8b49a5e13ab6bbc1ad0f69eeb",
+      "fonte": "Roblox - Atualizações",
+      "categoria": "Roblox",
+      "data": "Thu, 22 Oct 2026 00:08:12 +0000",
       "imagem": ""
     },
     {
