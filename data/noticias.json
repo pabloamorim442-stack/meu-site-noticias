@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/10/2026 às 12:17",
+  "atualizado_em": "23/10/2026 às 18:18",
   "total": 80,
   "noticias": [
     {
@@ -37,15 +37,6 @@
       "categoria": "PlayStation",
       "data": "Wed, 21 Oct 2026 17:00:37 +0000",
       "imagem": "https://blog.playstation.com/uploads/2048/10/1ba8852a77f1c2456c78dd4c1913c614c55d2c43.mp4"
-    },
-    {
-      "titulo": "Thirty Years of Lara Croft",
-      "link": "https://news.xbox.com/en-us/2026/10/21/thirty-years-of-lara-croft/",
-      "resumo": "<p>Few people are better positioned to reflect on three decades of Lara Croft than Meagan Marie. A longtime member of the Tomb Raider team at Crystal Dynamics, author of 20 Years of Tomb Raider, and a fan who has cosplayed the character more than a dozen times, she has spent her career at the inters",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Wed, 21 Oct 2026 17:00:00 +0000",
-      "imagem": ""
     },
     {
       "titulo": "PlayStation Indies: 9 must-play horror games for the spooky season",
@@ -102,24 +93,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Think You’ve Beaten Fountains? Prove it in the Gauntlet",
-      "link": "https://news.xbox.com/en-us/2026/10/20/think-youve-beaten-fountains/",
-      "resumo": "<p>So, what exactly is the Gauntlet Mode? Think of it as the ultimate proving ground for warriors who crave a real challenge. Originally designed on PC to accommodate the most demanding souls-like connoisseurs, it’s now arriving on XBOX just after the console version’s premiere. It&#8217;s your turn",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Tue, 20 Oct 2026 20:00:00 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Grounded 2: 100 Reasons to Run in the Rot and Ruin Update",
-      "link": "https://news.xbox.com/en-us/2026/10/20/grounded-2-rot-and-ruin/",
-      "resumo": "<p>Survive the Rot and Ruin Update Brookhollow Park is getting a little more rotten. The Rot and Ruin Update expands Grounded 2 with a new area to explore, dangerous creatures to face, another Buggy to saddle up on, and new ways to customize both your gear and your home away from home. Explore the W",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Tue, 20 Oct 2026 19:00:00 +0000",
-      "imagem": ""
-    },
-    {
       "titulo": "How Final Fantasy Resonance uses Visions to change how we see the series",
       "link": "https://blog.playstation.com/2026/10/20/how-final-fantasy-resonance-uses-visions-to-change-how-we-see-the-series/",
       "resumo": "With its cinematic HD-2D visuals and flashy combat, Final Fantasy Resonance was already piquing the interest of turn-based RPG fans, but its powerful and fun Visions mechanic has really captured the imagination. I went hands-on with the final game to take a deep dive into what Visions are, how they ",
@@ -147,15 +120,6 @@
       "imagem": ""
     },
     {
-      "titulo": "After The BioWare Shutdown, Mass Effect Spiritual Successor Exodus Gets A New Look",
-      "link": "https://www.gamespot.com/articles/after-the-bioware-shutdown-mass-effect-spiritual-successor-exodus-gets-a-new-look/",
-      "resumo": "<p class=\"wp-block-paragraph\">In the wake of the news that <a href=\"https://www.gamespot.com/articles/ea-shuts-down-dragon-age-mass-effect-studio-bioware/\">EA has closed down BioWare</a> and ended development on <a href=\"https://www.gamespot.com/articles/the-leaked-mass-effect-5-trailer-is-absolutel",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Thu, 22 Oct 2026 21:37:24 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/NewJun.png?w=300"
-    },
-    {
       "titulo": "[Full Launch] Publish Games with Custom Terrain Materials and Performance Improvements",
       "link": "https://devforum.roblox.com/t/full-launch-publish-games-with-custom-terrain-materials-and-performance-improvements/4950620",
       "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Custom Terrain Materials and the first terrain performance improvements are now out of Early Access. You can publish and play games using up to 62 custom terrain materials, with major reductions to file size and load time.</p>\n<p>",
@@ -163,24 +127,6 @@
       "categoria": "Roblox",
       "data": "Thu, 22 Oct 2026 20:00:03 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "GTA 6’s New TV Trailer Is A Bit Different, See It For Yourself",
-      "link": "https://www.gamespot.com/articles/gta-6s-new-tv-trailer-is-a-bit-different-see-it-for-yourself/",
-      "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">GTA 6</a>'s marketing push is ramping up substantially, and that includes with TV commercials. Eagled-eyes fans have discovered that the new GTA 6 TV spots actually ",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Thu, 22 Oct 2026 19:52:26 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/DreQuan_Priest_01-1.jpg?w=300"
-    },
-    {
-      "titulo": "I’m Getting Very Worried About Skate Following EA Layoffs",
-      "link": "https://www.gamespot.com/articles/im-getting-very-worried-about-skate-following-ea-layoffs/",
-      "resumo": "<p class=\"wp-block-paragraph\">Publisher Electronic Arts <a href=\"https://www.gamespot.com/articles/ea-kills-bioware-cancels-new-mass-effect-pauses-new-sims-game-and-all-the-other-big-ea-news-that-just-happened/\">recently slashed 400 roles across its company</a>, which resulted in <a href=\"https://ww",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Thu, 22 Oct 2026 19:49:22 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/skate-image.jpg?w=300"
     },
     {
       "titulo": "Mass Effect: Commander John Shepard 1:6 Scale Statue - Photo Gallery",
@@ -201,51 +147,6 @@
       "imagem": "https://sm.ign.com/ign_br/news/f/former-bio/former-bioware-executive-producer-mark-darrah-says-ea-might_r33m.jpg"
     },
     {
-      "titulo": "15 anos depois, a sequência do sucesso de aventura de Steven Spielberg que arrecadou US$ 373 milhões finalmente segue em frente com o diretor de “O Senhor dos Anéis” no comando",
-      "link": "https://br.ign.com/the-adventures-of-tintin-1/157012/15-anos-depois-a-sequencia-do-sucesso-de-aventura-de-steven-spielberg-que-arrecadou-us-373-milhoes-f",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/530184213_ckpt.640.png\" vspace=\"5\" width=\"120\" />Todo esse tempo atrás estreou o sucesso de bilheteria baseado nos quadrinhos; agora, Peter Jackson está trabalhando em uma sequência\n<p>O herói de uma das história",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Thu, 22 Oct 2026 19:12:01 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/530184213_ckpt.png"
-    },
-    {
-      "titulo": "WoW: Forever Is Keeping Its Secrets Close To The Chest",
-      "link": "https://www.gamespot.com/articles/wow-forever-is-keeping-its-secrets-close-to-the-chest/",
-      "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/games/world-of-warcraft/\">World of Warcraft: Forever</a> players may have searched its beta with a fine-toothed comb, but Blizzard said there are still plenty of secrets waiting to be found come launch and beyond.</p>\n\n\n\n<p class=\"wp-bl",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Thu, 22 Oct 2026 19:10:38 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/wowforeversecrets.jpg?w=300"
-    },
-    {
-      "titulo": "The Leaked Mass Effect 5 Trailer Is Absolutely Heartbreaking",
-      "link": "https://www.gamespot.com/articles/the-leaked-mass-effect-5-trailer-is-absolutely-heartbreaking/",
-      "resumo": "<p class=\"wp-block-paragraph\">After hearing the disappointing news that <a href=\"https://www.gamespot.com/articles/ea-shuts-down-dragon-age-mass-effect-studio-bioware/\">EA has shuttered BioWare</a>, putting an end to two of my favorite RPG franchises—<a href=\"https://www.gamespot.com/games/mass-effe",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Thu, 22 Oct 2026 19:06:27 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/ME5Asari.png?w=300"
-    },
-    {
-      "titulo": "Este jogo para PS1 recebeu críticas muito positivas em 1999 – e agora está ainda melhor em sua versão remasterizada",
-      "link": "https://br.ign.com/legacy-of-kain-soul-reaver-1-2-remastered/157011/este-jogo-para-ps1-recebeu-criticas-muito-positivas-em-1999-e-agora-esta-ainda-melhor-em-sua-versao",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/blob_avde.640.png\" vspace=\"5\" width=\"120\" />Agora você pode adquirir um clássico do PS1 — que originalmente recebeu 91 pontos no Metacritic — em sua versão remasterizada\n<p>A versão remasterizada clássica é “Lega",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Thu, 22 Oct 2026 19:03:59 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/blob_avde.png"
-    },
-    {
-      "titulo": "Why People Think Valve Just Accidentally Confirmed Half-Life 3",
-      "link": "https://www.gamespot.com/articles/why-people-think-valve-just-accidentally-confirmed-half-life-3/",
-      "resumo": "<p class=\"wp-block-paragraph\">People online are going wild thinking that Valve may have accidentally revealed the existence of a new Half-Life game after a developer mentioned a project referred to as \"HLX.\"</p>\n\n\n\n<p class=\"wp-block-paragraph\">Speaking at the <a href=\"https://www.gamesoundcon.com/\"",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Thu, 22 Oct 2026 19:02:15 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/HL.jpg?w=300"
-    },
-    {
       "titulo": "How More Than 40 New Traits Change Your Strategy in Becastled",
       "link": "https://news.xbox.com/en-us/2026/10/22/how-more-than-40-new-traits-change-your-strategy/",
       "resumo": "<p>In Becastled, we noticed a problem that emerged as players became more familiar with the game. They would find a strategy that worked on almost any level, and once they did, there was much less reason to use different buildings, units, or approaches. When we started working on the Traits and Some",
@@ -253,33 +154,6 @@
       "categoria": "Xbox",
       "data": "Thu, 22 Oct 2026 19:00:00 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "Dragon Ball Xenoverse 3 deixa janela de lançamento do jogo um pouco mais precisa após feedback dos jogadores",
-      "link": "https://br.ign.com/dragon-ball-xenoverse-3/157007/dragon-ball-xenoverse-3-deixa-janela-de-lancamento-do-jogo-um-pouco-mais-precisa-apos-feedback-dos-j",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/d/dragon-bal/dragon-ball-xenoverse-3-narrows-release-window-following-pla_vsd7.640.jpg\" vspace=\"5\" width=\"120\" />Faltam cerca de 12 meses\n<p>A Bandai Namco anunciou uma janela de lançamento mais precisa para o próximo jogo de ",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Thu, 22 Oct 2026 18:56:02 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/d/dragon-bal/dragon-ball-xenoverse-3-narrows-release-window-following-pla_vsd7.jpg"
-    },
-    {
-      "titulo": "Chris Pratt reafirma que o Senhor das Estrelas voltará ao MCU e que os planos já estão sendo elaborados neste momento",
-      "link": "https://br.ign.com/guardioes-da-galaxia-vol-3/157005/chris-pratt-reafirma-que-o-senhor-das-estrelas-voltara-ao-mcu-e-que-os-planos-ja-estao-sendo-elabora",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/c/chris-prat/chris-pratt-reaffirms-star-lord-will-return-in-the-mcu-and-p_g7u4.640.jpg\" vspace=\"5\" width=\"120\" />Protegendo a galáxia\n<p>Chris Pratt confirmou que o retorno do Senhor das Estrelas ao MCU está sendo ativamente p",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Thu, 22 Oct 2026 18:53:43 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/c/chris-prat/chris-pratt-reaffirms-star-lord-will-return-in-the-mcu-and-p_g7u4.jpg"
-    },
-    {
-      "titulo": "Série de TV de Mass Effect continua em produção no Prime Video, apesar do fechamento da BioWare",
-      "link": "https://br.ign.com/mass-effect-the-series/157006/serie-de-tv-de-mass-effect-continua-em-producao-no-prime-video-apesar-do-fechamento-da-bioware",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/m/mass-effec/mass-effect-tv-series-remains-active-at-prime-video-despite_upk6.640.jpg\" vspace=\"5\" width=\"120\" />A série da Amazon está em desenvolvimento desde 2024\n<p>A franquia de videogames Mass Effect pode ter chegado ao f",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Thu, 22 Oct 2026 18:49:43 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/m/mass-effec/mass-effect-tv-series-remains-active-at-prime-video-despite_upk6.jpg"
     },
     {
       "titulo": "Improving Validation Checks for UGC Avatar Bodies: Visualization Tool and Asset Quality",
@@ -291,24 +165,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Amazon faz queima de estoque de teclados gamer com menor preço do ano",
-      "link": "https://br.ign.com/descontos/157004/amazon-faz-queima-de-estoque-de-teclados-gamer-com-menor-preco-do-ano",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_qqkf.640.jpg\" vspace=\"5\" width=\"120\" />\nModelos de diferentes marcas estão com descontos na Amazon, incluindo opções para quem busca um teclado gamer se",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Thu, 22 Oct 2026 18:39:58 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_qqkf.jpg"
-    },
-    {
-      "titulo": "Tablet TCL com caneta e capa ganha mais de R$ 400 de desconto com cupom no Mercado Livre",
-      "link": "https://br.ign.com/descontos/157003/tablet-tcl-com-caneta-e-capa-ganha-mais-de-r-400-de-desconto-com-cupom-no-mercado-livre",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/tcl-nxtpaper-11-plus-capa-1280x720_xqv7.640.jpg\" vspace=\"5\" width=\"120\" />\nNXTPAPER 11 Plus está saindo apenas por R$ 1,5 mil",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Thu, 22 Oct 2026 18:24:42 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/tcl-nxtpaper-11-plus-capa-1280x720_xqv7.jpg"
-    },
-    {
       "titulo": "[Studio Beta] Text-to-Speech Asset Creation Support in Lua",
       "link": "https://devforum.roblox.com/t/studio-beta-text-to-speech-asset-creation-support-in-lua/4950480",
       "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p><code>AssetService:CreateAssetAsync</code> now accepts <code>AudioTextToSpeech</code> objects to create speech assets. This lets you generate voice lines in Studio for instant playback, with no play-time rate limits.</p>\n<p>Find i",
@@ -316,15 +172,6 @@
       "categoria": "Roblox",
       "data": "Thu, 22 Oct 2026 18:15:43 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "Gears Of War: E-Day Cost Half A Billion To Make, Apparently",
-      "link": "https://www.gamespot.com/articles/gears-of-war-e-day-cost-half-a-billion-to-make-apparently/",
-      "resumo": "<p class=\"wp-block-paragraph\">Multiple new reports claim that the budget for <a href=\"https://www.gamespot.com/reviews/gears-of-war-e-days-campaign-is-buried-in-the-past/\">Gears of War: E-Day</a> was $500 million. Both <a href=\"https://kotaku.com/the-case-for-exclusivity-when-gears-of-war-e-day-cost",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Thu, 22 Oct 2026 18:14:08 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/EDay_7cc033.jpg?w=300"
     },
     {
       "titulo": "Surprise! 'Shadow Of The Tomb Raider: Definitive Edition' Has Shadow Dropped On Switch 2",
@@ -336,15 +183,6 @@
       "imagem": "https://images.nintendolife.com/96740580ac34c/large.jpg"
     },
     {
-      "titulo": "EA Could Sell BioWare’s IP As It Looks To Tackle Its Massive Debt, Former Studio Boss Says",
-      "link": "https://www.gamespot.com/articles/ea-could-sell-bioware-ip-as-it-looks-to-tackle-its-massive-debt-former-boss-says/",
-      "resumo": "<p class=\"wp-block-paragraph\">It's a grim week for developers and fans, with <a href=\"https://www.gamespot.com/articles/ea-shuts-down-dragon-age-mass-effect-studio-bioware/\" rel=\"noreferrer noopener\" target=\"_blank\">EA announcing that it is shutting down</a> Mass Effect and Dragon Age studio BioWare",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Thu, 22 Oct 2026 17:34:21 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/07/Dragon-Age.jpg?w=300"
-    },
-    {
       "titulo": "[Test] New Home Layout With More Built-in Utility",
       "link": "https://devforum.roblox.com/t/test-new-home-layout-with-more-built-in-utility/4950387",
       "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Starting tomorrow, we’re testing a new Home layout on large landscape screens. A right-side pane keeps avatars visible and opens game details without leaving the grid. Eligible players see it automatically, and you don’t need to a",
@@ -352,15 +190,6 @@
       "categoria": "Roblox",
       "data": "Thu, 22 Oct 2026 17:30:04 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "WoW: Forever Is Getting A New Server Option By Popular Demand",
-      "link": "https://www.gamespot.com/articles/wow-forever-is-getting-a-new-server-option-by-popular-demand/",
-      "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/games/world-of-warcraft/\">World of Warcraft: Forever</a> players are getting a fourth server \"ruleset\" option for launch: role-playing-player vs. player, or RP-PvP for short.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Blizzard announced the n",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Thu, 22 Oct 2026 17:24:13 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-RP-PvP-Server-Added.jpg?w=300"
     },
     {
       "titulo": "The Power of PEAK Friendship, Coming to XBOX Today",
@@ -381,15 +210,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Nintendo Download: 22nd October (North America)",
-      "link": "https://www.nintendolife.com/news/2026/10/nintendo-download-22nd-october-north-america",
-      "resumo": "<p><strong>Final Fantasy! I Am Your Beast! Wuhu Island!</strong></p><p><em>The latest Nintendo Download update for North America has arrived, and it's bringing new games galore to the eShop. As always, be sure to drop a vote in our poll and comment down below with your potential picks for the week.<",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Thu, 22 Oct 2026 16:00:00 GMT",
-      "imagem": "https://images.nintendolife.com/2835f4a91cc30/large.jpg"
-    },
-    {
       "titulo": "FINAL FANTASY RESONANCE is a Delightful Return to the Series’ Classic Roots",
       "link": "https://news.xbox.com/en-us/2026/10/22/final-fantasy-resonance-available-now/",
       "resumo": "<p>It’s 1996. I’m happily traversing via chocobo and airship a magical world full of moogles, espers, crystals and magitek. I’m dazzled by the vibrant pixel art. It’s 2026. I’m happily traversing via chocobo and airship a magical world full of moogles, espers, crystals and magitek. I’m dazzled by th",
@@ -397,15 +217,6 @@
       "categoria": "Xbox",
       "data": "Thu, 22 Oct 2026 16:00:00 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "Digital Foundry Dives Into Monster Hunter Wilds' Switch 2 Demo",
-      "link": "https://www.nintendolife.com/news/2026/10/digital-foundry-dives-into-monster-hunter-wilds-switch-2-demo",
-      "resumo": "<p><strong>It's Wild out there.</strong></p><p>We are still a good few weeks away from <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/monster-hunter-wilds\">Monster Hunter Wilds</a>' <strong>4th December</strong> Switch 2 release date, but earlier this week, Capcom released a demo for ",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Thu, 22 Oct 2026 15:30:00 GMT",
-      "imagem": "https://images.nintendolife.com/7a2e7e1cdd3aa/large.jpg"
     },
     {
       "titulo": "Free Play Days – Dying Light 2, Riders Republic, Monster Hunter Stories, Let’s Build a Zoo, and More",
@@ -561,15 +372,6 @@
       "imagem": ""
     },
     {
-      "titulo": "The Saros: Zenith update out today, brings more ways to play for newcomers and veterans alike",
-      "link": "https://blog.playstation.com/2026/10/19/the-saros-zenith-update-out-today-brings-more-ways-to-play-for-newcomers-and-veterans-alike/",
-      "resumo": "Starting today (October 19) the Saros: Zenith update is available to all Saros owners for no additional charge. We had two main goals for this update: add replayability for existing players who had already plumbed the depth of Carcosa, and make the game more accessible so Saros even more people can ",
-      "fonte": "PlayStation Blog",
-      "categoria": "PlayStation",
-      "data": "Mon, 19 Oct 2026 12:05:05 +0000",
-      "imagem": "https://blog.playstation.com/uploads/2026/10/40fd987db17d5e3845df9d5913fb9f5d826aa74a.mp4"
-    },
-    {
       "titulo": "Team Fortress 2 Update Released",
       "link": "https://store.steampowered.com/news/285796/",
       "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Added 'No Grenades' style for the General's Greatcoat<br /><li>Fixed regression in",
@@ -588,6 +390,213 @@
       "imagem": ""
     },
     {
+      "titulo": "Uma caverna na Cantábria ficou bloqueada por 16.800 anos; em seu interior, há um assentamento da Idade da Pedra com mais de 4.600 objetos",
+      "link": "https://br.ign.com/tech/157026/uma-caverna-na-cantabria-ficou-bloqueada-por-16800-anos-em-seu-interior-ha-um-assentamento-da-idade",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/polaris-hoehle-spanien-teaser-3djuegos-wikimedia-6446021_jjgq.640.jpg\" vspace=\"5\" width=\"120\" />\nÉ um dos maiores tesouros arqueológicos já encontrados na Espanha",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 23 Oct 2026 18:00:59 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/polaris-hoehle-spanien-teaser-3djuegos-wikimedia-6446021_jjgq.jpg"
+    },
+    {
+      "titulo": "The Next Mass Effect Sounded Like John Wick In Space",
+      "link": "https://www.gamespot.com/articles/the-next-mass-effect-sounded-like-john-wick-in-space/",
+      "resumo": "<p class=\"wp-block-paragraph\">After news broke that <a href=\"https://www.gamespot.com/articles/ea-shuts-down-dragon-age-mass-effect-studio-bioware/\" rel=\"noopener\" target=\"_blank\">EA would be shutting down BioWare</a>, more details on the studio's in-development Mass Effect have begun to trickle out",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Fri, 23 Oct 2026 17:31:41 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Mass-Wick.jpg?w=300"
+    },
+    {
+      "titulo": "Call of Duty: Modern Warfare 4 is Live Worldwide — Play Now!",
+      "link": "https://news.xbox.com/en-us/2026/10/23/call-of-duty-modern-warfare-4-is-live-worldwide-play-now/",
+      "resumo": "<p>The post <a href=\"https://news.xbox.com/en-us/2026/10/23/call-of-duty-modern-warfare-4-is-live-worldwide-play-now/\">Call of Duty: Modern Warfare 4 is Live Worldwide — Play Now!</a> appeared first on <a href=\"https://news.xbox.com/en-us\">XBOX Wire</a>.</p>",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Fri, 23 Oct 2026 17:01:00 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #6 - Forget The Hate, It Still Floats My Boat",
+      "link": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-6-forget-the-hate-it-still-floats-my-boat",
+      "resumo": "<p><strong>These boots are made for sinking.</strong></p><p>It's the one we've all been waiting for. I am six weeks into my <a href=\"https://www.nintendolife.com/games/n64/legend_of_zelda_ocarina_of_time\">Ocarina of Time</a> N64 playthrough, taking a look at <a href=\"https://www.nintendolife.com/tag",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Fri, 23 Oct 2026 17:00:00 GMT",
+      "imagem": "https://images.nintendolife.com/c5dadc15c1f0a/large.jpg"
+    },
+    {
+      "titulo": "Call of Duty: Modern Warfare 4 – Kill Block is Must-Play Multiplayer at Launch",
+      "link": "https://news.xbox.com/en-us/2026/10/23/call-of-duty-modern-warfare-4-kill-block-must-play-multiplayer/",
+      "resumo": "<p>Hidden inside the West Bridge Advanced Military Training Facility is a complex combat environment where shifting, modular battlegrounds challenge even the most elite Operators, with hundreds of unique configurations. This is Kill Block, and if you’re picking up Call of Duty: Modern Warfare 4 toda",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Fri, 23 Oct 2026 17:00:00 +0000",
+      "imagem": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Kill_Block_Intel_002.mp4"
+    },
+    {
+      "titulo": "WoW: Forever’s Divisive Layering Will See Major Improvements For Launch, Blizzard Says",
+      "link": "https://www.gamespot.com/articles/wow-forevers-divisive-layering-will-see-major-improvements-for-launch-blizzard-says/",
+      "resumo": "<p class=\"wp-block-paragraph\">World of Warcraft: Forever's layering system will receive some significant improvements for launch, according to a statement provided to GameSpot from Blizzard.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Layering, for the uninitiated, is a behind-the-scenes system in WoW: For",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Fri, 23 Oct 2026 16:29:06 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Layering-Changes-1.jpg?w=300"
+    },
+    {
+      "titulo": "Lançamento do COD MW4: confira as novidades do jogo, DMZ e datas de lançamento de todos os modos",
+      "link": "https://br.ign.com/descontos/157021/lancamento-do-cod-mw4-confira-as-novidades-do-jogo-dmz-e-datas-de-lancamento-de-todos-os-modos",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/photo/default/mw4-1792504471458_rszx.640.jpg\" vspace=\"5\" width=\"120\" />\nLançamento do COD MW4: confira as datas da campanha, multiplayer, DMZ e Warzone, além de novidades e dicas para jogar online.",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 23 Oct 2026 16:09:08 +0000",
+      "imagem": "https://sm.ign.com/ign_br/photo/default/mw4-1792504471458_rszx.jpg"
+    },
+    {
+      "titulo": "Gran Turismo ganha DualSense de edição limitada — e a pré-venda já está disponível na Amazon",
+      "link": "https://br.ign.com/gran-turismo-7/157019/gran-turismo-ganha-dualsense-de-edicao-limitada-e-a-pre-venda-ja-esta-disponivel-na-amazon",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/dualsense-gran-turismo-capa-1280x720_p27v.640.jpg\" vspace=\"5\" width=\"120\" />\nControle de edição limitada celebra os 30 anos da franquia",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 23 Oct 2026 16:06:59 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/dualsense-gran-turismo-capa-1280x720_p27v.jpg"
+    },
+    {
+      "titulo": "AION 2 libera modo difícil para Caverna Krao e Draupnir: o seu guia de como participar",
+      "link": "https://br.ign.com/descontos/157020/aion-2-libera-modo-dificil-para-caverna-krao-e-draupnir-o-seu-guia-de-como-participar",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/1788097229-1788096933348-01a052e0-2d26-716b-9dc6-1582d9be284_1hfq.640.jpg\" vspace=\"5\" width=\"120\" />\nNovas dungeons no modo difícil em AION 2: veja o nível exigido, limite de ressurgimentos, recompensas e Fragmen",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 23 Oct 2026 16:02:04 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/1788097229-1788096933348-01a052e0-2d26-716b-9dc6-1582d9be284_1hfq.jpg"
+    },
+    {
+      "titulo": "Share of the Week: 007 First Light",
+      "link": "https://blog.playstation.com/2026/10/23/share-of-the-week-007-first-light/",
+      "resumo": "Last week, we asked you explore the new Photo Mode in 007 First Light using #PSshare #PSBlog for a chance to be featured. Here are this week’s highlights: call_me_xavii shared Bond blasting at enemies with his Aston Martin WildJogurt shared a turtleneck-wearing Bond receiving mission orders lucaslu_",
+      "fonte": "PlayStation Blog",
+      "categoria": "PlayStation",
+      "data": "Fri, 23 Oct 2026 16:00:57 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Battlefield 6 Reportedly Cancels Mass Effect Collab In Wake Of BioWare Closure",
+      "link": "https://www.gamespot.com/articles/battlefield-6-reportedly-cancels-mass-effect-collab-in-wake-of-bioware-closure/",
+      "resumo": "<p class=\"wp-block-paragraph\">Battlefield Studios is reportedly cancelling plans for a Mass Effect collaboration in Battlefield 6 in the wake of <a href=\"https://www.gamespot.com/articles/ea-kills-bioware-cancels-new-mass-effect-pauses-new-sims-game-and-all-the-other-big-ea-news-that-just-happened/\"",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Fri, 23 Oct 2026 15:48:29 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/MENew.png?w=300"
+    },
+    {
+      "titulo": "Finger Out How To Prep For GTA 6 With These Exercises",
+      "link": "https://www.gamespot.com/articles/finger-out-how-to-prep-for-gta-6-with-these-exercises/",
+      "resumo": "<p class=\"wp-block-paragraph\">We're just weeks away from <a href=\"https://www.gamespot.com/games/grand-theft-auto-vi/\">Grand Theft Auto VI</a> launching, and you might think you're set to spend hours upon hours in the open-world game right now. But <a href=\"https://www.puregym.com/us/\">PureGym</a> a",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Fri, 23 Oct 2026 15:39:56 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/GTA-6-Jason.jpg?w=300"
+    },
+    {
+      "titulo": "Arkane Lyon Could Be Shut Down Within Weeks As Deadline To Find A Buyer Looms",
+      "link": "https://www.gamespot.com/articles/arkane-lyon-could-be-shut-down-within-weeks-as-deadline-to-find-a-buyer-looms/",
+      "resumo": "<p class=\"wp-block-paragraph\">It might be the end of the road for <a href=\"https://www.gamespot.com/games/marvels-blade/\" rel=\"noopener\" target=\"_blank\">Marvel's Blade</a> developer&nbsp;Arkane Lyon, as a new report says that the studio has until November 13 to find a buyer or face closure.</p>\n\n\n\n<",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Fri, 23 Oct 2026 15:31:00 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/original/1581/15811374/4232391-blade.jpg?w=300"
+    },
+    {
+      "titulo": "Loja oficial da Samsung antecipa Black Friday e reduz preço de Smart TV 65” Mini LED 4K no Mercado Livre",
+      "link": "https://br.ign.com/descontos/157018/loja-oficial-da-samsung-antecipa-black-friday-e-reduz-preco-de-smart-tv-65-mini-led-4k-no-mercado-li",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_yxbk.640.jpg\" vspace=\"5\" width=\"120\" />\nA Samsung Smart TV M75H de 65 polegadas combina resolução 4K com tecnologia Mini LED para entregar imagens detal",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 23 Oct 2026 15:16:52 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_yxbk.jpg"
+    },
+    {
+      "titulo": "GTA 6 Burgers Will Be Available In Florida Throughout The Year",
+      "link": "https://www.gamespot.com/articles/gta-6-burgers-will-be-available-in-florida-throughout-the-year/",
+      "resumo": "<p class=\"wp-block-paragraph\">Rockstar Games and the burger company Skinny Louie have <a href=\"https://www.instagram.com/p/De1rYl2sKKw/\">announced</a> a partnership to promote <a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">GTA 6</a>, during w",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Fri, 23 Oct 2026 15:13:13 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Ambrosia_06_3ebc51.jpg?w=300"
+    },
+    {
+      "titulo": "Xbox Wanted A Gargantuan Paycheck To Partner With Netflix On TV And Movies",
+      "link": "https://www.gamespot.com/articles/xbox-wanted-a-gargantuan-paycheck-to-partner-with-netflix-on-tv-and-movies/",
+      "resumo": "<p class=\"wp-block-paragraph\">Video game adaptations are all the rage right now, with movie and TV projects in various stages of development, and Netflix is looking to strike while the proverbial IP iron is hot. The streaming giant already has a deal in place with Microsoft to develop a <a href=\"htt",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Fri, 23 Oct 2026 14:35:44 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Money-pweeese.jpg?w=300"
+    },
+    {
+      "titulo": "Cancelling Mass Effect And Closing BioWare Was An Obvious Thing For EA To Do, Experts Say",
+      "link": "https://www.gamespot.com/articles/cancelling-mass-effect-and-closing-bioware-was-an-obvious-thing-for-ea-to-do-experts-say/",
+      "resumo": "<p class=\"wp-block-paragraph\">Electronic Arts just confirmed a <a href=\"https://www.gamespot.com/articles/ea-kills-bioware-cancels-new-mass-effect-pauses-new-sims-game-and-all-the-other-big-ea-news-that-just-happened/\">major shakeup</a> that included the closure of BioWare and cancellation of its up",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Fri, 23 Oct 2026 14:33:45 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/N7-1.png?w=300"
+    },
+    {
+      "titulo": "Next Week on XBOX: New Games for October 26 to 30",
+      "link": "https://news.xbox.com/en-us/2026/10/23/next-week-on-xbox-new-games-for-october-26-to-30/",
+      "resumo": "<p>Welcome to Next Week on XBOX! In this weekly feature we cover all the games coming soon to XBOX Series X&#124;S, XBOX One, XBOX on PC, and Game Pass! Get more details on these upcoming games below and click their profiles for further info (release dates subject to change). Let’s jump in! The Séan",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Fri, 23 Oct 2026 14:00:00 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "O restaurante de fast-food de GTA 6, Burger Shot, chegará à vida real na arena do Miami Heat",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157016/o-restaurante-de-fast-food-de-gta-6-burger-shot-chegara-a-vida-real-na-arena-do-miami-heat",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/g/gta-6s-fas/gta-6s-fast-food-restaurant-burger-shot-is-coming-to-real-li_de5w.640.jpg\" vspace=\"5\" width=\"120\" />\nMorra de inveja",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 23 Oct 2026 13:51:34 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/g/gta-6s-fas/gta-6s-fast-food-restaurant-burger-shot-is-coming-to-real-li_de5w.jpg"
+    },
+    {
+      "titulo": "Estúdio de Dandadan confirma novo projeto do anime de The Ghost in the Shell",
+      "link": "https://br.ign.com/ghost-in-the-shell/157015/estudio-de-dandadan-confirma-novo-projeto-do-anime-de-the-ghost-in-the-shell",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/gs_emxr.640.jpg\" vspace=\"5\" width=\"120\" />O Science SARU não revelou muitos detalhes sobre o projeto\n<p>O Science SARU, estúdio por trás de <a href=\"https://br.ign.com/dandadan\" target=\"_blank\">Dandadan</a> confi",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 23 Oct 2026 13:42:52 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/gs_emxr.jpg"
+    },
+    {
+      "titulo": "Control Resonant’s Unsettling Board Dialogue Is Carefully Crafted Gibberish",
+      "link": "https://www.gamespot.com/articles/control-resonant-unsettling-board-dialogue-is-carefully-crafted-gibberish/",
+      "resumo": "<p class=\"wp-block-paragraph\">Just what is The Board in <a href=\"https://www.gamespot.com/reviews/control-resonants-best-aspect-left-me-utterly-speechless/\" rel=\"noopener\" target=\"_blank\">Control Resonant</a>? While we still have plenty of questions about the otherworldly entity that accompanies pla",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Fri, 23 Oct 2026 13:30:35 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Control-Resonant-3.jpg?w=300"
+    },
+    {
+      "titulo": "Call Of Duty Ads On Xbox Are Even More Annoying This Year With Modern Warfare 4",
+      "link": "https://www.gamespot.com/articles/call-of-duty-ads-on-xbox-are-even-more-annoying-this-year-with-modern-warfare-4/",
+      "resumo": "<p class=\"wp-block-paragraph\">When a big new first-party game comes to Xbox, Microsoft is known to put up big, annoying takeover ads, and that trend continues this year with the launch of <a href=\"https://www.gamespot.com/reviews/call-of-duty-modern-warfare-4-campaign-review/\">Call of Duty: Modern W",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Fri, 23 Oct 2026 13:05:52 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/MW4.jpg?w=300"
+    },
+    {
+      "titulo": "Shigeru Miyamoto Becomes First Game Dev To Receive Japan's Prestigious Culture Award",
+      "link": "https://www.nintendolife.com/news/2026/10/shigeru-miyamoto-becomes-first-game-dev-to-receive-japans-prestigious-culture-award",
+      "resumo": "<p><strong>Onward and upward!</strong></p><p>Adding to what is surely the most stacked roster of lifetime achievements, Shigeru Miyamoto is set to be awarded the prestigious Order of Culture award next month.</p><p>The award, which first began way back in the 1930s, will be given by the Emperor of J",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Fri, 23 Oct 2026 12:30:00 GMT",
+      "imagem": "https://images.nintendolife.com/7d39bccd81154/large.jpg"
+    },
+    {
       "titulo": "Gallery: iam8bit's Sonic Legacy Cartridges Are Stunning, But Are They Worth The Money?",
       "link": "https://www.nintendolife.com/news/2026/10/gallery-iam8bits-sonic-legacy-cartridges-are-stunning-but-are-they-worth-the-money",
       "resumo": "<p><strong>For a select few, potentially.</strong></p><p>When iam8bit announced its Legacy Cartridge Collection for <a href=\"https://www.nintendolife.com/games/megadrive/sonic_the_hedgehog\">Sonic</a> and <a href=\"https://www.nintendolife.com/games/megadrive/sonic_the_hedgehog_2\">Sonic 2</a> on Sega ",
@@ -604,15 +613,6 @@
       "categoria": "PlayStation",
       "data": "Fri, 23 Oct 2026 11:59:40 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "Final Fantasy Resonance Lets You Take A Five-Minute Single Turn, And It’s Glorious",
-      "link": "https://www.gamespot.com/articles/final-fantasy-resonance-lets-you-take-a-five-minute-single-turn-and-its-glorious/",
-      "resumo": "<p class=\"wp-block-paragraph\">As if there weren't enough games in October to tempt you, <a href=\"https://www.gamespot.com/games/final-fantasy-resonance/\">Final Fantasy Resonance</a> is a pretty tempting offer for anyone looking to play an old-school JRPG that features an A-team of Final Fantasy gues",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Fri, 23 Oct 2026 11:38:04 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/FFR-Fina.jpg?w=300"
     },
     {
       "titulo": "PSA: Hitman: Absolution's Switch 2 Upgrade Path Is Free For Now, But Be Quick!",
