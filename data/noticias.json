@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/10/2026 às 03:10",
+  "atualizado_em": "27/10/2026 às 11:21",
   "total": 80,
   "noticias": [
     {
@@ -55,6 +55,69 @@
       "categoria": "Steam",
       "data": "Wed, 08 Jul 2026 16:13:00 -0700",
       "imagem": ""
+    },
+    {
+      "titulo": "One Day Out From Early Access, Emberville Has Been Delayed To 2027",
+      "link": "https://www.gamespot.com/articles/one-day-out-from-early-access-emberville-has-been-delayed-to-2027/",
+      "resumo": "<p class=\"wp-block-paragraph\">Originally set to enter early access on October 27, action-adventure RPG <a href=\"https://www.gamespot.com/games/emberville/\">Emberville</a> has been delayed by over two months to January 7, 2027. The last-minute delay gives the team time to make \"essential improvements",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Tue, 27 Oct 2026 10:05:58 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Emberville.jpg?w=300"
+    },
+    {
+      "titulo": "Ghost Of Yotei Was A Hit, But Its Developer Is Reportedly Cutting Jobs",
+      "link": "https://www.gamespot.com/articles/ghost-of-yotei-was-a-hit-but-its-developer-is-reportedly-cutting-jobs/",
+      "resumo": "<p class=\"wp-block-paragraph\">Sony-owned studio Sucker Punch Productions is losing 24 employees in another round of layoffs in the games industry. The studio is behind <a href=\"https://www.gamespot.com/games/ghost-of-tsushima/\">Ghost of Tsushima</a> and <a href=\"https://www.gamespot.com/games/ghost-",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Tue, 27 Oct 2026 10:00:15 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/ghost-of-yotei-official-release-date-trailer_r33k.1200-1130653485.png?w=300"
+    },
+    {
+      "titulo": "Christopher Abbott, novo Xavier dos X-Men, insiste que Professor X não aparece em Doutor Destino nem em Guerras Secretas",
+      "link": "https://br.ign.com/avengers-doomsday/157062/christopher-abbott-novo-xavier-dos-x-men-insiste-que-professor-x-nao-aparece-em-doutor-destino-nem-e",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/x/x-men-acto/x-men-actor-christopher-abbott-insists-his-professor-x-is-no_3r74.640.jpg\" vspace=\"5\" width=\"120\" />\nCharles Xavier (supostamente) só vai aparecer em 2028",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 27 Oct 2026 09:00:40 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/x/x-men-acto/x-men-actor-christopher-abbott-insists-his-professor-x-is-no_3r74.jpg"
+    },
+    {
+      "titulo": "Pokémon Unite Ending Service For Switch In March 2027",
+      "link": "https://www.nintendolife.com/news/2026/10/pokemon-unite-ending-service-for-switch-in-march-2027",
+      "resumo": "<p><strong>\"Thank you for playing\".</strong></p><p>There's been a lot of talk about the free-to-play MOBA <a href=\"https://www.nintendolife.com/news/2026/08/pokemon-unite-announces-four-more-playable-pokemon\">Pokémon Unite</a> potentially winding down since it was <a href=\"https://www.nintendolife.c",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Tue, 27 Oct 2026 06:05:00 GMT",
+      "imagem": "https://images.nintendolife.com/944dfec3ff50b/large.jpg"
+    },
+    {
+      "titulo": "Hori Unveils Brand New Legend Of Zelda Switch 2 Products",
+      "link": "https://www.nintendolife.com/news/2026/10/hori-unveils-brand-new-legend-of-zelda-switch-2-products",
+      "resumo": "<p><strong>Just in time for the OoT remake.</strong></p><p></p><p>Timed in with the launch of <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">Ocarina of Time</a> for the Switch 2 next week and Zelda's 40th anniversary celebrations, Japanese accessory ma",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Tue, 27 Oct 2026 05:30:00 GMT",
+      "imagem": "https://images.nintendolife.com/ee9e465608a10/large.jpg"
+    },
+    {
+      "titulo": "Dragon's Dogma 2: Dark Arisen Title Update 4.1 Now Live On Switch 2, Here Are The Full Patch Notes",
+      "link": "https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-title-update-4-1-now-live-on-switch-2-here-are-the-full-patch-notes",
+      "resumo": "<p><strong>Adjustments, fixes and more.</strong></p><p>Earlier this month, Capcom mentioned how it was currently working on an update for the Switch 2 version of <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/dragons-dogma-2-dark-arisen\">Dragon's Dogma 2: Dark Arisen</a>, and it's now",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Tue, 27 Oct 2026 03:30:00 GMT",
+      "imagem": "https://images.nintendolife.com/31d3a048a2e32/large.jpg"
+    },
+    {
+      "titulo": "Capcom Reveals Another Robot Master For Mega Man: Dual Override",
+      "link": "https://www.nintendolife.com/news/2026/10/capcom-reveals-another-robot-master-for-mega-man-dual-override",
+      "resumo": "<p><strong>Meet the \"robot oil manager\".</strong></p><p>Capcom has been building excitement for <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/mega_man_dual_override\">Mega Man: Dual Override</a> with new details and gameplay footage.</p><p>Now, it's shared some footage of the Robot Ma",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Tue, 27 Oct 2026 02:55:00 GMT",
+      "imagem": "https://images.nintendolife.com/0a108dcfc6de3/large.jpg"
     },
     {
       "titulo": "(For Southeast Asia) Crunchyroll Arrives for PS5 and PS4 users in Indonesia, Malaysia and Thailand",
@@ -363,15 +426,6 @@
       "imagem": "https://sm.ign.com/ign_br/news/a/avengers-d/avengers-doomsday-teaser-reveals-who-was-edited-out-of-the-f_xhem.png"
     },
     {
-      "titulo": "The 24 Best A24 Movies",
-      "link": "https://br.ign.com/everything-everywhere-all-at-once/157067/the-24-best-a24-movies",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/t/the-24-bes/the-24-best-a24-movies_wtts.640.jpg\" vspace=\"5\" width=\"120\" />",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Mon, 26 Oct 2026 19:52:28 +0000",
-      "imagem": "https://sm.ign.com/ign_br/gallery/t/the-24-bes/the-24-best-a24-movies_wtts.jpg"
-    },
-    {
       "titulo": "Diablo 4’s War Plans Are Getting A Huge Upgrade In Season 16",
       "link": "https://www.gamespot.com/articles/diablo-4s-war-plans-are-getting-a-huge-upgrade-in-season-16/",
       "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/games/diablo-iv/\">Diablo 4's</a> War Plans system is getting a major upgrade in Season 16, giving players even more control over their endgame activities and rewards.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Developer Blizzard introduced Wa",
@@ -453,15 +507,6 @@
       "imagem": "https://blog.playstation.com/uploads/2046/10/16c17219c3317077c3b25d5a62cc2c4f064ac2ed.mp4"
     },
     {
-      "titulo": "Marvel Cosmic Invasion Lands New Roguelike Game Mode In Upcoming Doomsday-Themed DLC",
-      "link": "https://www.nintendolife.com/news/2026/10/marvel-cosmic-invasion-lands-new-roguelike-game-mode-in-upcoming-doomsday-themed-dlc",
-      "resumo": "<p><strong>Dormammu, I've come to bargain.</strong></p><p>Tribute Games and Dotemu have been teasing us with <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/marvel-cosmic-invasion\">Marvel Cosmic Invasion</a>'s upcoming 'Siege of Castle Doom' DLC for a while now. We learnt that Sue Stor",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Mon, 26 Oct 2026 16:00:00 GMT",
-      "imagem": "https://images.nintendolife.com/bacf553f766cb/large.jpg"
-    },
-    {
       "titulo": "Scramble Knights Online: Changing Genres to Save a Game",
       "link": "https://news.xbox.com/en-us/2026/10/26/scramble-knights-online-genre-change/",
       "resumo": "<p>It’s launch day for Scramble Knights Online, an action RPG “MMO-Lite” from our team here at Funktronic Labs. We built a nostalgic kingdom that captures the feeling of adventuring with your friends in the early, simpler days of online gaming. Scramble Knights Online is a day one XBOX Game Pass tit",
@@ -469,15 +514,6 @@
       "categoria": "Xbox",
       "data": "Mon, 26 Oct 2026 16:00:00 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "\"I Can't Create A Battle Like This\" - Miyamoto On The Origins Of NES Mario's Non-Violent Bowser 'Fights'",
-      "link": "https://www.nintendolife.com/news/2026/10/i-cant-create-a-battle-like-this-miyamoto-on-the-origins-of-nes-marios-non-violent-bowser-fights",
-      "resumo": "<p><strong>Lava to see it.</strong></p><p>We imagine that most of you here will have heard of a little game called <a href=\"https://www.nintendolife.com/games/nes/super_mario_bros\">Super Mario Bros.</a>, right? But how many of you have thought about how strange the big showdowns with Bowser are? As ",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Mon, 26 Oct 2026 15:30:00 GMT",
-      "imagem": "https://images.nintendolife.com/ec76d1ee52805/large.jpg"
     },
     {
       "titulo": "Why There Won’t Be A Helldivers 3 Anytime Soon, If Ever",
@@ -525,15 +561,6 @@
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/GTA-Coffee.jpg?w=300"
     },
     {
-      "titulo": "Call Of Duty Movie Will Not Be About, “Hey, Let’s Shoot Them All Up,” Director Says",
-      "link": "https://www.gamespot.com/articles/call-of-duty-movie-will-not-be-about-hey-lets-shoot-them-all-up-director-says/",
-      "resumo": "<p class=\"wp-block-paragraph\">The upcoming <a href=\"https://www.gamespot.com/articles/call-of-duty-movie-release-date-trailer-story-cast-director-writer/1100-6536962/\">Call of Duty movie</a> aims to show the \"cost of war,\" according to director Peter Berg. He told <a href=\"https://comicbook.com/movi",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Mon, 26 Oct 2026 13:15:51 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/lone.png?w=300"
-    },
-    {
       "titulo": "XBOX Game Pass Is Coming to Eligible T-Mobile Customers",
       "link": "https://news.xbox.com/en-us/2026/10/26/xbox-game-pass-t-mobile/",
       "resumo": "<p>Today, T-Mobile announced T-Mix, giving customers in the U.S. more choice and flexibility over the benefits included in their wireless plan, including XBOX Game Pass.   Beginning in November, eligible T-Mix customers can choose Game Pass Ultimate or Premium, unlocking an instant library of games ",
@@ -541,33 +568,6 @@
       "categoria": "Xbox",
       "data": "Mon, 26 Oct 2026 13:00:00 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "Elden Ring Movie Is Reportedly A $200 Million Gamble For A24",
-      "link": "https://www.gamespot.com/articles/elden-ring-movie-is-reportedly-a-200-million-gamble-for-a24/",
-      "resumo": "<p class=\"wp-block-paragraph\">Bringing From Software's <a href=\"https://www.gamespot.com/games/elden-ring/\" rel=\"noopener\" target=\"_blank\">Elden Ring</a> to life on the big screen is no small feat, and it won't be cheap. A new report claims the upcoming Alex Garland-directed film has a whopping budg",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Mon, 26 Oct 2026 12:57:25 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Elden-Ring.jpg?w=300"
-    },
-    {
-      "titulo": "Nintendo Has Scheduled 3DS And Switch Maintenance For This Week",
-      "link": "https://www.nintendolife.com/news/2026/10/nintendo-has-scheduled-3ds-and-switch-maintenance-for-this-week",
-      "resumo": "<p><strong>Never too late.</strong></p><p>Nintendo has released its <a href=\"https://www.nintendo.co.jp/netinfo/en_US/index.html\">weekly network maintenance schedule</a>, and what do you know, the 3DS is back getting some TLC.</p><p>Despite having all of its <a href=\"https://www.nintendolife.com/new",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Mon, 26 Oct 2026 11:45:00 GMT",
-      "imagem": "https://images.nintendolife.com/f6fbbb6313b66/large.jpg"
-    },
-    {
-      "titulo": "UK Charts: Switch Sports Resort And Call Of Duty Are Fast Off The Start Line",
-      "link": "https://www.nintendolife.com/news/2026/10/uk-charts-switch-sports-resort-and-call-of-duty-are-fast-off-the-start-line",
-      "resumo": "<p><strong>Modern Thumb Warfare.</strong></p><p>We made it to the final week of October, and the new releases show no sign of slowing down.</p><p><a href=\"https://www.nintendolife.com/games/nintendo-switch-2/nintendo-switch-sports-resort\">Nintendo Switch Sports Resort</a> and <a href=\"https://www.ni",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Mon, 26 Oct 2026 10:30:00 GMT",
-      "imagem": "https://images.nintendolife.com/74fa1439838df/large.jpg"
     },
     {
       "titulo": "Celebrate Helldivers 2 Liberty Day 2026 with in-game gifts today",
