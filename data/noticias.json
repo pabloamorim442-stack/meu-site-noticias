@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/10/2026 às 17:09",
+  "atualizado_em": "27/10/2026 às 21:39",
   "total": 80,
   "noticias": [
     {
@@ -39,6 +39,195 @@
       "imagem": ""
     },
     {
+      "titulo": "Plugin Screenshot Support in Studio",
+      "link": "https://devforum.roblox.com/t/plugin-screenshot-support-in-studio/4960927",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>You can now capture individual plugin windows in Studio by using <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>2</kbd>, selecting your window, and copying it to your clipboard.</p>\n<p>Find it in Roblox Studio via the new hotkey or qui",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Tue, 27 Oct 2026 20:13:53 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "You Can Make Your WoW: Forever Character Now And Be Ready For Launch",
+      "link": "https://www.gamespot.com/articles/you-can-make-your-wow-forever-character-now-and-be-ready-for-launch/",
+      "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/games/world-of-warcraft/\">World of Warcraft: Forever's</a> character creation and name reservations are now live, letting you save some time on launch day by making your characters now rather than on launch day.</p>\n\n\n\n<p class=\"wp-bloc",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Tue, 27 Oct 2026 20:00:00 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Character-Reservations-Now-Live.jpg?w=300"
+    },
+    {
+      "titulo": "GTA 6 Developers Are About To Do Something Historic",
+      "link": "https://www.gamespot.com/articles/gta-6-developers-are-about-to-do-something-historic/",
+      "resumo": "<p class=\"wp-block-paragraph\">Workers at <a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">GTA 6</a> developer Rockstar will soon get to vote on recognizing a union.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The union, IWGB Union at Rockstar, is for ",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Tue, 27 Oct 2026 19:43:21 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Jason_and_Lucia_11-1.jpg?w=300"
+    },
+    {
+      "titulo": "Pokémon Unite será retirado do ar em 2027; vendas no jogo são suspensas imediatamente",
+      "link": "https://br.ign.com/pokemon-unite/157098/pokemon-unite-sera-retirado-do-ar-em-2027-vendas-no-jogo-sao-suspensas-imediatamente",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/p/pokemon-un/pokemon-unite-to-be-taken-offline-in-2027-in-game-sales-susp_keu6.640.png\" vspace=\"5\" width=\"120\" />É o fim\n<p>Pokémon Unite encerrará suas atividades em 23 de março de 2027, após a competição final do jogo, a Aeo",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 27 Oct 2026 19:38:31 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/p/pokemon-un/pokemon-unite-to-be-taken-offline-in-2027-in-game-sales-susp_keu6.png"
+    },
+    {
+      "titulo": "Desenvolvedora de Kingdom Come: Deliverance é atingida por incidente “grave” de segurança cibernética",
+      "link": "https://br.ign.com/kingdom-come-deliverance/157096/desenvolvedora-de-kingdom-come-deliverance-e-atingida-por-incidente-grave-de-seguranca-cibernetica",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/k/kingdom-co/kingdom-come-deliverance-developer-hit-by-serious-cybersecur_demv.640.png\" vspace=\"5\" width=\"120\" />“Este é um incidente grave para a Warhorse Studios e para todos os envolvidos\"\n<p>A Warhorse Studios — desenvolve",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 27 Oct 2026 19:36:22 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/k/kingdom-co/kingdom-come-deliverance-developer-hit-by-serious-cybersecur_demv.png"
+    },
+    {
+      "titulo": "Kingdom Come: Deliverance 2 Legacy of the Forge DLC Screenshots",
+      "link": "https://br.ign.com/kingdom-come-deliverance-ii/157097/kingdom-come-deliverance-2-legacy-of-the-forge-dlc-screenshots",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/k/kingdom-co/kingdom-come-deliverance-2-legacy-of-the-forge-dlc-screensho_x23b.640.jpg\" vspace=\"5\" width=\"120\" />",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 27 Oct 2026 19:36:22 +0000",
+      "imagem": "https://sm.ign.com/ign_br/gallery/k/kingdom-co/kingdom-come-deliverance-2-legacy-of-the-forge-dlc-screensho_x23b.jpg"
+    },
+    {
+      "titulo": "Sistema de reserva de nomes de World of Warcraft Forever está com falhas antes do lançamento",
+      "link": "https://br.ign.com/world-of-warcraft-forever/157095/sistema-de-reserva-de-nomes-de-world-of-warcraft-forever-esta-com-falhas-antes-do-lancamento",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/w/world-of-w/world-of-warcraft-forever-name-reservation-is-broken-ahead-o_gjwp.640.jpg\" vspace=\"5\" width=\"120\" />A menos que a Blizzard descubra a causa principal desse problema antes disso, é provável que os jogadores continu",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 27 Oct 2026 19:33:44 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/w/world-of-w/world-of-warcraft-forever-name-reservation-is-broken-ahead-o_gjwp.jpg"
+    },
+    {
+      "titulo": "“Livros físicos, mas não jogos físicos?\": anúncio da PlayStation sobre livros gera confusão sobre posição da Sony em relação às mídias físicas",
+      "link": "https://br.ign.com/playstation-5-2/157092/livros-fisicos-mas-nao-jogos-fisicos-anuncio-da-playstation-sobre-livros-gera-confusao-sobre-posicao",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/p/physical-b/physical-books-but-not-physical-games-playstation-book-annou_eedw.640.jpg\" vspace=\"5\" width=\"120\" />Vocês não são uma empresa de jogos?\n<p>As pré-vendas já estão abertas para “PlayStation: The First 30 Years”, um ",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 27 Oct 2026 19:29:09 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/p/physical-b/physical-books-but-not-physical-games-playstation-book-annou_eedw.jpg"
+    },
+    {
+      "titulo": "PlayStation: The First 30 Years Images",
+      "link": "https://br.ign.com/gallery/157093/playstation-the-first-30-years-images",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/p/playstatio/playstation-the-first-30-years-images_e569.640.png\" vspace=\"5\" width=\"120\" />",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 27 Oct 2026 19:29:09 +0000",
+      "imagem": "https://sm.ign.com/ign_br/gallery/p/playstatio/playstation-the-first-30-years-images_e569.png"
+    },
+    {
+      "titulo": "Capcom celebra vendas recordes no primeiro semestre do ano fiscal de 2027, com a esmagadora maioria sendo composta por compras digitais",
+      "link": "https://br.ign.com/monster-hunter-world/157105/capcom-celebra-vendas-recordes-no-primeiro-semestre-do-ano-fiscal-de-2027-com-a-esmagadora-maioria-s",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/c/capcom-cel/capcom-celebrates-record-sales-in-first-half-of-2027-fiscal_1vec.640.jpg\" vspace=\"5\" width=\"120\" />\nVamos arrasar, baby!",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 27 Oct 2026 19:21:16 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/c/capcom-cel/capcom-celebrates-record-sales-in-first-half-of-2027-fiscal_1vec.jpg"
+    },
+    {
+      "titulo": "Político sul-coreano alerta presidente a jogar Modern Warfare 4 para compreender a \"devastação\" de uma possível invasão",
+      "link": "https://br.ign.com/call-of-duty-modern-warfare-4/157103/politico-sul-coreano-alerta-presidente-a-jogar-modern-warfare-4-para-compreender-a-devastacao-de-uma",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/s/south-kore/south-korean-politician-urges-president-to-play-modern-warfa_8ztk.640.jpg\" vspace=\"5\" width=\"120\" />\nSemelhanças inquietantes",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 27 Oct 2026 19:08:22 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/s/south-kore/south-korean-politician-urges-president-to-play-modern-warfa_8ztk.jpg"
+    },
+    {
+      "titulo": "Call of Duty: Modern Warfare 4 Campaign Screenshots",
+      "link": "https://br.ign.com/call-of-duty-modern-warfare-4/157104/call-of-duty-modern-warfare-4-campaign-screenshots",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/c/call-of-du/call-of-duty-modern-warfare-4-campaign-screenshots_7h7r.640.jpg\" vspace=\"5\" width=\"120\" />",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 27 Oct 2026 19:08:22 +0000",
+      "imagem": "https://sm.ign.com/ign_br/gallery/c/call-of-du/call-of-duty-modern-warfare-4-campaign-screenshots_7h7r.jpg"
+    },
+    {
+      "titulo": "This Company Is Paying You To Play GTA 6, But It’s A Long Shot",
+      "link": "https://www.gamespot.com/articles/this-company-is-paying-you-to-play-gta-6-but-its-a-long-shot/",
+      "resumo": "<p class=\"wp-block-paragraph\">A company, Virgin Media, has announced a promotional campaign where one lucky person will get paid to play <a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">GTA 6</a>. </p>\n\n\n\n<p class=\"wp-block-paragraph\">The promo",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Tue, 27 Oct 2026 19:03:48 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Vice_City_05_669da2.jpg?w=300"
+    },
+    {
+      "titulo": "Official WoW: Forever AMV Will Get You Super Hyped",
+      "link": "https://www.gamespot.com/articles/official-wow-forever-amv-will-get-you-super-hyped/",
+      "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/games/world-of-warcraft/\">World of Warcraft: Forever</a> is almost here, and in case players weren't already excited to return to classic Azeroth, a new animated music video highlighting the war between the Horde and the Alliance is sur",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Tue, 27 Oct 2026 19:01:52 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-AMV.jpg?w=300"
+    },
+    {
+      "titulo": "Vazam na internet imagens de um jogo de Transformers cancelado, revelando um trailer final inédito",
+      "link": "https://br.ign.com/transformers-reactivate/157088/vazam-na-internet-imagens-de-um-jogo-de-transformers-cancelado-revelando-um-trailer-final-inedito",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/c/canceled-t/canceled-transformers-game-footage-leaks-online-showing-neve_2sxq.640.jpg\" vspace=\"5\" width=\"120\" />\nA fonte do vazamento levanta a hipótese de que se tratava de uma proposta de investimento para editoras que, \"no",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 27 Oct 2026 18:51:41 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/c/canceled-t/canceled-transformers-game-footage-leaks-online-showing-neve_2sxq.jpg"
+    },
+    {
+      "titulo": "Release Notes for 745",
+      "link": "https://devforum.roblox.com/t/release-notes-for-745/4960754",
+      "resumo": "<p>Howdy! I hope you all are having a great day. Here are the release notes:</p>\n<ul>\n<li>Version 745: <a href=\"https://create.roblox.com/docs/release-notes/release-notes-745\">Introduced in version 745</a></li>\n<li>Weekly update: <a href=\"https://create.roblox.com/docs/updates/2026-10-26\">Week of Oc",
+      "fonte": "Roblox - Atualizações",
+      "categoria": "Roblox",
+      "data": "Tue, 27 Oct 2026 18:27:02 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "[Early Access Program] Build 2D Games With `AnimatedImages`",
+      "link": "https://devforum.roblox.com/t/early-access-program-build-2d-games-with-animatedimages/4960734",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Sign up for <a href=\"https://survey.roblox.com/jfe/form/SV_eJArvqfoZpSh9PM\">Early Access</a> to easily import 2D assets and build flipbook animations on Roblox.</p>\n<p>You can import Aseprite (.ase) files directly into Studio and ",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Tue, 27 Oct 2026 18:12:05 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Community: Zelda's Almost Here, And We Want To Hear Your Ocarina Of Time Memories",
+      "link": "https://www.nintendolife.com/news/2026/10/community-zeldas-almost-here-and-we-want-to-hear-your-ocarina-of-time-memories",
+      "resumo": "<p><strong>Prelude of Light.</strong></p><p>At the time of writing, we're just nine days from one of the most anticipated remakes ever released. <a href=\"https://www.nintendolife.com/games/n64/legend_of_zelda_ocarina_of_time\">Ocarina of Time</a> holds a special place in many a gamer's heart - and th",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Tue, 27 Oct 2026 18:00:00 GMT",
+      "imagem": "https://images.nintendolife.com/4c26ff313848b/large.jpg"
+    },
+    {
+      "titulo": "Play One of the Highest-Rated Call of Duty Games Ever Today",
+      "link": "https://news.xbox.com/en-us/2026/10/27/play-one-of-the-highest-rated-call-of-duty-games-ever-today/",
+      "resumo": "<p>The post <a href=\"https://news.xbox.com/en-us/2026/10/27/play-one-of-the-highest-rated-call-of-duty-games-ever-today/\">Play One of the Highest-Rated Call of Duty Games Ever Today</a> appeared first on <a href=\"https://news.xbox.com/en-us\">XBOX Wire</a>.</p>",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Tue, 27 Oct 2026 18:00:00 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "GTA 6 File Size Revealed, And It’s Massive",
+      "link": "https://www.gamespot.com/articles/gta-6-file-size-revealed-and-its-massive/",
+      "resumo": "<p class=\"wp-block-paragraph\">Ahead of the game's release in November, <a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">GTA 6'</a>s file size has been revealed, and it is massive. PlayStation Game Size reports that the $80 standard edition will",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Tue, 27 Oct 2026 17:48:21 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Lucia_Caminos_07.jpg?w=300"
+    },
+    {
+      "titulo": "Elden Ring Movie Might Be Extremely Long, And It Could Have Twitch Integration Eventually",
+      "link": "https://www.gamespot.com/articles/elden-ring-movie-might-be-extremely-long-and-it-could-have-twitch-integration-eventually/",
+      "resumo": "<p class=\"wp-block-paragraph\">New details have come to light about A24's Elden Ring movie, including how Amazon could be involved and its beefy runtime.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><a href=\"https://deadline.com/2026/10/elden-ring-biggest-movie-on-sale-market-amazon-joins-a24-1237201368/\">Ac",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Tue, 27 Oct 2026 17:25:46 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/ER.jpg?w=300"
+    },
+    {
       "titulo": "Talking Point: Nintendo Indie World Predictions - What Do You Hope To See?",
       "link": "https://www.nintendolife.com/features/talking-point-nintendo-indie-world-predictions-what-do-you-hope-to-see",
       "resumo": "<p><strong>It's an Indie World, we're just living in it.</strong></p><p>What's that? Your backlog is already looking too long and you haven't even added <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">Zelda: Ocarina of Time</a> to it yet? Tough luck! An",
@@ -46,15 +235,6 @@
       "categoria": "Nintendo",
       "data": "Tue, 27 Oct 2026 17:00:00 GMT",
       "imagem": "https://images.nintendolife.com/2c88cc0c0db9a/large.jpg"
-    },
-    {
-      "titulo": "Controle Xbox de Gears of War E-Day chega ao menor preço do ano na Amazon",
-      "link": "https://br.ign.com/descontos/157091/controle-xbox-de-gears-of-war-e-day-chega-ao-menor-preco-do-ano-na-amazon",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_8q1k.640.jpg\" vspace=\"5\" width=\"120\" />\nEdição especial inspirada em Gears of War E-Day aparece em oferta na Amazon durante o esquenta para a Black Frid",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 27 Oct 2026 16:08:21 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_8q1k.jpg"
     },
     {
       "titulo": "Aloft and Conan Exiles Enhanced launch on PS5 in early 2027",
@@ -84,24 +264,6 @@
       "imagem": ""
     },
     {
-      "titulo": "\"Não foi isso que eu aceitei fazer\": Eiichiro Oda salvou a adaptação de One Piece pela Netflix com apenas uma frase",
-      "link": "https://br.ign.com/one-piece-live-action/157085/nao-foi-isso-que-eu-aceitei-fazer-eiichiro-oda-salvou-a-adaptacao-de-one-piece-pela-netflix-com-apen",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/blob_kbey.640.jpg\" vspace=\"5\" width=\"120\" />Adaptação ficou muitos anos em um limbo\n<p>A adaptação <a href=\"https://br.ign.com/one-piece-live-action\" target=\"_blank\">live-action de One Piece</a> é muito amada por",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 27 Oct 2026 15:54:52 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/blob_kbey.jpg"
-    },
-    {
-      "titulo": "Mortal Kombat 1, Fatal Fury, Street Fighter 6 e mais: EVO Brasil 2027 revela line-up e novas informações para a primeira edição do evento",
-      "link": "https://br.ign.com/games/157086/mortal-kombat-1-fatal-fury-street-fighter-6-e-mais-evo-brasil-2027-revela-line-up-e-novas-informacoe",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/e1_x312.640.jpg\" vspace=\"5\" width=\"120\" />Evento acontecerá entre os dias 26 e 28 de março de 2027\n<p>A Evolution Championship Series (EVO), reconhecida mundialmente como a maior e mais tradicional competição de ",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 27 Oct 2026 15:52:55 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/e1_x312.jpg"
-    },
-    {
       "titulo": "Check Out 46 Seconds Of New Final Fantasy 7 Revelation Gameplay (And A Pink Chocobo)",
       "link": "https://www.gamespot.com/articles/check-out-46-seconds-of-new-final-fantasy-7-revelation-gameplay-and-a-pink-chocobo/",
       "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/games/final-fantasy-vii-revelation/\" rel=\"noopener\" target=\"_blank\">Final Fantasy 7 Revelation</a> aims to be the biggest chapter in the remake trilogy, not only in the number of regions players can explore, but also in verticality. Squ",
@@ -111,15 +273,6 @@
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/FF7-Chocobo.jpg?w=300"
     },
     {
-      "titulo": "“Não se parece com nada que você já viu”: novo filme dos criadores de Coraline revolucionou e, ao mesmo tempo, quebrou todas as regras da animação",
-      "link": "https://br.ign.com/o-bosque-selvagem/157084/nao-se-parece-com-nada-que-voce-ja-viu-novo-filme-dos-criadores-de-coraline-revolucionou-e-ao-mesmo",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/wildwood-1_5y7s.640.png\" vspace=\"5\" width=\"120\" />Filme estreia esta semana nos cinemas\n<p>Existe um lugar escondido logo além dos limites da cidade. Ele não aparece em nenhum mapa e a lenda é clara: quem entra l",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 27 Oct 2026 15:06:33 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/wildwood-1_5y7s.png"
-    },
-    {
       "titulo": "Where Winds Meet’s climactic Hutuo Battlefield narrative arc revealed, out Nov 13",
       "link": "https://blog.playstation.com/2026/10/27/where-winds-meets-climactic-hutuo-battlefield-narrative-arc-revealed-out-nov-13/",
       "resumo": "Today, we are proud to unveil the most climactic narrative arc in Where Winds Meet yet: Hutuo, a sprawling new region launching November 13 alongside the game’s first global anniversary update. Marking a major turning point in Where Winds Meet, Hutuo invites you onto an epic, war-torn frontier to ex",
@@ -127,15 +280,6 @@
       "categoria": "PlayStation",
       "data": "Tue, 27 Oct 2026 15:01:34 +0000",
       "imagem": "https://blog.playstation.com/uploads/2026/10/8e3e0603b7a06a93933e811bc0eb0c435eef6706.mp4"
-    },
-    {
-      "titulo": "Deezer e ExitLag unem música e universo gamer em nova parceria no Brasil",
-      "link": "https://br.ign.com/ign-misc/157083/deezer-e-exitlag-unem-musica-e-universo-gamer-em-nova-parceria-no-brasil",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/1_musw.640.jpg\" vspace=\"5\" width=\"120\" />Oferta reúne ExitLag e Deezer Premium Individual com acesso ao Deezer Club e recursos para descobrir, ouvir e viver a música de um jeito mais personalizado\n<p>Música e gam",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 27 Oct 2026 15:00:39 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/1_musw.jpg"
     },
     {
       "titulo": "Steam Next Fest Was Flooded With Slop. These 50 Demos Cut Through The Noise",
@@ -183,42 +327,6 @@
       "imagem": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4660714-indie-world.jpg?w=300"
     },
     {
-      "titulo": "The Wolf Among Us Remastered Doesn’t Change Much, And That’s A Good Thing",
-      "link": "https://www.gamespot.com/articles/the-wolf-among-us-remastered-doesnt-change-much-and-thats-a-good-thing/",
-      "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/games/the-wolf-among-us-2/\">The Wolf Among Us 2</a> is finally landing in 2027, and if you want to catch up on what many consider one of Telltale Games' best exports, you can grab <a href=\"https://www.gamespot.com/articles/the-wolf-amon",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Tue, 27 Oct 2026 13:40:00 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/The-Wolf-Among-Us-Remastered.jpg?w=300"
-    },
-    {
-      "titulo": "BioShock Movie Is Still Happening, But Director Says It’s A “Tough Nut To Crack”",
-      "link": "https://www.gamespot.com/articles/bioshock-movie-is-still-happening-but-director-says-its-a-tough-nut-to-crack/",
-      "resumo": "<p class=\"wp-block-paragraph\">A BioShock movie at Netflix remains in development, its director has confirmed, but that doesn't necessarily mean it'll ever be made. Francis Lawrence confirmed to <a href=\"https://thedirect.com/article/bioshock-movie-francis-lawrence-story-world\">The Direct </a>that he",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Tue, 27 Oct 2026 13:38:57 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/bioshock_801b1b.jpg?w=300"
-    },
-    {
-      "titulo": "Pedidos de folga no dia do lançamento de GTA 6 crescem 17% nos EUA",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157082/pedidos-de-folga-no-dia-do-lancamento-de-gta-6-crescem-17-nos-eua",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/g/gta-6-caus/gta-6-causes-17-spike-in-time-off-requests-on-games-release_xcwx.640.jpg\" vspace=\"5\" width=\"120\" />Falta pouco\n<p>O lançamento de <a href=\"https://br.ign.com/grand-theft-auto-vi\" target=\"_blank\">GTA 6</a> levou a ",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 27 Oct 2026 13:20:07 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/g/gta-6-caus/gta-6-causes-17-spike-in-time-off-requests-on-games-release_xcwx.jpg"
-    },
-    {
-      "titulo": "Vazamento sugere que remake de Silent Hill chegará em 2027",
-      "link": "https://br.ign.com/silent-hill-remake/157080/vazamento-sugere-que-remake-de-silent-hill-chegara-em-2027",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/s/silent-hil/silent-hill-remake-coming-2027-first-cast-details-leaked_6ph4.640.jpg\" vspace=\"5\" width=\"120\" />Nomes de atores também foram confirmados\n<p>Com o<a href=\"https://br.ign.com/silent-hill-2-remake-1\" target=\"_blank\">",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 27 Oct 2026 13:11:22 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/s/silent-hil/silent-hill-remake-coming-2027-first-cast-details-leaked_6ph4.jpg"
-    },
-    {
       "titulo": "The sound of Saros: Building an audio identity for Carcosa",
       "link": "https://blog.playstation.com/2026/10/27/the-sound-of-saros-building-an-audio-identity-for-carcosa/",
       "resumo": "When we started working on Saros, we knew we had an interesting challenge ahead of us. We had established a very distinctive audio identity with Returnal, and Housemarque gave us a clear direction from the beginning: “Refinement, not Reinvention.” That became a useful principle throughout developmen",
@@ -228,33 +336,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Star Trek Enters Magic: The Gathering’s Secret Lair Next Month, Here Are The Cards",
-      "link": "https://www.gamespot.com/articles/star-trek-enters-magic-the-gatherings-secret-lair-next-month-here-are-the-cards/",
-      "resumo": "<p class=\"wp-block-paragraph\">The final Magic: The Gathering expansion of 2026, Star Trek, is sending Wizards Of The Coast's card game to the final frontier. Along with the <a href=\"https://www.gamespot.com/articles/here-are-the-mechanics-and-dozens-of-new-cards-from-magic-the-gatherings-star-trek-s",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Tue, 27 Oct 2026 13:00:00 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/header.jpg?w=300"
-    },
-    {
-      "titulo": "Call Of Duty Lifetime Revenue Surges Past $40 Billion, Microsoft Confirms",
-      "link": "https://www.gamespot.com/articles/call-of-duty-lifetime-revenue-surges-past-40-billion-microsoft-confirms/",
-      "resumo": "<p class=\"wp-block-paragraph\">The Call of Duty franchise has now exceeded $40 billion in lifetime franchise revenue, Xbox CEO Asha Sharma has confirmed.</p>\n\n\n\n<p class=\"wp-block-paragraph\">She shared this milestone following the launch of Call of Duty: Modern Warfare 4 on October 23. \"Congrats to t",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Tue, 27 Oct 2026 12:58:03 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/CODMW4.jpg?w=300"
-    },
-    {
-      "titulo": "Pokemon Unite Is Shutting Down After Nearly Six Years",
-      "link": "https://www.gamespot.com/articles/pokemon-unite-is-shutting-down-after-nearly-six-years/",
-      "resumo": "<p class=\"wp-block-paragraph\">Nintendo has announced that <a href=\"https://www.gamespot.com/games/pokemon-unite/\" rel=\"noopener\" target=\"_blank\">Pokemon Unite</a>, its Pokemon-themed MOBA for mobile devices and Switch consoles, will be shutting down on March 23, 2027. The game will go offline just d",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Tue, 27 Oct 2026 12:18:05 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Pokemon-Unite.jpg?w=300"
-    },
-    {
       "titulo": "Capcom's 2026 Bangers Continue To Shine In Latest Financial Report",
       "link": "https://www.nintendolife.com/news/2026/10/capcoms-2026-bangers-continue-to-shine-in-latest-financial-report",
       "resumo": "<p><strong>First numbers for Onimusha.</strong></p><p>Capcom has shared its <a href=\"https://www.capcom.co.jp/ir/english/data/pdf/explanation/2026/2nd/explanation_2026_2nd_01.pdf\">latest financial report</a> for Q2 FY2026, and what do you know, the studio's stream of quality releases so far this yea",
@@ -262,24 +343,6 @@
       "categoria": "Nintendo",
       "data": "Tue, 27 Oct 2026 12:15:00 GMT",
       "imagem": "https://images.nintendolife.com/6d8438701c0e5/large.jpg"
-    },
-    {
-      "titulo": "One Day Out From Early Access, Emberville Has Been Delayed To 2027",
-      "link": "https://www.gamespot.com/articles/one-day-out-from-early-access-emberville-has-been-delayed-to-2027/",
-      "resumo": "<p class=\"wp-block-paragraph\">Originally set to enter early access on October 27, action-adventure RPG <a href=\"https://www.gamespot.com/games/emberville/\">Emberville</a> has been delayed by over two months to January 7, 2027. The last-minute delay gives the team time to make \"essential improvements",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Tue, 27 Oct 2026 10:05:58 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Emberville.jpg?w=300"
-    },
-    {
-      "titulo": "Christopher Abbott, novo Xavier dos X-Men, insiste que Professor X não aparece em Doutor Destino nem em Guerras Secretas",
-      "link": "https://br.ign.com/avengers-doomsday/157062/christopher-abbott-novo-xavier-dos-x-men-insiste-que-professor-x-nao-aparece-em-doutor-destino-nem-e",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/x/x-men-acto/x-men-actor-christopher-abbott-insists-his-professor-x-is-no_3r74.640.jpg\" vspace=\"5\" width=\"120\" />\nCharles Xavier (supostamente) só vai aparecer em 2028",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 27 Oct 2026 09:00:40 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/x/x-men-acto/x-men-actor-christopher-abbott-insists-his-professor-x-is-no_3r74.jpg"
     },
     {
       "titulo": "Pokémon Unite Ending Service For Switch In March 2027",
@@ -336,15 +399,6 @@
       "imagem": "https://images.nintendolife.com/b5623332e96f3/large.jpg"
     },
     {
-      "titulo": "Zelda: Ocarina Of Time Midnight Launches Announced For Nintendo New York And San Francisco Stores",
-      "link": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-midnight-launches-announced-for-nintendo-new-york-and-san-francisco-stores",
-      "resumo": "<p><strong>Both events have already \"sold out\".</strong></p><p></p><p>Ahead of the launch of <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">Zelda: Ocarina of Time</a> on the Switch 2 next week, Nintendo has officially revealed its midnight launch plans",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Tue, 27 Oct 2026 00:55:00 GMT",
-      "imagem": "https://images.nintendolife.com/2050ea96d81d8/large.jpg"
-    },
-    {
       "titulo": "Release Notes for 740",
       "link": "https://devforum.roblox.com/t/release-notes-for-740/4888724",
       "resumo": "<p>Howdy! I hope you all are having a great day. Here are the release notes:</p>\n<ul>\n<li>Version 740: <a href=\"https://create.roblox.com/docs/release-notes/release-notes-740\">Introduced in version 740</a></li>\n<li>Weekly update: <a href=\"https://create.roblox.com/docs/updates/2026-09-21\">Week of Se",
@@ -374,7 +428,7 @@
     {
       "titulo": "[Full Launch] Publish Games with Custom Terrain Materials and Performance Improvements",
       "link": "https://devforum.roblox.com/t/full-launch-publish-games-with-custom-terrain-materials-and-performance-improvements/4950620",
-      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h2>[Update - Bug for clients on published games]</h2>\n<p>Hey all quick update –</p>\n<p>Since this launch went out, we discovered a crash affecting some players on iOS during terrain streaming in live experiences. We have fixed the issue, and the fix will ",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Custom Terrain Materials and the first terrain performance improvements are now out of Early Access. You can publish and play games using up to 62 custom terrain materials, with major reductions to file size and load time.</p>\n<p>",
       "fonte": "Roblox - Anúncios",
       "categoria": "Roblox",
       "data": "Thu, 22 Oct 2026 20:00:03 +0000",
@@ -423,15 +477,6 @@
       "fonte": "Roblox - Atualizações",
       "categoria": "Roblox",
       "data": "Thu, 22 Oct 2026 00:08:12 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Release Notes for 735",
-      "link": "https://devforum.roblox.com/t/release-notes-for-735/4821778",
-      "resumo": "<p>Howdy! Here are the release notes for 735: <a class=\"inline-onebox\" href=\"https://create.roblox.com/docs/release-notes/release-notes-735\">Release notes for 735 | Documentation - Roblox Creator Hub</a></p>\n<p>Heads up that in the next week or so, the release notes page is getting an update which s",
-      "fonte": "Roblox - Atualizações",
-      "categoria": "Roblox",
-      "data": "Thu, 20 Aug 2026 16:32:04 +0000",
       "imagem": ""
     },
     {
@@ -496,24 +541,6 @@
       "categoria": "Steam",
       "data": "Sat, 11 Jul 2026 14:59:51 -0700",
       "imagem": ""
-    },
-    {
-      "titulo": "Clássico do cyberpunk, volume 1 de Ghost in the Shell está com 40% OFF na Amazon",
-      "link": "https://br.ign.com/descontos/157079/classico-do-cyberpunk-volume-1-de-ghost-in-the-shell-esta-com-40-off-na-amazon",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/gs_emxr.640.jpg\" vspace=\"5\" width=\"120\" />\nMangá de Masamune Shirow caiu para menos de R$ 65",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Mon, 26 Oct 2026 21:51:18 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/gs_emxr.jpg"
-    },
-    {
-      "titulo": "\"Encontrar a fórmula certa é um desafio\": diretor da adaptação de Bioshock revela motivo do filme demorar tanto",
-      "link": "https://br.ign.com/bioshock-the-movie/157076/encontrar-a-formula-certa-e-um-desafio-diretor-da-adaptacao-de-bioshock-revela-motivo-do-filme-demor",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/b/bioshock-m/bioshock-movie-director-francis-lawrence-explains-why-its-ta_jk4a.640.jpg\" vspace=\"5\" width=\"120\" />\"A Universal reagiu mais ou menos assim: \"De jeito nenhum vamos fazer isso\"\n<p>O<strong> IGN US</strong> oportuni",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Mon, 26 Oct 2026 21:26:33 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/b/bioshock-m/bioshock-movie-director-francis-lawrence-explains-why-its-ta_jk4a.jpg"
     },
     {
       "titulo": "Microsoft Flight Simulator Releases Local Legend 26: The Antonov An-28 Today!",
@@ -585,15 +612,6 @@
       "fonte": "Roblox - Anúncios",
       "categoria": "Roblox",
       "data": "Mon, 19 Oct 2026 21:26:06 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "In-Game Editable Image Publishing",
-      "link": "https://devforum.roblox.com/t/in-game-editable-image-publishing/4944421",
-      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p><img alt=\":zombie:\" class=\"emoji\" height=\"20\" src=\"https://doy2mn9upadnk.cloudfront.net/images/emoji/twitter/zombie.png?v=14\" title=\":zombie:\" width=\"20\" /> Renamed / resurrected <code>AssetService:PromptCreateAssetAsync(Instance)",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Mon, 19 Oct 2026 16:46:03 +0000",
       "imagem": ""
     },
     {
@@ -669,30 +687,12 @@
       "imagem": ""
     },
     {
-      "titulo": "Next Week on XBOX: New Games for October 26 to 30",
-      "link": "https://news.xbox.com/en-us/2026/10/23/next-week-on-xbox-new-games-for-october-26-to-30/",
-      "resumo": "<p>Welcome to Next Week on XBOX! In this weekly feature we cover all the games coming soon to XBOX Series X&#124;S, XBOX One, XBOX on PC, and Game Pass! Get more details on these upcoming games below and click their profiles for further info (release dates subject to change). Let’s jump in! The Séan",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Fri, 23 Oct 2026 14:00:00 +0000",
-      "imagem": ""
-    },
-    {
       "titulo": "Saros: creating the epic Overlords of Carcosa",
       "link": "https://blog.playstation.com/2026/10/23/saros-creating-the-epic-overlords-of-carcosa/",
       "resumo": "Housemarque and Nixxes developed Saros in close collaboration; one area was developing the set-piece bosses. Housemarque brought the creative vision, world, combat language, visual concepts, and signature bullet-hell DNA. Nixxes brought the bosses to life through encounter design, animation, environ",
       "fonte": "PlayStation Blog",
       "categoria": "PlayStation",
       "data": "Fri, 23 Oct 2026 11:59:40 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Weekly Recap: October 12 - 18, 2026",
-      "link": "https://devforum.roblox.com/t/weekly-recap-october-12-18-2026/4938638",
-      "resumo": "<blockquote>\n<h3>Key Takeaways</h3>\n<p>This week Roblox introduced a simpler publishing flow with early tester access, in-experience makeup creation, and tools for fixing and organizing published avatar items. Studio creators can also try Package Overrides and Quality mode for texture generation, wh",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Fri, 16 Oct 2026 22:02:21 +0000",
       "imagem": ""
     },
     {
