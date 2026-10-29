@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/10/2026 às 12:03",
+  "atualizado_em": "29/10/2026 às 22:15",
   "total": 80,
   "noticias": [
     {
@@ -12,15 +12,6 @@
       "imagem": ""
     },
     {
-      "titulo": "An Iconic Piece Of Gaming Artwork Just Fetched A Princely Sum At Auction",
-      "link": "https://www.gamespot.com/articles/an-iconic-piece-of-gaming-artwork-just-fetched-a-princely-sum-at-auction/",
-      "resumo": "<p class=\"wp-block-paragraph\">If you were an arcade operator 45 years ago, your first look at a game that would change the history of the medium came in the form of <a href=\"https://flyers.arcade-museum.com/videogames/show/294\">a humble sales flyer</a>. On the front was a detailed cartoon illustrati",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Wed, 28 Oct 2026 23:15:06 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Clipboard_10-28-2026_01.jpg?w=300"
-    },
-    {
       "titulo": "Teleports to Private VIP Servers Are Now Allowed",
       "link": "https://devforum.roblox.com/t/teleports-to-private-vip-servers-are-now-allowed/4963250",
       "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p><code>TeleportAsync()</code> now can target Reserved and VIP servers explicitly with <code>ReservedServerId</code> and <code>VipServerId</code>. This gives you one predictable way to preserve a player’s private-server destination ",
@@ -28,42 +19,6 @@
       "categoria": "Roblox",
       "data": "Wed, 28 Oct 2026 22:07:06 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "Valve está “pensando em como resolver” o problema de lixo de IA do Steam, mas não vai restringir acesso dos desenvolvedores",
-      "link": "https://br.ign.com/steam-deck/157141/valve-esta-pensando-em-como-resolver-o-problema-de-lixo-de-ia-do-steam-mas-nao-vai-restringir-acesso",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/v/valve-thin/valve-thinking-about-how-to-solve-steams-ai-slop-problem-but_565a.640.jpg\" vspace=\"5\" width=\"120\" />“Estamos plenamente cientes da situação\"\n<p>A equipe de negócios do Steam, da Valve, subiu ao palco no evento Ste",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Wed, 28 Oct 2026 21:22:30 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/v/valve-thin/valve-thinking-about-how-to-solve-steams-ai-slop-problem-but_565a.jpg"
-    },
-    {
-      "titulo": "Pocketpair adoraria lançar Palworld no Nintendo Switch 2, apesar da disputa judicial envolvendo Pokémon",
-      "link": "https://br.ign.com/palworld/157138/pocketpair-adoraria-lancar-palworld-no-nintendo-switch-2-apesar-da-disputa-judicial-envolvendo-pokem",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/p/pocketpair/pocketpair-would-love-to-release-palworld-on-nintendo-switch_r9g4.640.jpg\" vspace=\"5\" width=\"120\" />Melhores amigos?\n<p>A disputa judicial entre a Nintendo e a Pocketpair continua, mas a desenvolvedora de Palworld",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Wed, 28 Oct 2026 21:19:59 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/p/pocketpair/pocketpair-would-love-to-release-palworld-on-nintendo-switch_r9g4.jpg"
-    },
-    {
-      "titulo": "Phantom Blade Zero já parece ser um sucesso antes mesmo de ser lançado, com uma estimativa de 1 milhão de cópias vendidas antes do lançamento",
-      "link": "https://br.ign.com/phantom-blade-zero/157136/phantom-blade-zero-ja-parece-ser-um-sucesso-antes-mesmo-de-ser-lancado-com-uma-estimativa-de-1-milha",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/p/phantom-bl/phantom-blade-zero-looks-like-a-hit-before-its-even-come-out_3qdr.640.jpg\" vspace=\"5\" width=\"120\" />É o maioral\n<p>Phantom Blade Zero está a caminho de se tornar um grande sucesso, com estimativas indicando que o ",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Wed, 28 Oct 2026 21:17:16 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/p/phantom-bl/phantom-blade-zero-looks-like-a-hit-before-its-even-come-out_3qdr.jpg"
-    },
-    {
-      "titulo": "Phantom Blade Zero - Donnie Yen Behind the Scenes Photos",
-      "link": "https://br.ign.com/phantom-blade-zero/157137/phantom-blade-zero-donnie-yen-behind-the-scenes-photos",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/p/phantom-bl/phantom-blade-zero-donnie-yen-behind-the-scenes-photos_44xs.640.jpg\" vspace=\"5\" width=\"120\" />",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Wed, 28 Oct 2026 21:17:16 +0000",
-      "imagem": "https://sm.ign.com/ign_br/gallery/p/phantom-bl/phantom-blade-zero-donnie-yen-behind-the-scenes-photos_44xs.jpg"
     },
     {
       "titulo": "Upgrading Shapecasts: Margins, Size Gradients, Optimizations, and More",
@@ -75,87 +30,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Guia de One Piece com entrevista do criador da saga está custando menos de R$ 30 na Amazon",
-      "link": "https://br.ign.com/descontos/157135/guia-de-one-piece-com-entrevista-do-criador-da-saga-esta-custando-menos-de-r-30-na-amazon",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/one-piece-remaster_ybnm.640.jpg\" vspace=\"5\" width=\"120\" />\nBlue Deep reúne curiosidades sobre o universo dos Chapéus de Palha e inclui um capítulo especial ligado ao filme Strong World",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Wed, 28 Oct 2026 20:27:09 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/one-piece-remaster_ybnm.jpg"
-    },
-    {
-      "titulo": "No Man's Sky Forsaken Screenshots",
-      "link": "https://br.ign.com/no-mans-sky/157133/no-mans-sky-forsaken-screenshots",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/n/no-mans-sk/no-mans-sky-forsaken-screenshots_21bn.640.jpg\" vspace=\"5\" width=\"120\" />",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Wed, 28 Oct 2026 20:07:44 +0000",
-      "imagem": "https://sm.ign.com/ign_br/gallery/n/no-mans-sk/no-mans-sky-forsaken-screenshots_21bn.jpg"
-    },
-    {
-      "titulo": "No Man’s Sky recebe a nova atualização \"Forsaken\", com temática de terror, apenas um mês após \"Cosmos\"",
-      "link": "https://br.ign.com/no-mans-sky/157132/no-mans-sky-recebe-a-nova-atualizacao-forsaken-com-tematica-de-terror-apenas-um-mes-apos-cosmos",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/n/no-mans-sk/no-mans-sky-gets-fresh-horror-themed-forsaken-update-just-a_4fcz.640.jpg\" vspace=\"5\" width=\"120\" />\nPelo amor de Deus",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Wed, 28 Oct 2026 20:07:44 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/n/no-mans-sk/no-mans-sky-gets-fresh-horror-themed-forsaken-update-just-a_4fcz.jpg"
-    },
-    {
-      "titulo": "Alien: Isolation 2 Prologue Screenshots",
-      "link": "https://br.ign.com/alien-isolation-sequel/157131/alien-isolation-2-prologue-screenshots",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/a/alien-isol/alien-isolation-2-prologue-screenshots_8g4j.640.jpg\" vspace=\"5\" width=\"120\" />",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Wed, 28 Oct 2026 19:42:15 +0000",
-      "imagem": "https://sm.ign.com/ign_br/gallery/a/alien-isol/alien-isolation-2-prologue-screenshots_8g4j.jpg"
-    },
-    {
-      "titulo": "GTA 6 Online Could Be Released In Early 2027, Bank Says",
-      "link": "https://www.gamespot.com/articles/gta-6-online-could-be-released-in-early-2027-bank-says/",
-      "resumo": "<p class=\"wp-block-paragraph\">Take-Two's biggest release ever, <a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">GTA 6</a>, is coming up in November, but the company's share price continues to drop. It's down 21% this year and has now dipped und",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Wed, 28 Oct 2026 19:05:50 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Lucia_Caminos_10_748567.jpg?w=300"
-    },
-    {
-      "titulo": "LOTRO’s Latest Expansion Is Out Now, Nearly 20 Years After The Game Launched",
-      "link": "https://www.gamespot.com/articles/lotros-latest-expansion-is-out-now-nearly-20-years-after-the-game-launched/",
-      "resumo": "<p class=\"wp-block-paragraph\">The Lord of the Rings Online, an MMO based on the popular fantasy series, got its latest expansion today, some 19.5 years after the game was originally released in 2007.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The new expansion is called The Wolves of Mordor, and as its na",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Wed, 28 Oct 2026 18:30:46 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/LOTRO.png?w=300"
-    },
-    {
-      "titulo": "Feature: 4 Things You Need To Know About Cities: Skylines - Expanded Edition On Nintendo Switch 2",
-      "link": "https://www.nintendolife.com/features/4-things-you-need-to-know-about-cities-skylines-expanded-edition-on-nintendo-switch-2",
-      "resumo": "<p><strong>Can you build the perfect city?</strong></p><p>Publisher Paradox Interactive recently released <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/cities-skylines-expanded-edition\">Cities: Skylines - Expanded Edition</a>, a significantly revamped version of the original game, on",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Wed, 28 Oct 2026 18:00:00 GMT",
-      "imagem": "https://images.nintendolife.com/21090c5850663/large.jpg"
-    },
-    {
-      "titulo": "Rumour: Samsung's New Chip Process Kicks Off 'Nintendo Switch 2 Lite' Speculation",
-      "link": "https://www.nintendolife.com/news/2026/10/rumour-samsungs-new-chip-process-kicks-off-nintendo-switch-2-lite-speculation",
-      "resumo": "<p><strong>Lite up your life.</strong></p><p>Samsung reportedly has a new chip in the works that could help make dreams of a 'Switch 2 Lite' a reality (thanks for the heads up, <a href=\"https://www.notebookcheck.net/Switch-2-Lite-rumored-with-cheaper-Samsung-chip-process-benefiting-Nintendo-console.",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Wed, 28 Oct 2026 17:45:00 GMT",
-      "imagem": "https://images.nintendolife.com/e665b434a508b/large.jpg"
-    },
-    {
-      "titulo": "WoW: Forever Content Updates Will Come Slower Than You Might Expect",
-      "link": "https://www.gamespot.com/articles/wow-forever-content-updates-will-come-slower-than-you-might-expect/",
-      "resumo": "<p class=\"wp-block-paragraph\">Developer Blizzard's new version of its flagship MMORPG, <a href=\"https://www.gamespot.com/games/world-of-warcraft/\">World of Warcraft: Forever</a>, will receive content updates \"every four months,\" avoiding modern WoW's somewhat controversial eight-week patch cycle.</p",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Wed, 28 Oct 2026 17:16:42 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Content-Schedule-Frequency.jpg?w=300"
-    },
-    {
       "titulo": "Modern Warfare 4 Season 1: Everything you need to know for November 6 launch",
       "link": "https://blog.playstation.com/2026/10/28/modern-warfare-4-season-1-everything-you-need-to-know-for-november-6-launch/",
       "resumo": "Get ready for Season 1, with new maps, modes, events and rewards across Multiplayer and DMZ. Explore the unforgiving corridors of X01, wield new weapons and attachments, acquire new Operator Skins, Weapon Blueprints, DMZ Survival Kits, and more. Call of Duty: Modern Warfare 4 Season 1 goes live on N",
@@ -163,15 +37,6 @@
       "categoria": "PlayStation",
       "data": "Wed, 28 Oct 2026 17:15:17 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "Sleeping Dogs Movie Director Explains Why The Adaptation Is Taking So Long",
-      "link": "https://www.gamespot.com/articles/sleeping-dogs-movie-director-explains-why-the-adaptation-is-taking-so-long/",
-      "resumo": "<p class=\"wp-block-paragraph\">Like <a href=\"https://www.gamespot.com/gallery/video-game-movies-in-the-works/2900-5059/\">many video game movies</a>, <a href=\"https://www.gamespot.com/games/sleeping-dogs/\">Sleeping Dogs</a> seems stuck in development hell. Even though it looked like progress on this a",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Wed, 28 Oct 2026 17:14:09 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/original/536/5360430/2692529-sleeping-dogs-definitive-edition-review_1920_20141015.jpg?w=300"
     },
     {
       "titulo": "Football Manager 27: The Real World of Football Meets Your Digital Decisions | Official XBOX Podcast",
@@ -192,42 +57,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Nintendo’s Indie World Presentation Was Pretty Packed For A Short Show",
-      "link": "https://www.gamespot.com/articles/nintendos-indie-world-presentation-was-pretty-packed-for-a-short-show/",
-      "resumo": "<p class=\"wp-block-paragraph\">The <a href=\"https://www.gamespot.com/articles/nintendo-indie-world-october-2026-showcase-all-the-biggest-announcements/\">latest Indie World Showcase</a> only lasted for a bit longer than 15 minutes, but that small time window didn't stop Nintendo from featuring some tr",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Wed, 28 Oct 2026 16:12:05 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/WindsofViridia.jpg?w=300"
-    },
-    {
-      "titulo": "Guide: Nintendo Indie World Showcase October 2026: Every Announcement, Game Reveal & Trailer",
-      "link": "https://www.nintendolife.com/guides/nintendo-indie-world-showcase-october-2026-every-announcement-game-reveal-and-trailer",
-      "resumo": "<p><strong>How would you rate it?</strong></p><p>Well, there you have it! Nintendo spiced up an already busy October with an Indie World Showcase, highlighting a bunch of smaller titles that will be heading to Switch 1 and 2 in the coming months.</p><p>While the presentation was only 15 minutes long",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Wed, 28 Oct 2026 16:00:00 GMT",
-      "imagem": "https://images.nintendolife.com/937fcfe1489cc/large.jpg"
-    },
-    {
-      "titulo": "If GTA 6 Beats Football On Thanksgiving, That’s A Win, EA Founder Says",
-      "link": "https://www.gamespot.com/articles/if-gta-6-beats-football-on-thanksgiving-thats-a-win-ea-founder-says/",
-      "resumo": "<p class=\"wp-block-paragraph\">Rockstar's <a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">GTA 6</a> is expected to be a giant success commercially, but just how big does the game need to be to actually be successful following a decade of develo",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Wed, 28 Oct 2026 15:42:37 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/GTA6New-Large.jpeg?w=300"
-    },
-    {
-      "titulo": "PlayStation Plus Free Games For November 2026 Revealed",
-      "link": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-november-2026/",
-      "resumo": "<p class=\"wp-block-paragraph\">PlayStation has revealed this month's batch of free games for PlayStation Plus subscribers. All PS Plus members will be able to claim a trio of freebies starting November 3: <strong>Dead Island 2</strong>, <strong>Tomb Raider 4-6 Remastered</strong>, and <strong>Monster",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Wed, 28 Oct 2026 15:38:07 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/PS-Plus-November-2026.jpg?w=300"
-    },
-    {
       "titulo": "PlayStation Plus Monthly Games for November: Dead Island 2, Tomb Raider IV – VI Remastered, Monster Train 2",
       "link": "https://blog.playstation.com/2026/10/28/playstation-plus-monthly-games-for-november-dead-island-2-tomb-raider-iv-vi-remastered-monster-train-2/",
       "resumo": "Tackle the sun-kissed undead, uncover ancient relics, and jump aboard a train for a deckbuilding journey through Heaven, Hell and beyond. Dead Island 2, Tomb Raider IV &#8211; VI Remastered, Monster Train 2 form your PlayStation Plus Monthly Games for November, with all available to play from Tuesda",
@@ -246,15 +75,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Wonderful Wizard RPG 'Witchbrook' Finally Has A Switch Release Date",
-      "link": "https://www.nintendolife.com/news/2026/10/wonderful-wizard-rpg-witchbrook-finally-has-a-switch-release-date",
-      "resumo": "<p><strong>Not long to wait!</strong></p><p>We have been looking out for <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/witchbrook\">Witchbrook</a> news for <em>years</em> now and in today's Indie World Showcase, it finally got a Switch 1 &amp; 2 release date.</p><p>Chucklefish's delig",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Wed, 28 Oct 2026 14:35:00 GMT",
-      "imagem": "https://images.nintendolife.com/362b4ed84318f/large.jpg"
-    },
-    {
       "titulo": "Explore the Spookier Side of Space in No Man’s Sky: FORSAKEN!",
       "link": "https://news.xbox.com/en-us/2026/10/28/no-mans-sky-forsaken-update/",
       "resumo": "<p>Hello, Last month’s COSMOS update saw a huge uplift in XBOX and Game Pass Travellers old and new journeying to the No Man’s Sky universe to check out the space overhaul which COSMOS ushered in. A whole host of new discoveries appeared in the space between planets, players had the ability to own a",
@@ -262,15 +82,6 @@
       "categoria": "Xbox",
       "data": "Wed, 28 Oct 2026 14:00:00 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "Backrooms Director Reacts To Rumors That He’s Making A Portal Movie",
-      "link": "https://www.gamespot.com/articles/backrooms-director-wears-a-valve-hoodie-to-interview-and-people-think-hes-teasing-a-portal-movie/",
-      "resumo": "<p class=\"wp-block-paragraph\">Kane Parsons made one of 2026's most highly acclaimed and commercially successful movies in Backrooms, and everyone wants to know what he'll do next. A lot of people think he's going to make a Portal movie, based on Valve's hit series, and his latest appearance has fans",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Wed, 28 Oct 2026 13:15:27 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/portal2.jpg?w=300"
     },
     {
       "titulo": "Suit up as Astro Bot in Rayman Legends Retold",
@@ -297,15 +108,6 @@
       "fonte": "Roblox - Atualizações",
       "categoria": "Roblox",
       "data": "Wed, 09 Sep 2026 20:57:29 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Team Fortress 2 Update Released",
-      "link": "https://store.steampowered.com/news/275469/",
-      "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Updated the Beachcomber's Brim to add a second style that was originally missed<br",
-      "fonte": "Steam News",
-      "categoria": "Steam",
-      "data": "Wed, 08 Jul 2026 16:13:00 -0700",
       "imagem": ""
     },
     {
@@ -345,39 +147,12 @@
       "imagem": ""
     },
     {
-      "titulo": "Play One of the Highest-Rated Call of Duty Games Ever Today",
-      "link": "https://news.xbox.com/en-us/2026/10/27/play-one-of-the-highest-rated-call-of-duty-games-ever-today/",
-      "resumo": "<p>The post <a href=\"https://news.xbox.com/en-us/2026/10/27/play-one-of-the-highest-rated-call-of-duty-games-ever-today/\">Play One of the Highest-Rated Call of Duty Games Ever Today</a> appeared first on <a href=\"https://news.xbox.com/en-us\">XBOX Wire</a>.</p>",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Tue, 27 Oct 2026 18:00:00 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "GTA 6 File Size Revealed, And It’s Massive–See How It Compares To Other Huge Games",
-      "link": "https://www.gamespot.com/articles/gta-6-file-size-revealed-and-its-massive/",
-      "resumo": "<p class=\"wp-block-paragraph\">Ahead of the game's release in November, <a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">GTA 6'</a>s file size has been revealed, and it is massive. PlayStation Game Size reports that the $80 standard edition will",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Tue, 27 Oct 2026 17:48:21 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Lucia_Caminos_07.jpg?w=300"
-    },
-    {
       "titulo": "Aloft and Conan Exiles Enhanced launch on PS5 in early 2027",
       "link": "https://blog.playstation.com/2026/10/27/aloft-and-conan-exiles-enhanced-launch-on-ps5-in-early-2027/",
       "resumo": "We’ve just launched&#160;Dune: Awakening&#160;on PlayStation 5, but we’re only getting started. We’re excited to bring two more of our open-world survival adventures to PlayStation 5 in early 2027. Soar the skies in Aloft, then visit the unforgiving Exiled Lands in Conan Exiles Enhanced. Aloft: Buil",
       "fonte": "PlayStation Blog",
       "categoria": "PlayStation",
       "data": "Tue, 27 Oct 2026 16:00:43 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Play Minecraft on Your Nintendo Switch 2 Today!",
-      "link": "https://www.minecraft.net/en-us/article/play-minecraft-on-nintendo-switch-2#new_tab",
-      "resumo": "<p>The post <a href=\"https://www.minecraft.net/en-us/article/play-minecraft-on-nintendo-switch-2#new_tab\">Play Minecraft on Your Nintendo Switch 2 Today!</a> appeared first on <a href=\"https://news.xbox.com/en-us\">XBOX Wire</a>.</p>",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Tue, 27 Oct 2026 16:00:00 +0000",
       "imagem": ""
     },
     {
@@ -417,13 +192,310 @@
       "imagem": ""
     },
     {
-      "titulo": "Amazon renova a linha Fire TV com stick 4K mais veloz e controle com botões táteis",
-      "link": "https://br.ign.com/descontos/157145/amazon-renova-a-linha-fire-tv-com-stick-4k-mais-veloz-e-controle-com-botoes-tateis",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/ign-15_a494.640.jpg\" vspace=\"5\" width=\"120\" />O novo Fire TV Stick 4K entrega imagem 4K Ultra HD, Wi-Fi 6 e suporte à Alexa+ por R$ 579, com a nova experiência Fire TV de 2026 e controle remoto redesenhado. Veja ",
+      "titulo": "The Journey of Crimson Desert Continues with Charting the Unknown",
+      "link": "https://news.xbox.com/en-us/2026/10/29/crimson-desert-charting-the-unknown/",
+      "resumo": "<p>Since its launch in March, the world of Crimson Desert — where Kliff and the Greymanes fight to rebuild what they lost — has grown with each update. Alongside improvements, the game has received brand new content, including boss rematches, and new features shaped by players’ adventures and storie",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Thu, 29 Oct 2026 22:00:00 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "[Full Release] Input Action Manager",
+      "link": "https://devforum.roblox.com/t/full-release-input-action-manager/4965021",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>The Input Action Manager is now fully released. This visual editor helps you build and audit cross-platform control mappings for your game.</p>\n<p>Find it under Windows &gt; Input &gt; Actions.</p>\n</blockquote>\n</aside>\n<hr />\n<p",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Thu, 29 Oct 2026 21:01:05 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Mapa do GTA 6 é enorme: enquanto leva apenas 10 minutos para atravessar GTA 5 de carro, em GTA 6 isso leva 35 minutos",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157176/mapa-do-gta-6-e-enorme-enquanto-leva-apenas-10-minutos-para-atravessar-gta-5-de-carro-em-gta-6-isso",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/g/gta-6-scre/gta-6-screenshots-october-8-2026_d261.640.jpg\" vspace=\"5\" width=\"120\" />Leonida tem uma área aproximadamente duas vezes maior que a de GTA 5, o que eleva o tempo estimado de viagem de carro para 35 minutos\n<p>H",
       "fonte": "IGN Brasil",
       "categoria": "Geral",
-      "data": "Thu, 29 Oct 2026 11:12:29 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/ign-15_a494.jpg"
+      "data": "Thu, 29 Oct 2026 20:55:27 +0000",
+      "imagem": "https://sm.ign.com/ign_br/gallery/g/gta-6-scre/gta-6-screenshots-october-8-2026_d261.jpg"
+    },
+    {
+      "titulo": "Artista original de GTA diz que se sente “lisonjeado” ao ver que sua influência continua presente na arte da capa de GTA 6",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157174/artista-original-de-gta-diz-que-se-sente-lisonjeado-ao-ver-que-sua-influencia-continua-presente-na-a",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/o/original-g/original-gta-artist-says-hes-flattered-to-see-his-influence_52vj.640.jpg\" vspace=\"5\" width=\"120\" />Stephen Bliss ajudou a definir o estilo visual icônico de Grand Theft Auto\n<p>Stephen Bliss, o ex-artista da Rocks",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Thu, 29 Oct 2026 20:43:24 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/o/original-g/original-gta-artist-says-hes-flattered-to-see-his-influence_52vj.jpg"
+    },
+    {
+      "titulo": "Ubisoft divulga atualização enigmática sobre Assassin’s Creed: Hexe",
+      "link": "https://br.ign.com/assassins-creed-codename-hexe/157173/ubisoft-divulga-atualizacao-enigmatica-sobre-assassins-creed-hexe",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/u/ubisoft-sh/ubisoft-shares-cryptic-assassins-creed-codename-hexe-update_ynpq.640.jpg\" vspace=\"5\" width=\"120\" />Falando em código\n<p>Assassin’s Creed Codename Hexe foi anunciado lá em 2022, mas, além de um teaser misterioso, a",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Thu, 29 Oct 2026 20:40:54 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/u/ubisoft-sh/ubisoft-shares-cryptic-assassins-creed-codename-hexe-update_ynpq.jpg"
+    },
+    {
+      "titulo": "Screens  -  Assassin's Creed: Valhalla -- Wrath of the Druids",
+      "link": "https://br.ign.com/assassins-creed-valhalla-wrath-of-the-druids/157170/screens--assassins-creed-valhalla-wrath-of-the-druids",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/s/screens-as/screens-assassins-creed-valhalla-wrath-of-the-druids_cwux.640.jpg\" vspace=\"5\" width=\"120\" />",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Thu, 29 Oct 2026 20:38:46 +0000",
+      "imagem": "https://sm.ign.com/ign_br/gallery/s/screens-as/screens-assassins-creed-valhalla-wrath-of-the-druids_cwux.jpg"
+    },
+    {
+      "titulo": "Assassin's Creed Valhalla receberá modo New Game+ 6 anos após o lançamento",
+      "link": "https://br.ign.com/assassins-creed-valhalla/157169/assassins-creed-valhalla-recebera-modo-new-game-6-anos-apos-o-lancamento",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/a/assassins-/assassins-creed-valhalla-is-getting-new-game-6-years-after-r_baz1.640.jpg\" vspace=\"5\" width=\"120\" />Antes tarde do que nunca\n<p>Assassin’s Creed Valhalla foi lançado lá em novembro de 2020, mas a Ubisoft acaba de ",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Thu, 29 Oct 2026 20:38:46 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/a/assassins-/assassins-creed-valhalla-is-getting-new-game-6-years-after-r_baz1.jpg"
+    },
+    {
+      "titulo": "PUBG: DED.NET Screenshots",
+      "link": "https://br.ign.com/pubg-dednet/157168/pubg-dednet-screenshots",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/p/pubg-dedne/pubg-dednet-screenshots_g87t.640.jpg\" vspace=\"5\" width=\"120\" />",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Thu, 29 Oct 2026 20:23:14 +0000",
+      "imagem": "https://sm.ign.com/ign_br/gallery/p/pubg-dedne/pubg-dednet-screenshots_g87t.jpg"
+    },
+    {
+      "titulo": "PUBG vai ganhar uma série live-action na Netflix, com roteiro, direção e atuação de Donald Glover",
+      "link": "https://br.ign.com/pubg-battlegrounds/157167/pubg-vai-ganhar-uma-serie-live-action-na-netflix-com-roteiro-direcao-e-atuacao-de-donald-glover",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/p/pubg-is-ge/pubg-is-getting-a-live-action-series-on-netflix-written-dire_t17k.640.jpg\" vspace=\"5\" width=\"120\" />Winner winner!\n<p>É isso mesmo: o artista musical e ator Donald Glover, vencedor do Grammy, está dirigindo e estr",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Thu, 29 Oct 2026 20:23:14 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/p/pubg-is-ge/pubg-is-getting-a-live-action-series-on-netflix-written-dire_t17k.jpg"
+    },
+    {
+      "titulo": "[Studio Beta] Generate Game Characters with Prompt-to-Avatar",
+      "link": "https://devforum.roblox.com/t/studio-beta-generate-game-characters-with-prompt-to-avatar/4964945",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Generate game character models from text prompts. It’s a faster way to produce game characters with or without Dynamic Heads through the Avatar Setup tool in Studio, Assistant, and Studio MCP.</p>\n<p>Enable it in <strong>File &gt;",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Thu, 29 Oct 2026 20:10:41 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Eterno professor Charles Xavier de X-Men e Capitão Picard de Star Trek, Patrick Stewart morre aos 86 anos",
+      "link": "https://br.ign.com/star-trek-the-original-series/157175/eterno-professor-charles-xavier-de-x-men-e-comandante-picard-de-star-trek-patrick-stewart-morre-aos",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/s/sir-patric/sir-patrick-stewart-dead-at-86_8vuz.640.jpg\" vspace=\"5\" width=\"120\" />A morte do ator segue-se a uma breve batalha contra a doença de Alzheimer e a demência com corpos de Lewy\n<p>O aclamado ator Sir Patrick Stewar",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Thu, 29 Oct 2026 20:06:02 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/s/sir-patric/sir-patrick-stewart-dead-at-86_8vuz.jpg"
+    },
+    {
+      "titulo": "Patrick Stewart Dies At 86",
+      "link": "https://www.gamespot.com/articles/patrick-stewart-dies-at-86/",
+      "resumo": "<p class=\"wp-block-paragraph\">Beloved actor Patrick Stewart has died at the age of 86. The veteran of stage and screen was best known for his many years as Star Trek's Jean-Luc Picard and X-Men's Charles Xavier, though he also had notable roles in video games, including The Elder Scrolls IV: Oblivio",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Thu, 29 Oct 2026 19:55:01 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/pat-stew.webp?w=300"
+    },
+    {
+      "titulo": "WoW: Forever Won’t Have Dead Servers",
+      "link": "https://www.gamespot.com/articles/wow-forever-wont-have-dead-servers/",
+      "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/games/world-of-warcraft/\">World of Warcraft: Forever</a> will avoid repeating WoW Classic's mistakes and will have tools to prevent \"dead\" or \"unsustainable\" server rulesets, Blizzard said.</p>\n\n\n\n<p class=\"wp-block-paragraph\">In the pa",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Thu, 29 Oct 2026 18:53:15 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Wont-Have-Dead-Servers.jpg?w=300"
+    },
+    {
+      "titulo": "Artist With Music In GTA 6 Had No Idea About Any Of That",
+      "link": "https://www.gamespot.com/articles/artist-with-music-in-gta-6-had-no-idea-about-any-of-that/",
+      "resumo": "<p class=\"wp-block-paragraph\">Cliff Richard is among the numerous famous artists who are lending their music to Rockstar's <a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">GTA 6</a>, with Richard's classic tune <a href=\"https://www.gamespot.com",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Thu, 29 Oct 2026 18:50:25 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Lucia_Caminos_08.jpg?w=300"
+    },
+    {
+      "titulo": "A PUBG TV Show Is Coming To Netflix, Starring Donald Glover",
+      "link": "https://www.gamespot.com/articles/a-pubg-tv-show-is-coming-to-netflix-starring-donald-glover/",
+      "resumo": "<p class=\"wp-block-paragraph\"></p>\n\n\n\n<p class=\"wp-block-paragraph\">Krafton and Netflix today announced a live-action TV show based on PUBG, and it will star Emmy-winner Donald Glover. In fact, Glover will not only star, but also direct, write, and executive  produce the show, along with his brother",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Thu, 29 Oct 2026 18:49:28 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/glover.png?w=300"
+    },
+    {
+      "titulo": "The Elder Scrolls 6 teria o subtítulo 'Sentinel'; novos detalhes da história são revelados antes de um suposto anúncio",
+      "link": "https://br.ign.com/the-elder-scrolls-vi/157166/the-elder-scrolls-6-teria-o-subtitulo-sentinel-novos-detalhes-da-historia-sao-revelados-antes-de-um",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/t/the-elder-/the-elder-scrolls-6-is-reportedly-subtitled-sentinel-new-sto_vmvw.640.jpg\" vspace=\"5\" width=\"120\" />\nFinalmente está chegando?",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Thu, 29 Oct 2026 18:00:55 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/t/the-elder-/the-elder-scrolls-6-is-reportedly-subtitled-sentinel-new-sto_vmvw.jpg"
+    },
+    {
+      "titulo": "Ubisoft Is Pumping The Brakes On Assassin’s Creed Remakes For Now",
+      "link": "https://www.gamespot.com/articles/ubisoft-is-pumping-the-brakes-on-assassins-creed-remakes-for-now/",
+      "resumo": "<p class=\"wp-block-paragraph\">What's next for the Assassin's Creed franchise? <a href=\"https://www.gamespot.com/articles/ac-black-flag-resynced-is-a-hit-but-people-are-particularly-upset-about-one-thing/\" rel=\"noopener\" target=\"_blank\">Following the successful launch</a> of <a href=\"https://www.game",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Thu, 29 Oct 2026 18:00:48 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/07/Black-Flag-Resynced.jpg?w=300"
+    },
+    {
+      "titulo": "Raiders of the North for Age of Empires IV is Available Now",
+      "link": "https://news.xbox.com/en-us/2026/10/29/raiders-of-the-north-for-age-of-empires-iv-is-available-now/",
+      "resumo": "<p>The post <a href=\"https://news.xbox.com/en-us/2026/10/29/raiders-of-the-north-for-age-of-empires-iv-is-available-now/\">Raiders of the North for Age of Empires IV is Available Now</a> appeared first on <a href=\"https://news.xbox.com/en-us\">XBOX Wire</a>.</p>",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Thu, 29 Oct 2026 18:00:00 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "WoW: Forever Controller Support Is A First Step To Playing The MMO On “Whatever You Want”",
+      "link": "https://www.gamespot.com/articles/wow-forever-controller-support-is-a-first-step-to-playing-the-mmo-on-whatever-you-want/",
+      "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/games/world-of-warcraft/\">World of Warcraft: Forever</a> will launch with full controller support, a first for the various versions of Blizzard's longrunning PC-exclusive MMORPG. According to Blizzard, the option to play on controller i",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Thu, 29 Oct 2026 17:50:56 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Playable-Anywhere-You-Want.jpg?w=300"
+    },
+    {
+      "titulo": "Assassin's Creed - Official Fall 2026 Update Video",
+      "link": "https://br.ign.com/assassins-creed/157171/assassins-creed-official-fall-2026-update-video",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/video/a/assassins-/assassins-creed-official-fall-2026-update-video_1e3u.640.png\" vspace=\"5\" width=\"120\" />Check out the Fall 2026 Update Video for Assassin&#x27;s Creed, the legendary stealth action series developed by Ubisoft. Pla",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Thu, 29 Oct 2026 17:15:52 +0000",
+      "imagem": "https://sm.ign.com/ign_br/video/a/assassins-/assassins-creed-official-fall-2026-update-video_1e3u.png"
+    },
+    {
+      "titulo": "You All Guessed Elder Scrolls 6’s Name, And Now Here’s The Game’s Setup – Report",
+      "link": "https://www.gamespot.com/articles/you-all-guessed-elder-scrolls-6s-name-and-now-heres-the-games-setup-report/",
+      "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/articles/elder-scrolls-6-was-announced-8-years-ago-today-heres-why-it-didnt-show-up-at-xbox-showcase/\">After eight years</a>, Xbox is reportedly preparing to reintroduce <a href=\"https://www.gamespot.com/articles/the-elder-scrolls-6-rel",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Thu, 29 Oct 2026 17:09:54 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/original/1578/15789366/3838845-03-04-2019-the-elder-scrolls-6-release-date-trailer-setting.jpg?w=300"
+    },
+    {
+      "titulo": "Creators Can Test Games on the Web",
+      "link": "https://devforum.roblox.com/t/creators-can-test-games-on-the-web/4964592",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Web Play early access is now available for Creators only to test your games in Chrome. This lets you find bugs and tune performance before we open Web Play to all players.</p>\n<p>Click <strong>Play in Browser</strong> on your game",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Thu, 29 Oct 2026 17:02:47 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Xbox Wants To Be More Profitable Than PlayStation And Nintendo By 2030",
+      "link": "https://www.gamespot.com/articles/xbox-wants-to-be-more-profitable-than-playstation-and-nintendo-by-2030/",
+      "resumo": "<p class=\"wp-block-paragraph\">Xbox CEO Asha Sharma has an ambitious goal: not only to make Xbox more lucrative, but to surpass the profit margins of its biggest gaming rivals, Sony and Nintendo.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Speaking to <a href=\"https://www.cnbc.com/amp/2026/07/30/microsoft-x",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Thu, 29 Oct 2026 16:39:13 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/07/original-xbox-logo.jpg?w=300"
+    },
+    {
+      "titulo": "METRO Redux Next-Gen Update Out Now for XBOX Series X|S",
+      "link": "https://news.xbox.com/en-us/2026/10/29/metro-redux-next-gen-update/",
+      "resumo": "<p>The METRO Redux Next-Gen Update is out now on XBOX Series X&#124;S consoles. Right now, you can experience both METRO 2033 &#38; Last Light Redux with an unprecedented degree of immersion, thanks to performance improvements, enhanced visuals, and control upgrades that combine to take full advanta",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Thu, 29 Oct 2026 16:30:00 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Pokémon Cards And Toys Are Officially Returning To McDonald's Happy Meals Soon",
+      "link": "https://www.nintendolife.com/news/2026/10/pokemon-cards-and-toys-are-officially-returning-to-mcdonalds-happy-meals-soon",
+      "resumo": "<p><strong>Rowlett McDowlett.</strong></p><p>Brace yourselves, folks, because it looks like Pokémon cards will soon be returning to McDonald's Happy Meals in the US, and that has spelt trouble in the past (thanks for the heads up, <a href=\"https://www.ign.com/articles/mcdonalds-happy-meal-pokmon-car",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Thu, 29 Oct 2026 16:15:00 GMT",
+      "imagem": "https://images.nintendolife.com/25bb7216fbbfa/large.jpg"
+    },
+    {
+      "titulo": "Xbox’s Recent Efforts Haven’t Changed Anything And The Future Remains Bleak, Expert Says",
+      "link": "https://www.gamespot.com/articles/xboxs-recent-efforts-havent-changed-anything-and-the-future-remains-bleak-expert-says/",
+      "resumo": "<p class=\"wp-block-paragraph\">Xbox CEO Asha Sharma has undertaken a number of efforts thus far to help get the business back into a healthy place, and nothing has worked, Circana analyst Mat Piscatella says. </p>\n\n\n\n<p class=\"wp-block-paragraph\">He told<a href=\"https://www.thegamebusiness.com/p/wolv",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Thu, 29 Oct 2026 16:05:49 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Xbox-4.png?w=300"
+    },
+    {
+      "titulo": "Weave Your Own Fate: Titan Quest II Is Now Available for Pre-Order on XBOX Series X|S",
+      "link": "https://news.xbox.com/en-us/2026/10/29/titan-quest-ii-pre-order/",
+      "resumo": "<p>High above the clouds, the gods of Olympus watch in silence – for once, even they are powerless against what is coming. The fate of the world now rests in mortal hands. Your hands. But do you have what it takes to face a goddess? The THQ Nordic and Grimlore Games teams are thrilled to [&#8230;]</",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Thu, 29 Oct 2026 16:00:00 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Japanese Charts: Nintendo Switch Sports Resort And Final Fantasy Resonance Go Head-To-Head",
+      "link": "https://www.nintendolife.com/news/2026/10/japanese-charts-nintendo-switch-sports-resort-and-final-fantasy-resonance-go-head-to-head",
+      "resumo": "<p><strong>Ding, ding! Round one!</strong></p><p><a href=\"https://www.famitsu.com/article/202610/92517\">Famitsu</a> has given us our latest look at the Japanese charts, and it's another big week for new releases.</p><p><a href=\"https://www.nintendolife.com/games/nintendo-switch-2/nintendo-switch-spo",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Thu, 29 Oct 2026 15:30:00 GMT",
+      "imagem": "https://images.nintendolife.com/ae993272414b3/large.jpg"
+    },
+    {
+      "titulo": "Free Play Days – WUCHANG: Fallen Feathers, Dead by Daylight, Darkwood, Spirittea, and EVERSPACE 2",
+      "link": "https://news.xbox.com/en-us/2026/10/29/free-play-days-10-29-2026/",
+      "resumo": "<p>Your weekend quest starts with Free Play Days! WUCHANG: Fallen Feathers, Darkwood, Spirittea, and EVERSPACE 2 are available this weekend for XBOX Game Pass Ultimate, Premium and Essential members to play from Thursday October 29 until Sunday, Sunday November 1. Spirittea and EVERSPACE 2 are also ",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Thu, 29 Oct 2026 15:00:00 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "The Duskbloods Switch 2 Release Has Been Delayed To 2027",
+      "link": "https://www.nintendolife.com/news/2026/10/the-duskbloods-switch-2-release-has-been-delayed-to-2027",
+      "resumo": "<p><strong>There will (eventually) be Blood.</strong></p><p>As will come as very little surprise to all those aware of the ever-shrinking time left in the '2026' window, FromSoftware has today announced that its Switch 2 exclusive, <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/duskbl",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Thu, 29 Oct 2026 14:45:00 GMT",
+      "imagem": "https://images.nintendolife.com/6ece8ebd72843/large.jpg"
+    },
+    {
+      "titulo": "Nintendo Download: 29th October (North America)",
+      "link": "https://www.nintendolife.com/news/2026/10/nintendo-download-29th-october-north-america",
+      "resumo": "<p><strong>Hello Kitty! Darkest Dungeon! Peak!</strong></p><p><em>The latest Nintendo Download update for North America has arrived, and it's bringing new games galore to the eShop. As always, be sure to drop a vote in our poll and comment down below with your potential picks for the week. Enjoy!</e",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Thu, 29 Oct 2026 14:30:00 GMT",
+      "imagem": "https://images.nintendolife.com/e6454acd2cdf3/large.jpg"
+    },
+    {
+      "titulo": "Once Human: From A Misplaced Lighthouse to the Living Ocean of Isles of Abyss",
+      "link": "https://news.xbox.com/en-us/2026/10/29/once-human-isles-of-abyss-expansion-xbox/",
+      "resumo": "<p>We recently released Isles of Abyss &#8211; the largest free expansion in Once Human history &#8211; on XBOX Series X&#124;S. Now that players have had taken some time to chart these dangerous waters, we wanted to take this opportunity to pull back the curtain on how this major expansion came tog",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Thu, 29 Oct 2026 14:00:00 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Team Fortress 2 Update Released",
+      "link": "https://store.steampowered.com/news/289185/",
+      "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Fixed smoke effect regression for Le Sapeur<br /><li>Updated the Chief Executor, V",
+      "fonte": "Steam News",
+      "categoria": "Steam",
+      "data": "Thu, 29 Oct 2026 13:29:00 -0700",
+      "imagem": ""
+    },
+    {
+      "titulo": "Gallery: Here's A Closer Look At The Zelda 40th Anniversary Special Edition Switch 2",
+      "link": "https://www.nintendolife.com/news/2026/10/gallery-heres-a-closer-look-at-the-zelda-40th-anniversary-special-edition-switch-2",
+      "resumo": "<p><strong>Da, da, da, DAAAAA.</strong></p><p>Those lucky enough to get their pre-orders in will today be receiving their Zelda 40th Anniversary special edition Switch 2 consoles, and man, it's a beauty.</p><p>The good folk over at Nintendo were kind enough to send one our way, so we thought it was ",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Thu, 29 Oct 2026 12:30:00 GMT",
+      "imagem": "https://images.nintendolife.com/79b7d92538948/large.jpg"
     },
     {
       "titulo": "Pokémon Legends: Z-A's Latest Mystery Gift Distribution Is Now Live",
@@ -462,15 +534,6 @@
       "imagem": "https://images.nintendolife.com/b0ca203579730/large.jpg"
     },
     {
-      "titulo": "Amazon lança novos Echo no Brasil; saiba o que já dá para reservar",
-      "link": "https://br.ign.com/descontos/157144/amazon-lanca-novos-echo-no-brasil-saiba-o-que-ja-da-para-reservar",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/ign-13_hwn5.640.jpg\" vspace=\"5\" width=\"120\" />Echo Dot, Echo Time e Echo Studio com Câmera chegam com Alexa+ e preços a partir de R$ 819. Compare os modelos, veja as especificações e escolha o ideal para cada côm",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Thu, 29 Oct 2026 02:51:30 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/ign-13_hwn5.jpg"
-    },
-    {
       "titulo": "Taito Milestones 5 Announced For Switch, Here Are The Games Included",
       "link": "https://www.nintendolife.com/news/2026/10/taito-milestones-5-announced-for-switch-here-are-the-games-included",
       "resumo": "<p><strong>Developed in collab with Hamster Corp.</strong></p><p>Taito Corporation is back with another retro collection of games! <strong><a href=\"https://www.nintendolife.com/games/nintendo-switch/taito_milestones_5\">Taito Milestones 5</a></strong> for the Switch will be launching in Japan on <str",
@@ -507,48 +570,12 @@
       "imagem": ""
     },
     {
-      "titulo": "Walmart Cancels Zelda Switch 2 Pre-Orders A Day Before Release",
-      "link": "https://www.nintendolife.com/news/2026/10/walmart-cancels-zelda-switch-2-pre-orders-a-day-before-release",
-      "resumo": "<p><strong>The retailer reportedly \"oversold\" orders.</strong></p><p>The <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">Zelda</a>-themed Switch 2 is out this week, and Walmart has reportedly cancelled some pre-orders at the last minute.</p><p>As <a cla",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Thu, 29 Oct 2026 01:30:00 GMT",
-      "imagem": "https://images.nintendolife.com/d43705266c429/large.jpg"
-    },
-    {
       "titulo": "Release Notes for 736",
       "link": "https://devforum.roblox.com/t/release-notes-for-736/4833635",
       "resumo": "<p>Hey everyone, release notes are available for 736.</p>\n<aside class=\"onebox allowlistedgeneric\">\n  <header class=\"source\">\n      <img class=\"site-icon\" height=\"48\" src=\"https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/f/4/4/7/f447460fd40fb32dafe6f12a177e1dbb041a48",
       "fonte": "Roblox - Atualizações",
       "categoria": "Roblox",
       "data": "Thu, 27 Aug 2026 18:16:30 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "[Full Launch] Publish Games with Custom Terrain Materials and Performance Improvements",
-      "link": "https://devforum.roblox.com/t/full-launch-publish-games-with-custom-terrain-materials-and-performance-improvements/4950620",
-      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Custom Terrain Materials and the first terrain performance improvements are now out of Early Access. You can publish and play games using up to 62 custom terrain materials, with major reductions to file size and load time.</p>\n<p>",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Thu, 22 Oct 2026 20:00:03 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Improving Validation Checks for UGC Avatar Bodies: Visualization Tool and Asset Quality",
-      "link": "https://devforum.roblox.com/t/improving-validation-checks-for-ugc-avatar-bodies-visualization-tool-and-asset-quality/4950522",
-      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>We’re making UGC Validation Visualization available to creators in Studio, so you can see where validation issues occur and improve Asset Quality before publishing.</p>\n</blockquote>\n</aside>\n<hr />\n<p>Hi Creators,</p>\n<p><a href=",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Thu, 22 Oct 2026 18:48:31 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "[Studio Beta] Text-to-Speech Asset Creation Support in Lua",
-      "link": "https://devforum.roblox.com/t/studio-beta-text-to-speech-asset-creation-support-in-lua/4950480",
-      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p><code>AssetService:CreateAssetAsync</code> now accepts <code>AudioTextToSpeech</code> objects to create speech assets. This lets you generate voice lines in Studio for instant playback, with no play-time rate limits.</p>\n<p>Find i",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Thu, 22 Oct 2026 18:15:43 +0000",
       "imagem": ""
     },
     {
@@ -559,6 +586,15 @@
       "categoria": "Roblox",
       "data": "Thu, 22 Oct 2026 00:08:12 +0000",
       "imagem": ""
+    },
+    {
+      "titulo": "This Week’s Epic Games Store Freebie Is A Devilishly Good Horror Game",
+      "link": "https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419/",
+      "resumo": "<p class=\"wp-block-paragraph\">The Epic Games Store continues to give away a free game each week, and this week's offering is another nice find at a price that can't be beat. Every Thursday at 8 AM PT / 11 AM ET, Epic offers at least one free PC game (and sometimes even as many as two or three). All ",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Thu, 18 Jun 2026 15:01:00 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/06/Sorry-wERE-cLOSED.jpg?w=300"
     },
     {
       "titulo": "Release Notes for 739",
@@ -621,42 +657,6 @@
       "fonte": "Steam News",
       "categoria": "Steam",
       "data": "Sat, 11 Jul 2026 14:59:51 -0700",
-      "imagem": ""
-    },
-    {
-      "titulo": "Microsoft Flight Simulator Releases Local Legend 26: The Antonov An-28 Today!",
-      "link": "https://news.xbox.com/en-us/2026/10/26/microsoft-flight-simulator-releases-local-legend-26-the-antonov-an-28-today/",
-      "resumo": "<p>The post <a href=\"https://news.xbox.com/en-us/2026/10/26/microsoft-flight-simulator-releases-local-legend-26-the-antonov-an-28-today/\">Microsoft Flight Simulator Releases Local Legend 26: The Antonov An-28 Today!</a> appeared first on <a href=\"https://news.xbox.com/en-us\">XBOX Wire</a>.</p>",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Mon, 26 Oct 2026 19:00:00 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Microsoft Flight Simulator Releases World Update 23: Poland and the Baltics",
-      "link": "https://news.xbox.com/en-us/2026/10/26/microsoft-flight-simulator-releases-world-update-23-poland-and-the-baltics/",
-      "resumo": "<p>The post <a href=\"https://news.xbox.com/en-us/2026/10/26/microsoft-flight-simulator-releases-world-update-23-poland-and-the-baltics/\">Microsoft Flight Simulator Releases World Update 23: Poland and the Baltics</a> appeared first on <a href=\"https://news.xbox.com/en-us\">XBOX Wire</a>.</p>",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Mon, 26 Oct 2026 18:00:00 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "The Walking Trade: How I Built a Shop Simulator Without Ever Playing One",
-      "link": "https://news.xbox.com/en-us/2026/10/26/the-walking-trade-how-i-built-a-shop-simulator/",
-      "resumo": "<p>The Walking Trade is out today on XBOX Series X&#124;S. It’s a store management game set in a zombie apocalypse: you stock the shelves, set your prices, and serve the survivors who come through the door, then pick up a weapon when zombies raid the place. I made it on my own, and I made [&#8230;]<",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Mon, 26 Oct 2026 17:30:00 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Scramble Knights Online: Changing Genres to Save a Game",
-      "link": "https://news.xbox.com/en-us/2026/10/26/scramble-knights-online-genre-change/",
-      "resumo": "<p>It’s launch day for Scramble Knights Online, an action RPG “MMO-Lite” from our team here at Funktronic Labs. We built a nostalgic kingdom that captures the feeling of adventuring with your friends in the early, simpler days of online gaming. Scramble Knights Online is a day one XBOX Game Pass tit",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Mon, 26 Oct 2026 16:00:00 +0000",
       "imagem": ""
     },
     {
