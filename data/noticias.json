@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/10/2026 às 22:04",
+  "atualizado_em": "29/10/2026 às 03:46",
   "total": 80,
   "noticias": [
     {
@@ -9,6 +9,24 @@
       "fonte": "Roblox - Atualizações",
       "categoria": "Roblox",
       "data": "Wed, 30 Sep 2026 21:50:53 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "An Iconic Piece Of Gaming Artwork Just Fetched A Princely Sum At Auction",
+      "link": "https://www.gamespot.com/articles/an-iconic-piece-of-gaming-artwork-just-fetched-a-princely-sum-at-auction/",
+      "resumo": "<p class=\"wp-block-paragraph\">If you were an arcade operator 45 years ago, your first look at a game that would change the history of the medium came in the form of <a href=\"https://flyers.arcade-museum.com/videogames/show/294\">a humble sales flyer</a>. On the front was a detailed cartoon illustrati",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Wed, 28 Oct 2026 23:15:06 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Clipboard_10-28-2026_01.jpg?w=300"
+    },
+    {
+      "titulo": "Teleports to Private VIP Servers Are Now Allowed",
+      "link": "https://devforum.roblox.com/t/teleports-to-private-vip-servers-are-now-allowed/4963250",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p><code>TeleportAsync()</code> now can target Reserved and VIP servers explicitly with <code>ReservedServerId</code> and <code>VipServerId</code>. This gives you one predictable way to preserve a player’s private-server destination ",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Wed, 28 Oct 2026 22:07:06 +0000",
       "imagem": ""
     },
     {
@@ -66,15 +84,6 @@
       "imagem": "https://sm.ign.com/ign_br/screenshot/default/one-piece-remaster_ybnm.jpg"
     },
     {
-      "titulo": "No Man’s Sky recebe a nova atualização \"Forsaken\", com temática de terror, apenas um mês após \"Cosmos\"",
-      "link": "https://br.ign.com/no-mans-sky/157132/no-mans-sky-recebe-a-nova-atualizacao-forsaken-com-tematica-de-terror-apenas-um-mes-apos-cosmos",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/n/no-mans-sk/no-mans-sky-gets-fresh-horror-themed-forsaken-update-just-a_4fcz.640.jpg\" vspace=\"5\" width=\"120\" />\nPelo amor de Deus",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Wed, 28 Oct 2026 20:07:44 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/n/no-mans-sk/no-mans-sky-gets-fresh-horror-themed-forsaken-update-just-a_4fcz.jpg"
-    },
-    {
       "titulo": "No Man's Sky Forsaken Screenshots",
       "link": "https://br.ign.com/no-mans-sky/157133/no-mans-sky-forsaken-screenshots",
       "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/n/no-mans-sk/no-mans-sky-forsaken-screenshots_21bn.640.jpg\" vspace=\"5\" width=\"120\" />",
@@ -84,13 +93,13 @@
       "imagem": "https://sm.ign.com/ign_br/gallery/n/no-mans-sk/no-mans-sky-forsaken-screenshots_21bn.jpg"
     },
     {
-      "titulo": "Alien: Isolation 2 Prologue Screenshots",
-      "link": "https://br.ign.com/alien-isolation-sequel/157131/alien-isolation-2-prologue-screenshots",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/a/alien-isol/alien-isolation-2-prologue-screenshots_8g4j.640.jpg\" vspace=\"5\" width=\"120\" />",
+      "titulo": "No Man’s Sky recebe a nova atualização \"Forsaken\", com temática de terror, apenas um mês após \"Cosmos\"",
+      "link": "https://br.ign.com/no-mans-sky/157132/no-mans-sky-recebe-a-nova-atualizacao-forsaken-com-tematica-de-terror-apenas-um-mes-apos-cosmos",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/n/no-mans-sk/no-mans-sky-gets-fresh-horror-themed-forsaken-update-just-a_4fcz.640.jpg\" vspace=\"5\" width=\"120\" />\nPelo amor de Deus",
       "fonte": "IGN Brasil",
       "categoria": "Geral",
-      "data": "Wed, 28 Oct 2026 19:42:15 +0000",
-      "imagem": "https://sm.ign.com/ign_br/gallery/a/alien-isol/alien-isolation-2-prologue-screenshots_8g4j.jpg"
+      "data": "Wed, 28 Oct 2026 20:07:44 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/n/no-mans-sk/no-mans-sky-gets-fresh-horror-themed-forsaken-update-just-a_4fcz.jpg"
     },
     {
       "titulo": "Equipe de Alien: Isolation 2 confirma edição física, modo foto e novos detalhes de jogabilidade",
@@ -102,6 +111,15 @@
       "imagem": "https://sm.ign.com/ign_br/news/a/alien-isol/alien-isolation-2-team-confirms-physical-edition-photo-mode_gwvh.jpg"
     },
     {
+      "titulo": "Alien: Isolation 2 Prologue Screenshots",
+      "link": "https://br.ign.com/alien-isolation-sequel/157131/alien-isolation-2-prologue-screenshots",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/a/alien-isol/alien-isolation-2-prologue-screenshots_8g4j.640.jpg\" vspace=\"5\" width=\"120\" />",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Wed, 28 Oct 2026 19:42:15 +0000",
+      "imagem": "https://sm.ign.com/ign_br/gallery/a/alien-isol/alien-isolation-2-prologue-screenshots_8g4j.jpg"
+    },
+    {
       "titulo": "GTA 6 Online Could Be Released In Early 2027, Bank Says",
       "link": "https://www.gamespot.com/articles/gta-6-online-could-be-released-in-early-2027-bank-says/",
       "resumo": "<p class=\"wp-block-paragraph\">Take-Two's biggest release ever, <a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">GTA 6</a>, is coming up in November, but the company's share price continues to drop. It's down 21% this year and has now dipped und",
@@ -109,15 +127,6 @@
       "categoria": "Geral",
       "data": "Wed, 28 Oct 2026 19:05:50 +0000",
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Lucia_Caminos_10_748567.jpg?w=300"
-    },
-    {
-      "titulo": "Gamers Brawl é a nova plataforma que premia o jogador financeiramente de acordo com o desempenho em partidas online",
-      "link": "https://br.ign.com/games/157126/gamers-brawl-e-a-nova-plataforma-que-premia-o-jogador-financeiramente-de-acordo-com-o-desempenho-em",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/winner_qh27.640.png\" vspace=\"5\" width=\"120\" />\nO IGN Brasil conversou com Bruno Niro, CEO e fundador da Gamers Brawl, para sabermos mais sobre o serviço",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Wed, 28 Oct 2026 19:00:32 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/winner_qh27.png"
     },
     {
       "titulo": "LOTRO’s Latest Expansion Is Out Now, Nearly 20 Years After The Game Launched",
@@ -136,15 +145,6 @@
       "categoria": "Nintendo",
       "data": "Wed, 28 Oct 2026 18:00:00 GMT",
       "imagem": "https://images.nintendolife.com/21090c5850663/large.jpg"
-    },
-    {
-      "titulo": "Call of Duty: Modern Warfare 4 and Call of Duty: Warzone Season 1: All You Need to Know",
-      "link": "https://news.xbox.com/en-us/2026/10/28/call-of-duty-modern-warfare-4-and-call-of-duty-warzone-season-1-all-you-need-to-know/",
-      "resumo": "<p>The post <a href=\"https://news.xbox.com/en-us/2026/10/28/call-of-duty-modern-warfare-4-and-call-of-duty-warzone-season-1-all-you-need-to-know/\">Call of Duty: Modern Warfare 4 and Call of Duty: Warzone Season 1: All You Need to Know</a> appeared first on <a href=\"https://news.xbox.com/en-us\">XBOX ",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Wed, 28 Oct 2026 18:00:00 +0000",
-      "imagem": ""
     },
     {
       "titulo": "Rumour: Samsung's New Chip Process Kicks Off 'Nintendo Switch 2 Lite' Speculation",
@@ -246,15 +246,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Every October 2026 Nintendo Indie World Game You Can Play Right Now",
-      "link": "https://www.gamespot.com/articles/every-october-2026-nintendo-indie-world-game-you-can-play-right-now/",
-      "resumo": "<p class=\"wp-block-paragraph\">The <a href=\"https://www.gamespot.com/articles/nintendo-indie-world-october-2026-showcase-all-the-biggest-announcements/\">latest Nintendo Indie World Showcase</a> highlighted several independent games arriving on Switch and Switch 2 in the coming months, and you can try",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Wed, 28 Oct 2026 15:28:35 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/NintendoSwitch2_RACCOIN_Chaos_Max_Edition_KeyArt-Square.png?w=300"
-    },
-    {
       "titulo": "First look inside the Prism Collection, with three new transparent designs for PS5 accessories",
       "link": "https://blog.playstation.com/2026/10/28/first-look-inside-the-prism-collection-with-three-new-transparent-designs-for-ps5-accessories/",
       "resumo": "Get ready to see your PS5 console and DualSense controller in a whole new way. Today, we are pleased to introduce the Prism Collection, featuring three striking transparent designs for DualSense wireless controllers and PS5 console covers: Flare Orange, Emerald Green, and Graphite Gray. The new coll",
@@ -334,24 +325,6 @@
       "categoria": "Nintendo",
       "data": "Wed, 28 Oct 2026 07:00:00 GMT",
       "imagem": "https://images.nintendolife.com/03591e8b6cfa3/large.jpg"
-    },
-    {
-      "titulo": "PSA: Minecraft Switch 2 Now Available, Switch Physical Owners Get A Digital Discount",
-      "link": "https://www.nintendolife.com/news/2026/10/psa-minecraft-switch-2-now-available-switch-physical-owners-get-a-digital-discount",
-      "resumo": "<p><strong>Pay less for the Ultimate Edition.</strong></p><p></p><p>It's all happening on the Switch 2 this week, and to add to this, <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/minecraft\">Minecraft</a> is now available on the new hybrid system. While Mojang already confirmed it's ",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Wed, 28 Oct 2026 04:55:00 GMT",
-      "imagem": "https://images.nintendolife.com/683ba06371ebf/large.jpg"
-    },
-    {
-      "titulo": "Call Of Duty: Modern Warfare 4 Update Adds Shipment To Its Map Rotation",
-      "link": "https://www.nintendolife.com/news/2026/10/call-of-duty-modern-warfare-4-update-adds-shipment-to-its-map-rotation",
-      "resumo": "<p><strong>An iconic map returns.</strong></p><p></p><p>Just days after the launch of <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/call-of-duty-modern-warfare-4\">Call of Duty: Modern Warfare 4</a>, Activision has expanded the game's map rotation with Shipment.</p><p>Read the <a href",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Wed, 28 Oct 2026 03:00:00 GMT",
-      "imagem": "https://images.nintendolife.com/05d66454fc586/large.jpg"
     },
     {
       "titulo": "(For Southeast Asia) PlayStation 11.11 Power Deals returns from 30 October to 12 November 2026",
@@ -471,24 +444,6 @@
       "imagem": ""
     },
     {
-      "titulo": "The sound of Saros: Building an audio identity for Carcosa",
-      "link": "https://blog.playstation.com/2026/10/27/the-sound-of-saros-building-an-audio-identity-for-carcosa/",
-      "resumo": "When we started working on Saros, we knew we had an interesting challenge ahead of us. We had established a very distinctive audio identity with Returnal, and Housemarque gave us a clear direction from the beginning: “Refinement, not Reinvention.” That became a useful principle throughout developmen",
-      "fonte": "PlayStation Blog",
-      "categoria": "PlayStation",
-      "data": "Tue, 27 Oct 2026 13:01:26 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "(For Southeast Asia) Crunchyroll Arrives for PS5 and PS4 users in Indonesia, Malaysia and Thailand",
-      "link": "https://blog.playstation.com/2026/10/26/20261027-roll/",
-      "resumo": "We are excited to share that Crunchyroll, the global and ultimate destination for anime fandom, has arrived for PlayStation 5 and PlayStation 4 users in Indonesia, Malaysia and Thailand. Anime fans can now subscribe to Crunchyroll directly through PlayStation Media Hub on PS5 or PS4.&#160; Crunchyro",
-      "fonte": "PlayStation Blog",
-      "categoria": "PlayStation",
-      "data": "Tue, 27 Oct 2026 02:01:28 +0000",
-      "imagem": ""
-    },
-    {
       "titulo": "Release Notes for 740",
       "link": "https://devforum.roblox.com/t/release-notes-for-740/4888724",
       "resumo": "<p>Howdy! I hope you all are having a great day. Here are the release notes:</p>\n<ul>\n<li>Version 740: <a href=\"https://create.roblox.com/docs/release-notes/release-notes-740\">Introduced in version 740</a></li>\n<li>Weekly update: <a href=\"https://create.roblox.com/docs/updates/2026-09-21\">Week of Se",
@@ -505,6 +460,60 @@
       "categoria": "Steam",
       "data": "Tue, 14 Jul 2026 13:25:00 -0700",
       "imagem": ""
+    },
+    {
+      "titulo": "Amazon lança novos Echo no Brasil; saiba o que já dá para reservar",
+      "link": "https://br.ign.com/descontos/157144/amazon-lanca-novos-echo-no-brasil-saiba-o-que-ja-da-para-reservar",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/ign-13_hwn5.640.jpg\" vspace=\"5\" width=\"120\" />Echo Dot, Echo Time e Echo Studio com Câmera chegam com Alexa+ e preços a partir de R$ 819. Compare os modelos, veja as especificações e escolha o ideal para cada côm",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Thu, 29 Oct 2026 02:51:30 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/ign-13_hwn5.jpg"
+    },
+    {
+      "titulo": "Taito Milestones 5 Announced For Switch, Here Are The Games Included",
+      "link": "https://www.nintendolife.com/news/2026/10/taito-milestones-5-announced-for-switch-here-are-the-games-included",
+      "resumo": "<p><strong>Developed in collaboration with Hamster Corp.</strong></p><p>Taito is back with another retro collection of games! Taito Milestones 5 for the Switch will be launching in Japan on <strong>28th January 2027</strong> for 5,720 yen.</p><blockquote><p>\"Featuring 10 diverse titles from Taito's ",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Thu, 29 Oct 2026 02:30:00 GMT",
+      "imagem": "https://images.nintendolife.com/1ce6bdcacfb60/large.jpg"
+    },
+    {
+      "titulo": "(For Southeast Asia) First look inside the Prism Collection, with three new transparent designs for PS5 accessories",
+      "link": "https://blog.playstation.com/2026/10/28/20261029-ps5/",
+      "resumo": "Get ready to see your PS5 console and DualSense controller in a whole new way. Today, we are pleased to introduce the Prism Collection, featuring three striking transparent designs for DualSense wireless controllers and PS5 console covers: Flare Orange, Emerald Green, and Graphite Gray. The new coll",
+      "fonte": "PlayStation Blog",
+      "categoria": "PlayStation",
+      "data": "Thu, 29 Oct 2026 02:03:29 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Phantom Blade Zero: How boss weapons transform combat and exploration",
+      "link": "https://blog.playstation.com/2026/10/28/phantom-blade-zero-how-boss-weapons-transform-combat-and-exploration/",
+      "resumo": "Phantom Blade Zero blends influences from a variety of sources to create intense, fast-paced combat and a supernaturally infused Kungfupunk world. It draws on the tough, powerful bosses of Soulslikes, the quick, combo-focused combat of hack-and-slash games, the fascinating stories and characters of ",
+      "fonte": "PlayStation Blog",
+      "categoria": "PlayStation",
+      "data": "Thu, 29 Oct 2026 02:00:00 +0000",
+      "imagem": "https://blog.playstation.com/uploads/2048/10/19eb97d8a4391d4fbbd35eb2c8e834746d3eb76a.mp4"
+    },
+    {
+      "titulo": "Call of Duty: Modern Warfare 4 and Call of Duty: Warzone Season 1: All You Need to Know",
+      "link": "https://www.callofduty.com/blog/2026/10/call-of-duty-modern-warfare-4-warzone-season-1-announcement#new_tab",
+      "resumo": "<p>The post <a href=\"https://www.callofduty.com/blog/2026/10/call-of-duty-modern-warfare-4-warzone-season-1-announcement#new_tab\">Call of Duty: Modern Warfare 4 and Call of Duty: Warzone Season 1: All You Need to Know</a> appeared first on <a href=\"https://news.xbox.com/en-us\">XBOX Wire</a>.</p>",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Thu, 29 Oct 2026 01:40:58 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Walmart Cancels Zelda Switch 2 Pre-Orders A Day Before Release",
+      "link": "https://www.nintendolife.com/news/2026/10/walmart-cancels-zelda-switch-2-pre-orders-a-day-before-release",
+      "resumo": "<p><strong>The retailer reportedly \"oversold\" orders.</strong></p><p>The <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">Zelda</a>-themed Switch 2 is out this week, and Walmart has reportedly cancelled some pre-orders at the last minute.</p><p>As <a cla",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Thu, 29 Oct 2026 01:30:00 GMT",
+      "imagem": "https://images.nintendolife.com/d43705266c429/large.jpg"
     },
     {
       "titulo": "Release Notes for 736",
@@ -540,15 +549,6 @@
       "fonte": "Roblox - Anúncios",
       "categoria": "Roblox",
       "data": "Thu, 22 Oct 2026 18:15:43 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "[Test] New Home Layout With More Built-in Utility",
-      "link": "https://devforum.roblox.com/t/test-new-home-layout-with-more-built-in-utility/4950387",
-      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Starting tomorrow, we’re testing a new Home layout on large landscape screens. A right-side pane keeps avatars visible and opens game details without leaving the grid. Eligible players see it automatically, and you don’t need to a",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Thu, 22 Oct 2026 17:30:04 +0000",
       "imagem": ""
     },
     {
