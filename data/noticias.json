@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/10/2026 às 17:39",
+  "atualizado_em": "30/10/2026 às 21:50",
   "total": 80,
   "noticias": [
     {
@@ -93,30 +93,12 @@
       "imagem": ""
     },
     {
-      "titulo": "Plugin Screenshot Support in Studio",
-      "link": "https://devforum.roblox.com/t/plugin-screenshot-support-in-studio/4960927",
-      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>You can now capture individual plugin windows in Studio by using <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>2</kbd>, selecting your window, and copying it to your clipboard.</p>\n<p>Find it in Roblox Studio via the new hotkey or qui",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Tue, 27 Oct 2026 20:13:53 +0000",
-      "imagem": ""
-    },
-    {
       "titulo": "Release Notes for 745",
       "link": "https://devforum.roblox.com/t/release-notes-for-745/4960754",
       "resumo": "<p>Howdy! I hope you all are having a great day. Here are the release notes:</p>\n<ul>\n<li>Version 745: <a href=\"https://create.roblox.com/docs/release-notes/release-notes-745\">Introduced in version 745</a></li>\n<li>Weekly update: <a href=\"https://create.roblox.com/docs/updates/2026-10-26\">Week of Oc",
       "fonte": "Roblox - Atualizações",
       "categoria": "Roblox",
       "data": "Tue, 27 Oct 2026 18:27:02 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "[Early Access Program] Build 2D Games With `AnimatedImages`",
-      "link": "https://devforum.roblox.com/t/early-access-program-build-2d-games-with-animatedimages/4960734",
-      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Sign up for <a href=\"https://survey.roblox.com/jfe/form/SV_eJArvqfoZpSh9PM\">Early Access</a> to easily import 2D assets and build flipbook animations on Roblox.</p>\n<p>You can import Aseprite (.ase) files directly into Studio and ",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Tue, 27 Oct 2026 18:12:05 +0000",
       "imagem": ""
     },
     {
@@ -264,24 +246,6 @@
       "imagem": ""
     },
     {
-      "titulo": "The Duskbloods Switch 2 Release Has Been Delayed To 2027",
-      "link": "https://www.nintendolife.com/news/2026/10/the-duskbloods-switch-2-release-has-been-delayed-to-2027",
-      "resumo": "<p><strong>There will (eventually) be Blood.</strong></p><p>As will come as very little surprise to all those aware of the ever-shrinking time left in the '2026' window, FromSoftware has today announced that its Switch 2 exclusive, <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/duskbl",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Thu, 29 Oct 2026 14:45:00 GMT",
-      "imagem": "https://images.nintendolife.com/6ece8ebd72843/large.jpg"
-    },
-    {
-      "titulo": "Once Human: From A Misplaced Lighthouse to the Living Ocean of Isles of Abyss",
-      "link": "https://news.xbox.com/en-us/2026/10/29/once-human-isles-of-abyss-expansion-xbox/",
-      "resumo": "<p>We recently released Isles of Abyss &#8211; the largest free expansion in Once Human history &#8211; on XBOX Series X&#124;S. Now that players have had taken some time to chart these dangerous waters, we wanted to take this opportunity to pull back the curtain on how this major expansion came tog",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Thu, 29 Oct 2026 14:00:00 +0000",
-      "imagem": ""
-    },
-    {
       "titulo": "Team Fortress 2 Update Released",
       "link": "https://store.steampowered.com/news/289185/",
       "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Fixed smoke effect regression for Le Sapeur<br /><li>Updated the Chief Executor, V",
@@ -406,6 +370,114 @@
       "categoria": "Steam",
       "data": "Mon, 05 Oct 2026 15:58:00 -0700",
       "imagem": ""
+    },
+    {
+      "titulo": "[Studio Beta] Build 2D, Isometric, and Top-Down Games With Orthographic Camera",
+      "link": "https://devforum.roblox.com/t/studio-beta-build-2d-isometric-and-top-down-games-with-orthographic-camera/4966772",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Orthographic Camera is rolling out now in Studio Beta. You can build 2D, isometric, and top-down games where objects stay the same size at any distance.</p>\n<p>Find it in <strong>File</strong> &gt; <strong>Beta Features</strong>, ",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Fri, 30 Oct 2026 21:45:21 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "[Studio Beta] Inspect Your Live Server During Team Test",
+      "link": "https://devforum.roblox.com/t/studio-beta-inspect-your-live-server-during-team-test/4966700",
+      "resumo": "<blockquote>\n<h2>Key Takeaways</h2>\n<p>You can now see and inspect the live server’s viewport and Data Model during Team Test sessions. A new read-only Server view shows the server’s instance tree, properties, and 3D world, including <code>ServerScriptService</code> and <code>ServerStorage</code>, a",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Fri, 30 Oct 2026 21:00:09 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Introducing Scene Generation: Prototype Scenes Faster",
+      "link": "https://devforum.roblox.com/t/introducing-scene-generation-prototype-scenes-faster/4966611",
+      "resumo": "<blockquote>\n<h3>Key Takeaways</h3>\n<p>Prototype and test ideas in minutes with Scene Generation. Now in beta, Studio Generation takes images and prompts and generates an editable scene of models, textures, and terrain, so you can quickly prototype and test ideas for new environments.</p>\n<p>Use /ge",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Fri, 30 Oct 2026 20:01:24 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Digital Foundry Delivers Its Tech Verdict On Call Of Duty: Modern Warfare 4 On Switch 2",
+      "link": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-tech-verdict-on-call-of-duty-modern-warfare-4-on-switch-2",
+      "resumo": "<p><strong>Is it really all that 'Modern'?</strong></p><p>Just in case the news passed you by, <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/call-of-duty-modern-warfare-4\">Call of Duty: Modern Warfare 4</a> launched on Switch 2 this month — the first in the series to do so since the ",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Fri, 30 Oct 2026 18:45:00 GMT",
+      "imagem": "https://images.nintendolife.com/b6f44ef42e235/large.jpg"
+    },
+    {
+      "titulo": "James Gunn afirma que “não vai demorar muito” para que o Batman do DCU seja escalado, e que ele terá idade próxima à do Super-Homem interpretado por David Corenswet",
+      "link": "https://br.ign.com/batman-the-brave-and-the-bold-3/157200/james-gunn-afirma-que-nao-vai-demorar-muito-para-que-o-batman-do-dcu-seja-escalado-e-que-ele-tera-id",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/j/james-gunn/james-gunn-says-it-wont-be-too-long-before-dcu-batman-is-cas_3vqc.640.jpg\" vspace=\"5\" width=\"120\" />“Quero levar todos em consideração”\n<p>James Gunn revelou que a DC Studios está finalmente se preparando para esc",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 30 Oct 2026 18:11:35 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/j/james-gunn/james-gunn-says-it-wont-be-too-long-before-dcu-batman-is-cas_3vqc.jpg"
+    },
+    {
+      "titulo": "James Gunn afirma que Arlequina acabará entrando para o Universo Cinematográfico da DC e que, se Margot Robbie quiser interpretá-la, ele “fará de tudo para explicar isso nesse mundo”",
+      "link": "https://br.ign.com/esquadrao-suicida/157199/james-gunn-afirma-que-arlequina-acabara-entrando-para-o-universo-cinematografico-da-dc-e-que-se-marg",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/j/james-gunn/james-gunn-says-harley-quinn-will-join-the-dcu-eventually-an_dcz3.640.jpg\" vspace=\"5\" width=\"120\" />“É a Margot quem tem que decidir se ‘Esquadrão Suicida’ faz parte do cânone ou não”\n<p>James Gunn abordou a situa",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 30 Oct 2026 18:04:23 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/j/james-gunn/james-gunn-says-harley-quinn-will-join-the-dcu-eventually-an_dcz3.jpg"
+    },
+    {
+      "titulo": "The Suicide Squad: Who Lives, Who Dies",
+      "link": "https://br.ign.com/suicide-squad-2-1/103286/the-suicide-squad-who-lives-who-dies",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/t/the-suicid/the-suicide-squad-who-lives-who-dies_y5p6.640.jpg\" vspace=\"5\" width=\"120\" />",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 30 Oct 2026 18:04:23 +0000",
+      "imagem": "https://sm.ign.com/ign_br/gallery/t/the-suicid/the-suicide-squad-who-lives-who-dies_y5p6.jpg"
+    },
+    {
+      "titulo": "In Puckoff: Reloaded, Hockey Is About More Than Scoring Goals",
+      "link": "https://news.xbox.com/en-us/2026/10/30/in-puckoff-reloaded-hockey-is-about-more/",
+      "resumo": "<p>What happens when five Finnish developers take the hockey they grew up playing on frozen ponds and turn it into a story about the greatest underground hockey player who ever lived? When I think about my childhood, some of my best memories aren&#8217;t from school, holidays or birthday parties. Th",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Fri, 30 Oct 2026 18:00:00 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "CEO da OpenAI, Sam Altman acha que é “péssimo” você ter memória RAM no seu PC para jogos",
+      "link": "https://br.ign.com/nvidia-rtx-5080/157196/ceo-da-openai-sam-altman-acha-que-e-pessimo-voce-ter-memoria-ram-no-seu-pc-para-jogos",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/o/openai-ceo/openai-ceo-sam-altman-thinks-its-terrible-for-you-to-have-ra_2wgd.640.jpg\" vspace=\"5\" width=\"120\" />Tá na Disney?\n<p>O CEO da OpenAI, Sam Altman, considera “terrível” que as pessoas tenham memória RAM em seus comp",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 30 Oct 2026 17:59:00 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/o/openai-ceo/openai-ceo-sam-altman-thinks-its-terrible-for-you-to-have-ra_2wgd.jpg"
+    },
+    {
+      "titulo": "Registro de Call of Duty: Modern Warfare 2 em órgão de classificação indicativa pode ter revelado uma versão adaptada do FPS original de 2009",
+      "link": "https://br.ign.com/call-of-duty-modern-warfare-2-2009/157194/registro-de-call-of-duty-modern-warfare-2-em-orgao-de-classificacao-indicativa-pode-ter-revelado-uma",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/c/call-of-du/call-of-duty-modern-warfare-2-rating-potentially-leaks-port_xkm9.640.jpg\" vspace=\"5\" width=\"120\" />A história é escrita pelo vencedor\n<p>O Conselho Australiano de Classificação (ACB) classificou Call of Duty: Mode",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 30 Oct 2026 17:56:16 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/c/call-of-du/call-of-duty-modern-warfare-2-rating-potentially-leaks-port_xkm9.jpg"
+    },
+    {
+      "titulo": "The Best Call of Duty Multiplayer Games",
+      "link": "https://br.ign.com/call-of-duty-modern-warfare-4/157195/the-best-call-of-duty-multiplayer-games",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/t/the-best-c/the-best-call-of-duty-multiplayer-games_yr61.640.jpg\" vspace=\"5\" width=\"120\" />",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 30 Oct 2026 17:56:16 +0000",
+      "imagem": "https://sm.ign.com/ign_br/gallery/t/the-best-c/the-best-call-of-duty-multiplayer-games_yr61.jpg"
+    },
+    {
+      "titulo": "Mass Effect 5 e BioWare morreram para que Star Wars Battlefront 3 pudesse ser lançado",
+      "link": "https://br.ign.com/mass-effect-next-chapter/157197/mass-effect-5-e-bioware-morreram-para-que-star-wars-battlefront-3-pudesse-ser-lancado",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/m/mass-effec/mass-effect-5-and-bioware-reportedly-died-so-star-wars-battl_g1v6.640.jpg\" vspace=\"5\" width=\"120\" />Estou alterando o acordo, rezem para que eu não o altere ainda mais\n<p>A BioWare teria sido fechada porque os exe",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 30 Oct 2026 17:49:46 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/m/mass-effec/mass-effect-5-and-bioware-reportedly-died-so-star-wars-battl_g1v6.jpg"
     },
     {
       "titulo": "Pokémon And Fender Are Teaming Up A Rocking Guitar Collaboration",
@@ -543,15 +615,6 @@
       "imagem": "https://sm.ign.com/ign_br/news/p/phantom-bl/phantom-blade-zero-day-one-update-brings-performance-improve_f581.jpg"
     },
     {
-      "titulo": "Mercado Livre faz queima de monitores gamers com até 50% OFF",
-      "link": "https://br.ign.com/descontos/157186/mercado-livre-faz-queima-de-monitores-gamers-com-ate-50-off",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/shutterstock-2600671161_g1f3.640.jpg\" vspace=\"5\" width=\"120\" />\nUma ótima oportunidade para dar aquele upgrade no setup gamer sem gastar tanto!",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 30 Oct 2026 15:05:20 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/shutterstock-2600671161_g1f3.jpg"
-    },
-    {
       "titulo": "Terrible Lizards: Movement Is Your Weapon",
       "link": "https://news.xbox.com/en-us/2026/10/30/terrible-lizards-movement-is-your-weapon/",
       "resumo": "<p>Terrible Lizards, available now on XBOX Series X&#124;S and Game Pass, is a first-person platforming game about escaping runaway dinosaur animatronics in an abandoned roadside attraction. That perspective was something we landed on pretty deliberately, through a process of both considering this p",
@@ -559,33 +622,6 @@
       "categoria": "Xbox",
       "data": "Fri, 30 Oct 2026 15:00:00 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "Filme de Bloodborne tem atualização promissora do produtor Jacksepticeye",
-      "link": "https://br.ign.com/bloodborne-1/157187/filme-de-bloodborne-tem-atualizacao-promissora-do-produtor-jacksepticeye",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/b/bloodborne/bloodborne-movie-gets-promising-update-from-producer-jacksep_zw5j.640.jpg\" vspace=\"5\" width=\"120\" />\n\"Estamos prestes a ter algo muito legal\"",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 30 Oct 2026 14:58:33 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/b/bloodborne/bloodborne-movie-gets-promising-update-from-producer-jacksep_zw5j.jpg"
-    },
-    {
-      "titulo": "A Capcom não vai abandonar Resident Evil, mas a história principal pode ser concluída nos próximos 10 anos, segundo um produtor",
-      "link": "https://br.ign.com/resident-evil-requiem/157183/a-capcom-nao-vai-abandonar-resident-evil-mas-a-historia-principal-pode-ser-concluida-nos-proximos-10",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/c/capcom-isn/capcom-isnt-scrapping-resident-evil-but-mainline-story-could_rttt.640.jpg\" vspace=\"5\" width=\"120\" />\nFitas de tinta infinitas?",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 30 Oct 2026 14:34:44 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/c/capcom-isn/capcom-isnt-scrapping-resident-evil-but-mainline-story-could_rttt.jpg"
-    },
-    {
-      "titulo": "Fortnite recebe colaboração com One Piece e A$AP Rocky na nova temporada Caçadores de Tesouros",
-      "link": "https://br.ign.com/fortnite/157185/fortnite-recebe-colaboracao-com-one-piece-e-aap-rocky-na-nova-temporada-cacadores-de-tesouros",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/fortnite-treasure-hunters-key-art-pt-br_ddzn.640.jpg\" vspace=\"5\" width=\"120\" />\nGomu Gomu no",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 30 Oct 2026 14:19:39 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/fortnite-treasure-hunters-key-art-pt-br_ddzn.jpg"
     },
     {
       "titulo": "GTA 6’s Attention To Detail Is Getting A Little Ridiculous",
@@ -624,24 +660,6 @@
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/06/Destiny-2-TFS.jpg?w=300"
     },
     {
-      "titulo": "Eiji Aonuma revela que membros da equipe por trás do remake de The Legend of Zelda: Ocarina of Time nunca jogaram o game original — e isso é fantástico",
-      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157181/eiji-aonuma-revela-que-membros-da-equipe-por-tras-do-remake-de-the-legend-of-zelda-ocarina-of-time-n",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/image/4/40-changes/40-changes-we-noticed-in-the-zelda-ocarina-of-time-remake-ga_m62u.640.jpg\" vspace=\"5\" width=\"120\" />Produtor defende que os membros mais jovens da equipe foram cruciais para adaptar alguns elementos no remake\n<p>",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 30 Oct 2026 12:38:35 +0000",
-      "imagem": "https://sm.ign.com/ign_br/image/4/40-changes/40-changes-we-noticed-in-the-zelda-ocarina-of-time-remake-ga_m62u.jpg"
-    },
-    {
-      "titulo": "Death Stranding: Isolations, primeiro anime do game de Hideo Kojima, ganha teaser",
-      "link": "https://br.ign.com/death-stranding-isolations/157179/death-stranding-isolations-primeiro-anime-do-game-de-hideo-kojima-ganha-teaser",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/d/death-stra/death-stranding-isolations-anime-gets-first-trailer_kqbe.640.jpg\" vspace=\"5\" width=\"120\" />Produção estreia no Disney+ em 2027\n<p>A Kojima Productions revelou o primeiro teaser de <a href=\"https://br.ign.com/death",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 30 Oct 2026 12:30:04 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/d/death-stra/death-stranding-isolations-anime-gets-first-trailer_kqbe.jpg"
-    },
-    {
       "titulo": "Harvest Moon: ﻿Echoes of Teradea Reveals Its Roadmap For 2027, Includes Nine DLC Packs & 30th Anniversary Celebration",
       "link": "https://www.nintendolife.com/news/2026/10/harvest-moon-echoes-of-teradea-reveals-its-roadmap-for-2027-includes-nine-dlc-packs-and-30th-anniversary-celebration",
       "resumo": "<p><strong>The first DLC is now available.</strong></p><p>The farming and social sim <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/harvest-moon-echoes-of-teradea-nintendo-switch-2-edition\">Harvest Moon: Echoes of Teradea</a> launched for the Switch 1 &amp; 2 earlier this month, and N",
@@ -669,15 +687,6 @@
       "imagem": "https://images.nintendolife.com/7190fd3355c15/large.jpg"
     },
     {
-      "titulo": "Monitor gamer de 300 Hz e 0,3 ms ganha 40% de desconto com cupom exclusivo para membros Prime",
-      "link": "https://br.ign.com/descontos/157178/monitor-gamer-de-300-hz-e-03-ms-ganha-40-de-desconto-com-cupom-exclusivo-para-membros-prime",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/aoc-c27g4z-capa-1280x720_3mcm.640.jpg\" vspace=\"5\" width=\"120\" />\nAOC AGON G4Z tem tela curva de 27 polegadas, painel Full HD e base com ajustes de altura, inclinação e giro",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 30 Oct 2026 02:40:55 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/aoc-c27g4z-capa-1280x720_3mcm.jpg"
-    },
-    {
       "titulo": "Patrick Stewart, The Legendary Star Trek And X-Men Actor, Has Passed Away",
       "link": "https://www.nintendolife.com/news/2026/10/patrick-stewart-the-legendary-star-trek-and-x-men-actor-has-passed-away",
       "resumo": "<p><strong>He also did voice work for video games.</strong></p><p></p><p>There's some very sad news coming out of the acting world this week about the passing of the legendary British actor Sir Patrick Stewart. He was 86 years old.</p><p>Read the <a href=\"https://www.nintendolife.com/news/2026/10/pa",
@@ -685,15 +694,6 @@
       "categoria": "Nintendo",
       "data": "Fri, 30 Oct 2026 01:30:00 GMT",
       "imagem": "https://images.nintendolife.com/ece36bb4e6507/large.jpg"
-    },
-    {
-      "titulo": "Weekly Recap: October 19–23, 2026",
-      "link": "https://devforum.roblox.com/t/weekly-recap-october-19%E2%80%9323-2026/4953263",
-      "resumo": "<blockquote>\n<h3>Key Takeaways</h3>\n<p>This week, we opened native <code>TextChatService</code> testing ahead of a required May 2027 migration (<a href=\"https://devforum.roblox.com/t/important-textchatservice-updates-how-to-test-and-what%E2%80%99s-next/4948433/1\">TextChatService update</a>) and full",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Fri, 23 Oct 2026 22:05:49 +0000",
-      "imagem": ""
     },
     {
       "titulo": "Team Fortress 2 Update Released",
