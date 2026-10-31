@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/10/2026 às 21:50",
+  "atualizado_em": "31/10/2026 às 03:33",
   "total": 80,
   "noticias": [
     {
@@ -81,15 +81,6 @@
       "fonte": "Roblox - Atualizações",
       "categoria": "Roblox",
       "data": "Wed, 09 Sep 2026 20:57:29 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Improve Your Game Security with the Device Trust API",
-      "link": "https://devforum.roblox.com/t/improve-your-game-security-with-the-device-trust-api/4961129",
-      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>The Device Trust API for Android and Web is now available. This lets you vet untrusted devices, like bots and modified clients, when players join and gate features.</p>\n<p>See documentation <a href=\"https://create.roblox.com/docs/",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Tue, 27 Oct 2026 22:00:07 +0000",
       "imagem": ""
     },
     {
@@ -228,24 +219,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Japanese Charts: Nintendo Switch Sports Resort And Final Fantasy Resonance Go Head-To-Head",
-      "link": "https://www.nintendolife.com/news/2026/10/japanese-charts-nintendo-switch-sports-resort-and-final-fantasy-resonance-go-head-to-head",
-      "resumo": "<p><strong>Ding, ding! Round one!</strong></p><p><a href=\"https://www.famitsu.com/article/202610/92517\">Famitsu</a> has given us our latest look at the Japanese charts, and it's another big week for new releases.</p><p><a href=\"https://www.nintendolife.com/games/nintendo-switch-2/nintendo-switch-spo",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Thu, 29 Oct 2026 15:30:00 GMT",
-      "imagem": "https://images.nintendolife.com/ae993272414b3/large.jpg"
-    },
-    {
-      "titulo": "Free Play Days – WUCHANG: Fallen Feathers, Dead by Daylight, Darkwood, Spirittea, and EVERSPACE 2",
-      "link": "https://news.xbox.com/en-us/2026/10/29/free-play-days-10-29-2026/",
-      "resumo": "<p>Your weekend quest starts with Free Play Days! WUCHANG: Fallen Feathers, Darkwood, Spirittea, and EVERSPACE 2 are available this weekend for XBOX Game Pass Ultimate, Premium and Essential members to play from Thursday October 29 until Sunday, Sunday November 1. Spirittea and EVERSPACE 2 are also ",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Thu, 29 Oct 2026 15:00:00 +0000",
-      "imagem": ""
-    },
-    {
       "titulo": "Team Fortress 2 Update Released",
       "link": "https://store.steampowered.com/news/289185/",
       "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Fixed smoke effect regression for Le Sapeur<br /><li>Updated the Chief Executor, V",
@@ -345,6 +318,51 @@
       "imagem": ""
     },
     {
+      "titulo": "Loja oficial da Samsung surge com combo de Smart TV em preço arrasador na Amazon",
+      "link": "https://br.ign.com/descontos/157206/loja-oficial-da-samsung-surge-com-combo-de-smart-tv-em-preco-arrasador-na-amazon",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/ign-18_zvjz.640.jpg\" vspace=\"5\" width=\"120\" />Combo Samsung leva uma Smart TV MiniLED 4K de 50\" com Vision AI Companion e outra QLED Full HD de 43\" com Gaming Hub e canais gratuitos, ideais para renovar sala e qu",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Sat, 31 Oct 2026 02:47:41 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/ign-18_zvjz.jpg"
+    },
+    {
+      "titulo": "Quase R$100 de desconto! Monitor Gamer LG UltraGear 24\" FHD 144Hz em oferta no Mercado Livre",
+      "link": "https://br.ign.com/descontos/157205/quase-r100-de-desconto-monitor-gamer-lg-ultragear-24-fhd-144hz-em-oferta-no-mercado-livre",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/lg-ultragear_5fpc.640.jpg\" vspace=\"5\" width=\"120\" />O LG UltraGear 24G411A-B está com quase R$100 de desconto no Mercado Livre. São 24\" IPS Full HD, 144Hz (O/C), 1ms (MBR), HDR10, G-SYNC e AMD FreeSync para jogar",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Sat, 31 Oct 2026 02:12:31 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/lg-ultragear_5fpc.jpg"
+    },
+    {
+      "titulo": "15% OFF! Monitor Gamer LG UltraGear 27\" 144Hz fica mais barato em oferta do Mercado Livre",
+      "link": "https://br.ign.com/descontos/157204/15-off-monitor-gamer-lg-ultragear-27-144hz-fica-mais-barato-em-oferta-do-mercado-livre",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/ign-3_f5bn.640.jpg\" vspace=\"5\" width=\"120\" />O UltraGear 27G411B traz tela IPS de 27\", 144Hz nativo, 1ms (MBR) e compatibilidade com G-SYNC e FreeSync. Confira o desconto de 15% no Mercado Livre e monte um setup ",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Sat, 31 Oct 2026 01:10:48 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/ign-3_f5bn.jpg"
+    },
+    {
+      "titulo": "Fone de ouvido Philips sem fio atinge menor preço do ano na Amazon: menos de R$ 100",
+      "link": "https://br.ign.com/descontos/157203/fone-de-ouvido-philips-sem-fio-atinge-menor-preco-do-ano-na-amazon-menos-de-r-100",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/philips-tat1109-capa-1280x720_5ep3.640.jpg\" vspace=\"5\" width=\"120\" />\nFone combina drivers de 10 mm e até 24 horas de bateria com o estojo",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Sat, 31 Oct 2026 00:19:19 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/philips-tat1109-capa-1280x720_5ep3.jpg"
+    },
+    {
+      "titulo": "Video: 11 Exciting New Games Coming To Switch 1 & 2 In November 2026",
+      "link": "https://www.nintendolife.com/news/2026/10/video-11-exciting-new-games-coming-to-switch-1-and-2-in-november-2026",
+      "resumo": "<p><strong>Zelda, Stellar Blade and much more!</strong></p><p>November is almost here, and that means it's time to revisit <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">The Legend of Zelda: Ocarina of Time</a>. Of course, there are plenty of other gam",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Sat, 31 Oct 2026 00:00:00 GMT",
+      "imagem": "https://images.nintendolife.com/48c0276e759ed/large.jpg"
+    },
+    {
       "titulo": "Now Available on Steam - Angels Fall First, 10% off!",
       "link": "https://store.steampowered.com/news/275791/",
       "resumo": "<a href=\"http://store.steampowered.com/app/367270/\">Angels Fall First</a> is Now Available on Steam and is 10% off!*<br /><br />From commanding the battle standing on the bridge of your flagship all the way down to tactical infantry firefights - AFF brings together all the combat you ever loved in a",
@@ -369,6 +387,15 @@
       "fonte": "Steam News",
       "categoria": "Steam",
       "data": "Mon, 05 Oct 2026 15:58:00 -0700",
+      "imagem": ""
+    },
+    {
+      "titulo": "Weekly Recap: October 26 - 30, 2026",
+      "link": "https://devforum.roblox.com/t/weekly-recap-october-26-30-2026/4966810",
+      "resumo": "<blockquote>\n<h3>Key Takeaways</h3>\n<p>We expanded creator testing and prototyping with Web Play, Scene Generation, Orthographic Camera, and Prompt-to-Avatar betas. 2D creation added AnimatedImage Early Access, while the Device Trust API gives creators new Android and Web signals for security decisi",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Fri, 30 Oct 2026 22:13:38 +0000",
       "imagem": ""
     },
     {
@@ -444,6 +471,15 @@
       "imagem": ""
     },
     {
+      "titulo": "Avatar Legends: The Fighting Game Enters the Avatar State",
+      "link": "https://news.xbox.com/en-us/2026/10/30/avatar-legends-the-fighting-game-enters-the-avatar-state/",
+      "resumo": "<p>The Avatar State Patch is available today for Avatar Legends: The Fighting Game on XBOX Series X&#124;S, and it’s the biggest update the game has seen. It brings a fresh new look for the game’s menus and in-match displays, two totally reimagined fighters, Ranked Mode 2.0, quality-of-life upgrades",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Fri, 30 Oct 2026 18:00:00 +0000",
+      "imagem": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/norra_lvl4-1.mp4"
+    },
+    {
       "titulo": "CEO da OpenAI, Sam Altman acha que é “péssimo” você ter memória RAM no seu PC para jogos",
       "link": "https://br.ign.com/nvidia-rtx-5080/157196/ceo-da-openai-sam-altman-acha-que-e-pessimo-voce-ter-memoria-ram-no-seu-pc-para-jogos",
       "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/o/openai-ceo/openai-ceo-sam-altman-thinks-its-terrible-for-you-to-have-ra_2wgd.640.jpg\" vspace=\"5\" width=\"120\" />Tá na Disney?\n<p>O CEO da OpenAI, Sam Altman, considera “terrível” que as pessoas tenham memória RAM em seus comp",
@@ -451,15 +487,6 @@
       "categoria": "Geral",
       "data": "Fri, 30 Oct 2026 17:59:00 +0000",
       "imagem": "https://sm.ign.com/ign_br/news/o/openai-ceo/openai-ceo-sam-altman-thinks-its-terrible-for-you-to-have-ra_2wgd.jpg"
-    },
-    {
-      "titulo": "Registro de Call of Duty: Modern Warfare 2 em órgão de classificação indicativa pode ter revelado uma versão adaptada do FPS original de 2009",
-      "link": "https://br.ign.com/call-of-duty-modern-warfare-2-2009/157194/registro-de-call-of-duty-modern-warfare-2-em-orgao-de-classificacao-indicativa-pode-ter-revelado-uma",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/c/call-of-du/call-of-duty-modern-warfare-2-rating-potentially-leaks-port_xkm9.640.jpg\" vspace=\"5\" width=\"120\" />A história é escrita pelo vencedor\n<p>O Conselho Australiano de Classificação (ACB) classificou Call of Duty: Mode",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 30 Oct 2026 17:56:16 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/c/call-of-du/call-of-duty-modern-warfare-2-rating-potentially-leaks-port_xkm9.jpg"
     },
     {
       "titulo": "The Best Call of Duty Multiplayer Games",
@@ -471,13 +498,13 @@
       "imagem": "https://sm.ign.com/ign_br/gallery/t/the-best-c/the-best-call-of-duty-multiplayer-games_yr61.jpg"
     },
     {
-      "titulo": "Mass Effect 5 e BioWare morreram para que Star Wars Battlefront 3 pudesse ser lançado",
-      "link": "https://br.ign.com/mass-effect-next-chapter/157197/mass-effect-5-e-bioware-morreram-para-que-star-wars-battlefront-3-pudesse-ser-lancado",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/m/mass-effec/mass-effect-5-and-bioware-reportedly-died-so-star-wars-battl_g1v6.640.jpg\" vspace=\"5\" width=\"120\" />Estou alterando o acordo, rezem para que eu não o altere ainda mais\n<p>A BioWare teria sido fechada porque os exe",
+      "titulo": "Registro de Call of Duty: Modern Warfare 2 em órgão de classificação indicativa pode ter revelado uma versão adaptada do FPS original de 2009",
+      "link": "https://br.ign.com/call-of-duty-modern-warfare-2-2009/157194/registro-de-call-of-duty-modern-warfare-2-em-orgao-de-classificacao-indicativa-pode-ter-revelado-uma",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/c/call-of-du/call-of-duty-modern-warfare-2-rating-potentially-leaks-port_xkm9.640.jpg\" vspace=\"5\" width=\"120\" />A história é escrita pelo vencedor\n<p>O Conselho Australiano de Classificação (ACB) classificou Call of Duty: Mode",
       "fonte": "IGN Brasil",
       "categoria": "Geral",
-      "data": "Fri, 30 Oct 2026 17:49:46 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/m/mass-effec/mass-effect-5-and-bioware-reportedly-died-so-star-wars-battl_g1v6.jpg"
+      "data": "Fri, 30 Oct 2026 17:56:16 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/c/call-of-du/call-of-duty-modern-warfare-2-rating-potentially-leaks-port_xkm9.jpg"
     },
     {
       "titulo": "Pokémon And Fender Are Teaming Up A Rocking Guitar Collaboration",
@@ -543,6 +570,15 @@
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Roger-has-had-too-much-coffee.jpg?w=300"
     },
     {
+      "titulo": "Team Fortress 2 Update Released",
+      "link": "https://store.steampowered.com/news/289665/",
+      "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Updated cp_wildcat_event to fix missing model for Spies disguised as pumpkins<br /",
+      "fonte": "Steam News",
+      "categoria": "Steam",
+      "data": "Fri, 30 Oct 2026 16:18:00 -0700",
+      "imagem": ""
+    },
+    {
       "titulo": "Promote Your Avatar Items Off-Platform and Track Every Click",
       "link": "https://devforum.roblox.com/t/promote-your-avatar-items-off-platform-and-track-every-click/4966223",
       "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>You can now create share links for your avatar items and bundles in Creator Dashboard. Post them on social media or directly to friends, and they open straight to your item on web or in the Roblox app.</p>\n<p>You can create a link",
@@ -570,15 +606,6 @@
       "imagem": ""
     },
     {
-      "titulo": "\"Valorizem os fãs\": elenco de GTA 5 dá conselhos aos atores de Jason e Lucia sobre o que é mais importante saber antes que o GTA 6 os lance à fama",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157191/valorizem-os-fas-elenco-de-gta-5-da-conselhos-aos-atores-de-jason-e-lucia-sobre-o-que-e-mais-importa",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/a/appreciate/appreciate-the-fans-gta-5-cast-tell-jason-and-lucias-actors_rrun.640.jpg\" vspace=\"5\" width=\"120\" />\n\"Apreciação fingida — eles percebem\"",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 30 Oct 2026 15:54:54 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/a/appreciate/appreciate-the-fans-gta-5-cast-tell-jason-and-lucias-actors_rrun.jpg"
-    },
-    {
       "titulo": "New Assassin’s Creed Game Is Out Now, If You Don’t Mind Being Board",
       "link": "https://www.gamespot.com/articles/new-assassins-creed-game-is-out-now-if-you-dont-mind-being-board/",
       "resumo": "<p class=\"wp-block-paragraph\">If you thought there wasn't going to be a new Assassin's Creed game this year, think again. It's not a video game, but Assassin's Creed: Animus is out today, turning the series into an adventure-style board game for 1-4 players. </p>\n\n\n\n<p class=\"wp-block-paragraph\">A c",
@@ -588,15 +615,6 @@
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/AC-Animus.jpg?w=300"
     },
     {
-      "titulo": "Um meme famoso de GTA 4 agora é uma mecânica em GTA 6",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157190/um-meme-famoso-de-gta-4-agora-e-uma-mecanica-em-gta-6",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/a/a-famous-g/a-famous-gta-4-meme-is-now-a-mechanic-in-gta-6_pggj.640.jpg\" vspace=\"5\" width=\"120\" />Scooter brothers!\n<p><a href=\"https://br.ign.com/grand-theft-auto-vi\" target=\"_blank\">GTA 6</a> batizou uma de suas principais ",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 30 Oct 2026 15:38:23 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/a/a-famous-g/a-famous-gta-4-meme-is-now-a-mechanic-in-gta-6_pggj.jpg"
-    },
-    {
       "titulo": "EA Reportedly Chose An Unannounced Star Wars Game Over BioWare’s Next Mass Effect",
       "link": "https://www.gamespot.com/articles/ea-reportedly-chose-an-unannounced-star-wars-game-over-biowares-next-mass-effect/",
       "resumo": "<p class=\"wp-block-paragraph\">EA recently announced it was <a href=\"https://www.gamespot.com/articles/ea-shuts-down-dragon-age-mass-effect-studio-bioware/\">shutting down BioWare</a>, ending a studio responsible for multiple hit games over 30 years. According to a new report, EA's decision was driven",
@@ -604,15 +622,6 @@
       "categoria": "Geral",
       "data": "Fri, 30 Oct 2026 15:29:30 +0000",
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/BioWare-shut-down.jpg?w=300"
-    },
-    {
-      "titulo": "Atualização de lançamento de Phantom Blade Zero traz melhorias de desempenho e um aviso importante sobre driver da Nvidia",
-      "link": "https://br.ign.com/phantom-blade-zero/157188/atualizacao-de-lancamento-de-phantom-blade-zero-traz-melhorias-de-desempenho-e-um-aviso-importante-s",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/p/phantom-bl/phantom-blade-zero-day-one-update-brings-performance-improve_f581.640.jpg\" vspace=\"5\" width=\"120\" />\nGeForce Experience",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Fri, 30 Oct 2026 15:15:20 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/p/phantom-bl/phantom-blade-zero-day-one-update-brings-performance-improve_f581.jpg"
     },
     {
       "titulo": "Terrible Lizards: Movement Is Your Weapon",
@@ -702,15 +711,6 @@
       "fonte": "Steam News",
       "categoria": "Steam",
       "data": "Fri, 16 Oct 2026 12:38:00 -0700",
-      "imagem": ""
-    },
-    {
-      "titulo": "Team Fortress 2 Update Released",
-      "link": "https://store.steampowered.com/news/275718/",
-      "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Updated the Beachcomber's Brim to fix an incorrect material<br /><li>Updated Taunt",
-      "fonte": "Steam News",
-      "categoria": "Steam",
-      "data": "Fri, 10 Jul 2026 12:00:00 -0700",
       "imagem": ""
     },
     {
