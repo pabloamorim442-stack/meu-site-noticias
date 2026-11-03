@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/11/2026 às 14:25",
+  "atualizado_em": "03/11/2026 às 00:15",
   "total": 80,
   "noticias": [
     {
@@ -9,24 +9,6 @@
       "fonte": "Roblox - Atualizações",
       "categoria": "Roblox",
       "data": "Wed, 30 Sep 2026 21:50:53 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Teleports to Private VIP Servers Are Now Allowed",
-      "link": "https://devforum.roblox.com/t/teleports-to-private-vip-servers-are-now-allowed/4963250",
-      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p><code>TeleportAsync()</code> now can target Reserved and VIP servers explicitly with <code>ReservedServerId</code> and <code>VipServerId</code>. This gives you one predictable way to preserve a player’s private-server destination ",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Wed, 28 Oct 2026 22:07:06 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Upgrading Shapecasts: Margins, Size Gradients, Optimizations, and More",
-      "link": "https://devforum.roblox.com/t/upgrading-shapecasts-margins-size-gradients-optimizations-and-more/4963119",
-      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Shapecasts now support margins, size gradients, and CFrame and size overrides. Existing casts land more precisely and run up to 4.1× quicker with no script changes.</p>\n<p>Visualize casts in Studio under Visualization Modes &gt; P",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Wed, 28 Oct 2026 20:35:57 +0000",
       "imagem": ""
     },
     {
@@ -45,24 +27,6 @@
       "fonte": "PlayStation Blog",
       "categoria": "PlayStation",
       "data": "Wed, 28 Oct 2026 15:31:43 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "First look inside the Prism Collection, with three new transparent designs for PS5 accessories",
-      "link": "https://blog.playstation.com/2026/10/28/first-look-inside-the-prism-collection-with-three-new-transparent-designs-for-ps5-accessories/",
-      "resumo": "Get ready to see your PS5 console and DualSense controller in a whole new way. Today, we are pleased to introduce the Prism Collection, featuring three striking transparent designs for DualSense wireless controllers and PS5 console covers: Flare Orange, Emerald Green, and Graphite Gray. The new coll",
-      "fonte": "PlayStation Blog",
-      "categoria": "PlayStation",
-      "data": "Wed, 28 Oct 2026 15:00:33 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Suit up as Astro Bot in Rayman Legends Retold",
-      "link": "https://blog.playstation.com/2026/10/28/suit-up-as-astro-bot-in-rayman-legends-retold/",
-      "resumo": "Rayman Legends Retold is coming to PlayStation 5 and PlayStation 5 Pro on December 3, and Astro Bot’s iconic design is featured in the game as an exclusive costume, bringing the iconic platformer pairing full circle after Rayman made a cameo in Astro Bot (2024). The PS5-exclusive Astro Bot costume i",
-      "fonte": "PlayStation Blog",
-      "categoria": "PlayStation",
-      "data": "Wed, 28 Oct 2026 13:01:45 +0000",
       "imagem": ""
     },
     {
@@ -156,15 +120,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Weave Your Own Fate: Titan Quest II Is Now Available for Pre-Order on XBOX Series X|S",
-      "link": "https://news.xbox.com/en-us/2026/10/29/titan-quest-ii-pre-order/",
-      "resumo": "<p>High above the clouds, the gods of Olympus watch in silence – for once, even they are powerless against what is coming. The fate of the world now rests in mortal hands. Your hands. But do you have what it takes to face a goddess? The THQ Nordic and Grimlore Games teams are thrilled to [&#8230;]</",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Thu, 29 Oct 2026 16:00:00 +0000",
-      "imagem": ""
-    },
-    {
       "titulo": "Team Fortress 2 Update Released",
       "link": "https://store.steampowered.com/news/289185/",
       "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Fixed smoke effect regression for Le Sapeur<br /><li>Updated the Chief Executor, V",
@@ -246,15 +201,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Here Are The Highest-Grossing Resident Evil Movies Ever, And The New One Is Now No. 1",
-      "link": "https://www.gamespot.com/articles/here-are-the-highest-grossing-resident-evil-movies-ever-and-the-new-one-isnt-no-1/",
-      "resumo": "<p class=\"wp-block-paragraph\">Zach Cregger's Resident Evil movie got solid reviews and is making a lot of money at the box office, but where does it rank on the list of highest-grossing Resident Evil movies? Following its debut in China, it's now <strong>No. 1 overall with more than $399 million glo",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Thu, 08 Oct 2026 16:00:32 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Resident.png?w=300"
-    },
-    {
       "titulo": "Release Notes for 737",
       "link": "https://devforum.roblox.com/t/release-notes-for-737/4848058",
       "resumo": "<p>Hi all, release notes for Studio 737 are published. <img alt=\":collision:\" class=\"emoji\" height=\"20\" src=\"https://doy2mn9upadnk.cloudfront.net/images/emoji/twitter/collision.png?v=14\" title=\":collision:\" width=\"20\" /></p>\n<aside class=\"onebox allowlistedgeneric\">\n  <header class=\"source\">\n      <",
@@ -282,24 +228,6 @@
       "imagem": "https://images.nintendolife.com/012d5ee2915fd/large.jpg"
     },
     {
-      "titulo": "Monitor gamer ASUS TUF de 34 polegadas e 250 Hz atinge menor preço do ano na Amazon",
-      "link": "https://br.ign.com/descontos/157225/monitor-gamer-asus-tuf-de-34-polegadas-e-250-hz-atinge-menor-preco-do-ano-na-amazon",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/monitor-tuf-gaming-asus_tvzu.640.jpg\" vspace=\"5\" width=\"120\" />\nModelo ultrawide traz tela curva, resolução WQHD, FreeSync Premium e ajuste de altura",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Sun, 01 Nov 2026 16:59:56 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/monitor-tuf-gaming-asus_tvzu.jpg"
-    },
-    {
-      "titulo": "Autora de The Fragrant Flower Blooms with Dignity admite odiar alguns clichês de histórias de romance e ter evitado eles propositalmente enquanto escrevia o mangá",
-      "link": "https://br.ign.com/anime/157160/autora-de-the-fragrant-flower-blooms-with-dignity-admite-odiar-alguns-cliches-de-historias-de-romanc",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/f1_z4bz.640.jpg\" vspace=\"5\" width=\"120\" />Histórias de romance têm seus clichês, mas nem sempre são muito amados pelos leitores\n<p>Animes e mangás de romance são recheados de clichês, como, por exemplo, esperar q",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Sun, 01 Nov 2026 15:00:34 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/f1_z4bz.jpg"
-    },
-    {
       "titulo": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For November & December 2026",
       "link": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-november-and-december-2026",
       "resumo": "<p><strong>It's nearly OoT.</strong></p><p>As the fog on the moors begins to clear after Halloween, we head into the month of November with the biggest game of the year on the horizon. Not that one. <em>That</em> one.</p><p>Yes, Nintendo gamers will have their eyes on the imminent return of a little",
@@ -307,51 +235,6 @@
       "categoria": "Nintendo",
       "data": "Sun, 01 Nov 2026 14:00:00 GMT",
       "imagem": "https://images.nintendolife.com/940d0c7180224/large.jpg"
-    },
-    {
-      "titulo": "Shigeru Miyamoto, criador de The Legend of Zelda, sobre inteligência artificial generativa: \"Se a IA dominasse tudo, sempre haveria um papel para nós\"",
-      "link": "https://br.ign.com/nintendo/157224/shigeru-miyamoto-criador-de-the-legend-of-zelda-sobre-inteligencia-artificial-generativa-se-a-ia-dom",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/blob_3yfv.640.png\" vspace=\"5\" width=\"120\" />\nA Nintendo tem mantido uma postura cautelosa em relação à inteligência artificial generativa, mas isso não significa que seus criadores a estejam ignorando completamen",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Sun, 01 Nov 2026 13:00:34 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/blob_3yfv.png"
-    },
-    {
-      "titulo": "1,86 milhão de euros: esse é o valor arrecadado por um aposentado vendendo cartas Pokémon que encontrou por acaso em seu sótão",
-      "link": "https://br.ign.com/pokemon/157223/186-milhao-de-euros-esse-e-o-valor-arrecadado-por-um-aposentado-vendendo-cartas-pokemon-que-encontro",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/a4258a95b0a26c5d-orig-3_sy9c.640.png\" vspace=\"5\" width=\"120\" />\nQuer ficar milionário sem trabalhar? Talvez a solução esteja no seu sótão, graças a uma coleção esquecida de cartas Pokémon",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Sun, 01 Nov 2026 12:00:34 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/a4258a95b0a26c5d-orig-3_sy9c.png"
-    },
-    {
-      "titulo": "Feature: Box Art Brawl - Duel: Revenge Of The 'Gator",
-      "link": "https://www.nintendolife.com/features/box-art-brawl-duel-revenge-of-the-gator",
-      "resumo": "<p><strong>See ya later.</strong></p><p>It's time for another edition of <a href=\"https://www.nintendolife.com/tags/box-art-brawl\">Box Art Brawl</a>, can you believe it!</p><p><a href=\"https://www.nintendolife.com/features/box-art-brawl-duel-avenging-spirit-game-boy\">Last week</a>, we took a look at",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Sun, 01 Nov 2026 10:00:00 GMT",
-      "imagem": "https://images.nintendolife.com/fc374016d2c18/large.jpg"
-    },
-    {
-      "titulo": "Capcom Officially Reveals Fourth Mega Man: Dual Override Robot Master",
-      "link": "https://www.nintendolife.com/news/2026/11/capcom-officially-reveals-fourth-mega-man-dual-override-robot-master",
-      "resumo": "<p><strong>\"He's cooking up a storm\".</strong></p><p>Capcom continues to build excitement for <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/mega_man_dual_override\">Mega Man: Dual Override</a>, and following the official reveal of Tank Man earlier this week, it's now lifted the lid on",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Sun, 01 Nov 2026 08:00:00 GMT",
-      "imagem": "https://images.nintendolife.com/fa666ebd7149e/large.jpg"
-    },
-    {
-      "titulo": "Round Up: Pikmin Day 2026 - Updates, Demo And New Animated Shorts",
-      "link": "https://www.nintendolife.com/news/2026/11/round-up-pikmin-day-2026-updates-demo-and-new-animated-shorts",
-      "resumo": "<p><strong>Happy Pikmin Day!</strong></p><p></p><p>Nintendo surprised us with a <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy\">Pikmin</a>-themed Direct this weekend, announcing Pikmin Day! If you haven't already watched the vide",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Sun, 01 Nov 2026 05:45:00 GMT",
-      "imagem": "https://images.nintendolife.com/95bbae1942c49/large.jpg"
     },
     {
       "titulo": "Now Available on Steam - Angels Fall First, 10% off!",
@@ -381,6 +264,222 @@
       "imagem": ""
     },
     {
+      "titulo": "Update on Account Bans, Alt Detection, and Appeals",
+      "link": "https://devforum.roblox.com/t/update-on-account-bans-alt-detection-and-appeals/4972565",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways:</h3>\n<p>Today, we’re launching a new Game Issues &amp; Appeals page on the Creator Hub. Find it in <strong>Creations &gt; [Game] &gt; Safety &gt; Issues and appeals</strong>.</p>\n<p>We’re also sharing our principles on account bans, link",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Mon, 02 Nov 2026 23:46:36 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Final Fantasy XIV Evercold, próxima expansão do MMORPG da Square Enix, ganha nova data de lançamento",
+      "link": "https://br.ign.com/final-fantasy-xiv-online-evercold/157236/final-fantasy-xiv-evercold-proxima-expansao-do-mmorpg-da-square-enix-ganha-nova-data-de-lancamento",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/f/final-fant/final-fantasy-xiv-evercold-delayed-new-release-date-announce_5u7d.640.jpg\" vspace=\"5\" width=\"120\" />A próxima expansão do MMORPG estava prevista para ser lançada em janeiro de 2027, mas os Guerreiros da Luz terão ",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Mon, 02 Nov 2026 23:36:56 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/f/final-fant/final-fantasy-xiv-evercold-delayed-new-release-date-announce_5u7d.jpg"
+    },
+    {
+      "titulo": "Clean Up Server Memory Before Crashes With `ServerMemoryWarning`",
+      "link": "https://devforum.roblox.com/t/clean-up-server-memory-before-crashes-with-servermemorywarning/4972486",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p><code>DataModel.ServerLowMemoryWarning</code> is now available on RCC servers. This lets your scripts clean up non-essential content before out-of-memory crashes disconnect players.</p>\n<p>Connect to the signal in server scripts u",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Mon, 02 Nov 2026 22:43:30 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Há 25 anos, este jogo de Dreamcast mostrou as limitações das notas de review dos games",
+      "link": "https://br.ign.com/rez/157235/ha-25-anos-este-jogo-de-dreamcast-mostrou-as-limitacoes-das-notas-de-review-dos-games",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/image_wrq3.640.jpg\" vspace=\"5\" width=\"120\" />Um lançamento de 2001 foi um dos exemplos da polaridade que os jogos podem ter em suas avaliações\nHoje, o game é considerado um clássico cult e muitos veículos reconsi",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Mon, 02 Nov 2026 22:30:29 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/image_wrq3.jpg"
+    },
+    {
+      "titulo": "PS6: vazamentos e rumores indicam que, assim como o PS5, o próximo console da Sony virá equipado com um slot para SSD NVMe",
+      "link": "https://br.ign.com/playstation-6/157234/ps6-vazamentos-e-rumores-indicam-que-assim-como-o-ps5-o-proximo-console-da-sony-vira-equipado-com-um",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/image_dars.640.jpg\" vspace=\"5\" width=\"120\" />Cada vez mais detalhes sobre as especificações do console são reveladas\nAparentemente, o formato M.2 NVMe será mantido, com um grande salto para o PCIe 5.0 e a bem-vin",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Mon, 02 Nov 2026 21:30:30 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/image_dars.jpg"
+    },
+    {
+      "titulo": "\"O mal pode triunfar repetidas vezes, mas sempre prepara o terreno para algo bom\": frase do autor de O Senhor dos Anéis foi escrita em uma carta ao filho durante a Segunda Guerra Mundial",
+      "link": "https://br.ign.com/o-senhor-dos-aneis/157233/o-mal-pode-triunfar-repetidas-vezes-mas-sempre-prepara-o-terreno-para-algo-bom-frase-do-autor-de-o-s",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/1366-2000_t11t.640.jpg\" vspace=\"5\" width=\"120\" />Enquanto Cristopher Tolkien se preparava para servir na Força Aérea Real, pai dele escrevia uma carta que tem tudo a ver com LOTR\nJ. R. R. Tolkien escreveu grande ",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Mon, 02 Nov 2026 20:30:31 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/1366-2000_t11t.jpg"
+    },
+    {
+      "titulo": "Former Xbox Exec Shares Her Side Of The Story After Mysterious Depature",
+      "link": "https://www.gamespot.com/articles/former-xbox-exec-shares-her-side-of-the-story-after-mysterious-depature/",
+      "resumo": "<p class=\"wp-block-paragraph\">Helen Chiang, the veteran Xbox staffer who got promoted in July and <a href=\"https://www.gamespot.com/articles/xbox-veteran-who-just-got-promoted-under-asha-sharma-promptly-leaves-amid-mysterious-circumstances/\">left the company amid mysterious circumstances just recent",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Mon, 02 Nov 2026 20:16:26 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Xboxreset.png?w=300"
+    },
+    {
+      "titulo": "Um engenheiro decidiu construir uma casa com 100 mil jornais velhos. Mais de um século depois, paredes e móveis de papel ainda podem ser vistos",
+      "link": "https://br.ign.com/tech/157232/um-engenheiro-decidiu-construir-uma-casa-com-100-mil-jornais-velhos-mais-de-um-seculo-depois-paredes",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/image_5s43.640.jpg\" vspace=\"5\" width=\"120\" />A famosa Paper House ainda está de pé e seus detalhes são impressionantes\nNa primeira metade do século XX, um engenheiro americano construiu uma casa com paredes de pa",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Mon, 02 Nov 2026 19:30:30 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/image_5s43.jpg"
+    },
+    {
+      "titulo": "“Lembro-me deles perfeitamente”: há 37 anos, Kevin Costner conheceu dois figurantes que hoje são estrelas internacionais",
+      "link": "https://br.ign.com/cinema-tv/157231/lembro-me-deles-perfeitamente-ha-37-anos-kevin-costner-conheceu-dois-figurantes-que-hoje-sao-estrela",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/image_z2x7.640.jpg\" vspace=\"5\" width=\"120\" />Astro foi muito atencioso com dois jovens que se tornariam grandes atores\nFuturas estrelas de Hollywood apareceram como figurantes em um filme estrelado por Kevin Cost",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Mon, 02 Nov 2026 18:30:29 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/image_z2x7.jpg"
+    },
+    {
+      "titulo": "World of Warcraft: Forever – How Controller Support Reimagines the Way We Can Play in Azeroth",
+      "link": "https://news.xbox.com/en-us/2026/11/02/world-of-warcraft-forever-controller-support-reimagines-way-we-play-azeroth/",
+      "resumo": "<p>My approach to World of Warcraft has largely been one of logging in and enjoying a casual adventure in Azeroth. I’m not messing around with macros or trying to carry a team through a dungeon. I’m more than happy to spend my time chewing on scenery and gobbling up lore. Yes, I’m that guy that [&#8",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Mon, 02 Nov 2026 18:00:00 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "When Is Resident Evil Coming To Home Video? It Could Be Very Soon",
+      "link": "https://www.gamespot.com/articles/the-new-resident-evil-movie-will-be-available-to-watch-at-home-november-3-report/",
+      "resumo": "<p class=\"wp-block-paragraph\">Zach Cregger's Resident Evil movie crushed it at the box office, banking more than $400 million globally to become the <a href=\"https://www.gamespot.com/articles/here-are-the-highest-grossing-resident-evil-movies-ever-and-the-new-one-isnt-no-1/\">most successful entry in",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Mon, 02 Nov 2026 17:26:02 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/resi.png?w=300"
+    },
+    {
+      "titulo": "Para futuros Mestres Pokémon: coleção com oito gerações está em oferta na Amazon",
+      "link": "https://br.ign.com/descontos/157230/para-futuros-mestres-pokemon-colecao-com-oito-geracoes-esta-em-oferta-na-amazon",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/historia-pokemon-produto-1280x720_xvyc.640.jpg\" vspace=\"5\" width=\"120\" />\nDois volumes ilustrados exploram os jogos, a Pokédex e os animes que marcaram a franquia",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Mon, 02 Nov 2026 17:00:16 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/historia-pokemon-produto-1280x720_xvyc.jpg"
+    },
+    {
+      "titulo": "Phantom Blade Zero Put Up Some Massive Sales Numbers",
+      "link": "https://www.gamespot.com/articles/phantom-blade-zero-put-up-some-massive-sales-numbers/",
+      "resumo": "<p class=\"wp-block-paragraph\">Developer S-Game's action-RPG Phantom Blade Zero launched on October 29 and had a massive start across PC and PS5. </p>\n\n\n\n<p class=\"wp-block-paragraph\">The game sold more than 4 million copies over its first 72 hours. That works out to 926 units sold per minute or abou",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Mon, 02 Nov 2026 16:41:44 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/PBZ.jpg?w=300"
+    },
+    {
+      "titulo": "Nintendo Shares Ocarina Of Time Switch 2 Design Sketches",
+      "link": "https://www.nintendolife.com/news/2026/11/nintendo-shares-ocarina-of-time-switch-2-design-sketches",
+      "resumo": "<p><strong>Ink's awakening.</strong></p><p>The latest <a href=\"https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-24-the-legend-of-zelda-ocarina-of-time-part-2/\">Ask the Developer</a> interviews are positively packed with interesting tidbits about the making of <a href=\"https://www.nintendol",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Mon, 02 Nov 2026 16:30:00 GMT",
+      "imagem": "https://images.nintendolife.com/5c64028d519f8/large.jpg"
+    },
+    {
+      "titulo": "Xbox Game Pass Has A Busy November Ahead With Several Day-One Launches",
+      "link": "https://www.gamespot.com/articles/xbox-game-pass-has-a-busy-november-ahead-with-several-day-one-launches/",
+      "resumo": "<p class=\"wp-block-paragraph\">The start of the month is a good time to be an Xbox Game Pass subscriber, as that's when Microsoft reveals the next batch of games coming to the service. <a href=\"https://www.gamespot.com/articles/the-biggest-new-game-releases-of-november-2026/\">November is frontloaded<",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Mon, 02 Nov 2026 16:17:53 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Warhammer-Survivors.jpg?w=300"
+    },
+    {
+      "titulo": "GTA 6 Buying Guide: Get Ready For Sticker Shock",
+      "link": "https://www.gamespot.com/articles/gta-6-buying-guide-get-ready-for-sticker-shock/",
+      "resumo": "<p class=\"wp-block-paragraph\">Rockstar's <a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">GTA 6</a> finally releases on November 19, and if you're looking to play the game, you'll also need a console--and those are more expensive than ever. Her",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Mon, 02 Nov 2026 16:10:15 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Ambrosia_05.jpg?w=300"
+    },
+    {
+      "titulo": "Players’ Choice: Vote for October’s best new game",
+      "link": "https://blog.playstation.com/2026/11/02/players-choice-vote-for-octobers-best-new-game-4/",
+      "resumo": "Last month was filled with an extensive release of games ranging from high octane racing to covert missions! Some big new releases included Castlevania: Belmont&#8217;s Curse, Phantom Blade Zero, Silver Pines, Call of Duty: Modern Warfare 4, and Ace Combat 8: Wings of Theve. Which game was your favo",
+      "fonte": "PlayStation Blog",
+      "categoria": "PlayStation",
+      "data": "Mon, 02 Nov 2026 16:00:44 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Claude Code Just Got A New Rule: Stop Copying Other People’s Games",
+      "link": "https://www.gamespot.com/articles/claude-code-just-got-a-new-rule-stop-copying-other-people-games/",
+      "resumo": "<p class=\"wp-block-paragraph\">AI clones and vibe-coded copycat games have become a huge headache for developers recently, but it looks like an update to Anthropic's Claude Code's \"rules\" has been pushed out. Listed under \"tengu_heron_brook,\" the tweak to the AI now directs it not to copy games and a",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Mon, 02 Nov 2026 15:36:59 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Star-Wars-Clone-Army.jpg?w=300"
+    },
+    {
+      "titulo": "Doom Dev Says “We’re Doing Great” After Half The Studio Was Just Laid Off",
+      "link": "https://www.gamespot.com/articles/doom-dev-says-were-doing-great-after-half-the-studio-was-just-laid-off/",
+      "resumo": "<p class=\"wp-block-paragraph\">Doom developer id Software was among the numerous Microsoft-owned game studios that cut staff recently as part of the big Xbox <a href=\"https://www.gamespot.com/articles/all-the-major-xbox-changes-microsoft-announced-today-layoffs-halo-changing-hands-and-more/\">\"reset.\"",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Mon, 02 Nov 2026 15:31:04 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/darkages.jpg?w=300"
+    },
+    {
+      "titulo": "We Finally Know Who Made The Zelda: Ocarina Of Time Remake",
+      "link": "https://www.gamespot.com/articles/we-finally-know-who-made-the-zelda-ocarina-of-time-remake/",
+      "resumo": "<p class=\"wp-block-paragraph\">Fans have speculated on which studio is leading the development of The Legend of Zelda: Ocarina of Time remake since it was first announced, and a new Ask the Developer feature from Nintendo appears to give us the answer.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The intervi",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Mon, 02 Nov 2026 15:24:50 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_07.jpg?w=300"
+    },
+    {
+      "titulo": "Nintendo Wanted To Remake Ocarina Of Time To \"Trigger New Insights\" For Future Titles",
+      "link": "https://www.nintendolife.com/news/2026/11/nintendo-wanted-to-remake-ocarina-of-time-to-trigger-new-insights-for-future-titles",
+      "resumo": "<p><strong>Out with the old, in with the Aonuma.</strong></p><p>\"Hang on, why is Nintendo remaking <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">Ocarina of Time</a> again?\" It's a natural question that might have occurred to you in the last few months",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Mon, 02 Nov 2026 15:15:00 GMT",
+      "imagem": "https://images.nintendolife.com/85b99110340db/large.jpg"
+    },
+    {
+      "titulo": "‘90s style sci-fi horror Derelikt launches Nov 13 on PS5",
+      "link": "https://blog.playstation.com/2026/11/02/90s-style-sci-fi-horror-derelikt-launches-nov-13-on-ps5/",
+      "resumo": "Back in 1999, gaming was good. Games that were released late in the original PlayStation generation squeezed the last drop of performance out of the hardware, resulting in impressive visuals and all-time classics whose sequels we still play today. Fast forward 26 years and we’re excited to announce ",
+      "fonte": "PlayStation Blog",
+      "categoria": "PlayStation",
+      "data": "Mon, 02 Nov 2026 15:00:26 +0000",
+      "imagem": "https://blog.playstation.com/uploads/2048/11/04c881948a7c27f10c73dcdca6556f6c29bc1912.mp4"
+    },
+    {
+      "titulo": "Zelda: Ocarina Of Time Switch 2 Development Team Has Been Revealed",
+      "link": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-switch-2-development-team-has-been-revealed",
+      "resumo": "<p><strong>Inside job.</strong></p><p>Nintendo has just released the first two parts of a new <a href=\"https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-24-the-legend-of-zelda-ocarina-of-time-part-1/\">Ask the Developer</a> series all about <a href=\"https://www.nintendolife.com/games/nintend",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Mon, 02 Nov 2026 14:30:00 GMT",
+      "imagem": "https://images.nintendolife.com/d387f9a5d8def/large.jpg"
+    },
+    {
+      "titulo": "Gears Of War: E-Day’s Apparent $500 Million Budget May Not Tell The Full Story – Report",
+      "link": "https://www.gamespot.com/articles/gears-of-war-e-day-apparent-500-million-budget-may-not-tell-the-full-story-report/",
+      "resumo": "<p class=\"wp-block-paragraph\">How much does a true console exclusive cost to make today? If recent reports are to be believed, <a href=\"https://www.gamespot.com/articles/gears-of-war-e-day-cost-half-a-billion-to-make-apparently/\" rel=\"noopener\" target=\"_blank\">Gears of War: E-Day had a production co",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Mon, 02 Nov 2026 14:21:24 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Gears-E-Day.jpg?w=300"
+    },
+    {
       "titulo": "Resident Evil Director Reacts To Backlash: “I Should Have Known Better”",
       "link": "https://www.gamespot.com/articles/resident-evil-director-reacts-to-backlash-i-should-have-known-better/",
       "resumo": "<p class=\"wp-block-paragraph\">Resident Evil is a huge success at the box office, recently <a href=\"https://www.boxofficemojo.com/release/rl3744759809/?ref_=bo_hm_rd\">surpassing $400 million globally</a>. It's also received fantastic review scores. But hardcore fans of the game series took issue with",
@@ -397,33 +496,6 @@
       "categoria": "PlayStation",
       "data": "Mon, 02 Nov 2026 14:01:16 +0000",
       "imagem": "https://blog.playstation.com/uploads/2048/11/d94855df1ef52d3aab754b9d5b9f4618db01e382.mp4"
-    },
-    {
-      "titulo": "Dave Bautista Is Looking More Like Kratos After Packing On 20 Pounds Of Muscle",
-      "link": "https://www.gamespot.com/articles/dave-bautista-is-looking-more-like-kratos-after-packing-on-20-pounds-of-muscle/",
-      "resumo": "<p class=\"wp-block-paragraph\">With filming set to resume soon on Prime Video's <a href=\"https://www.gamespot.com/games/god-of-war/\">God of War</a> series,&nbsp;55-year-old actor Dave Bautista revealed in an Instagram Story that he's packed on a beefy 20 pounds of muscle for the role of Kratos, bring",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 13:16:51 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Kratostista.jpg?w=300"
-    },
-    {
-      "titulo": "Xbox Game Pass Is Losing 14 Games In November",
-      "link": "https://www.gamespot.com/articles/xbox-game-pass-is-losing-14-games-in-november/",
-      "resumo": "<p class=\"wp-block-paragraph\">It's the start of a new month, which means new additions <em>and</em> departures on Xbox Game Pass. To kick off November, 14 games are being removed from the Game Pass library soon, including several simulators, one longrunning Dragon Ball game, and one of the greatest ",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 13:15:46 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4269819-xenoverse-12.jpg?w=300"
-    },
-    {
-      "titulo": "Gang Of Dragon Won’t Be The First Game From Nagoshi Studio. It Won’t Be Any Game At All",
-      "link": "https://www.gamespot.com/articles/gang-of-dragon-wont-be-the-first-game-from-nagoshi-studio-it-wont-be-any-game-at-all/",
-      "resumo": "<p class=\"wp-block-paragraph\">Nagoshi Studio, the studio formed by Yakuza creator Toshiro Nagoshi at NetEase, has been shut down before it even released its first game. According to <a href=\"https://www.gematsu.com/2026/11/nagoshi-studio-shuts-down\">Gematsu</a>, shareholders officially dissolved the",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 13:15:03 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/05/Gang-of-Dragon.jpg?w=300"
     },
     {
       "titulo": "É o fim de uma era: após 22 anos, lendário sucesso do anime está chegando ao fim",
@@ -480,15 +552,6 @@
       "imagem": ""
     },
     {
-      "titulo": "O Senhor dos Anéis: Por que o poderoso Balrog está escondido sob Moria? Por trás disso está a maior guerra da história da Terra-média",
-      "link": "https://br.ign.com/o-senhor-dos-aneis/157227/o-senhor-dos-aneis-por-que-o-poderoso-balrog-esta-escondido-sob-moria-por-tras-disso-esta-a-maior-gu",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/der-herr-der-ringe-balrog-moria-krieg-des-zorns-6446029_xkzp.640.png\" vspace=\"5\" width=\"120\" />Nas profundezas da cidade anã de Khazad-dûm habita um Balrog de poder inimaginável. Mas o que na Terra-média poderia ",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 11:00:35 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/der-herr-der-ringe-balrog-moria-krieg-des-zorns-6446029_xkzp.png"
-    },
-    {
       "titulo": "PSA: 'Pikmin 4 + Dandori Academy' Demo Blooms On Switch 2 Today",
       "link": "https://www.nintendolife.com/news/2026/11/psa-pikmin-4-plus-dandori-academy-demo-blooms-on-switch-2-today",
       "resumo": "<p><strong>Play before you pay.</strong></p><p>We were a little surprised to have any Pikmin news at all this weekend, let alone a <a href=\"https://www.nintendolife.com/news/2026/11/round-up-pikmin-day-2026-updates-demo-and-new-animated-shorts\">flippin' Direct</a>! Since the whole thing caught us a ",
@@ -505,24 +568,6 @@
       "categoria": "Nintendo",
       "data": "Mon, 02 Nov 2026 10:15:00 GMT",
       "imagem": "https://images.nintendolife.com/eb5570215e77c/large.jpg"
-    },
-    {
-      "titulo": "De acordo com a psicologia, os millennials que ainda jogam videogame desenvolvem habilidades especiais — e essas habilidades podem trazer benefícios na terceira idade",
-      "link": "https://br.ign.com/games/157202/de-acordo-com-a-psicologia-os-millennials-que-ainda-jogam-videogame-desenvolvem-habilidades-especiai",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/koop-zocken-ps4-controller-bild-pixabayusersjeshoots-com-264_2faf.640.jpg\" vspace=\"5\" width=\"120\" />Lá se vai a ideia de que os videogames são uma perda de tempo: estudos sugerem que, por meio deles, também desen",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 10:00:36 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/koop-zocken-ps4-controller-bild-pixabayusersjeshoots-com-264_2faf.jpg"
-    },
-    {
-      "titulo": "A psicologia afirma que as pessoas que falam alto e, às vezes, gritam, não são agressivas; na verdade, elas sentem as emoções com mais intensidade do que as demais",
-      "link": "https://br.ign.com/tech/157201/a-psicologia-afirma-que-as-pessoas-que-falam-alto-e-as-vezes-gritam-nao-sao-agressivas-na-verdade-el",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/1200-800_qwf4.640.jpg\" vspace=\"5\" width=\"120\" />Levantar a voz costuma ser associado à raiva ou à agressividade; a ciência, no entanto, vem estudando há anos como as emoções influenciam nossa maneira de falar de ",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 09:00:35 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/1200-800_qwf4.jpg"
     },
     {
       "titulo": "HoYoverse Announces Cosy Galactic Life Sim 'Petit Planet' For Switch 2",
@@ -606,33 +651,6 @@
       "imagem": "https://traffic.libsyn.com/playstation/Episode_552.mp3"
     },
     {
-      "titulo": "EA Just Shelved A Mysterious Sims Project—That Could Be Good News For Players",
-      "link": "https://www.gamespot.com/articles/ea-just-shelved-a-mysterious-sims-project-that-could-be-good-news-for-players/",
-      "resumo": "<p class=\"wp-block-paragraph\">It's been another rough year for video games, with countless studio closures, staff layoffs, and projects that barely managed to even get off the ground before they were <a href=\"https://www.gamespot.com/articles/with-a-week-left-to-live-highguard-releases-a-seasons-wor",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Fri, 30 Oct 2026 16:46:06 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/GrimReaper.png?w=300"
-    },
-    {
-      "titulo": "CoD: Modern Warfare To Cut Real-Life Korean Tragedy Segment After Backlash",
-      "link": "https://www.gamespot.com/articles/cod-modern-warfare-to-cut-real-life-korean-tragedy-segment-after-backlash/",
-      "resumo": "<p class=\"wp-block-paragraph\">Publisher Activision has responded to criticism over using a devastating tragedy in <a href=\"https://www.gamespot.com/games/call-of-duty-modern-warfare-4/\">Call of Duty: Modern Warfare 4</a>, saying that the incident will be removed from the military shooter in a Novemb",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Fri, 30 Oct 2026 16:42:23 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/codmw4-image.jpg?w=300"
-    },
-    {
-      "titulo": "Phantom Blade Zero’s Lead Voice Actor Was Seemingly Replaced At The Last Minute",
-      "link": "https://www.gamespot.com/articles/phantom-blade-zero-lead-voice-actor-was-seemingly-replaced-at-the-last-minute/",
-      "resumo": "<p class=\"wp-block-paragraph\">There's a new voice behind the protagonist of Soul in <a href=\"https://www.gamespot.com/games/phantom-blade-zero/\" rel=\"noopener\" target=\"_blank\">Phantom Blade Zero</a>, and it's none other than Sonic the Hedgehog--or his longtime voice actor, Roger Craig Smith, to be p",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Fri, 30 Oct 2026 16:21:48 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Roger-has-had-too-much-coffee.jpg?w=300"
-    },
-    {
       "titulo": "Team Fortress 2 Update Released",
       "link": "https://store.steampowered.com/news/289665/",
       "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Updated cp_wildcat_event to fix missing model for Spies disguised as pumpkins<br /",
@@ -667,24 +685,6 @@
       "categoria": "Xbox",
       "data": "Fri, 30 Oct 2026 16:00:00 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "New Assassin’s Creed Game Is Out Now, If You Don’t Mind Being Board",
-      "link": "https://www.gamespot.com/articles/new-assassins-creed-game-is-out-now-if-you-dont-mind-being-board/",
-      "resumo": "<p class=\"wp-block-paragraph\">If you thought there wasn't going to be a new Assassin's Creed game this year, think again. It's not a video game, but Assassin's Creed: Animus is out today, turning the series into an adventure-style board game for 1-4 players. </p>\n\n\n\n<p class=\"wp-block-paragraph\">A c",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Fri, 30 Oct 2026 15:54:30 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/AC-Animus.jpg?w=300"
-    },
-    {
-      "titulo": "EA Reportedly Chose An Unannounced Star Wars Game Over BioWare’s Next Mass Effect",
-      "link": "https://www.gamespot.com/articles/ea-reportedly-chose-an-unannounced-star-wars-game-over-biowares-next-mass-effect/",
-      "resumo": "<p class=\"wp-block-paragraph\">EA recently announced it was <a href=\"https://www.gamespot.com/articles/ea-shuts-down-dragon-age-mass-effect-studio-bioware/\">shutting down BioWare</a>, ending a studio responsible for multiple hit games over 30 years. According to a new report, EA's decision was driven",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Fri, 30 Oct 2026 15:29:30 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/BioWare-shut-down.jpg?w=300"
     },
     {
       "titulo": "Terrible Lizards: Movement Is Your Weapon",
