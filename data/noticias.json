@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/11/2026 às 13:23",
+  "atualizado_em": "03/11/2026 às 22:44",
   "total": 80,
   "noticias": [
     {
@@ -30,6 +30,15 @@
       "imagem": ""
     },
     {
+      "titulo": "GTA 6 File Size Revealed, And It’s Truly Massive–See How It Compares To Other Huge Games",
+      "link": "https://www.gamespot.com/articles/gta-6-file-size-revealed-and-its-massive/",
+      "resumo": "<p class=\"wp-block-paragraph\">Ahead of the game's release on November 19, <a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">GTA 6'</a>s file size has been revealed, and it is massive. Rockstar Games has confirmed that people will need about 212G",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Tue, 27 Oct 2026 17:48:21 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/10/Lucia_Caminos_07.jpg?w=300"
+    },
+    {
       "titulo": "Release Notes for 740",
       "link": "https://devforum.roblox.com/t/release-notes-for-740/4888724",
       "resumo": "<p>Howdy! I hope you all are having a great day. Here are the release notes:</p>\n<ul>\n<li>Version 740: <a href=\"https://create.roblox.com/docs/release-notes/release-notes-740\">Introduced in version 740</a></li>\n<li>Weekly update: <a href=\"https://create.roblox.com/docs/updates/2026-09-21\">Week of Se",
@@ -45,6 +54,321 @@
       "fonte": "Steam News",
       "categoria": "Steam",
       "data": "Tue, 14 Jul 2026 13:25:00 -0700",
+      "imagem": ""
+    },
+    {
+      "titulo": "\"Já assisti cinquenta vezes\": historiador militar escolhe o melhor filme sobre a Segunda Guerra Mundial",
+      "link": "https://br.ign.com/cinema-tv/157293/ja-assisti-cinquenta-vezes-historiador-militar-escolhe-o-melhor-filme-sobre-a-segunda-guerra-mundial",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/1366-2000_hf79.640.jpg\" vspace=\"5\" width=\"120\" />Um filme de guerra extraordinário e incomum que ganhou um Oscar em 1954\nDiferentemente da ação e violência dos filmes de guerra mais comuns, esse longa da década d",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 03 Nov 2026 22:30:33 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/1366-2000_hf79.jpg"
+    },
+    {
+      "titulo": "Build Accessible UI Faster: New Color3 Contrast & Luminance Methods",
+      "link": "https://devforum.roblox.com/t/build-accessible-ui-faster-new-color3-contrast-luminance-methods/4974212",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>We’ve added three new methods directly to the Color3 datatype: <a href=\"https://create.roblox.com/docs/reference/engine/datatypes/Color3#GetContrastingColor\">GetContrastingColor</a>, <a href=\"https://create.roblox.com/docs/referen",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Tue, 03 Nov 2026 22:02:34 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Cyberpunk 2: Já sabemos em qual cidade se passará a sequência de Cyberpunk 2077, e essa foi a melhor decisão possível",
+      "link": "https://br.ign.com/cyberpunk-2077-codename-orion/157286/cyberpunk-2-ja-sabemos-em-qual-cidade-se-passara-a-sequencia-de-cyberpunk-2077-e-essa-foi-a-melhor-d",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/image_hjzn.640.jpg\" vspace=\"5\" width=\"120\" />Uma segunda cidade para o segundo jogo faz todo o sentido\nMike Pondsmith, o criador do RPG de mesa, confirmou a chegada de uma segunda megalópole, e tudo indica que se",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 03 Nov 2026 21:30:35 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/image_hjzn.jpg"
+    },
+    {
+      "titulo": "Monitor gamer LG UltraGear OLED de 240 Hz atinge menor preço em 365 dias na Amazon",
+      "link": "https://br.ign.com/descontos/157292/monitor-gamer-lg-ultragear-oled-de-240-hz-atinge-menor-preco-em-365-dias-na-amazon",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/novo-projeto-9_dn39.640.jpg\" vspace=\"5\" width=\"120\" />\nModelo de 27 polegadas combina resolução QHD, tempo de resposta de 0,03 ms e tecnologias para maior fluidez nos jogos",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 03 Nov 2026 21:30:33 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/novo-projeto-9_dn39.jpg"
+    },
+    {
+      "titulo": "This Custom Xbox-Inside-An-Alligator Console Is Actually One Big Ad For GTA 6",
+      "link": "https://www.gamespot.com/articles/this-custom-xbox-inside-an-alligator-console-is-actually-one-big-ad-for-gta-6/",
+      "resumo": "<p class=\"wp-block-paragraph\">Given that Sony holds the marketing rights for <a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">Grand Theft Auto 6</a>, Microsoft has had to get creative to promote the open-world crime game for Xbox--and the compa",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Tue, 03 Nov 2026 21:22:30 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/gator-Large.jpeg?w=300"
+    },
+    {
+      "titulo": "Polícia zomba de criminoso envolvido em perseguição de carro por ter sido preso antes do lançamento de GTA 6",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157289/policia-zomba-de-criminoso-envolvido-em-perseguicao-de-carro-por-ter-sido-preso-antes-do-lancamento",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/p/police-moc/police-mock-car-chase-criminal-for-getting-arrested-right-be_age9.640.jpg\" vspace=\"5\" width=\"120\" />\n“Guarde isso para as ruas de Vice City”",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 03 Nov 2026 20:35:32 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/p/police-moc/police-mock-car-chase-criminal-for-getting-arrested-right-be_age9.jpg"
+    },
+    {
+      "titulo": "Após o sucesso de Backrooms e Obsessão, um youtuber está considerando um projeto mais ambicioso: seu próprio filme de terror",
+      "link": "https://br.ign.com/cinema-tv/157279/apos-o-sucesso-de-backrooms-e-obsessao-um-youtuber-esta-considerando-um-projeto-mais-ambicioso-seu-p",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/review-obssessionisaawesomeandtwistedhorrornightmarethatcomp_z9fs.640.png\" vspace=\"5\" width=\"120\" />Jordi Wild quer financiar o filme, escrever o roteiro e lançar o longa nos cinemas\nSeguindo o caminho de que bon",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 03 Nov 2026 20:30:31 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/review-obssessionisaawesomeandtwistedhorrornightmarethatcomp_z9fs.png"
+    },
+    {
+      "titulo": "Lançamento em oferta! Bundle GTA VI + PS5 Slim Digital Pacote Astro Bot e Gran Turismo 7 surge na Black da Amazon",
+      "link": "https://br.ign.com/descontos/157285/lancamento-em-oferta-bundle-gta-vi-ps5-slim-digital-pacote-astro-bot-e-gran-turismo-7-surge-na-black",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/thumb-ignpsd_cdtc.640.png\" vspace=\"5\" width=\"120\" />O console já sai pronto para GTA VI, que estreia em 19 de novembro. Veja o que cada jogo entrega, confira as especificações do PS5 e clique para garantir o seu ",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 03 Nov 2026 20:13:05 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/thumb-ignpsd_cdtc.png"
+    },
+    {
+      "titulo": "Queridinho dos gamers: notebook Acer Nitro V15 com RTX 4050 está em oferta na Amazon",
+      "link": "https://br.ign.com/descontos/157288/queridinho-dos-gamers-notebook-acer-nitro-v15-com-rtx-4050-esta-em-oferta-na-amazon",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/acer-nitro-v15-i7-thumb_dg61.640.jpg\" vspace=\"5\" width=\"120\" />\nModelo combina processador Intel Core i7 de 13ª geração, 16 GB de RAM e tela de 165 Hz",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 03 Nov 2026 20:09:05 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/acer-nitro-v15-i7-thumb_dg61.jpg"
+    },
+    {
+      "titulo": "Corner Shop: NightShift How we Built Horror Around an Ordinary Life",
+      "link": "https://news.xbox.com/en-us/2026/11/03/corner-shop-nightshift/",
+      "resumo": "<p>When people think about psychological horror, they usually think about abandoned buildings, monsters, strange rituals, or someone being chased through a dark corridor. With Corner Shop: NightShift, I wanted to begin somewhere much more ordinary. A job. Adam Callahan works the night shift in a sma",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Tue, 03 Nov 2026 20:00:00 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "WoW: Forever Shamans Are Protesting Class Changes After Being “Completely Ignored”",
+      "link": "https://www.gamespot.com/articles/wow-forever-shamans-are-protesting-class-changes-after-being-completely-ignored/",
+      "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/games/world-of-warcraft/\">World of Warcraft: Forever</a> just received a massive batch of class-balance updates ahead of launch that have <a href=\"https://www.gamespot.com/articles/wow-forever-is-giving-players-a-big-damage-boost-for-la",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Tue, 03 Nov 2026 19:54:31 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-Shaman-Protest.jpg?w=300"
+    },
+    {
+      "titulo": "Zach Cregger afirma que ainda quer “ter uma participação” nas futuras sequências de Resident Evil",
+      "link": "https://br.ign.com/resident-evil-2026/157284/zach-cregger-afirma-que-ainda-quer-ter-uma-participacao-nas-futuras-sequencias-de-resident-evil",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/z/zach-cregg/zach-cregger-says-he-still-wants-to-have-a-hand-in-future-re_k3k6.640.jpg\" vspace=\"5\" width=\"120\" />\n“Não consigo deixar de ter uma ideia de para onde essa franquia — vou chamá-la de franquia — poderia ir”",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 03 Nov 2026 19:40:18 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/z/zach-cregg/zach-cregger-says-he-still-wants-to-have-a-hand-in-future-re_k3k6.jpg"
+    },
+    {
+      "titulo": "\"Uma obra-prima, está no mesmo nível dos melhores faroestes da história\": Pérez-Reverte escolhe seu faroeste favorito de Clint Eastwood",
+      "link": "https://br.ign.com/cinema-tv/157275/uma-obra-prima-esta-no-mesmo-nivel-dos-melhores-faroestes-da-historia-perez-reverte-escolhe-seu-faro",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/1200-800_ba9g.640.jpg\" vspace=\"5\" width=\"120\" />Conceituado novelista e jornalista espanhol é grande fã do estilo Velho Oeste\nDentre os títulos de Clint Eastwood, Arturo Pérez-Reverte é apaixonado em um clássico ",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 03 Nov 2026 19:31:46 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/1200-800_ba9g.jpg"
+    },
+    {
+      "titulo": "WoW: Forever Won’t Get More Class Balance Changes Any Time Soon",
+      "link": "https://www.gamespot.com/articles/wow-forever-wont-get-more-class-balance-changes-any-time-soon/",
+      "resumo": "<p class=\"wp-block-paragraph\">World of Warcraft: Forever is gearing up for launch with some <a href=\"https://www.gamespot.com/articles/wow-forever-is-giving-players-a-big-damage-boost-for-launch/?_thumbnail_id=1947018\">major class balance changes</a>, but don't expect any more for at least a month.<",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Tue, 03 Nov 2026 19:31:30 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-No-Balance-Changes-For-A-Month.jpg?w=300"
+    },
+    {
+      "titulo": "Grand Theft Auto VI Pre-install Begins on November 10",
+      "link": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10",
+      "resumo": "<p>The post <a href=\"https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10\">Grand Theft Auto VI Pre-install Begins on November 10</a> appeared first on <a href=\"https://news.xbox.com/en-us\">XBOX Wire</a>.</p>",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Tue, 03 Nov 2026 19:30:11 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "GTA 6 Is Getting A Physical Map–Here’s How To Get One For Free Or Very Cheap",
+      "link": "https://www.gamespot.com/articles/gta-6-is-getting-a-physical-map-heres-how-to-get-one-for-free-or-very-cheap/",
+      "resumo": "<p class=\"wp-block-paragraph\">Rockstar Games has confirmed more details about <a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">Grand Theft Auto 6</a>'s impending release on November 19, including more information about physical goodies. While t",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Tue, 03 Nov 2026 19:28:46 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Leonida_Keys_05_76fdf9.jpg?w=300"
+    },
+    {
+      "titulo": "WoW: Forever Is Giving Players A Big Damage Boost For Launch",
+      "link": "https://www.gamespot.com/articles/wow-forever-is-giving-players-a-big-damage-boost-for-launch/",
+      "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/games/world-of-warcraft/\">World of Warcraft: Forever</a> is changing in some major ways for launch, with Blizzard revealing classes across the board will deal more damage as it pursues design solutions that better fit in with Forever's ",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Tue, 03 Nov 2026 19:19:40 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-Class-Damage-Boost.jpg?w=300"
+    },
+    {
+      "titulo": "Petit Planet confirma data de lançamento e anuncia versão para Nintendo Switch 2 em 2027",
+      "link": "https://br.ign.com/petit-planet/157277/petit-planet-confirma-data-de-lancamento-e-anuncia-versao-para-nintendo-switch-2-em-2027",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/blob_6fep.640.png\" vspace=\"5\" width=\"120\" />\nO primeiro aconchegante jogo de simulação de vida planetária da HoYoverse revela uma série de vizinhos, principais sistemas de jogabilidade e diversos eventos de lança",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Tue, 03 Nov 2026 19:03:18 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/blob_6fep.png"
+    },
+    {
+      "titulo": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #8 - High Spirits",
+      "link": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-8-high-spirits",
+      "resumo": "<p><strong>Mirror, mirror...</strong></p><p>With five Sages under my belt, it was time to head off to the final temple in my <a href=\"https://www.nintendolife.com/games/n64/legend_of_zelda_ocarina_of_time\">Ocarina of Time</a> replay to pick up the last of 'em before the big showdown (not <em>technic",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Tue, 03 Nov 2026 19:00:00 GMT",
+      "imagem": "https://images.nintendolife.com/e8212f2f983eb/large.jpg"
+    },
+    {
+      "titulo": "[Beta] Promotional Text",
+      "link": "https://devforum.roblox.com/t/beta-promotional-text/4973915",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Promotional Text is now in Beta for all creators. It provides a space for brief secondary text information, such as a limited time mode or update, so your game name stays short and important information doesn’t get cut off. A smal",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Tue, 03 Nov 2026 18:56:23 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Analytics: Understand Complex Player Funnels With Journeys",
+      "link": "https://devforum.roblox.com/t/analytics-understand-complex-player-funnels-with-journeys/4973876",
+      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>We’re launching Journeys in Creator Analytics. Unlike a linear funnel, a journey lets players branch into different paths and reconnect later, so you can see every route players take through onboarding, quests, shops and features,",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Tue, 03 Nov 2026 18:31:25 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Coming to XBOX Game Pass: Escape Academy 2: Back 2 School, Thronefall, Warhammer Survivors, and More",
+      "link": "https://news.xbox.com/en-us/2026/11/03/xbox-game-pass-november-2026-wave-1/",
+      "resumo": "<p>November is officially here, and apparently your backlog is already getting longer. Between cracking puzzles, defending kingdoms, and braving battles, your gaming schedule is about to get a little crowded. So, let’s get right to the games! Available Today Football Manager 27 (PC)Game Pass Ultimat",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Tue, 03 Nov 2026 18:00:00 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "An Alligator Swallowed an XBOX Series X – You Can Win It",
+      "link": "https://news.xbox.com/en-us/2026/11/03/xbox-series-x-bite-console-sweepstakes/",
+      "resumo": "<p>This November, XBOX is heading to Florida – home to incredible wildlife, unforgettable places, and every now and then, stories you have to see to believe. That felt like the right inspiration for a custom XBOX Series X unlike anything we’ve made before: the XBOX Series X-BITE. The idea is simple:",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Tue, 03 Nov 2026 17:00:00 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Call of Duty: Warzone Season 1 – Everything You Need to Know",
+      "link": "https://news.xbox.com/en-us/2026/11/03/call-of-duty-warzone-season-1-everything-you-need-to-know/",
+      "resumo": "<p>The post <a href=\"https://news.xbox.com/en-us/2026/11/03/call-of-duty-warzone-season-1-everything-you-need-to-know/\">Call of Duty: Warzone Season 1 &#8211; Everything You Need to Know</a> appeared first on <a href=\"https://news.xbox.com/en-us\">XBOX Wire</a>.</p>",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Tue, 03 Nov 2026 16:24:30 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "25 Years Of Xbox Bundle Includes All These Games For $570",
+      "link": "https://www.gamespot.com/articles/25-years-of-xbox-bundle-includes-all-these-games-for-570/",
+      "resumo": "<p class=\"wp-block-paragraph\">To celebrate the 25th anniversary of Xbox this year, Microsoft has launched a \"25 Years of Xbox\" digital game bundle. It includes 25 games for $570. </p>\n\n\n\n<p class=\"wp-block-paragraph\">That works out to about $23/game, but it's more nuanced than that, as some of the g",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Tue, 03 Nov 2026 16:13:50 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Halo3.jpg?w=300"
+    },
+    {
+      "titulo": "\"I Had Some Overdue Homework\" - Ocarina Of Time Remake Features More Water Temple Tweaks",
+      "link": "https://www.nintendolife.com/news/2026/11/i-had-some-overdue-homework-ocarina-of-time-remake-features-more-water-temple-tweaks",
+      "resumo": "<p><strong>Yes, Aonuma knows how much you hate those Iron Boots.</strong></p><p>It's no secret that Eiji Aonuma can see the issues with <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">Ocarina of Time</a>'s Water Temple. The series producer spoke about i",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Tue, 03 Nov 2026 16:00:00 GMT",
+      "imagem": "https://images.nintendolife.com/f5eeb0750eb6e/large.jpg"
+    },
+    {
+      "titulo": "Grand Theft Auto VI pre-download begins November 10",
+      "link": "https://blog.playstation.com/2026/11/03/grand-theft-auto-vi-pre-download-begins-november-10/",
+      "resumo": "Grand Theft Auto VI launches November 19 on PlayStation 5, with pre-download available starting November 10. Whether you&#8217;re returning to the series or jumping in for the first time, here are a few key steps you can take now to prepare for launch day. Step 1: Set up your PlayStation account Mak",
+      "fonte": "PlayStation Blog",
+      "categoria": "PlayStation",
+      "data": "Tue, 03 Nov 2026 15:28:13 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "'The Elder Scrolls 6' Finally Has An Official Title",
+      "link": "https://www.nintendolife.com/news/2026/11/the-elder-scrolls-6-finally-has-an-official-title",
+      "resumo": "<p><strong>And a title logo.</strong></p><p>We forget quite how long we have been waiting for official news from the next entry in Bethesda's The Elder Scrolls series, and now the studio has finally, <em>finally</em> lifted the lid on its title.</p><p>As revealed by Todd Howard himself in a new stud",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Tue, 03 Nov 2026 15:20:00 GMT",
+      "imagem": "https://images.nintendolife.com/5adec4802ebe3/large.jpg"
+    },
+    {
+      "titulo": "Celebrating 40 Years of Bethesda Game Studios",
+      "link": "https://news.xbox.com/en-us/2026/11/03/celebrating-40-years-of-bethesda-game-studios/",
+      "resumo": "<p>The post <a href=\"https://news.xbox.com/en-us/2026/11/03/celebrating-40-years-of-bethesda-game-studios/\">Celebrating 40 Years of Bethesda Game Studios</a> appeared first on <a href=\"https://news.xbox.com/en-us\">XBOX Wire</a>.</p>",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Tue, 03 Nov 2026 15:06:55 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "The Elder Scrolls VI: Official Name Reveal",
+      "link": "https://news.xbox.com/en-us/2026/11/03/the-elder-scrolls-vi-official-name-reveal/",
+      "resumo": "<p>The post <a href=\"https://news.xbox.com/en-us/2026/11/03/the-elder-scrolls-vi-official-name-reveal/\">The Elder Scrolls VI: Official Name Reveal</a> appeared first on <a href=\"https://news.xbox.com/en-us\">XBOX Wire</a>.</p>",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Tue, 03 Nov 2026 15:05:16 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "The Elder Scrolls 6 Is Officially Titled Sentinel",
+      "link": "https://www.gamespot.com/articles/the-elder-scrolls-6-is-officially-titled-sentinel/",
+      "resumo": "<p class=\"wp-block-paragraph\">Confirming a recent report, Bethesda has confirmed the subtitle of the next Elder Scrolls game as <a href=\"https://www.gamespot.com/articles/the-elder-scrolls-6-release-date-trailer-news/1100-6492383/\">The Elder Scrolls VI: Sentinel</a>. This was shared as part of a <a ",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Tue, 03 Nov 2026 15:05:08 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Celebrating-40-Years-of-Bethesda-Game-Studios-8-5-screenshot.jpg?w=300"
+    },
+    {
+      "titulo": "Zelda: Ocarina Of Time Switch 2 Cast Features A Returning Voice Actor From The N64 Original",
+      "link": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-switch-2-cast-features-a-returning-voice-actor-from-the-n64-original",
+      "resumo": "<p><strong>Vocal hero.</strong></p><p>Nintendo has today shared even more insights into the development of <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">Ocarina of Time</a> on Switch 2 in the latest chapters of its <a href=\"https://www.nintendo.com/us",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Tue, 03 Nov 2026 14:30:00 GMT",
+      "imagem": "https://images.nintendolife.com/63bd0177fcf2c/large.jpg"
+    },
+    {
+      "titulo": "Sonic Racing: CrossWorlds Year Two begins today with Duel Mode, new characters, gadgets and more",
+      "link": "https://blog.playstation.com/2026/11/03/sonic-racing-crossworlds-year-two-begins-today-with-duel-mode-new-characters-gadgets-and-more/",
+      "resumo": "Sonic Racing: CrossWorlds Year Two is officially launching later today, with more racers, more vehicles, and more courses joining the ever-growing universe of Sonic Racing: CrossWorlds. In addition, Year Two brings several significant additions to the game, enhancing the already exhilarating experie",
+      "fonte": "PlayStation Blog",
+      "categoria": "PlayStation",
+      "data": "Tue, 03 Nov 2026 14:00:04 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Community: \"I Think Of Her Every Time I Play It\" - Your Zelda: Ocarina Of Time Memories",
+      "link": "https://www.nintendolife.com/features/community-i-think-of-her-every-time-i-play-it-your-zelda-ocarina-of-time-memories",
+      "resumo": "<p><strong>Dost thou sense it?</strong></p><p>With the Switch 2 remake of the N64's <a href=\"https://www.nintendolife.com/games/n64/legend_of_zelda_ocarina_of_time\">The Legend of Zelda: Ocarina of Time</a> fast approaching, <a href=\"https://www.nintendolife.com/news/2026/10/community-zeldas-almost-h",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Tue, 03 Nov 2026 14:00:00 GMT",
+      "imagem": "https://images.nintendolife.com/e2c10051ebc88/large.jpg"
+    },
+    {
+      "titulo": "The Silver Seas and How We “Ship” New Features for Age of Wonders 4",
+      "link": "https://news.xbox.com/en-us/2026/11/03/age-of-wonders-4-the-silver-seas/",
+      "resumo": "<p>Ahoy there, folks! I’m the Captain of Age of Wonders 4, a game we’ve been sharing with you for either four years or twenty-seven years, depending on how long you’ve been playing the series. Everyone here at Triumph Studios has spent a lifetime coming up with fantastical ideas to add to our games,",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Tue, 03 Nov 2026 14:00:00 +0000",
       "imagem": ""
     },
     {
@@ -111,78 +435,6 @@
       "imagem": "https://images.nintendolife.com/5b3c5bb652577/large.jpg"
     },
     {
-      "titulo": "Square Enix's 'Harvest Sale' Includes Huge Discounts On Final Fantasy VII Remake Intergrade And Rebirth",
-      "link": "https://www.nintendolife.com/news/2026/11/square-enixs-harvest-sale-includes-huge-discounts-on-final-fantasy-vii-remake-intergrade-and-rebirth",
-      "resumo": "<p><strong>Get ready for Revelation.</strong></p><p></p><p>The <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/final-fantasy-vii-remake-intergrade\">Final Fantasy VII Remake</a> trilogy will wrap next year with the release of <a href=\"https://www.nintendolife.com/games/nintendo-switch-2",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Tue, 03 Nov 2026 01:45:00 GMT",
-      "imagem": "https://images.nintendolife.com/18cbd9df5eb05/large.jpg"
-    },
-    {
-      "titulo": "Sonic Racing: CrossWorlds - Year Two 2.0.0 Patch Notes Preview - New Additions, Changes & Improvements",
-      "link": "https://www.nintendolife.com/news/2026/11/sonic-racing-crossworlds-year-two-2-0-0-patch-notes-preview-new-additions-changes-and-improvements",
-      "resumo": "<p><strong>Paid and free character updates are also on the way.</strong></p><p>It's another <em>huge</em> week in gaming, and <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/sonic-racing-crossworlds-nintendo-switch-2-edition\">Sonic Racing: CrossWorlds</a> is joining in on the fun with ",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Tue, 03 Nov 2026 00:45:00 GMT",
-      "imagem": "https://images.nintendolife.com/18e28c0a27fab/large.jpg"
-    },
-    {
-      "titulo": "The Journey of Crimson Desert Continues with Charting the Unknown",
-      "link": "https://news.xbox.com/en-us/2026/10/29/crimson-desert-charting-the-unknown/",
-      "resumo": "<p>Since its launch in March, the world of Crimson Desert — where Kliff and the Greymanes fight to rebuild what they lost — has grown with each update. Alongside improvements, the game has received brand new content, including boss rematches, and new features shaped by players’ adventures and storie",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Thu, 29 Oct 2026 22:00:00 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "[Full Release] Input Action Manager",
-      "link": "https://devforum.roblox.com/t/full-release-input-action-manager/4965021",
-      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>The Input Action Manager is now fully released. This visual editor helps you build and audit cross-platform control mappings for your game.</p>\n<p>Find it under Windows &gt; Input &gt; Actions.</p>\n</blockquote>\n</aside>\n<hr />\n<p",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Thu, 29 Oct 2026 21:01:05 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "[Studio Beta] Generate Game Characters with Prompt-to-Avatar",
-      "link": "https://devforum.roblox.com/t/studio-beta-generate-game-characters-with-prompt-to-avatar/4964945",
-      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Generate game character models from text prompts. It’s a faster way to produce game characters with or without Dynamic Heads through the Avatar Setup tool in Studio, Assistant, and Studio MCP.</p>\n<p>Enable it in <strong>File &gt;",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Thu, 29 Oct 2026 20:10:41 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Raiders of the North for Age of Empires IV is Available Now",
-      "link": "https://news.xbox.com/en-us/2026/10/29/raiders-of-the-north-for-age-of-empires-iv-is-available-now/",
-      "resumo": "<p>The post <a href=\"https://news.xbox.com/en-us/2026/10/29/raiders-of-the-north-for-age-of-empires-iv-is-available-now/\">Raiders of the North for Age of Empires IV is Available Now</a> appeared first on <a href=\"https://news.xbox.com/en-us\">XBOX Wire</a>.</p>",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Thu, 29 Oct 2026 18:00:00 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Creators Can Test Games on the Web",
-      "link": "https://devforum.roblox.com/t/creators-can-test-games-on-the-web/4964592",
-      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Web Play early access is now available for Creators only to test your games in Chrome. This lets you find bugs and tune performance before we open Web Play to all players.</p>\n<p>Click <strong>Play in Browser</strong> on your game",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Thu, 29 Oct 2026 17:02:47 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "METRO Redux Next-Gen Update Out Now for XBOX Series X|S",
-      "link": "https://news.xbox.com/en-us/2026/10/29/metro-redux-next-gen-update/",
-      "resumo": "<p>The METRO Redux Next-Gen Update is out now on XBOX Series X&#124;S consoles. Right now, you can experience both METRO 2033 &#38; Last Light Redux with an unprecedented degree of immersion, thanks to performance improvements, enhanced visuals, and control upgrades that combine to take full advanta",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Thu, 29 Oct 2026 16:30:00 +0000",
-      "imagem": ""
-    },
-    {
       "titulo": "Team Fortress 2 Update Released",
       "link": "https://store.steampowered.com/news/289185/",
       "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Fixed smoke effect regression for Le Sapeur<br /><li>Updated the Chief Executor, V",
@@ -190,24 +442,6 @@
       "categoria": "Steam",
       "data": "Thu, 29 Oct 2026 13:29:00 -0700",
       "imagem": ""
-    },
-    {
-      "titulo": "(For Southeast Asia) First look inside the Prism Collection, with three new transparent designs for PS5 accessories",
-      "link": "https://blog.playstation.com/2026/10/28/20261029-ps5/",
-      "resumo": "Get ready to see your PS5 console and DualSense controller in a whole new way. Today, we are pleased to introduce the Prism Collection, featuring three striking transparent designs for DualSense wireless controllers and PS5 console covers: Flare Orange, Emerald Green, and Graphite Gray. The new coll",
-      "fonte": "PlayStation Blog",
-      "categoria": "PlayStation",
-      "data": "Thu, 29 Oct 2026 02:03:29 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Phantom Blade Zero: How boss weapons transform combat and exploration",
-      "link": "https://blog.playstation.com/2026/10/28/phantom-blade-zero-how-boss-weapons-transform-combat-and-exploration/",
-      "resumo": "Phantom Blade Zero blends influences from a variety of sources to create intense, fast-paced combat and a supernaturally infused Kungfupunk world. It draws on the tough, powerful bosses of Soulslikes, the quick, combo-focused combat of hack-and-slash games, the fascinating stories and characters of ",
-      "fonte": "PlayStation Blog",
-      "categoria": "PlayStation",
-      "data": "Thu, 29 Oct 2026 02:00:00 +0000",
-      "imagem": "https://blog.playstation.com/uploads/2048/10/19eb97d8a4391d4fbbd35eb2c8e834746d3eb76a.mp4"
     },
     {
       "titulo": "Release Notes for 736",
@@ -253,6 +487,15 @@
       "categoria": "Roblox",
       "data": "Thu, 15 Oct 2026 16:51:59 +0000",
       "imagem": ""
+    },
+    {
+      "titulo": "GTA 6 Worldwide Release Times Revealed, And The US Gets It Almost Last",
+      "link": "https://www.gamespot.com/articles/unofficial-gta-6-worldwide-release-times-revealed-and-the-us-gets-it-almost-last/",
+      "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">GTA 6</a> is one of the most-anticipated games ever, and it arrives on November 19. People naturally want to know when <em>exactly</em> that day it will be available",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Thu, 10 Sep 2026 14:34:11 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/09/Jason_and_Lucia_10_65a6a5.jpg?w=300"
     },
     {
       "titulo": "Release Notes for 742",
@@ -318,15 +561,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Final Fantasy XIV Evercold, próxima expansão do MMORPG da Square Enix, ganha nova data de lançamento",
-      "link": "https://br.ign.com/final-fantasy-xiv-online-evercold/157236/final-fantasy-xiv-evercold-proxima-expansao-do-mmorpg-da-square-enix-ganha-nova-data-de-lancamento",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/f/final-fant/final-fantasy-xiv-evercold-delayed-new-release-date-announce_5u7d.640.jpg\" vspace=\"5\" width=\"120\" />A próxima expansão do MMORPG estava prevista para ser lançada em janeiro de 2027, mas os Guerreiros da Luz terão ",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 23:36:56 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/f/final-fant/final-fantasy-xiv-evercold-delayed-new-release-date-announce_5u7d.jpg"
-    },
-    {
       "titulo": "Clean Up Server Memory Before Crashes With `ServerMemoryWarning`",
       "link": "https://devforum.roblox.com/t/clean-up-server-memory-before-crashes-with-servermemorywarning/4972486",
       "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p><code>DataModel.ServerLowMemoryWarning</code> is now available on RCC servers. This lets your scripts clean up non-essential content before out-of-memory crashes disconnect players.</p>\n<p>Connect to the signal in server scripts u",
@@ -334,60 +568,6 @@
       "categoria": "Roblox",
       "data": "Mon, 02 Nov 2026 22:43:30 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "Há 25 anos, este jogo de Dreamcast mostrou as limitações das notas de review dos games",
-      "link": "https://br.ign.com/rez/157235/ha-25-anos-este-jogo-de-dreamcast-mostrou-as-limitacoes-das-notas-de-review-dos-games",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/image_wrq3.640.jpg\" vspace=\"5\" width=\"120\" />Um lançamento de 2001 foi um dos exemplos da polaridade que os jogos podem ter em suas avaliações\nHoje, o game é considerado um clássico cult e muitos veículos reconsi",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 22:30:29 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/image_wrq3.jpg"
-    },
-    {
-      "titulo": "PS6: vazamentos e rumores indicam que, assim como o PS5, o próximo console da Sony virá equipado com um slot para SSD NVMe",
-      "link": "https://br.ign.com/playstation-6/157234/ps6-vazamentos-e-rumores-indicam-que-assim-como-o-ps5-o-proximo-console-da-sony-vira-equipado-com-um",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/image_dars.640.jpg\" vspace=\"5\" width=\"120\" />Cada vez mais detalhes sobre as especificações do console são reveladas\nAparentemente, o formato M.2 NVMe será mantido, com um grande salto para o PCIe 5.0 e a bem-vin",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 21:30:30 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/image_dars.jpg"
-    },
-    {
-      "titulo": "\"O mal pode triunfar repetidas vezes, mas sempre prepara o terreno para algo bom\": frase do autor de O Senhor dos Anéis foi escrita em uma carta ao filho durante a Segunda Guerra Mundial",
-      "link": "https://br.ign.com/o-senhor-dos-aneis/157233/o-mal-pode-triunfar-repetidas-vezes-mas-sempre-prepara-o-terreno-para-algo-bom-frase-do-autor-de-o-s",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/1366-2000_t11t.640.jpg\" vspace=\"5\" width=\"120\" />Enquanto Cristopher Tolkien se preparava para servir na Força Aérea Real, pai dele escrevia uma carta que tem tudo a ver com LOTR\nJ. R. R. Tolkien escreveu grande ",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 20:30:31 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/1366-2000_t11t.jpg"
-    },
-    {
-      "titulo": "Former Xbox Exec Shares Her Side Of The Story After Mysterious Depature",
-      "link": "https://www.gamespot.com/articles/former-xbox-exec-shares-her-side-of-the-story-after-mysterious-depature/",
-      "resumo": "<p class=\"wp-block-paragraph\">Helen Chiang, the veteran Xbox staffer who got promoted in July and <a href=\"https://www.gamespot.com/articles/xbox-veteran-who-just-got-promoted-under-asha-sharma-promptly-leaves-amid-mysterious-circumstances/\">left the company amid mysterious circumstances just recent",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 20:16:26 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Xboxreset.png?w=300"
-    },
-    {
-      "titulo": "Um engenheiro decidiu construir uma casa com 100 mil jornais velhos. Mais de um século depois, paredes e móveis de papel ainda podem ser vistos",
-      "link": "https://br.ign.com/tech/157232/um-engenheiro-decidiu-construir-uma-casa-com-100-mil-jornais-velhos-mais-de-um-seculo-depois-paredes",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/image_5s43.640.jpg\" vspace=\"5\" width=\"120\" />A famosa Paper House ainda está de pé e seus detalhes são impressionantes\nNa primeira metade do século XX, um engenheiro americano construiu uma casa com paredes de pa",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 19:30:30 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/image_5s43.jpg"
-    },
-    {
-      "titulo": "“Lembro-me deles perfeitamente”: há 37 anos, Kevin Costner conheceu dois figurantes que hoje são estrelas internacionais",
-      "link": "https://br.ign.com/cinema-tv/157231/lembro-me-deles-perfeitamente-ha-37-anos-kevin-costner-conheceu-dois-figurantes-que-hoje-sao-estrela",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/image_z2x7.640.jpg\" vspace=\"5\" width=\"120\" />Astro foi muito atencioso com dois jovens que se tornariam grandes atores\nFuturas estrelas de Hollywood apareceram como figurantes em um filme estrelado por Kevin Cost",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 18:30:29 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/image_z2x7.jpg"
     },
     {
       "titulo": "World of Warcraft: Forever – How Controller Support Reimagines the Way We Can Play in Azeroth",
@@ -399,42 +579,6 @@
       "imagem": ""
     },
     {
-      "titulo": "When Is Resident Evil Coming To Home Video? It Could Be Very Soon",
-      "link": "https://www.gamespot.com/articles/the-new-resident-evil-movie-will-be-available-to-watch-at-home-november-3-report/",
-      "resumo": "<p class=\"wp-block-paragraph\">Zach Cregger's Resident Evil movie crushed it at the box office, banking more than $400 million globally to become the <a href=\"https://www.gamespot.com/articles/here-are-the-highest-grossing-resident-evil-movies-ever-and-the-new-one-isnt-no-1/\">most successful entry in",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 17:26:02 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/resi.png?w=300"
-    },
-    {
-      "titulo": "Para futuros Mestres Pokémon: coleção com oito gerações está em oferta na Amazon",
-      "link": "https://br.ign.com/descontos/157230/para-futuros-mestres-pokemon-colecao-com-oito-geracoes-esta-em-oferta-na-amazon",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/historia-pokemon-produto-1280x720_xvyc.640.jpg\" vspace=\"5\" width=\"120\" />\nDois volumes ilustrados exploram os jogos, a Pokédex e os animes que marcaram a franquia",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 17:00:16 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/historia-pokemon-produto-1280x720_xvyc.jpg"
-    },
-    {
-      "titulo": "Phantom Blade Zero Put Up Some Massive Sales Numbers",
-      "link": "https://www.gamespot.com/articles/phantom-blade-zero-put-up-some-massive-sales-numbers/",
-      "resumo": "<p class=\"wp-block-paragraph\">Developer S-Game's action-RPG Phantom Blade Zero launched on October 29 and had a massive start across PC and PS5. </p>\n\n\n\n<p class=\"wp-block-paragraph\">The game sold more than 4 million copies over its first 72 hours. That works out to 926 units sold per minute or abou",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 16:41:44 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/PBZ.jpg?w=300"
-    },
-    {
-      "titulo": "Nintendo Shares Ocarina Of Time Switch 2 Design Sketches",
-      "link": "https://www.nintendolife.com/news/2026/11/nintendo-shares-ocarina-of-time-switch-2-design-sketches",
-      "resumo": "<p><strong>Ink's awakening.</strong></p><p>The latest <a href=\"https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-24-the-legend-of-zelda-ocarina-of-time-part-2/\">Ask the Developer</a> interviews are positively packed with interesting tidbits about the making of <a href=\"https://www.nintendol",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Mon, 02 Nov 2026 16:30:00 GMT",
-      "imagem": "https://images.nintendolife.com/5c64028d519f8/large.jpg"
-    },
-    {
       "titulo": "Xbox Game Pass Has A Busy November Ahead With Several Day-One Launches",
       "link": "https://www.gamespot.com/articles/xbox-game-pass-has-a-busy-november-ahead-with-several-day-one-launches/",
       "resumo": "<p class=\"wp-block-paragraph\">The start of the month is a good time to be an Xbox Game Pass subscriber, as that's when Microsoft reveals the next batch of games coming to the service. <a href=\"https://www.gamespot.com/articles/the-biggest-new-game-releases-of-november-2026/\">November is frontloaded<",
@@ -442,15 +586,6 @@
       "categoria": "Geral",
       "data": "Mon, 02 Nov 2026 16:17:53 +0000",
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Warhammer-Survivors.jpg?w=300"
-    },
-    {
-      "titulo": "GTA 6 Buying Guide: Get Ready For Sticker Shock",
-      "link": "https://www.gamespot.com/articles/gta-6-buying-guide-get-ready-for-sticker-shock/",
-      "resumo": "<p class=\"wp-block-paragraph\">Rockstar's <a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">GTA 6</a> finally releases on November 19, and if you're looking to play the game, you'll also need a console--and those are more expensive than ever. Her",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 16:10:15 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Ambrosia_05.jpg?w=300"
     },
     {
       "titulo": "Players’ Choice: Vote for October’s best new game",
@@ -462,42 +597,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Claude Code Just Got A New Rule: Stop Copying Other People’s Games",
-      "link": "https://www.gamespot.com/articles/claude-code-just-got-a-new-rule-stop-copying-other-people-games/",
-      "resumo": "<p class=\"wp-block-paragraph\">AI clones and vibe-coded copycat games have become a huge headache for developers recently, but it looks like an update to Anthropic's Claude Code's \"rules\" has been pushed out. Listed under \"tengu_heron_brook,\" the tweak to the AI now directs it not to copy games and a",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 15:36:59 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Star-Wars-Clone-Army.jpg?w=300"
-    },
-    {
-      "titulo": "Doom Dev Says “We’re Doing Great” After Half The Studio Was Just Laid Off",
-      "link": "https://www.gamespot.com/articles/doom-dev-says-were-doing-great-after-half-the-studio-was-just-laid-off/",
-      "resumo": "<p class=\"wp-block-paragraph\">Doom developer id Software was among the numerous Microsoft-owned game studios that cut staff recently as part of the big Xbox <a href=\"https://www.gamespot.com/articles/all-the-major-xbox-changes-microsoft-announced-today-layoffs-halo-changing-hands-and-more/\">\"reset.\"",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 15:31:04 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/darkages.jpg?w=300"
-    },
-    {
-      "titulo": "We Finally Know Who Made The Zelda: Ocarina Of Time Remake",
-      "link": "https://www.gamespot.com/articles/we-finally-know-who-made-the-zelda-ocarina-of-time-remake/",
-      "resumo": "<p class=\"wp-block-paragraph\">Fans have speculated on which studio is leading the development of The Legend of Zelda: Ocarina of Time remake since it was first announced, and a new Ask the Developer feature from Nintendo appears to give us the answer.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The intervi",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 15:24:50 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_07.jpg?w=300"
-    },
-    {
-      "titulo": "Nintendo Wanted To Remake Ocarina Of Time To \"Trigger New Insights\" For Future Titles",
-      "link": "https://www.nintendolife.com/news/2026/11/nintendo-wanted-to-remake-ocarina-of-time-to-trigger-new-insights-for-future-titles",
-      "resumo": "<p><strong>Out with the old, in with the Aonuma.</strong></p><p>\"Hang on, why is Nintendo remaking <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">Ocarina of Time</a> again?\" It's a natural question that might have occurred to you in the last few months",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Mon, 02 Nov 2026 15:15:00 GMT",
-      "imagem": "https://images.nintendolife.com/85b99110340db/large.jpg"
-    },
-    {
       "titulo": "‘90s style sci-fi horror Derelikt launches Nov 13 on PS5",
       "link": "https://blog.playstation.com/2026/11/02/90s-style-sci-fi-horror-derelikt-launches-nov-13-on-ps5/",
       "resumo": "Back in 1999, gaming was good. Games that were released late in the original PlayStation generation squeezed the last drop of performance out of the hardware, resulting in impressive visuals and all-time classics whose sequels we still play today. Fast forward 26 years and we’re excited to announce ",
@@ -507,33 +606,6 @@
       "imagem": "https://blog.playstation.com/uploads/2048/11/04c881948a7c27f10c73dcdca6556f6c29bc1912.mp4"
     },
     {
-      "titulo": "Zelda: Ocarina Of Time Switch 2 Development Team Has Been Revealed",
-      "link": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-switch-2-development-team-has-been-revealed",
-      "resumo": "<p><strong>Inside job.</strong></p><p>Nintendo has just released the first two parts of a new <a href=\"https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-24-the-legend-of-zelda-ocarina-of-time-part-1/\">Ask the Developer</a> series all about <a href=\"https://www.nintendolife.com/games/nintend",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Mon, 02 Nov 2026 14:30:00 GMT",
-      "imagem": "https://images.nintendolife.com/d387f9a5d8def/large.jpg"
-    },
-    {
-      "titulo": "Gears Of War: E-Day’s Apparent $500 Million Budget May Not Tell The Full Story – Report",
-      "link": "https://www.gamespot.com/articles/gears-of-war-e-day-apparent-500-million-budget-may-not-tell-the-full-story-report/",
-      "resumo": "<p class=\"wp-block-paragraph\">How much does a true console exclusive cost to make today? If recent reports are to be believed, <a href=\"https://www.gamespot.com/articles/gears-of-war-e-day-cost-half-a-billion-to-make-apparently/\" rel=\"noopener\" target=\"_blank\">Gears of War: E-Day had a production co",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 14:21:24 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Gears-E-Day.jpg?w=300"
-    },
-    {
-      "titulo": "Resident Evil Director Reacts To Backlash: “I Should Have Known Better”",
-      "link": "https://www.gamespot.com/articles/resident-evil-director-reacts-to-backlash-i-should-have-known-better/",
-      "resumo": "<p class=\"wp-block-paragraph\">Resident Evil is a huge success at the box office, recently <a href=\"https://www.boxofficemojo.com/release/rl3744759809/?ref_=bo_hm_rd\">surpassing $400 million globally</a>. It's also received fantastic review scores. But hardcore fans of the game series took issue with",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 14:06:33 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/removienew.png?w=300"
-    },
-    {
       "titulo": "Godzilla: Destroy All Monsters Melee Remastered fighter guide",
       "link": "https://blog.playstation.com/2026/11/02/godzilla-destroy-all-monsters-melee-remastered-fighter-guide/",
       "resumo": "With its giant-sized fanbase, Godzilla: Destroy All Monsters Melee Remastered has plenty of players ready to get tooth, nail, and claw stuck into its PlayStation 5 release on November 3. Although it would be understandable that newcomers might feel a little intimidated choosing between 12 world crus",
@@ -541,33 +613,6 @@
       "categoria": "PlayStation",
       "data": "Mon, 02 Nov 2026 14:01:16 +0000",
       "imagem": "https://blog.playstation.com/uploads/2048/11/d94855df1ef52d3aab754b9d5b9f4618db01e382.mp4"
-    },
-    {
-      "titulo": "É o fim de uma era: após 22 anos, lendário sucesso do anime está chegando ao fim",
-      "link": "https://br.ign.com/bleach/157229/e-o-fim-de-uma-era-apos-22-anos-lendario-sucesso-do-anime-esta-chegando-ao-fim",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/530702668_cv85.640.png\" vspace=\"5\" width=\"120\" />A popular série shonen, que já está em seu 22º ano, chegou ao fim\n<p>Em 2004, começou a ser exibida uma adaptação para anime do mangá Bleach, de Tite Kubo. A famos",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 13:00:36 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/530702668_cv85.png"
-    },
-    {
-      "titulo": "Autor de Bleach quebra o silêncio sobre influência da obra em Demon Slayer e Jujutsu Kaisen",
-      "link": "https://br.ign.com/bleach/157164/autor-de-bleach-quebra-o-silencio-sobre-influencia-da-obra-em-demon-slayer-e-jujutsu-kaisen",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/b1_a11u.640.jpg\" vspace=\"5\" width=\"120\" />Mangaká aborda legado do lendário Shonen da Jump e explica como o ciclo de inspiração entre gerações mantém a indústria de animes viva\n<p>Com a reta final da adaptação em",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 13:00:34 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/b1_a11u.jpg"
-    },
-    {
-      "titulo": "“É One Piece!”: documento egípcio de 3.300 anos sugere a existência de gigantes, e os fãs de One Piece pensam imediatamente no anime",
-      "link": "https://br.ign.com/one-piece-2/157228/e-one-piece-documento-egipcio-de-3300-anos-sugere-a-existencia-de-gigantes-e-os-fas-de-one-piece-pen",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/onepiece-woogey-6400058_ddcy.640.png\" vspace=\"5\" width=\"120\" />Não é apenas o tamanho dessas pessoas gigantes no texto antigo que lembra aos fãs de One Piece a obra de Oda\nNão é apenas o tamanho dessas pessoas gi",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Mon, 02 Nov 2026 12:00:34 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/onepiece-woogey-6400058_ddcy.png"
     },
     {
       "titulo": "20 years of PlayStation Store – devs share the great games that surprised them most",
@@ -624,24 +669,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Avatar Legends: The Fighting Game Enters the Avatar State",
-      "link": "https://news.xbox.com/en-us/2026/10/30/avatar-legends-the-fighting-game-enters-the-avatar-state/",
-      "resumo": "<p>The Avatar State Patch is available today for Avatar Legends: The Fighting Game on XBOX Series X&#124;S, and it’s the biggest update the game has seen. It brings a fresh new look for the game’s menus and in-match displays, two totally reimagined fighters, Ranked Mode 2.0, quality-of-life upgrades",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Fri, 30 Oct 2026 18:00:00 +0000",
-      "imagem": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/norra_lvl4-1.mp4"
-    },
-    {
-      "titulo": "Curse of Resthaven: Tips and Tricks to Unravel the Island’s Secrets",
-      "link": "https://news.xbox.com/en-us/2026/10/30/curse-of-resthaven-tips-and-tricks-xbox/",
-      "resumo": "<p>Hi there! I’m Scott Christian, the studio director of Hilltop Studios here in Toronto, and the game director of Curse of Resthaven. We make games with a particular emphasis on strong characters, intricate storytelling, unique mechanics, and the occasional musical interlude. Before making games, I",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Fri, 30 Oct 2026 17:00:00 +0000",
-      "imagem": ""
-    },
-    {
       "titulo": "Official PlayStation Podcast Episode 552: Pumpkins and Pines",
       "link": "https://blog.playstation.com/2026/10/30/official-playstation-podcast-episode-552-shivering-silver/",
       "resumo": "Email us at PSPodcast@sony.com! Subscribe via Apple Podcasts, Spotify, or download here Hey, y’all! Sid, O’Dell, and Kristen are back this week to talk about the big games of October, some you might have missed, a blast from the past, and what remains this year. Stuff We Talked About The Cast Thanks",
@@ -675,33 +702,6 @@
       "fonte": "PlayStation Blog",
       "categoria": "PlayStation",
       "data": "Fri, 30 Oct 2026 16:00:50 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Queen’s Domain Releases Today! Some Beginner’s Pro Tips for Success",
-      "link": "https://news.xbox.com/en-us/2026/10/30/queens-domain-launch-tips/",
-      "resumo": "<p>Queen’s Domain is a retro-fantasy action RPG that strands you alone on the monster-infested isle of Neasied, available today on XBOX Series X&#124;S. You’ll need wits as well as strength if you want to survive in this twisting, secretive world. Here’s a list of top tips for newly minted warriors,",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Fri, 30 Oct 2026 16:00:00 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Terrible Lizards: Movement Is Your Weapon",
-      "link": "https://news.xbox.com/en-us/2026/10/30/terrible-lizards-movement-is-your-weapon/",
-      "resumo": "<p>Terrible Lizards, available now on XBOX Series X&#124;S and Game Pass, is a first-person platforming game about escaping runaway dinosaur animatronics in an abandoned roadside attraction. That perspective was something we landed on pretty deliberately, through a process of both considering this p",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Fri, 30 Oct 2026 15:00:00 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Next Week on XBOX: New Games for November 2 to 6",
-      "link": "https://news.xbox.com/en-us/2026/10/30/next-week-on-xbox-new-games-for-november-2-to-6/",
-      "resumo": "<p>Welcome to Next Week on XBOX! In this weekly feature we cover all the games coming soon to XBOX Series X&#124;S, XBOX One, XBOX on PC, and Game Pass! Get more details on these upcoming games below and click their profiles for further info (release dates subject to change). Let’s jump in! ZERO PAR",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Fri, 30 Oct 2026 14:00:00 +0000",
       "imagem": ""
     },
     {
