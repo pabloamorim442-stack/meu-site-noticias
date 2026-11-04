@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/11/2026 às 22:44",
+  "atualizado_em": "04/11/2026 às 04:15",
   "total": 80,
   "noticias": [
     {
@@ -19,6 +19,42 @@
       "categoria": "Roblox",
       "data": "Wed, 09 Sep 2026 20:57:29 +0000",
       "imagem": ""
+    },
+    {
+      "titulo": "Dragon's Dogma 2: Dark Arisen New Update & Anime Collab Announced, Here Are The Full Patch Notes",
+      "link": "https://www.nintendolife.com/news/2026/11/dragons-dogma-2-dark-arisen-new-update-and-anime-collab-announced-here-are-the-full-patch-notes",
+      "resumo": "<p><strong>Coming to Switch 2 next week.</strong></p><p>Capcom has this week announced a new update for its recent release <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/dragons-dogma-2-dark-arisen\">Dragon's Dogma 2: Dark Arisen</a>. It's already available on other platforms and will ",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Wed, 04 Nov 2026 02:55:00 GMT",
+      "imagem": "https://images.nintendolife.com/61b3eb305fda2/large.jpg"
+    },
+    {
+      "titulo": "Box ilustrado de O Senhor dos Anéis está com 40% de desconto na Black Friday da Amazon",
+      "link": "https://br.ign.com/descontos/157297/box-ilustrado-de-o-senhor-dos-aneis-esta-com-40-de-desconto-na-black-friday-da-amazon",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/box-senhor-dos-aneis-alan-lee-capa-1280x720-v2_wkdu.640.jpg\" vspace=\"5\" width=\"120\" />\nA coleção reúne os três livros de Tolkien em capa dura, com ilustrações de Alan Lee, vencedor do Oscar por O Retorno do Rei",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Wed, 04 Nov 2026 02:39:51 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/box-senhor-dos-aneis-alan-lee-capa-1280x720-v2_wkdu.jpg"
+    },
+    {
+      "titulo": "Como migrar um site WordPress para a Hostinger: veja o passo a passo",
+      "link": "https://br.ign.com/tech/157295/como-migrar-um-site-wordpress-para-a-hostinger-veja-o-passo-a-passo",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/00-migracao-wordpress-capa-1280x720_w641.640.jpg\" vspace=\"5\" width=\"120\" />\nVeja como fazer uma migração assistida, os plugins necessários e os cuidados que se deve ter para testar o site e configurar domínio e e",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Wed, 04 Nov 2026 02:08:14 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/00-migracao-wordpress-capa-1280x720_w641.jpg"
+    },
+    {
+      "titulo": "Sonic Racing: CrossWorlds - Year Two 2.0.0 Patch Now Live - New Additions, Changes & Improvements",
+      "link": "https://www.nintendolife.com/news/2026/11/sonic-racing-crossworlds-year-two-2-0-0-patch-now-live-new-additions-changes-and-improvements",
+      "resumo": "<p><strong>Including paid and free updates.</strong></p><p><strong>:</strong></p><p>It's another <em>huge</em> week in gaming, and <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/sonic-racing-crossworlds-nintendo-switch-2-edition\">Sonic Racing: CrossWorlds</a> is joining in on the fun ",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Wed, 04 Nov 2026 01:15:00 GMT",
+      "imagem": "https://images.nintendolife.com/18e28c0a27fab/large.jpg"
     },
     {
       "titulo": "Release Notes for 745",
@@ -165,15 +201,6 @@
       "imagem": "https://sm.ign.com/ign_br/news/z/zach-cregg/zach-cregger-says-he-still-wants-to-have-a-hand-in-future-re_k3k6.jpg"
     },
     {
-      "titulo": "\"Uma obra-prima, está no mesmo nível dos melhores faroestes da história\": Pérez-Reverte escolhe seu faroeste favorito de Clint Eastwood",
-      "link": "https://br.ign.com/cinema-tv/157275/uma-obra-prima-esta-no-mesmo-nivel-dos-melhores-faroestes-da-historia-perez-reverte-escolhe-seu-faro",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/1200-800_ba9g.640.jpg\" vspace=\"5\" width=\"120\" />Conceituado novelista e jornalista espanhol é grande fã do estilo Velho Oeste\nDentre os títulos de Clint Eastwood, Arturo Pérez-Reverte é apaixonado em um clássico ",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 03 Nov 2026 19:31:46 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/1200-800_ba9g.jpg"
-    },
-    {
       "titulo": "WoW: Forever Won’t Get More Class Balance Changes Any Time Soon",
       "link": "https://www.gamespot.com/articles/wow-forever-wont-get-more-class-balance-changes-any-time-soon/",
       "resumo": "<p class=\"wp-block-paragraph\">World of Warcraft: Forever is gearing up for launch with some <a href=\"https://www.gamespot.com/articles/wow-forever-is-giving-players-a-big-damage-boost-for-launch/?_thumbnail_id=1947018\">major class balance changes</a>, but don't expect any more for at least a month.<",
@@ -208,15 +235,6 @@
       "categoria": "Geral",
       "data": "Tue, 03 Nov 2026 19:19:40 +0000",
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-Class-Damage-Boost.jpg?w=300"
-    },
-    {
-      "titulo": "Petit Planet confirma data de lançamento e anuncia versão para Nintendo Switch 2 em 2027",
-      "link": "https://br.ign.com/petit-planet/157277/petit-planet-confirma-data-de-lancamento-e-anuncia-versao-para-nintendo-switch-2-em-2027",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/blob_6fep.640.png\" vspace=\"5\" width=\"120\" />\nO primeiro aconchegante jogo de simulação de vida planetária da HoYoverse revela uma série de vizinhos, principais sistemas de jogabilidade e diversos eventos de lança",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Tue, 03 Nov 2026 19:03:18 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/blob_6fep.png"
     },
     {
       "titulo": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #8 - High Spirits",
@@ -415,24 +433,6 @@
       "categoria": "Nintendo",
       "data": "Tue, 03 Nov 2026 06:30:00 GMT",
       "imagem": "https://images.nintendolife.com/0f855dd77c7ea/large.jpg"
-    },
-    {
-      "titulo": "Round Up: The Reviews Are In For Stellar Blade's Switch 2 Port",
-      "link": "https://www.nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-stellar-blades-switch-2-port",
-      "resumo": "<p><strong>Is it a stellar port?</strong></p><p>It's all about Link this week, but there is another notable release arriving for the Switch 2 on the same day. It's Shift Up's action game, <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/stellar-blade-complete-edition\">Stellar Blade</a>.",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Tue, 03 Nov 2026 05:30:00 GMT",
-      "imagem": "https://images.nintendolife.com/b5734a47a18ea/large.jpg"
-    },
-    {
-      "titulo": "After Cancelling Zelda Switch 2 Pre-Orders, Walmart Is Now Supposedly Sending Out $519 Gift Cards",
-      "link": "https://www.nintendolife.com/news/2026/11/after-cancelling-zelda-switch-2-pre-orders-walmart-is-now-supposedly-sending-out-usd519-gift-cards",
-      "resumo": "<p><strong>Some customers also claim they've been able to \"reorder\" the system.</strong></p><p>Last week, Walmart reportedly cancelled <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">Zelda</a> Switch 2 pre-orders a day before the launch after it \"overso",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Tue, 03 Nov 2026 03:30:00 GMT",
-      "imagem": "https://images.nintendolife.com/5b3c5bb652577/large.jpg"
     },
     {
       "titulo": "Team Fortress 2 Update Released",
