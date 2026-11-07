@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/11/2026 às 22:36",
+  "atualizado_em": "07/11/2026 às 03:58",
   "total": 80,
   "noticias": [
     {
@@ -54,15 +54,6 @@
       "fonte": "Roblox - Anúncios",
       "categoria": "Roblox",
       "data": "Wed, 04 Nov 2026 19:52:09 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Upcoming Changes to Asset Properties: Content Property Serialization Switch",
-      "link": "https://devforum.roblox.com/t/upcoming-changes-to-asset-properties-content-property-serialization-switch/4975546",
-      "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Starting November 11, 2026, Studio saves asset references, like mesh and texture IDs, in a new Content format. The new <code>*Content</code> properties (like <code>.TextureContent</code>) fully support everything the legacy proper",
-      "fonte": "Roblox - Anúncios",
-      "categoria": "Roblox",
-      "data": "Wed, 04 Nov 2026 19:00:24 +0000",
       "imagem": ""
     },
     {
@@ -255,15 +246,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Nintendo Download: 5th November (North America) + Plus 3 Discounted Games You Should Snap Up",
-      "link": "https://www.nintendolife.com/news/2026/11/nintendo-download-5th-november-north-america-plus-plus-3-discounted-games-you-should-snap-up",
-      "resumo": "<p><strong>Games? That aren't Zelda?!?</strong></p><p><em>The latest Nintendo Download update for North America has arrived, and it's bringing Ocarina of Time — but also other new games — to the eShop. As always, be sure to drop a vote in our poll and comment down below with your potential picks for",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Thu, 05 Nov 2026 18:00:00 GMT",
-      "imagem": "https://images.nintendolife.com/d2df95c3f6918/large.jpg"
-    },
-    {
       "titulo": "Bundle Up With Two Beloved Classics, Now on EA Play",
       "link": "https://news.xbox.com/en-us/2026/11/05/ea-play-november/",
       "resumo": "<p>From garden chaos to cozy creations, two classics are on The Play List. Plants vs. Zombies: Replanted and MySims: Cozy Bundle are now on EA Play for XBOX! Members can fall back into beloved favorites with unlimited access. Game Pass Ultimate members can settle into sweater weather now with EA Pla",
@@ -354,6 +336,15 @@
       "imagem": ""
     },
     {
+      "titulo": "Zelda Producer Eiji Aonuma Talks About The Benefits Of \"Long-Term-Tenured Staff\" At Nintendo",
+      "link": "https://www.nintendolife.com/news/2026/11/zelda-producer-eiji-aonuma-talks-about-the-benefits-of-long-term-tenured-staff-at-nintendo",
+      "resumo": "<p><strong>\"It contributes to some of the sense of continuity\".</strong></p><p>One morsel from Nintendo's <a href=\"https://www.nintendolife.com/news/2026/11/nintendo-shares-ocarina-of-time-switch-2-design-sketches\">latest Ask the Developer interview</a> revealed how the team behind the <a href=\"http",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Sat, 07 Nov 2026 00:30:00 GMT",
+      "imagem": "https://images.nintendolife.com/4a6a8cabc193f/large.jpg"
+    },
+    {
       "titulo": "Team Fortress 2 Update Released",
       "link": "https://store.steampowered.com/news/285796/",
       "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>Added 'No Grenades' style for the General's Greatcoat<br /><li>Fixed regression in",
@@ -396,6 +387,15 @@
       "fonte": "Steam News",
       "categoria": "Steam",
       "data": "Fri, 16 Oct 2026 12:38:00 -0700",
+      "imagem": ""
+    },
+    {
+      "titulo": "Weekly Recap: November 2 - 6, 2026",
+      "link": "https://devforum.roblox.com/t/weekly-recap-november-2-6-2026/4979364",
+      "resumo": "<blockquote>\n<h3>Key Takeaways</h3>\n<p>Studio MCP now lets connected agents call Open Cloud APIs from the same chat where they edit a place, while Test Teleports in Studio makes cross-place playtesting possible without publishing. Creators can see more of their worlds on lower-end devices with a 500",
+      "fonte": "Roblox - Anúncios",
+      "categoria": "Roblox",
+      "data": "Fri, 06 Nov 2026 23:00:19 +0000",
       "imagem": ""
     },
     {
