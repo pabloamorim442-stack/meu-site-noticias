@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "15/11/2026 às 13:15",
+  "atualizado_em": "15/11/2026 às 22:20",
   "total": 80,
   "noticias": [
     {
@@ -219,15 +219,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Halo: Campaign Evolved Players Can Jump Into Firefight for Free This Winter",
-      "link": "https://news.xbox.com/en-us/2026/11/12/halo-campaign-evolved-firefight-free-update-this-winter/",
-      "resumo": "<p>For nearly two decades, Firefight has been a Halo favorite, challenging Spartans to team up, hold the line, and survive wave after wave of enemies. The tradition continues this winter as we add the four-player cooperative PvE mode to Halo: Campaign Evolved in a free update.  We&#8217;re kicking t",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Thu, 12 Nov 2026 17:00:00 +0000",
-      "imagem": ""
-    },
-    {
       "titulo": "Vindictus: Defying Fate comes to PS5 next year",
       "link": "https://blog.playstation.com/2026/11/12/vindictus-defying-fate-comes-to-ps5-next-year/",
       "resumo": "Hello, PlayStation players. I’m Dongseok Oh, lead director of the high-octane action-RPG Vindictus: Defying Fate. Our team is building a medieval fantasy adventure where heroes must stand against colossal foes in a world inspired by Celtic mythology and, today, we’re officially revealing that Vindic",
@@ -271,6 +262,51 @@
       "categoria": "Steam",
       "data": "Thu, 01 Oct 2026 12:04:00 -0700",
       "imagem": ""
+    },
+    {
+      "titulo": "Remake de The Legend of Zelda: Ocarina of Time faz menção sublime a Breath of the Wild e Wind Waker",
+      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157632/remake-de-the-legend-of-zelda-ocarina-of-time-faz-mencao-sublime-a-breath-of-the-wild-e-wind-waker",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/feature/2/29-new-cha/29-new-changes-in-the-zelda-ocarina-of-time-remake-redesigne_tw6s.640.jpg\" vspace=\"5\" width=\"120\" />Ya-ha-ha!\n<p>Uma conversa peculiar entre Link e Saria no <a href=\"https://br.ign.com/the-legend-of-zelda-ocari",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Sun, 15 Nov 2026 19:03:34 +0000",
+      "imagem": "https://sm.ign.com/ign_br/feature/2/29-new-cha/29-new-changes-in-the-zelda-ocarina-of-time-remake-redesigne_tw6s.jpg"
+    },
+    {
+      "titulo": "Fone de ouvido bluetooth da JBL é destaque da Black Friday Amazon com mais de R$ 200 de desconto",
+      "link": "https://br.ign.com/descontos/157655/fone-de-ouvido-bluetooth-da-jbl-e-destaque-da-black-friday-amazon-com-mais-de-r-200-de-desconto",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/jbl-fone-de-ouvido-bluetooth_q9mu.640.jpg\" vspace=\"5\" width=\"120\" />Fone sem fio conta com cancelamento ativo de ruído e bateria que dura até 10 horas. Saiba mais sobre este destaque da Black Friday da Amazon\nPar",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Sun, 15 Nov 2026 18:21:35 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/jbl-fone-de-ouvido-bluetooth_q9mu.jpg"
+    },
+    {
+      "titulo": "XBOX 25th Anniversary Magazine: Explore 25 Years of Games, Stories, and Memories",
+      "link": "https://news.xbox.com/en-us/2026/11/15/xbox-25th-anniversary-the-magazine/",
+      "resumo": "<p>The 25th Anniversary of XBOX has given fans much to celebrate: the milestones, the memories, and a whole slate of fun news for our players.   We know that many of our longtime fans first learned about the original XBOX by reading about it in a magazine back in the day. For you, we created [&#8230",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Sun, 15 Nov 2026 17:01:00 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "De um ponto de vista legal, a polícia e o exército japonês teoricamente não poderiam abrir fogo contra zumbis caso um apocalipse acontecesse",
+      "link": "https://br.ign.com/ign-misc/157588/de-um-ponto-de-vista-legal-a-policia-e-o-exercito-japones-teoricamente-nao-poderiam-abrir-fogo-contr",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/1_987d.640.png\" vspace=\"5\" width=\"120\" />Não seria um bom momento para estar no Japão caso isso acontecesse...\n<p>Nos filmes e séries, o protocolo padrão para um apocalipse zumbi é simples: o exército entra em ce",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Sun, 15 Nov 2026 17:00:39 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/1_987d.png"
+    },
+    {
+      "titulo": "\"Uma barata saiu do meu c*\": novo simulador de cortador de grama faz mais sucesso pelas músicas fictícias do que pelo jogo",
+      "link": "https://br.ign.com/games/157541/uma-barata-saiu-do-meu-c-novo-simulador-de-cortador-de-grama-faz-mais-sucesso-pelas-musicas-ficticia",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/oml_sxpw.640.jpg\" vspace=\"5\" width=\"120\" />Jogo acaba de ser lançado no Steam\n<p>Tenho certeza de que você clicou nessa matéria por conta do título e está se perguntando: \"o que é isso?\". Para início de conversa,",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Sun, 15 Nov 2026 14:00:36 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/oml_sxpw.jpg"
     },
     {
       "titulo": "Será que GTA 6 marcará o fim desta geração de consoles?",
@@ -372,24 +408,6 @@
       "imagem": "https://sm.ign.com/ign_br/feature/g/gtas-stran/gtas-strangest-myths-a-full-history_vytb.jpg"
     },
     {
-      "titulo": "Um dia nos bastidores de O Senhor dos Anéis: Os Anéis de Poder! - IGN Visita",
-      "link": "https://br.ign.com/senhor-dos-aneis-serie/157638/um-dia-nos-bastidores-de-o-senhor-dos-aneis-os-aneis-de-poder-ign-visita",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/controle-visita-senhor-dos-aneis-v2_u8qm.640.jpg\" vspace=\"5\" width=\"120\" />Passeamos um dia no universo de O Senhor dos Anéis na Inglaterra! Para a chegada da 3ª temporada de O Senhor dos Anéis: Os Anéis do Poder",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Sat, 14 Nov 2026 15:00:39 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/controle-visita-senhor-dos-aneis-v2_u8qm.jpg"
-    },
-    {
-      "titulo": "Uma das melhores séries do ano acabou de estrear na Netflix e ninguém está vendo",
-      "link": "https://br.ign.com/cinema-tv/157562/uma-das-melhores-series-do-ano-acabou-de-estrear-na-netflix-e-ninguem-esta-vendo",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/n1-20261111-153347-0000_1zkv.640.png\" vspace=\"5\" width=\"120\" />Novos episódios estreiam todos os sábados\n<p>Dentre meu rodízio de séries, k-dramas, doramas e c-dramas já viraram rotina, mas meus olhos foram chama",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Sat, 14 Nov 2026 15:00:37 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/n1-20261111-153347-0000_1zkv.png"
-    },
-    {
       "titulo": "Opinion: Nintendo Made Ocarina Of Time's Best Moment Even Better",
       "link": "https://www.nintendolife.com/features/opinion-nintendo-made-ocarina-of-times-best-moment-even-better",
       "resumo": "<p><strong>Masterful.</strong></p><p>Before launch, I didn't think it would be possible for anyone to spoil <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">Ocarina of Time</a> on Switch 2 for me.</p><p>I've played through the <a href=\"https://www.ninten",
@@ -397,24 +415,6 @@
       "categoria": "Nintendo",
       "data": "Sat, 14 Nov 2026 14:00:00 GMT",
       "imagem": "https://images.nintendolife.com/ce0522aa2d841/large.jpg"
-    },
-    {
-      "titulo": "\"Foi uma completa idiotice\": 10 anos antes da CD Projekt fazer história com The Witcher, outro estúdio tentou trazer Geralt para os games",
-      "link": "https://br.ign.com/the-witcher-2/157650/foi-uma-completa-idiotice-10-anos-antes-da-cd-projekt-fazer-historia-com-the-witcher-outro-estudio-t",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/t/the-witche/the-witcher-remake-is-on-hold-until-the-witcher-4s-developme_8x8t.640.jpg\" vspace=\"5\" width=\"120\" />A ambição dos devs acabou atrapalhando os planos na década de 90\nA Metropolis Software chegou a um acordo com And",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Sat, 14 Nov 2026 13:00:34 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/t/the-witche/the-witcher-remake-is-on-hold-until-the-witcher-4s-developme_8x8t.jpg"
-    },
-    {
-      "titulo": "Melhores ferramentas de vibe coding: 7 opções para criar sites e apps com IA",
-      "link": "https://br.ign.com/tech/157652/melhores-ferramentas-de-vibe-coding-7-opcoes-para-criar-sites-e-apps-com-ia",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/capa-vibe-coding-1280x720_y2kp.640.jpg\" vspace=\"5\" width=\"120\" />\nPlataformas transformam descrições em texto em projetos completos com recursos modernos e performance otimizada",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Sat, 14 Nov 2026 12:00:40 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/capa-vibe-coding-1280x720_y2kp.jpg"
     },
     {
       "titulo": "Talking Point: What Are You Playing This Weekend? (14th November)",
