@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "16/11/2026 às 04:07",
+  "atualizado_em": "16/11/2026 às 14:26",
   "total": 80,
   "noticias": [
     {
@@ -19,6 +19,15 @@
       "categoria": "Roblox",
       "data": "Wed, 09 Sep 2026 20:57:29 +0000",
       "imagem": ""
+    },
+    {
+      "titulo": "GTA 6 Nearing 15 Million Copies Sold And $1.5 Billion In Revenue, And The Game Isn’t Even Out Yet",
+      "link": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
+      "resumo": "<p class=\"wp-block-paragraph\">The video game research company Sensor Tower has updated its <a href=\"https://sensortower.com/grand-theft-auto-VI/sales-tracker\">GTA 6 sales tracker</a> to reveal the latest, albeit unofficial, sales data for the open-world crime game. According to Sensor Tower, GTA 6 h",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Wed, 04 Nov 2026 14:15:31 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_09-2.jpg?w=300"
     },
     {
       "titulo": "Now Available on Steam - Domino VR",
@@ -192,24 +201,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Slaughter Mode Arrives to DOOM: The Dark Ages | Revelations on November 16",
-      "link": "https://news.xbox.com/en-us/2026/11/12/slaughter-mode-arrives-to-doom-the-dark-ages-revelations-on-november-16/",
-      "resumo": "<p>The post <a href=\"https://news.xbox.com/en-us/2026/11/12/slaughter-mode-arrives-to-doom-the-dark-ages-revelations-on-november-16/\">Slaughter Mode Arrives to DOOM: The Dark Ages | Revelations on November 16</a> appeared first on <a href=\"https://news.xbox.com/en-us\">XBOX Wire</a>.</p>",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Thu, 12 Nov 2026 20:00:00 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Fable – New Quest Gameplay for XBOX’s 25th Anniversary",
-      "link": "https://news.xbox.com/en-us/2026/11/12/fable-new-quest-gameplay-for-xboxs-25th-anniversary/",
-      "resumo": "<p>The post <a href=\"https://news.xbox.com/en-us/2026/11/12/fable-new-quest-gameplay-for-xboxs-25th-anniversary/\">Fable &#8211; New Quest Gameplay for XBOX&#8217;s 25th Anniversary</a> appeared first on <a href=\"https://news.xbox.com/en-us\">XBOX Wire</a>.</p>",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Thu, 12 Nov 2026 19:00:00 +0000",
-      "imagem": ""
-    },
-    {
       "titulo": "Experiments: Measure Impact with Custom and Rewarded Ad Earning Metrics",
       "link": "https://devforum.roblox.com/t/experiments-measure-impact-with-custom-and-rewarded-ad-earning-metrics/4988305",
       "resumo": "<aside class=\"quote no-group\">\n<blockquote>\n<h3>Key Takeaways</h3>\n<p>Experiments now have two new metric sets. The <strong>Custom</strong> metric set lets you add up to three of your own metrics built from your custom, economy and funnel events, so you can see exactly what changed in your game. The",
@@ -291,15 +282,6 @@
       "imagem": "https://sm.ign.com/ign_br/feature/2/29-new-cha/29-new-changes-in-the-zelda-ocarina-of-time-remake-redesigne_tw6s.jpg"
     },
     {
-      "titulo": "Fone de ouvido bluetooth da JBL é destaque da Black Friday Amazon com mais de R$ 200 de desconto",
-      "link": "https://br.ign.com/descontos/157655/fone-de-ouvido-bluetooth-da-jbl-e-destaque-da-black-friday-amazon-com-mais-de-r-200-de-desconto",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/jbl-fone-de-ouvido-bluetooth_q9mu.640.jpg\" vspace=\"5\" width=\"120\" />Fone sem fio conta com cancelamento ativo de ruído e bateria que dura até 10 horas. Saiba mais sobre este destaque da Black Friday da Amazon\nPar",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Sun, 15 Nov 2026 18:21:35 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/jbl-fone-de-ouvido-bluetooth_q9mu.jpg"
-    },
-    {
       "titulo": "XBOX 25th Anniversary Magazine: Explore 25 Years of Games, Stories, and Memories",
       "link": "https://news.xbox.com/en-us/2026/11/15/xbox-25th-anniversary-the-magazine/",
       "resumo": "<p>The 25th Anniversary of XBOX has given fans much to celebrate: the milestones, the memories, and a whole slate of fun news for our players.   We know that many of our longtime fans first learned about the original XBOX by reading about it in a magazine back in the day. For you, we created [&#8230",
@@ -307,60 +289,6 @@
       "categoria": "Xbox",
       "data": "Sun, 15 Nov 2026 17:01:00 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "De um ponto de vista legal, a polícia e o exército japonês teoricamente não poderiam abrir fogo contra zumbis caso um apocalipse acontecesse",
-      "link": "https://br.ign.com/ign-misc/157588/de-um-ponto-de-vista-legal-a-policia-e-o-exercito-japones-teoricamente-nao-poderiam-abrir-fogo-contr",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/1_987d.640.png\" vspace=\"5\" width=\"120\" />Não seria um bom momento para estar no Japão caso isso acontecesse...\n<p>Nos filmes e séries, o protocolo padrão para um apocalipse zumbi é simples: o exército entra em ce",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Sun, 15 Nov 2026 17:00:39 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/1_987d.png"
-    },
-    {
-      "titulo": "\"Uma barata saiu do meu c*\": novo simulador de cortador de grama faz mais sucesso pelas músicas fictícias do que pelo jogo",
-      "link": "https://br.ign.com/games/157541/uma-barata-saiu-do-meu-c-novo-simulador-de-cortador-de-grama-faz-mais-sucesso-pelas-musicas-ficticia",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/oml_sxpw.640.jpg\" vspace=\"5\" width=\"120\" />Jogo acaba de ser lançado no Steam\n<p>Tenho certeza de que você clicou nessa matéria por conta do título e está se perguntando: \"o que é isso?\". Para início de conversa,",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Sun, 15 Nov 2026 14:00:36 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/oml_sxpw.jpg"
-    },
-    {
-      "titulo": "Será que GTA 6 marcará o fim desta geração de consoles?",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157623/sera-que-gta-6-marcara-o-fim-desta-geracao-de-consoles",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/blob_9fud.640.png\" vspace=\"5\" width=\"120\" />\nO gigante da Rockstar desencadeia uma onda massiva de compras, ao mesmo tempo que leva nossos consoles atuais ao limite absoluto de sua capacidade",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Sun, 15 Nov 2026 13:00:36 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/blob_9fud.png"
-    },
-    {
-      "titulo": "“Era um PowerPoint com ideias de executivos”: aqueles que testaram Fairgames, que foi cancelado pela Sony, não pouparam críticas ao jogo",
-      "link": "https://br.ign.com/fairgame/157622/era-um-powerpoint-com-ideias-de-executivos-aqueles-que-testaram-fairgames-que-foi-cancelado-pela-son",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/blob_3xky.640.png\" vspace=\"5\" width=\"120\" />\nFairgames estava sendo desenvolvido por Jade Raymond, veterana da Ubisoft, ao menos até sua saída em 2025",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Sun, 15 Nov 2026 12:00:38 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/blob_3xky.png"
-    },
-    {
-      "titulo": "Nobuo Uematsu, compositor de Final Fantasy: “Não estamos mais na era em que se pode fazer música de videogame do jeito que quiser”",
-      "link": "https://br.ign.com/final-fantasy-1/157620/nobuo-uematsu-compositor-de-final-fantasy-nao-estamos-mais-na-era-em-que-se-pode-fazer-musica-de-vid",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/blob_pc2m.640.png\" vspace=\"5\" width=\"120\" />\nAnos perseguindo o modelo cinematográfico resultaram em trilhas sonoras monótonas e sem identidade própria",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Sun, 15 Nov 2026 11:00:38 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/blob_pc2m.png"
-    },
-    {
-      "titulo": "Nintendo abre uma nova vaga para preservar e organizar seus jogos antigos",
-      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-1998/157583/nintendo-abre-uma-nova-vaga-para-preservar-e-organizar-seus-jogos-antigos",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/n/nintendo-o/nintendo-opens-new-job-role-to-preserve-and-organize-its-old_sbt3.640.jpg\" vspace=\"5\" width=\"120\" />\nA descrição da vaga apresenta o candidato ideal como alguém com “experiência em arquivos, gestão de metadados, a",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Sun, 15 Nov 2026 10:00:38 +0000",
-      "imagem": "https://sm.ign.com/ign_br/news/n/nintendo-o/nintendo-opens-new-job-role-to-preserve-and-organize-its-old_sbt3.jpg"
     },
     {
       "titulo": "Poll: Which Dr. Mario & Puzzle League Box Art Is The Best?",
@@ -408,49 +336,166 @@
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_17_338c4e.jpg?w=300"
     },
     {
-      "titulo": "Opinion: Nintendo Made Ocarina Of Time's Best Moment Even Better",
-      "link": "https://www.nintendolife.com/features/opinion-nintendo-made-ocarina-of-times-best-moment-even-better",
-      "resumo": "<p><strong>Masterful.</strong></p><p>Before launch, I didn't think it would be possible for anyone to spoil <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">Ocarina of Time</a> on Switch 2 for me.</p><p>I've played through the <a href=\"https://www.ninten",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Sat, 14 Nov 2026 14:00:00 GMT",
-      "imagem": "https://images.nintendolife.com/ce0522aa2d841/large.jpg"
+      "titulo": "Xbox confirma que Project Helix é “um console capaz de rodar jogos do seu PC”",
+      "link": "https://br.ign.com/xbox-next-generation/157665/xbox-confirma-que-project-helix-e-um-console-capaz-de-rodar-jogos-do-seu-pc",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/x/xbox-confi/xbox-confirms-project-helix-is-a-console-capable-of-playing_8vph.640.jpg\" vspace=\"5\" width=\"120\" />\nA próxima geração",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Mon, 16 Nov 2026 14:01:23 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/x/xbox-confi/xbox-confirms-project-helix-is-a-console-capable-of-playing_8vph.jpg"
     },
     {
-      "titulo": "Talking Point: What Are You Playing This Weekend? (14th November)",
-      "link": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-14th-november",
-      "resumo": "<p><strong>Dandori Academy beckons.</strong></p><p>Well folks, you've made it through another week – well done! Chances are many of you have completed your quest in <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">Ocarina of Time</a> by now, with many mo",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Sat, 14 Nov 2026 10:00:00 GMT",
-      "imagem": "https://images.nintendolife.com/e61ef31e4453f/large.jpg"
+      "titulo": "A Message From Dr. XBOX: It’s Time to Take the Day Off and Play XBOX",
+      "link": "https://news.xbox.com/en-us/2026/11/16/dr-xbox-its-time-to-take-the-day-off-and-play-xbox/",
+      "resumo": "<p>Some may know me as DJ Khaled. Some may know me as a hitmaker, a major key provider. But today, I want you to call me Dr. XBOX. Why? Because I’ve been seeing something out there. And the symptoms? They are REAL. I’m talking twitchy thumbs. Controller cramps. Late-night gaming dreams. Uncontrollab",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Mon, 16 Nov 2026 14:00:00 +0000",
+      "imagem": ""
     },
     {
-      "titulo": "Pikmin's Mobile Soundtrack Has Been Added To Nintendo Music, Here's Every Song Included",
-      "link": "https://www.nintendolife.com/news/2026/11/pikmins-mobile-soundtrack-has-been-added-to-nintendo-music-heres-every-song-included",
-      "resumo": "<p><strong>Celebrating five years of \"blooming together\".</strong></p><p></p><p>Alongside the release of <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy\">Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy</a> this week, Ninten",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Sat, 14 Nov 2026 06:00:00 GMT",
-      "imagem": "https://images.nintendolife.com/b7bb881087c51/large.jpg"
+      "titulo": "Segundo relatos, Jensen Huang estaria avaliando a possibilidade de retornar como CEO da Nvidia com apoio de aliados",
+      "link": "https://br.ign.com/nvidia/157663/segundo-relatos-jensen-huang-estaria-avaliando-a-possibilidade-de-retornar-como-ceo-da-nvidia-com-ap",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/j/jensen-hua/jensen-huang-reportedly-weighing-return-as-nvidia-ceo-with-a_498s.640.jpg\" vspace=\"5\" width=\"120\" />\nEle pediu demissão há três dias",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Mon, 16 Nov 2026 13:47:30 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/j/jensen-hua/jensen-huang-reportedly-weighing-return-as-nvidia-ceo-with-a_498s.jpg"
     },
     {
-      "titulo": "ICYMI: Limited Run Games Announces Restock Of Tomb Raider: Definitive Edition For Switch 2",
-      "link": "https://www.nintendolife.com/news/2026/11/icymi-limited-run-games-announces-restock-of-tomb-raider-definitive-edition-for-switch-2",
-      "resumo": "<p><strong>A second chance to secure a copy.</strong></p><p></p><p>Physical game distributor Limited Run Games is all about \"limited\" releases, but it's making an exception for Lara Croft.</p><p>Read the <a href=\"https://www.nintendolife.com/news/2026/11/icymi-limited-run-games-announces-restock-of-",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Sat, 14 Nov 2026 03:30:00 GMT",
-      "imagem": "https://images.nintendolife.com/de0ee2887d85b/large.jpg"
+      "titulo": "Nvidia GeForce RTX 30-Series Reveal",
+      "link": "https://br.ign.com/gallery/157619/nvidia-geforce-rtx-30-series-reveal",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/gallery/n/nvidia-gef/nvidia-geforce-rtx-30-series-reveal_ptkh.640.jpg\" vspace=\"5\" width=\"120\" />",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Mon, 16 Nov 2026 13:47:30 +0000",
+      "imagem": "https://sm.ign.com/ign_br/gallery/n/nvidia-gef/nvidia-geforce-rtx-30-series-reveal_ptkh.jpg"
     },
     {
-      "titulo": "The Game Awards 2026 Nominees To Be Announced Next Week, Zelda And GTA 6 Eligible",
-      "link": "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible",
-      "resumo": "<p><strong>Geoff Keighley's annual show is almost here!</strong></p><p>We're now at the tail end of the year, and you know what that means, right? It's time to get ready for <strong>The Game Awards</strong>.</p><p>The annual show, hosted by creator Geoff Keighley, is taking place on <strong>10th Dec",
+      "titulo": "GTA 6 Promo At KFC Is A Fake Funeral So You Can Take The Day Off To Play",
+      "link": "https://www.gamespot.com/articles/gta-6-promo-at-kfc-is-a-fake-funeral-so-you-can-take-the-day-off-to-play/",
+      "resumo": "<p class=\"wp-block-paragraph\">The popular fried chicken chain KFC has announced a frankly absurd <a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">GTA 6</a> promotion: a fake funeral so people have a “legitimate” excuse to take the day off to pl",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Mon, 16 Nov 2026 13:42:12 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA6KFC-Large.jpeg?w=300"
+    },
+    {
+      "titulo": "Xbox Is Looking For Smarter Ways To Stop Its Next Console From Costing A Fortune",
+      "link": "https://www.gamespot.com/articles/xbox-is-hoping-ai-can-stop-its-next-console-from-costing-a-fortune/",
+      "resumo": "<p class=\"wp-block-paragraph\">No one knows yet exactly what the next-gen Xbox console, <a href=\"https://www.gamespot.com/articles/next-xbox-release-date-specs-display-price/1100-6525379/\" rel=\"noreferrer noopener\" target=\"_blank\">Project Helix</a>, will be, but most people are convinced it won't be ",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Mon, 16 Nov 2026 13:40:05 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/07/original-xbox-logo.jpg?w=300"
+    },
+    {
+      "titulo": "Nintendo Store App Receives A Small But Worthwhile Update, Here Are The Patch Notes",
+      "link": "https://www.nintendolife.com/news/2026/11/nintendo-store-app-receives-a-small-but-worthwhile-update-here-are-the-patch-notes",
+      "resumo": "<p><strong>Play activity improvements.</strong></p><p>Remember the dedicated <a href=\"https://www.nintendolife.com/games/mobile/nintendo_store\">Nintendo Store</a> mobile app? Honestly, we sometimes forget about it too. But hey, Nintendo is still updating it, and the latest patch should make it a lit",
       "fonte": "Nintendo Life",
       "categoria": "Nintendo",
-      "data": "Sat, 14 Nov 2026 01:00:00 GMT",
-      "imagem": "https://images.nintendolife.com/26d6a5deab4e5/large.jpg"
+      "data": "Mon, 16 Nov 2026 13:00:00 GMT",
+      "imagem": "https://images.nintendolife.com/5efeca106ac23/large.jpg"
+    },
+    {
+      "titulo": "GTA 6 recebe mais um patch de lançamento, e ele é 1 GB maior no Xbox",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157661/gta-6-recebe-mais-um-patch-de-lancamento-e-ele-e-1-gb-maior-no-xbox",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/g/gta-6-gets/gta-6-gets-another-day-one-patch-and-its-1gb-bigger-on-xbox_fdgb.640.jpg\" vspace=\"5\" width=\"120\" />\nÉ provável que a Rockstar esteja apenas aprimorando o desempenho e corrigindo bugs de última hora antes do lançam",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Mon, 16 Nov 2026 12:58:28 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/g/gta-6-gets/gta-6-gets-another-day-one-patch-and-its-1gb-bigger-on-xbox_fdgb.jpg"
+    },
+    {
+      "titulo": "Artbook de Princesa Mononoke revela como filme do Studio Ghibli seria muito diferente do que estamos acostumados",
+      "link": "https://br.ign.com/princesa-mononoke/157649/artbook-de-princesa-mononoke-revela-como-filme-do-studio-ghibli-seria-muito-diferente-do-que-estamos",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/m1-20261113-170518-0000_p3dm.640.jpg\" vspace=\"5\" width=\"120\" />Livro contém 258 imagens, 90 delas nunca exibidas para o público\n<p>Quem assistiu a <a href=\"https://br.ign.com/princesa-mononoke\" target=\"_blank\">Pr",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Mon, 16 Nov 2026 12:30:30 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/m1-20261113-170518-0000_p3dm.jpg"
+    },
+    {
+      "titulo": "GTA 6 Twitch Drops Are Coming Soon, Here’s How To Get Your Free Rewards",
+      "link": "https://www.gamespot.com/articles/gta-6-twitch-drops/",
+      "resumo": "<p class=\"wp-block-paragraph\">While you might be tempted to take a spin through <a href=\"https://www.gamespot.com/games/grand-theft-auto-vi/\">Grand Theft Auto 6</a> right now, you might want to hold your horses and <em>watch</em> some gameplay instead. Over on Twitch, the streaming platform is hosti",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Mon, 16 Nov 2026 12:14:18 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-28.jpg?w=300"
+    },
+    {
+      "titulo": "Guide: Pokémon Pokopia Apples to Applin Event Guide, From Syrupy Apples To A Kitchen Table",
+      "link": "https://www.nintendolife.com/guides/pokemon-pokopia-apples-to-applin-event-guide",
+      "resumo": "<p><strong>Cor! Five new Grass- and Dragon-types for a limited-time only.</strong></p><p>The <strong>Apples to Applin</strong> <strong>event</strong> runs from 16th November to 1st December, 2026, adding five Gen 8 Pokémon to Pokémon Pokopia.</p><p>If you've played previous <a href=\"https://www.nint",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Mon, 16 Nov 2026 11:56:00 GMT",
+      "imagem": "https://images.nintendolife.com/f7167246514a9/large.jpg"
+    },
+    {
+      "titulo": "Splatoon Raiders Is Getting Its Very Own 336-Page Art Book Next Year",
+      "link": "https://www.nintendolife.com/news/2026/11/splatoon-raiders-is-getting-its-very-own-336-page-art-book-next-year",
+      "resumo": "<p><strong>Let's hope it's not a Japan exclusive for long.</strong></p><p>Nintendo has announced that it is teaming up with KADOKAWA on a new art book all about <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/splatoon-raiders\">Splatoon Raiders</a>.</p><p>The 336-page book launches in J",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Mon, 16 Nov 2026 11:30:00 GMT",
+      "imagem": "https://images.nintendolife.com/08b601c70d76d/large.jpg"
+    },
+    {
+      "titulo": "Xbox Project Helix Is A Console That Plays PC Games, Not The Other Way Around",
+      "link": "https://www.gamespot.com/articles/xbox-project-helix-is-a-console-that-plays-pc-games-not-the-other-way-around/",
+      "resumo": "<p class=\"wp-block-paragraph\">Xbox has revealed more details about its next-gen device, <a href=\"https://www.gamespot.com/articles/next-xbox-release-date-specs-display-price/1100-6525379/\" rel=\"noreferrer noopener\" target=\"_blank\">Project Helix</a>, describing it as a \"console capable of playing gam",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Mon, 16 Nov 2026 10:48:53 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/06/Xbox.jpg?w=300"
+    },
+    {
+      "titulo": "Random: Modder Transforms DS Into A Home Console, And It's Super Cool",
+      "link": "https://www.nintendolife.com/news/2026/11/random-modder-transforms-ds-into-a-home-console-and-its-super-cool",
+      "resumo": "<p><strong>Meet the DualStation.</strong></p><p>We have long pondered what a DS library would look like on Nintendo Switch Online for some dual-screen, big-screen action. Nintendo is yet to give us the real deal, so modder KOUZEX has taken things into his own hands, creating a build that converts ou",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Mon, 16 Nov 2026 10:45:00 GMT",
+      "imagem": "https://images.nintendolife.com/a99cb92004802/large.jpg"
+    },
+    {
+      "titulo": "Minecraft Dungeons II: The Humblers Awaken Arrives on December 1",
+      "link": "https://news.xbox.com/en-us/2026/11/16/minecraft-dungeons-ii-the-humblers-awaken-arrives-on-december-1/",
+      "resumo": "<p>The post <a href=\"https://news.xbox.com/en-us/2026/11/16/minecraft-dungeons-ii-the-humblers-awaken-arrives-on-december-1/\">Minecraft Dungeons II: The Humblers Awaken Arrives on December 1</a> appeared first on <a href=\"https://news.xbox.com/en-us\">XBOX Wire</a>.</p>",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Mon, 16 Nov 2026 10:43:38 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Em 1972, o Japão construiu um arranha-céu com 140 apartamentos de cápsulas, mas nenhum deles foi substituído da forma planejada",
+      "link": "https://br.ign.com/tech/157657/em-1972-o-japao-construiu-um-arranha-ceu-com-140-apartamentos-de-capsulas-mas-nenhum-deles-foi-subst",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/imagem_ssh1.640.jpg\" vspace=\"5\" width=\"120\" />Por conta da manutenção cara e difícil, as cápsulas nunca foram substituídas e o prédio foi demolido 50 anos depois\nCada cápsula foi projetada para ser destacável e r",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Mon, 16 Nov 2026 10:00:46 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/imagem_ssh1.jpg"
+    },
+    {
+      "titulo": "Mega Man: Dual Override Reveals Robot Master Design Contest Winner",
+      "link": "https://www.nintendolife.com/news/2026/11/mega-man-dual-override-reveals-robot-master-design-contest-winner",
+      "resumo": "<p><strong>Gold Prize Man.</strong></p><p>Capcom has announced the winner of the <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/mega_man_dual_override\">Mega Man: Dual Override</a> Robot Master design contest, with the winning character set to officially appear as an in-game boss.</p><",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Mon, 16 Nov 2026 09:45:00 GMT",
+      "imagem": "https://images.nintendolife.com/d4f62e999e670/large.jpg"
+    },
+    {
+      "titulo": "\"Está prosseguindo conforme o planejado\": Sony garante que PS6 não será afetado por problemas de memória RAM",
+      "link": "https://br.ign.com/playstation-6/157656/esta-prosseguindo-conforme-o-planejado-sony-garante-que-ps6-nao-sera-afetado-por-problemas-de-memori",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/1200-800_mjy7.640.jpg\" vspace=\"5\" width=\"120\" />Segundo a empresa, o próximo console não deve sofrer com a escassez de componentes\nApesar do aumento histórico nos preços da memória e da desaceleração no ritmo de ",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Mon, 16 Nov 2026 09:00:41 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/1200-800_mjy7.jpg"
     },
     {
       "titulo": "Graphic novel na Black Friday: Na Trilha de Blueberry e O Combate Cotidiano estão com mais de 40% de desconto",
@@ -588,15 +633,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Official Zelda Website Raises Eyebrows By Labeling 3DS Game As Playable On Switch",
-      "link": "https://www.gamespot.com/articles/official-zelda-website-raises-eyebrows-by-labeling-3ds-game-as-playable-on-switch/",
-      "resumo": "<p class=\"wp-block-paragraph\">Nintendo is celebrating The Legend of Zelda's 40th anniversary in many different ways, but one detail on the company's official website raised confusion--and curiosity-- about a classic 3DS Zelda game.</p>\n\n\n\n<p class=\"wp-block-paragraph\">A \"History\" page on Nintendo's ",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Fri, 13 Nov 2026 17:13:06 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Nintendo-3DS-and-2DS-The-Legend-of-Zelda_-A-Link-Between-Worlds-Trailer-0-1-48.jpeg?w=300"
-    },
-    {
       "titulo": "Share of the Week: Lights",
       "link": "https://blog.playstation.com/2026/11/13/share-of-the-week-lights/",
       "resumo": "Last week, we asked you to shine a light in games your love using #PSshare #PSBlog. Here are this week’s highlights: rorottino shared Sam holding his hands out to a ray of light in Death Stranding 2: On The Beach Leumir4 shared a lit flame in Red Dead Redemption 2 JarrinWasHere shared Aloy taking in",
@@ -606,24 +642,6 @@
       "imagem": ""
     },
     {
-      "titulo": "GTA 6 And These Other Games Can Justify An $80 Price, Expert Says",
-      "link": "https://www.gamespot.com/articles/gta-6-and-these-other-games-can-justify-an-80-price-expert-says/",
-      "resumo": "<p class=\"wp-block-paragraph\">Rockstar's <a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">Grand Theft Auto 6</a> finally releases on November 19, and you'll have to pay at least $80 for it. That's a full $20 more than what GTA 5 cost in 2013 an",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Fri, 13 Nov 2026 16:37:29 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Vice_City_03.jpg?w=300"
-    },
-    {
-      "titulo": "GTA 6 In-Game TV Show Macca & Friends Looks Ridiculous In The Best Way",
-      "link": "https://www.gamespot.com/articles/gta-6-in-game-tv-show-macca-friends-looks-ridiculous-in-the-best-way/",
-      "resumo": "<p class=\"wp-block-paragraph\">Rockstar Games has released the first footage of an in-game <a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">GTA 6</a> TV show called \"Macca &amp; Friends,\" which is about a sunglass-wearing pink alligator and his ",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Fri, 13 Nov 2026 15:13:57 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA6NewImage.png?w=300"
-    },
-    {
       "titulo": "Next Week on XBOX: New Games for November 16 to 20",
       "link": "https://news.xbox.com/en-us/2026/11/13/next-week-on-xbox-new-games-for-november-16-to-20/",
       "resumo": "<p>Welcome to Next Week on XBOX! In this weekly feature we cover all the games coming soon to XBOX Series X&#124;S, XBOX One, XBOX on PC, and Game Pass! Get more details on these upcoming games below and click their profiles for further info (release dates subject to change). Let’s jump in! Grand Th",
@@ -631,24 +649,6 @@
       "categoria": "Xbox",
       "data": "Fri, 13 Nov 2026 15:00:00 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "The PS5’s New Graphics-Upscaling Trick Is Spreading To More Games",
-      "link": "https://www.gamespot.com/articles/the-ps5s-new-graphics-upscaling-trick-is-spreading-to-more-games/",
-      "resumo": "<p class=\"wp-block-paragraph\">Sony has announced that several more games are getting a Quick Spectral Super Resolution (QSSR) upgrade on PS5. Introduced in September, QSSR is an AI-guided upscaling technology similar to the PS5 Pro's PlayStation Spectral Super Resolution (PSSR), and it originally su",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Fri, 13 Nov 2026 14:47:08 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/09/Control-Resonant-1.jpg?w=300"
-    },
-    {
-      "titulo": "Xbox Says Putting Ads In Games, Something No One Likes, Could Help Save Gaming",
-      "link": "https://www.gamespot.com/articles/xbox-says-putting-ads-in-games-something-no-one-likes-could-help-save-gaming/",
-      "resumo": "<p class=\"wp-block-paragraph\">Xbox Cloud Gaming now has a <a href=\"https://x.com/XBOX/status/2120577357769564501\">free ad-supported version</a> that's rolling out as part of Microsoft's bigger push to bring more ads to Xbox. Jonathan Stringfield, who worked on Activision's advertising push and is no",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Fri, 13 Nov 2026 14:26:32 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Xbox-1.png?w=300"
     },
     {
       "titulo": "QSSR arrives in Marvel’s Spider-Man 2, Control Resonant, The Finals, Arc Raiders, No Man’s Sky, and Hell Let Loose: Vietnam",
