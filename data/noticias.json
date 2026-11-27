@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/11/2026 às 01:21",
+  "atualizado_em": "27/11/2026 às 15:55",
   "total": 80,
   "noticias": [
     {
@@ -57,15 +57,6 @@
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_13_242d72.jpg?w=300"
     },
     {
-      "titulo": "Diablo 4 Is Making Helltides A Hell Of A Lot Easier",
-      "link": "https://www.gamespot.com/articles/diablo-4-is-making-helltides-a-hell-of-a-lot-easier/",
-      "resumo": "<p class=\"wp-block-paragraph\">One of <a href=\"https://www.gamespot.com/games/diablo-iv/\">Diablo 4's</a> oldest endgame activities, Helltides, is getting a major refresh for Season 16.</p>\n\n\n\n<p class=\"wp-block-paragraph\">As <a href=\"https://news.blizzard.com/en-us/article/24316979/advance-the-war-ag",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Wed, 25 Nov 2026 17:55:59 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/Diablo-4-Season-16-Helltide-Changes.jpg?w=300"
-    },
-    {
       "titulo": "Team Fortress 2 Update Released",
       "link": "https://store.steampowered.com/news/295555/",
       "resumo": "An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br /><br /><ul style=\"padding-bottom: 0px; margin-bottom: 0px;\"><li>For mod developers: Updated Rubikon<br /></ul>",
@@ -75,15 +66,6 @@
       "imagem": ""
     },
     {
-      "titulo": "GTA 6’s Mandy Actor Reacts To The Online “Weirdos”",
-      "link": "https://www.gamespot.com/articles/gta-6s-mandy-actor-reacts-to-the-online-weirdos/",
-      "resumo": "<p class=\"wp-block-paragraph\">One of the most talked-about characters in <a href=\"https://www.gamespot.com/articles/gta-6-guides-hub-how-to-do-everything-in-grand-theft-auto-6/\">GTA 6</a> outside of Jason and Lucia has been <a href=\"https://www.gamespot.com/articles/can-you-romance-mandy-in-gta-6/\">",
-      "fonte": "GameSpot",
-      "categoria": "Geral",
-      "data": "Wed, 25 Nov 2026 17:06:35 +0000",
-      "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/ec6c97eed96cae40fa93ac3c509f671e-1.jpg?w=300"
-    },
-    {
       "titulo": "PlayStation Plus Monthly Games for December: Tony Hawk’s Pro Skater 3+4, Dragon Ball Xenoverse 2, Amnesia: The Bunker",
       "link": "https://blog.playstation.com/2026/11/25/playstation-plus-monthly-games-for-december-tony-hawks-pro-skater-34-dragon-ball-xenoverse-2-amnesia-the-bunker/",
       "resumo": "Shred rails, fight icons and flee horrors beyond your understanding with the PlayStation Plus Monthly Games for December. Tony Hawk’s Pro Skater 3+4, Dragon Ball Xenoverse 2, and Amnesia: The Bunker will be available to all PlayStation Plus members* from Tuesday, December 1 to Monday January 4.  Let",
@@ -91,6 +73,15 @@
       "categoria": "PlayStation",
       "data": "Wed, 25 Nov 2026 16:30:15 +0000",
       "imagem": ""
+    },
+    {
+      "titulo": "Hollow Knight: Silksong’s First Expansion Details Coming Friday, Here’s How To Watch",
+      "link": "https://www.gamespot.com/articles/hollow-knight-silksongs-first-expansion-details-coming-friday-heres-how-to-watch/",
+      "resumo": "<p class=\"wp-block-paragraph\"><a href=\"https://www.gamespot.com/games/hollow-knight-silksong/\">Hollow Knight: Silksong</a> was such a highly anticipated sequel that it became a meme, so naturally, as soon as it was released, Hollow Knight fans started looking forward to the next big event: the promi",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Wed, 25 Nov 2026 15:27:27 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/original/1752/17528202/4665483-12.silksong.jpg?w=300"
     },
     {
       "titulo": "Achievement Unlocked: An Interview with the First XBOX Player to Reach 10 Million Gamerscore",
@@ -228,24 +219,6 @@
       "imagem": ""
     },
     {
-      "titulo": "Black Friday no Switch: Zelda, Metroid Prime, Resident Evil Requiem e mais jogos para Switch 1 e 2 têm até 54% OFF",
-      "link": "https://br.ign.com/descontos/158000/black-friday-no-switch-zelda-metroid-prime-resident-evil-requiem-e-mais-jogos-para-switch-1-e-2-tem",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/shadow_4bqz.640.png\" vspace=\"5\" width=\"120\" />\nFranquias populares estão com ofertas para quem quer ampliar a biblioteca de jogos ou garantir novidades",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Thu, 26 Nov 2026 23:01:00 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/shadow_4bqz.png"
-    },
-    {
-      "titulo": "Black Friday: monitor LG UltraGear de 27 polegadas e 240 Hz está com R$ 800 de desconto no Pix na Amazon",
-      "link": "https://br.ign.com/descontos/158003/black-friday-monitor-lg-ultragear-de-27-polegadas-e-240-hz-esta-com-r-800-de-desconto-no-pix-na-amaz",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/black-friday-monitor-lg-ultragear-de-27-polegadas-e-240-hz-e_5gcd.640.jpg\" vspace=\"5\" width=\"120\" />\nModelo 27G440A tem compatibilidade com G-Sync e FreeSync Premium, 99% do sRGB e base com ajuste de altura",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Thu, 26 Nov 2026 23:00:40 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/black-friday-monitor-lg-ultragear-de-27-polegadas-e-240-hz-e_5gcd.jpg"
-    },
-    {
       "titulo": "Infinity Nikki Version 3.0 “Of Yesterday and Tomorrow” update live today on PS5",
       "link": "https://blog.playstation.com/2026/11/26/infinity-nikki-version-3-0-of-yesterday-and-tomorrow-update-live-today-on-ps5/",
       "resumo": "Explore two new cities, experience nearly 10 hours of cinematic storytelling, discover new abilities and combat systems, and celebrate Nikki’s Birthday to enjoy 160 draws in total, plus 19 sets of clothes—all free. Today we announced Infinity Nikki Version 3.0, a major update that takes Nikki and Mo",
@@ -253,96 +226,6 @@
       "categoria": "PlayStation",
       "data": "Thu, 26 Nov 2026 21:59:37 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "Black da Amazon com 62% OFF: Monitor portátil é opção para quem precisa de uma tela extra em viagens e no dia a dia",
-      "link": "https://br.ign.com/descontos/158002/black-da-amazon-com-62-off-monitor-portatil-e-opcao-para-quem-precisa-de-uma-tela-extra-em-viagens-e",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/fotojet-2026-11-26t184344029_qj87.640.jpg\" vspace=\"5\" width=\"120\" />\nTela extra de 15,6 polegadas pode facilitar multitarefas, estudos e jogos sem exigir espaço para um monitor tradicional",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Thu, 26 Nov 2026 21:58:41 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/fotojet-2026-11-26t184344029_qj87.jpg"
-    },
-    {
-      "titulo": "Esquenta Black Friday: Nintendo Switch 2 com EA Sports FC 27 está com quase R$ 1.180 de desconto na Amazon",
-      "link": "https://br.ign.com/descontos/158001/esquenta-black-friday-nintendo-switch-2-com-ea-sports-fc-27-esta-com-quase-r-1180-de-desconto-na-ama",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/nintendo-switch-2-com-ea-sports-fc-27-1_ty7a.640.jpg\" vspace=\"5\" width=\"120\" />\nConsole tem tela de 7,9 polegadas em 1080p, Joy-Con 2 magnéticos e GameChat com microfone embutido",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Thu, 26 Nov 2026 20:48:08 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/nintendo-switch-2-com-ea-sports-fc-27-1_ty7a.jpg"
-    },
-    {
-      "titulo": "Nintendo confirma presença na CCXP 26: confira jogos e brindes do estande",
-      "link": "https://br.ign.com/nintendo/157998/nintendo-confirma-presenca-na-ccxp-26-confira-jogos-e-brindes-do-estande",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/n1_pfrd.640.jpg\" vspace=\"5\" width=\"120\" />Evento acontece do dia 3 a 6 de dezembro em São Paulo\n<p>A Nintendo confirmou presença na CCXP 26, evento que acontecerá no São Paulo Expo, em São Paulo, do dia 3 a 6 de ",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Thu, 26 Nov 2026 19:40:06 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/n1_pfrd.jpg"
-    },
-    {
-      "titulo": "Ubisoft Wants Rayman To Become A Huge, Transmedia Star",
-      "link": "https://www.nintendolife.com/news/2026/11/ubisoft-wants-rayman-to-become-a-huge-transmedia-star",
-      "resumo": "<p><strong>Legends Retold is just the beginning.</strong></p><p>Ubisoft is gearing up to launch <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/rayman-legends-retold\">Rayman Legends Retold</a>, a reimagined remake of the <a href=\"https://www.nintendolife.com/games/wiiu/rayman_legends\">",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Thu, 26 Nov 2026 19:00:00 GMT",
-      "imagem": "https://images.nintendolife.com/2176eb7643445/large.jpg"
-    },
-    {
-      "titulo": "LEGO na Black Friday: Sonic, Marvel, Pokémon e Star Wars com até 54% de desconto para montar sua coleção",
-      "link": "https://br.ign.com/descontos/157987/lego-na-black-friday-sonic-marvel-pokemon-e-star-wars-com-ate-54-de-desconto-para-montar-sua-colecao",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/fotojet-2026-11-26t150748667_cu4n.640.jpg\" vspace=\"5\" width=\"120\" />\nOfertas incluem desde montagens compactas inspiradas em Sonic até modelos de Star Wars com mais de mil peças",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Thu, 26 Nov 2026 18:44:04 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/fotojet-2026-11-26t150748667_cu4n.jpg"
-    },
-    {
-      "titulo": "Black Friday: TV TCL de 75 polegadas tem 32% de desconto na Amazon",
-      "link": "https://br.ign.com/descontos/157993/black-friday-tv-tcl-de-75-polegadas-tem-32-de-desconto-na-amazon",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_bnae.640.png\" vspace=\"5\" width=\"120\" />\nCom tela gigante de 75 polegadas, modelo da TCL é uma oportunidade para quem quer aproveitar filmes, séries e jo",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Thu, 26 Nov 2026 18:35:24 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_bnae.png"
-    },
-    {
-      "titulo": "Gallery: Get A Closer Look At Nintendo's Playable Ocarina Of Time",
-      "link": "https://www.nintendolife.com/news/2026/11/gallery-get-a-closer-look-at-nintendos-playable-ocarina-of-time",
-      "resumo": "<p><strong>Give us a tune.</strong></p><p>Just last week, Nintendo announced that the upcoming playable and electric ocarinas, launching in conjunction with <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">Ocarina of Time</a>, will initially be sold on a",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Thu, 26 Nov 2026 18:30:00 GMT",
-      "imagem": "https://images.nintendolife.com/e0787ab453cfb/large.jpg"
-    },
-    {
-      "titulo": "Review: Gamesir Nova Vision Controller For Switch 1 & 2 - Unique Features Elevate This Mid-Range Pad",
-      "link": "https://www.nintendolife.com/reviews/gamesir-nova-vision-controller-for-switch-1-and-2-unique-features-elevate-this-mid-range-pad",
-      "resumo": "<p><strong>What a vision.</strong></p><p>Accessory developer Gamesir doesn’t often make controllers with the Switch 1 and 2 in mind, instead focusing primarily on Xbox and PC. So when it announced the new <strong>Nova Vision</strong>, my Spider-Sense tingled.</p><p>The latest entry in the mid-range ",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Thu, 26 Nov 2026 18:00:00 GMT",
-      "imagem": "https://images.nintendolife.com/637448a224e55/large.jpg"
-    },
-    {
-      "titulo": "Here Are All The Games Coming To Switch eShop This Week (November 26)",
-      "link": "https://www.nintendolife.com/news/2026/11/here-are-all-the-games-coming-to-switch-eshop-this-week-november-26",
-      "resumo": "<p><strong>Wilds, Withered Worlds, Wind Monsters.</strong></p><p>It's time for North America's Nintendo Download Thanksgiving update and our Switch eShop round-up for <strong>November 26th</strong>.</p><p><a href=\"https://www.nintendolife.com/games/nintendo-switch-2/monster-hunter-wilds\">Monster Hun",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Thu, 26 Nov 2026 17:30:00 GMT",
-      "imagem": "https://images.nintendolife.com/e175229a4c0ab/large.jpg"
-    },
-    {
-      "titulo": "Funko Friday! Colecionáveis despencam de preço na Black da Amazon",
-      "link": "https://br.ign.com/descontos/157986/funko-friday-colecionaveis-despencam-de-preco-na-black-da-amazon",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_d4pp.640.png\" vspace=\"5\" width=\"120\" />\nColecionáveis de games, animes, filmes e até do esporte aparecem com descontos para quem quer aumentar a coleção",
-      "fonte": "IGN Brasil",
-      "categoria": "Geral",
-      "data": "Thu, 26 Nov 2026 17:14:18 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_d4pp.png"
     },
     {
       "titulo": "Rockstar Games Has A GTA 6 Hit On Its Hands, But Its Union Vote Is A Loss",
@@ -354,33 +237,6 @@
       "imagem": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-7-4.jpg?w=300"
     },
     {
-      "titulo": "Japanese Charts: No Prizes For Guessing What Has Overtaken Zelda & Switch 2 This Week",
-      "link": "https://www.nintendolife.com/news/2026/11/japanese-charts-no-prizes-for-guessing-what-has-overtaken-zelda-and-switch-2-this-week",
-      "resumo": "<p><strong>Saria, not sorry.</strong></p><p>The latest Japanese charts are in from <a href=\"https://www.famitsu.com/article/202611/95209\">Famitsu</a>, and in perhaps the least surprising debut in recent memory, <a href=\"https://www.pushsquare.com/games/ps5/grand_theft_auto_6\">Grand Theft Auto VI</a>",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Thu, 26 Nov 2026 17:00:00 GMT",
-      "imagem": "https://images.nintendolife.com/5131158a1ac51/large.jpg"
-    },
-    {
-      "titulo": "GTA 6's Physical Launch Has Been An Astronomical Success, Despite No Discs",
-      "link": "https://www.nintendolife.com/news/2026/11/gta-6s-physical-launch-has-been-an-astronomical-success-despite-no-discs",
-      "resumo": "<p><strong>The biggest physical launch since 2019.</strong></p><p>All eyes have been on the launch of <a href=\"https://www.pushsquare.com/games/ps5/grand_theft_auto_6\">GTA 6</a> this month, with the game's so-called physical launch being a particularly interesting litmus test for the future of the i",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Thu, 26 Nov 2026 16:30:00 GMT",
-      "imagem": "https://images.nintendolife.com/38a239861875b/large.jpg"
-    },
-    {
-      "titulo": "Talking Point: Ocarina Of Time Revolutionised The 3D Swordfight, But How Does The Remake Hold Up In A Vintage Year For Clashing Blades?",
-      "link": "https://www.nintendolife.com/features/talking-point-ocarina-of-time-revolutionised-the-3d-swordfight-but-how-does-the-remake-hold-up-in-a-vintage-year-for-clashing-blades",
-      "resumo": "<p><strong>Finding the cutting edge of sword combat.</strong></p><p>Forget the hubbub around <a href=\"https://www.pushsquare.com/games/ps5/grand_theft_auto_6\">Grand Theft Auto</a>. <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/big-walk\">Big Walk</a>? Big deal. It’s all noise designed",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Thu, 26 Nov 2026 16:00:00 GMT",
-      "imagem": "https://images.nintendolife.com/54756797ecfc9/large.jpg"
-    },
-    {
       "titulo": "Free Play Days – Warhammer 40,000: Mechanicus and Little Rocket Lab",
       "link": "https://news.xbox.com/en-us/2026/11/26/free-play-days-11-26-2026/",
       "resumo": "<p>Blast stuff and build big with Free Play Days! Warhammer 40,000: Mechanicus and Little Rocket Lab are available this weekend for XBOX Game Pass Ultimate, Premium and Essential members to play from Thursday, November 26 until Sunday, November 29. How to Start Playing Scroll down and find and insta",
@@ -388,24 +244,6 @@
       "categoria": "Xbox",
       "data": "Thu, 26 Nov 2026 16:00:00 +0000",
       "imagem": ""
-    },
-    {
-      "titulo": "The Witcher 3 Remastered Ver. 5.02 Update Is Now Live, Here Are The Full Patch Notes",
-      "link": "https://www.nintendolife.com/news/2026/11/the-witcher-3-remastered-ver-5-02-update-is-now-live-here-are-the-full-patch-notes",
-      "resumo": "<p><strong>Toss a patch to your Witcher.</strong></p><p>CD Projekt Red is still sending out the patches for <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/witcher-iii-wild-hunt-remastered\">The Witcher III: Wild Hunt - Remastered</a>, and the latest has gone live today.</p><p>The ver. ",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Thu, 26 Nov 2026 15:00:00 GMT",
-      "imagem": "https://images.nintendolife.com/68e0a50601c2b/large.jpg"
-    },
-    {
-      "titulo": "One Of 2025's Best Roguelikes Will Soon Be Free For Switch Online Members",
-      "link": "https://www.nintendolife.com/news/2026/11/one-of-2025s-best-roguelikes-will-soon-be-free-for-switch-online-members",
-      "resumo": "<p><strong>Rogue 'em up until 3rd December.</strong></p><p>Nintendo is back with another Free Game Trial for all of its NSO members in Europe, and it's a real good'un this time.</p><p>Last year's wonderful roguelike, <a href=\"https://www.nintendolife.com/games/nintendo-switch/absolum\">Absolum</a>, i",
-      "fonte": "Nintendo Life",
-      "categoria": "Nintendo",
-      "data": "Thu, 26 Nov 2026 14:30:00 GMT",
-      "imagem": "https://images.nintendolife.com/b5fcb7992a479/large.jpg"
     },
     {
       "titulo": "Lenny Kravitz Brings Bawma, the Pirate King of Aleph in 007 First Light, to HITMAN World of Assassination",
@@ -468,15 +306,6 @@
       "fonte": "Roblox - Anúncios",
       "categoria": "Roblox",
       "data": "Thu, 19 Nov 2026 17:25:10 +0000",
-      "imagem": ""
-    },
-    {
-      "titulo": "Free Play Days – Deadlink, Slayers X: Terminal Aftermath: Vengance of the Slayer, and Polterguys: Possession Party",
-      "link": "https://news.xbox.com/en-us/2026/11/19/free-play-days-11-19-2026/",
-      "resumo": "<p>Drop into some awesomeness with Free Play Days! Deadlink, Slayers X: Terminal Aftermath: Vengance of the Slayer, and Polterguys Possession Party are available this weekend for XBOX Game Pass Ultimate, Premium and Essential members to play from Thursday, November 19 until Sunday, November 22 . How",
-      "fonte": "Xbox Wire",
-      "categoria": "Xbox",
-      "data": "Thu, 19 Nov 2026 16:00:00 +0000",
       "imagem": ""
     },
     {
@@ -606,31 +435,202 @@
       "imagem": ""
     },
     {
-      "titulo": "Splatoon 3 Version 12.0.1 Update Out Now, Here Are The Patch Notes",
-      "link": "https://www.nintendolife.com/news/2026/11/splatoon-3-version-12-0-1-update-out-now-here-are-the-patch-notes",
-      "resumo": "<p><strong>Includes a fix for Anarchy Battle.</strong></p><p>Last week, Nintendo released a major update for its team-based squid-shooter <a href=\"https://www.nintendolife.com/games/nintendo-switch/splatoon_3\">Splatoon 3</a>, bumping the game up to Version 12.0.0.</p><p>It included changes to multip",
+      "titulo": "Expansão gratuita de Hollow Knight: Silksong ganha data de lançamento para dezembro",
+      "link": "https://br.ign.com/hollow-knight-silksong/158032/expansao-gratuita-de-hollow-knight-silksong-ganha-data-de-lancamento-para-dezembro",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/ss-20261127-121746-0000_ya6u.640.jpg\" vspace=\"5\" width=\"120\" />E tem pesca!\n<p>A Team Cherry revelou a data de lançamento para a DLC gratuita de <a href=\"https://br.ign.com/hollow-knight-silksong\" target=\"_blank\"",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 27 Nov 2026 15:25:11 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/ss-20261127-121746-0000_ya6u.jpg"
+    },
+    {
+      "titulo": "Hollow Knight: Silksong - Sea Of Sorrow DLC Finally Has A Release Date",
+      "link": "https://www.nintendolife.com/news/2026/11/hollow-knight-silksong-sea-of-sorrow-dlc-finally-has-a-release-date",
+      "resumo": "<p><strong>The game's first free expansion.</strong></p><p>We had our fingers crossed that Team Cherry might reveal the release date for <a href=\"https://www.nintendolife.com/games/switch-eshop/hollow_knight_silksong\">Hollow Knight: Silksong</a>'s first DLC in <a href=\"https://www.nintendolife.com/n",
       "fonte": "Nintendo Life",
       "categoria": "Nintendo",
-      "data": "Fri, 27 Nov 2026 01:05:00 GMT",
-      "imagem": "https://images.nintendolife.com/44b2b1eff4f0d/large.jpg"
+      "data": "Fri, 27 Nov 2026 15:13:00 GMT",
+      "imagem": "https://images.nintendolife.com/b71d6588f7076/large.jpg"
     },
     {
-      "titulo": "Black Friday: Galaxy S26 FE com carregador de 25W na caixa está com 41% de desconto no Mercado Livre",
-      "link": "https://br.ign.com/descontos/158007/black-friday-galaxy-s26-fe-com-carregador-de-25w-na-caixa-esta-com-41-de-desconto-no-mercado-livre",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/black-friday-galaxy-s26-fe-com-carregador-de-25w-na-caixa-es_eqxk.640.jpg\" vspace=\"5\" width=\"120\" />\nCelular da Samsung traz tela AMOLED de 120 Hz, câmera com zoom óptico de 3x e certificação IP68",
+      "titulo": "Galaxy A57 fica quase pela metade do preço com 48% OFF na loja oficial da Samsung no Mercado Livre",
+      "link": "https://br.ign.com/descontos/158031/galaxy-a57-fica-quase-pela-metade-do-preco-com-48-off-na-loja-oficial-da-samsung-no-mercado-livre",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_psua.640.png\" vspace=\"5\" width=\"120\" />\nLoja oficial da Samsung no Mercado Livre reduz o preço do Galaxy A57 quase pela metade durante a Black Friday.",
       "fonte": "IGN Brasil",
       "categoria": "Geral",
-      "data": "Fri, 27 Nov 2026 00:58:09 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/black-friday-galaxy-s26-fe-com-carregador-de-25w-na-caixa-es_eqxk.jpg"
+      "data": "Fri, 27 Nov 2026 15:01:14 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_psua.png"
     },
     {
-      "titulo": "Seu PC ainda usa HD? 3 SSDs em oferta na Black Friday da Amazon custam a partir de menos de R$ 190",
-      "link": "https://br.ign.com/descontos/158006/seu-pc-ainda-usa-hd-3-ssds-em-oferta-na-black-friday-da-amazon-custam-a-partir-de-menos-de-r-190",
-      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/black-friday-3-ssds-para-tirar-o-pc-da-lentidao-com-ate-36-d_ep2g.640.jpg\" vspace=\"5\" width=\"120\" />\nSeleção reúne modelos SATA de entrada e um NVMe M.2 para quem busca mais velocidade no desktop",
+      "titulo": "“A vida tem sido uma verdadeira loucura nesses últimos dias”: atriz Manni L. Perez, que interpreta Lucia, divulga sua primeira declaração desde o lançamento de GTA 6",
+      "link": "https://br.ign.com/grand-theft-auto-vi/158022/a-vida-tem-sido-uma-verdadeira-loucura-nesses-ultimos-dias-atriz-manni-l-perez-que-interpreta-lucia",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/l/lucia-actr/lucia-actress-manni-l-perez-issues-first-statement-since-gta_cpb4.640.jpg\" vspace=\"5\" width=\"120\" />\n“Eu só quero reservar um momento para agradecer”",
       "fonte": "IGN Brasil",
       "categoria": "Geral",
-      "data": "Fri, 27 Nov 2026 00:30:19 +0000",
-      "imagem": "https://sm.ign.com/ign_br/screenshot/default/black-friday-3-ssds-para-tirar-o-pc-da-lentidao-com-ate-36-d_ep2g.jpg"
+      "data": "Fri, 27 Nov 2026 15:00:28 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/l/lucia-actr/lucia-actress-manni-l-perez-issues-first-statement-since-gta_cpb4.jpg"
+    },
+    {
+      "titulo": "Next Week on XBOX: New Games for November 30 to December 4",
+      "link": "https://news.xbox.com/en-us/2026/11/27/next-week-on-xbox-new-games-for-november-30-to-december-4/",
+      "resumo": "<p>Welcome to Next Week on XBOX! In this weekly feature we cover all the games coming soon to XBOX Series X&#124;S, XBOX One, XBOX on PC, and Game Pass! Get more details on these upcoming games below and click their profiles for further info (release dates subject to change). Let’s jump in! Hela: of",
+      "fonte": "Xbox Wire",
+      "categoria": "Xbox",
+      "data": "Fri, 27 Nov 2026 15:00:00 +0000",
+      "imagem": ""
+    },
+    {
+      "titulo": "Um dos melhores jogos do Switch! Zelda: Tears of the Kingdom aparece com 25% OFF na Black do Mercado Livre",
+      "link": "https://br.ign.com/descontos/158030/um-dos-melhores-jogos-do-switch-zelda-tears-of-the-kingdom-aparece-com-25-off-na-black-do-mercado-li",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/photo/default/legend-of-zelda-tears-of-the-kingdom-1663081213439-167580456_jh11.640.jpg\" vspace=\"5\" width=\"120\" />\nA aventura de Link por Hyrule fica mais acessível com o desconto de 25% na Black Friday do Mercado Livre.",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 27 Nov 2026 14:44:19 +0000",
+      "imagem": "https://sm.ign.com/ign_br/photo/default/legend-of-zelda-tears-of-the-kingdom-1663081213439-167580456_jh11.jpg"
+    },
+    {
+      "titulo": "Watch: Team Cherry's 'Cherry Time!' Special Presentation - Live!",
+      "link": "https://www.nintendolife.com/news/2026/11/watch-team-cherrys-cherry-time-special-presentation-live",
+      "resumo": "<p><strong>Take a dip in the DLSEA.</strong></p><p>Ever one for a surprise, Team Cherry revealed earlier this week that it has a special presentation in store. Well, guess what? 'Cherry Time' is right around the corner.</p><p>The presentation is set to kick off in just a few minutes at <strong>3pm G",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Fri, 27 Nov 2026 14:30:00 GMT",
+      "imagem": "https://images.nintendolife.com/82ee74c5babc4/large.jpg"
+    },
+    {
+      "titulo": "Uma carta de amor aos fãs! LEGO Harry Potter e a Pedra Filosofal aparece com 33% OFF na Black da Amazon",
+      "link": "https://br.ign.com/descontos/158029/uma-carta-de-amor-aos-fas-lego-harry-potter-e-a-pedra-filosofal-aparece-com-33-off-na-black-da-amazo",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_vda3.640.png\" vspace=\"5\" width=\"120\" />\nO conjunto recria momentos marcantes do primeiro filme da saga e é um presente e tanto para quem cresceu acompan",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 27 Nov 2026 14:11:48 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_vda3.png"
+    },
+    {
+      "titulo": "Chefe da Rockstar North sabia que alguns jogadores de GTA 6 “rejeitariam” novos sistemas, como os perfis criminais, mas insiste que “você ainda pode fazer tudo o que queria fazer antes”",
+      "link": "https://br.ign.com/grand-theft-auto-vi/158021/chefe-da-rockstar-north-sabia-que-alguns-jogadores-de-gta-6-rejeitariam-novos-sistemas-como-os-perfi",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/r/rockstar-n/rockstar-north-boss-knew-some-gta-6-players-would-reject-new_yw8j.640.jpg\" vspace=\"5\" width=\"120\" />\n“Eu pensei: ‘Ah, merd*, estamos em apuros’”",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 27 Nov 2026 14:03:21 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/r/rockstar-n/rockstar-north-boss-knew-some-gta-6-players-would-reject-new_yw8j.jpg"
+    },
+    {
+      "titulo": "GTA 6: Parece que Jason e Mandy realmente têm um passado",
+      "link": "https://br.ign.com/grand-theft-auto-vi/158027/gta-6-parece-que-jason-e-mandy-realmente-tem-um-passado",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/news/i/it-turns-o/it-turns-out-jason-might-have-a-history-with-mandy-in-gta-6_hcvh.640.jpg\" vspace=\"5\" width=\"120\" />Jason, você é melhor que isso\n<h4>Atenção! A matéria contém spoilers de GTA 6!</h4> <hr /> <p>Mandy se tornou a pe",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 27 Nov 2026 13:53:21 +0000",
+      "imagem": "https://sm.ign.com/ign_br/news/i/it-turns-o/it-turns-out-jason-might-have-a-history-with-mandy-in-gta-6_hcvh.jpg"
+    },
+    {
+      "titulo": "Sua TV muito mais inteligente! Fire TV Stick HD fica no precinho na Black da Amazon",
+      "link": "https://br.ign.com/descontos/158028/sua-tv-muito-mais-inteligente-fire-tv-stick-hd-fica-no-precinho-na-black-da-amazon",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/download_y5xa.640.jpg\" vspace=\"5\" width=\"120\" />\nO dispositivo da Amazon leva aplicativos de streaming, filmes e séries para sua TV, com instalação simples e controle remoto com Alexa integrada.",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 27 Nov 2026 13:47:30 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/download_y5xa.jpg"
+    },
+    {
+      "titulo": "DualSense Galactic Purple despenca de preço e vira destaque na Black Friday da Amazon",
+      "link": "https://br.ign.com/descontos/158026/dualsense-galactic-purple-despenca-de-preco-e-vira-destaque-na-black-friday-da-amazon",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/screenshot/default/captura-de-tela-2026-11-27-102801_t5m2.640.png\" vspace=\"5\" width=\"120\" />\nO controle sem fio do PS5 está com preço reduzido na Black Friday da Amazon, uma boa oportunidade para quem quer renovar o setup ou garant",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 27 Nov 2026 13:29:48 +0000",
+      "imagem": "https://sm.ign.com/ign_br/screenshot/default/captura-de-tela-2026-11-27-102801_t5m2.png"
+    },
+    {
+      "titulo": "Novo The Legend of Zelda 3D e de mundo aberto ainda está longe de ser lançado, mas deve continuar o que Breath of the Wild e Tears of the Kingdom fizeram tão bem, aponta rumor",
+      "link": "https://br.ign.com/the-legend-of-zelda-breath-of-the-wild/158025/novo-the-legend-of-zelda-3d-e-de-mundo-aberto-ainda-esta-longe-de-ser-lancado-mas-deve-continuar-o-q",
+      "resumo": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_br/shot/r/reviewed-b/reviewed-by-jose-oterobr-march-2-2017br-the-legend-of-zelda_sbyb.640.jpg\" vspace=\"5\" width=\"120\" />Mais detalhes sobre o possível próximo game da franquia\n<p>Após o <a href=\"https://br.ign.com/the-legend-of-zelda-",
+      "fonte": "IGN Brasil",
+      "categoria": "Geral",
+      "data": "Fri, 27 Nov 2026 13:26:28 +0000",
+      "imagem": "https://sm.ign.com/ign_br/shot/r/reviewed-b/reviewed-by-jose-oterobr-march-2-2017br-the-legend-of-zelda_sbyb.jpg"
+    },
+    {
+      "titulo": "Pokémon Winds & Waves Release Date Speculation Rises From Gap In Anime Scheduling",
+      "link": "https://www.nintendolife.com/news/2026/11/pokemon-winds-and-waves-release-date-speculation-rises-from-gap-in-anime-scheduling",
+      "resumo": "<p><strong>Raised eye Browt.</strong></p><p>We know that <a href=\"https://www.nintendolife.com/games/nintendo-switch-2/pokemon-winds-and-waves\">Pokémon Winds and Waves</a> will launch on Switch 2 at some point in <strong>2027</strong>, but that's it. The Pokémon Company is still keeping quiet about ",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Fri, 27 Nov 2026 13:15:00 GMT",
+      "imagem": "https://images.nintendolife.com/7a9407df611f7/large.jpg"
+    },
+    {
+      "titulo": "Rare Co-Founder Tim Stamper Unveils A Treasure Trove Of Conker Dev Material",
+      "link": "https://www.nintendolife.com/news/2026/11/rare-co-founder-tim-stamper-unveils-a-treasure-trove-of-conker-dev-material",
+      "resumo": "<p><strong>Let's dive in.</strong></p><p>Rare co-founder Tim Stamper has begun uploading new videos to his YouTube channel '<a href=\"https://www.youtube.com/@InTimsWorld\">InTimsWorld</a>', the first of which being a deep dive into the development of <a href=\"https://www.nintendolife.com/games/n64/co",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Fri, 27 Nov 2026 12:30:00 GMT",
+      "imagem": "https://images.nintendolife.com/5836417fca9df/large.jpg"
+    },
+    {
+      "titulo": "Doug Bowser 'Apologises' To The \"Haters\" Of His Icky AI-Generated Thanksgiving Post",
+      "link": "https://www.nintendolife.com/news/2026/11/doug-bowser-apologises-to-the-haters-of-his-icky-ai-generated-thanksgiving-post",
+      "resumo": "<p><strong>Bowser's Fury.</strong></p><p>Happy belated Thanksgiving to all of our friends across the pond! As you all wake up to tummies full of turkey, you'll be pleased to see that former Nintendo of America President Doug Bowser has wished everybody a good one, too. The only difference is, he did",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Fri, 27 Nov 2026 11:45:00 GMT",
+      "imagem": "https://images.nintendolife.com/729a6c4580a45/large.jpg"
+    },
+    {
+      "titulo": "Xbox Game Pass Kicks Off December With Horror, Cozy Adventures, And More",
+      "link": "https://www.gamespot.com/articles/xbox-game-pass-kicks-off-december-with-horror-cozy-adventures-and-more/",
+      "resumo": "<p class=\"wp-block-paragraph\">One last month of 2026 brings two more waves of Xbox Game Pass titles to close out the year. Subscribers can once again look forward to some new arrivals in the Xbox Game Pass library, ranging from gruesome co-op action to wholesome adventures featuring helpful mice on ",
+      "fonte": "GameSpot",
+      "categoria": "Geral",
+      "data": "Fri, 27 Nov 2026 10:58:44 +0000",
+      "imagem": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4541297-hela.jpg?w=300"
+    },
+    {
+      "titulo": "Here's A Handful Of The Spiciest Black Friday Switch 2 Deals",
+      "link": "https://www.nintendolife.com/news/2026/11/heres-a-handful-of-the-spiciest-black-friday-switch-2-deals",
+      "resumo": "<p><strong>Updated throughout the day.</strong></p><p>It's Black Friday once more, and retailers the world over are looking to flush their inventory ahead of the holidays.</p><p>There are, however, still a few spicy Switch 2 hardware and game deals peppered in there. So here we'll collect the best U",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Fri, 27 Nov 2026 10:15:00 GMT",
+      "imagem": "https://images.nintendolife.com/66e38e402d7cc/large.jpg"
+    },
+    {
+      "titulo": "Random: Did Dave The Diver Just Tease A GTA 6 Collab? It Seems Unlikely, But Some Fans Are Hopeful",
+      "link": "https://www.nintendolife.com/news/2026/11/random-did-dave-the-diver-just-tease-a-gta-6-collab-it-seems-unlikely-but-some-fans-are-hopeful",
+      "resumo": "<p><strong>Is it a joke or something more?</strong></p><p></p><p>If you didn't already know, <a href=\"https://www.nintendolife.com/games/switch-eshop/dave_the_diver\">Dave The Diver</a> actually has something in common with Rockstar's new open-world title, <a class=\"external\" href=\"https://www.pushsq",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Fri, 27 Nov 2026 06:55:00 GMT",
+      "imagem": "https://images.nintendolife.com/91be8dcea1a07/large.jpg"
+    },
+    {
+      "titulo": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables",
+      "link": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
+      "resumo": "<p><strong>Your companion to a huge adventure.</strong></p><p><strong><a href=\"https://www.nintendolife.com/games/nintendo-switch-2/legend-of-zelda-ocarina-of-time\">Zelda: Ocarina of Time</a></strong> is a dense adventure with many secrets to find, and while the critical path is fairly linear, it's ",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Fri, 27 Nov 2026 06:00:00 GMT",
+      "imagem": "https://images.nintendolife.com/9fa3a2c73d8a6/large.jpg"
+    },
+    {
+      "titulo": "Pokémon Champions X Pokémon GO Collab Taking Place Next Month",
+      "link": "https://www.nintendolife.com/news/2026/11/pokemon-champions-x-pokemon-go-collab-taking-place-next-month",
+      "resumo": "<p><strong>Unlock a special outfit.</strong></p><p></p><p>As you've likely already seen, <a href=\"https://www.nintendolife.com/games/switch-eshop/pokemon_champions\">Pokémon Champions</a> is getting a balance update, more Pokémon and more Mega Evolutions next month on <strong>2nd December 2026</stron",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Fri, 27 Nov 2026 05:35:00 GMT",
+      "imagem": "https://images.nintendolife.com/20a05c2e7714c/large.jpg"
+    },
+    {
+      "titulo": "Jupiter's Picross Series For Switch Has Officially Surpassed One Million Sales",
+      "link": "https://www.nintendolife.com/news/2026/11/jupiters-picross-series-for-switch-has-officially-surpassed-one-million-sales",
+      "resumo": "<p><strong>The first title released on the eShop in 2017.</strong></p><p>If you've ever bought one of Jupiter Corporation's <a href=\"https://www.nintendolife.com/games/switch-eshop/picross_s_konami_antiques_edition\">Picross</a> games on the Switch, you've helped the series reach a major milestone.</",
+      "fonte": "Nintendo Life",
+      "categoria": "Nintendo",
+      "data": "Fri, 27 Nov 2026 04:30:00 GMT",
+      "imagem": "https://images.nintendolife.com/de9b7adb8d052/large.jpg"
     },
     {
       "titulo": "Weekly Recap: November 16–20, 2026",
